@@ -10,9 +10,9 @@ import torch
 
 
 reddit = praw.Reddit(
-    client_id = os.environ["client_id"],
-    client_secret = os.environ["client_secret"],
-    user_agent = os.environ["user_agent"],
+    client_id = os.environ["CLIENT_ID"],
+    client_secret = os.environ["CLIENT_SECRET"],
+    user_agent = os.environ["USER_AGENT"],
 )
 
 subreddit = reddit.subreddit('LivestreamFail')
