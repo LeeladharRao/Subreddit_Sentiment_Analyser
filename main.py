@@ -3,7 +3,7 @@ import praw
 from datetime import date, timedelta
 import pandas as pd 
 import nltk 
-# nltk.download('vader_lexicon')
+nltk.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer 
 from transformers import pipeline
 import torch
