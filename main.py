@@ -12,11 +12,6 @@ import pathlib
 import re
 
 
-# reddit = praw.Reddit(
-#     client_id = os.environ['CLIENT_ID'],
-#     client_secret = os.environ['CLIENT_SECRET'],
-#     user_agent = os.environ['USER_AGENT'],
-# )
 root = pathlib.Path(__file__).parent.resolve()
 logger_path = root / 'log.txt'
 readme_path = root / 'README.md'
@@ -24,9 +19,9 @@ readme_path = root / 'README.md'
 
 def RedditAuth():
     reddit = praw.Reddit(
-        client_id = "l25d3ndl9qFhVZix6vutGg",
-        client_secret = "JfOEiGUGgctmFVwqOg71migU5z6pKw",
-        user_agent = "Sentiment Analysis LSF"
+        client_id = os.environ['CLIENT_ID'],
+        client_secret = os.environ['CLIENT_SECRET'],
+        user_agent = os.environ['USER_AGENT'],
     )
     return reddit
 
@@ -134,7 +129,7 @@ if __name__ == '__main__':
     PandasDisplaySetter()
 
     readme = open(readme_path, encoding="utf8").read()
-    rewritten_entries = replace_writing(readme, 'date_value', pass_date, inline=True)
+    rewritten_entries = replace_writing(readme, 'date_value', pass_date)
     rewritten_entries = replace_writing(rewritten_entries, 'distilibert_per', percentages['distilibert']['percentage'], inline=True)
     rewritten_entries = replace_writing(rewritten_entries, 'distilibert_value', percentages['distilibert']['value'], inline=True)
     rewritten_entries = replace_writing(rewritten_entries, 'nltk_per', percentages['nltk']['percentage'], inline=True)

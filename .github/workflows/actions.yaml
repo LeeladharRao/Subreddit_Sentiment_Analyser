@@ -2,17 +2,13 @@
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
 
 name: Sentiment Analyser
-
 on:
   workflow_dispatch:
   schedule:
     - cron:  '0 9 * * *'
-
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v3
     - name: Set up Python 
@@ -33,7 +29,7 @@ jobs:
     - name: Commit and push if files changed
       run: |
         git diff
-        git config --global user.email "SA-bot@leeladhar.com"
+        git config --global user.email "SA-bot@github.com"
         git config --global user.name "SA-bot"
         git add -A
         git commit -m "Updated contents" || exit 0
