@@ -5,6 +5,8 @@ name: Sentiment Analyser
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron:  '0 9 * * *'
 
 jobs:
   build:
@@ -28,3 +30,11 @@ jobs:
         USER_AGENT: ${{ secrets.USER_AGENT }}
       run: |
         python main.py
+    - name: Commit and push if files changed
+      run: |
+        git diff
+        git config --global user.email "SA-bot@leeladhar.com"
+        git config --global user.name "SA-bot"
+        git add -A
+        git commit -m "Updated contents" || exit 0
+        git push

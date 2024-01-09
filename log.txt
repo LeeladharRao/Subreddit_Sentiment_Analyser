@@ -1,0 +1,64 @@
+<!-- posts starts -->
+                                                                                           title                                                                                         url        date  compound   SA_nltk SA_distilibert
+0                                   GTA RPer accidentally posts obs screenshot on ingame twitter                  https://clips.twitch.tv/CovertConsiderateAmazonKappaPride-8wTZU_gCUITB1kmQ  2024/01/08   -0.3400  NEGATIVE       NEGATIVE
+1                                                                        AV1 is coming to Twitch           https://youtube.com/clip/Ugkx8KGtpdV0nObbwo77G8sNVdAY_LYMfSWE?si=NukSoSC34KbIkiLr  2024/01/08    0.0000  NEGATIVE       NEGATIVE
+2                                                                         average Twitch chatter               https://www.twitch.tv/cc979/clip/CredulousProductiveJayFloof-pcFQAxbOseZfN4Eg  2024/01/08    0.0000  NEGATIVE       NEGATIVE
+3                                                            Godgamer enjoys a nice fanmade game                            https://clips.twitch.tv/CleverBrainySwordM4xHeh-zcOp2zkZ-2spVUUY  2024/01/08    0.7269  POSITIVE       POSITIVE
+4                                                                          Are we going too far?                      https://clips.twitch.tv/SmilingBetterShrewSoonerLater-df_VIOCCCTC7D-Yt  2024/01/08    0.0000  NEGATIVE       NEGATIVE
+5                                                                    Malena hexing Nick's GTA GF                         https://clips.twitch.tv/CrispyProudMushroomVoteYea-3pt99Ddmj0yTN3MR  2024/01/08    0.0000  NEGATIVE       NEGATIVE
+6                                                          Nick and Nora react to their new song                          https://clips.twitch.tv/OriginalAbstruseYamBCouch-OekwUzdpWAdINOAJ  2024/01/08    0.0000  NEGATIVE       POSITIVE
+7                                                                                           Awww                          https://clips.twitch.tv/DiligentSquarePlumOneHand-KdL_oJxj3C1U1Tm-  2024/01/08    0.0000  NEGATIVE       NEGATIVE
+8                                                                  Shroud makes a russian friend                https://clips.twitch.tv/ArborealOutstandingCobraBleedPurple-EgCxpazhYPlwaUGc  2024/01/08    0.4939  POSITIVE       POSITIVE
+9                                                         Streamer finds secret Cyberpunk ending                      https://clips.twitch.tv/TangentialRefinedRabbitMVGame-XIwsg5lkVxXh5Rpv  2024/01/08    0.0000  NEGATIVE       POSITIVE
+10                                                             Coco's swamp ass at a Thai arcade                         https://clips.twitch.tv/SincereBadScallionPoooound-A3HVxUmAkiagsOMN  2024/01/08   -0.5423  NEGATIVE       NEGATIVE
+11                                                            Caedrel lacks critical information                           https://clips.twitch.tv/CoyAstutePheasantOneHand-6vwdEejqu9ALBGDu  2024/01/08   -0.3182  NEGATIVE       NEGATIVE
+12                                                              xQc reacts to Destiny on Jubilee                https://clips.twitch.tv/PreciousBraveSandstormPeteZarollTie-fLxpPPNhLdq2drfQ  2024/01/08    0.0000  NEGATIVE       POSITIVE
+13                                                                               What a bot lmao                       https://clips.twitch.tv/BlazingObliviousDadBrainSlug-YVyTHeWwNS2JVU28  2024/01/08    0.5994  POSITIVE       NEGATIVE
+14                                                                    NASA launches lunar lander                            https://clips.twitch.tv/WildFurryButterTebowing-DJc-j94-dlJE859c  2024/01/08    0.0000  NEGATIVE       POSITIVE
+15                                     Streamer plays Max Payne for the first time and finds out                             https://clips.twitch.tv/CleverAgileFriesWoofer-HHYg8sQ-YqlLKaIt  2024/01/08    0.2500  POSITIVE       POSITIVE
+16                                                             Something just an't right here...                      https://clips.twitch.tv/PlumpRelentlessWrenchTheTarFu-K11GqDWmqher6vpH  2024/01/08    0.0000  NEGATIVE       NEGATIVE
+17                                                    Pro save at the Pinball World Championship                        https://clips.twitch.tv/RoundVainBarracudaTheRinger-TCdJEi5pkd3GylFL  2024/01/08    0.7269  POSITIVE       POSITIVE
+18                                                                   Academy Taser Demonstration          https://clips.twitch.tv/AdorableGlamorousArmadilloAMPEnergyCherry-GrGPjN-WYCPQ7x-Z  2024/01/08    0.1027  NEGATIVE       NEGATIVE
+19                                                                                 Gura is alive           https://youtube.com/clip/UgkxLcKt0BW_oubJgBIoYg86fUuepTwHFIVG?si=2db9wGIaK3qpbcs9  2024/01/08    0.3818  POSITIVE       POSITIVE
+20                                      Cornwood shows the police academy trainees how it's done             https://clips.twitch.tv/EnchantingVivaciousNikudonStinkyCheese-9MJoizrnlxAYLyIL  2024/01/08    0.0000  NEGATIVE       POSITIVE
+21                                                                                     Jean Pole                                   https://kick.com/xqc?clip=clip_01HKKKT6WM1BTZJJHM7H3972Y8  2024/01/08    0.0000  NEGATIVE       POSITIVE
+22                                                 Moistcritical attempts to enlighten mod dilly          https://clips.twitch.tv/PhilanthropicHeadstrongGoshawkTBTacoRight-3-8RSOl6mwtkInAV  2024/01/08    0.5106  POSITIVE       NEGATIVE
+23                                                              Streamer falls down breaks ankle          https://clips.twitch.tv/ModernSuspiciousPonyPeanutButterJellyTime-96l-PUharV6UmhEO  2024/01/08    0.0000  NEGATIVE       NEGATIVE
+24                                                                                   Damn birds.                           https://clips.twitch.tv/YummyDirtyAntKappaWealth-8OCQl2n-XiD4uYjw  2024/01/08   -0.4019  NEGATIVE       POSITIVE
+25                                                                   Willneff almost loses a toe                     https://clips.twitch.tv/NeighborlyEasyAsparagusGivePLZ-4rdLjdn4biEnHKd2  2024/01/08   -0.2516  NEGATIVE       NEGATIVE
+26                                                                      Extra Emily the Director                    https://clips.twitch.tv/BlindingBloodyPuffinBleedPurple-fyQzibL1APsKcpGB  2024/01/08    0.0000  NEGATIVE       POSITIVE
+27                                                        Kai is officially not the GAMER of AMP                   https://clips.twitch.tv/CredulousCuriousSheepSuperVinlin-c62j1odpkKDQe_gD  2024/01/08    0.0000  NEGATIVE       NEGATIVE
+28                               Dude got a little blood on him after cleaning up a murder house                       https://clips.twitch.tv/TolerantCaringSamosaTinyFace-aXTqJiZuPnZisQDs  2024/01/08   -0.6908  NEGATIVE       NEGATIVE
+29                                                        Aris understands the plight of workers                    https://clips.twitch.tv/HelpfulHonorableSamosaThunBeast-cNFOEeBHDS42MI27  2024/01/08    0.0000  NEGATIVE       POSITIVE
+30                                                                                           NO-                      https://clips.twitch.tv/TardyCorrectKleeChocolateRain-2fmXGnMQI1jSiFHK  2024/01/08   -0.2960  NEGATIVE       NEGATIVE
+31                                                                       A wild Emily at Walmart                      https://clips.twitch.tv/LittleDaintyAnteaterNononoCat-n7ODN1oeH4rWu7ay  2024/01/08    0.0000  NEGATIVE       POSITIVE
+32                                                               Jean Paul tries making roadkill                    https://clips.twitch.tv/CarefulAmericanDelicataTinyFace-pjFfnD_JMiAIIqsh  2024/01/08    0.0000  NEGATIVE       NEGATIVE
+33                                                                              xqc goes hunting                    https://clips.twitch.tv/HumbleNimblePterodactylFailFish-Mh66YikT_OEPAzFQ  2024/01/08    0.0000  NEGATIVE       NEGATIVE
+34                                                          xQc - In a world full of problems...                      https://clips.twitch.tv/DeterminedAntsyOcelotEagleEye--5xHECnf9vS9hkDn  2024/01/08    0.0000  NEGATIVE       NEGATIVE
+35                                                                 streamer shakes it in walmart                 https://clips.twitch.tv/NeighborlyVivaciousDragonflySSSsss-rWdesug75ZcM3Wzv  2024/01/08    0.0000  NEGATIVE       POSITIVE
+36                                        Cinna on Supacaitlin being upset at people's reactions                             https://clips.twitch.tv/UglyArbitraryLEDAliens-9aaXYSTIqZVCWhJZ  2024/01/08   -0.3818  NEGATIVE       NEGATIVE
+37  Asmongold says there is a lawsuit about the softgiving situation, and will address it after.                            https://clips.twitch.tv/SpineySillyTeaTheRinger-40Q-S88JVO3O4w3N  2024/01/08   -0.2263  NEGATIVE       POSITIVE
+38                                                                         The Milking commences  https://clips.twitch.tv/ExuberantLitigiousMushroomBabyRage-azmYScq72PgkHfyj?tt_medium=redt  2024/01/08    0.0000  NEGATIVE       NEGATIVE
+39                                                          Malek_04 doing what with her cousin?                      https://clips.twitch.tv/NeighborlyAggressiveLionKeepo-8F6ocF0PWEH8uYqX  2024/01/08    0.0000  NEGATIVE       NEGATIVE
+40                                                        Forsen activates his secret music clip                       https://clips.twitch.tv/ShinyTenuousWolfDeIlluminati-fz7eG5Xy577-Zdc1  2024/01/08    0.0000  NEGATIVE       POSITIVE
+41                           Quin checks the stream of some kids who self promo'd in his channel                        https://clips.twitch.tv/GiftedIgnorantOryxBCWarrior-3AZNx8ohxHeNM89P  2024/01/08    0.0000  NEGATIVE       NEGATIVE
+42                                                                Lydia Violet breaks the camera                    https://clips.twitch.tv/RelentlessPowerfulLadiesPJSugar-sckp00LUDW8g2OZ1  2024/01/08    0.0000  NEGATIVE       NEGATIVE
+43                                                         Asmon's dad talks about Asmon's House                       https://clips.twitch.tv/DreamySnappyPenguinBuddhaBar-FLaPmI2kWYlD6Wjv  2024/01/08    0.0000  NEGATIVE       POSITIVE
+44                                                                   Tinder on Twitch be like...                      https://clips.twitch.tv/GrotesqueRoughChickenOSkomodo-I1d5znmIWFQjv2Er  2024/01/08    0.0000  NEGATIVE       NEGATIVE
+45                                                                                    Two thumbs                              https://kick.com/hyubsama?clip=clip_01HKHEW2MCWW70YH41Y3QZK56H  2024/01/08    0.0000  NEGATIVE       POSITIVE
+46                                                                        Stitch wants breakfast                    https://clips.twitch.tv/ProtectiveExquisiteLettuce4Head-ij8nIFat88BNW1qY  2024/01/08    0.0000  NEGATIVE       POSITIVE
+<!-- posts ends -->
+
+<!-- SA_nltk starts -->
+SA_nltk
+NEGATIVE    40
+POSITIVE     7
+Name: count, dtype: int64
+<!-- SA_nltk ends -->
+
+<!-- SA_distilibert starts -->
+SA_distilibert
+NEGATIVE    26
+POSITIVE    21
+Name: count, dtype: int64
+<!-- SA_distilibert ends -->
