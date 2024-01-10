@@ -18,15 +18,15 @@ According to NLTK, yesterday's posts on LSF were <!-- nltk_per starts -->85<!-- 
 
 I have used the following libraries for this script:
 
-- [PyTorch] - Open Source Machine Learning framework!
-- [NLTK] - built for working with NLP
-- [DistilBERT] - masked language modelling mostly used for text and speach
-- [Reddit API] - set of APIs that got rate limited to hell..
-- [PRAW] - package that allows access to Reddit's API.
-- [Transformers] - provides thousands of pretrained models
-- [Pandas] - duh
-- [Hub] - best Machine Learning and AI Community  
-- [Github Actions] - env to execute pretty much everything using .yaml
+- `PyTorch` - Open Source Machine Learning framework!
+- `NLTK` - built for working with NLP
+- `DistilBERT` - masked language modelling mostly used for text and speach
+- `Reddit API` - set of APIs that got rate limited to hell..
+- `PRAW` - package that allows access to Reddit's API.
+- `Transformers` - provides thousands of pretrained models
+- `Pandas` - duh
+- `Hub` - best Machine Learning and AI Community  
+- `Github Actions` - env to execute pretty much everything using .yaml
 
 ## Get started
 
