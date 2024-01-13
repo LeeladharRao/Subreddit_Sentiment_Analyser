@@ -1,38 +1,41 @@
 <!-- posts starts -->
-                                                                                   title                                                                                        url        date  compound   SA_nltk SA_distilibert
-0                                                 The Human Centipede (Swedish Sequence)                         https://clips.twitch.tv/CrazyShakingAniseDAESuppy-GBDtFkukYaByf7wR  2024/01/11    0.0000  NEGATIVE       POSITIVE
-1                                               ExtraEmily gets called a crackhead again                 https://clips.twitch.tv/GleamingSpotlessNarwhalJonCarnage-64ZE0TudgywkJ3oJ  2024/01/11    0.0000  NEGATIVE       NEGATIVE
-2                                                      Emiru flexes her Kansas education                        https://clips.twitch.tv/SpikyCovertApeCoolStoryBob-9edrZDRmNilJ42qR  2024/01/11    0.0000  NEGATIVE       POSITIVE
-3                                        ExtraEmily uses her car to open a pepper bottle                       https://clips.twitch.tv/SplendidWimpyHornetDansGame-IHw6zXK_Gvi9xwlb  2024/01/11    0.0000  NEGATIVE       NEGATIVE
-4   Hans waves bye to Hikaru after defeating him in Chess Puzzle Championship Qualifiers                     https://clips.twitch.tv/PoliteBoredOysterTBCheesePull-v3BM-njm1Ox0a5f8  2024/01/11    0.0772  NEGATIVE       POSITIVE
-5                                        Viewer sent Jinny a Video Before Cancer Passing                         http://clips.twitch.tv/ClearUnsightlyCodSmoocherZ-IPqNoTlyoizCt1At  2024/01/11   -0.6597  NEGATIVE       NEGATIVE
-6                                                        Swiss streamsniper donates gold        https://www.twitch.tv/cc979/clip/JollyAgreeableCroissantBibleThump-c1I43G5V577MoZCk  2024/01/11    0.0000  NEGATIVE       POSITIVE
-7                                                                           c u in Japan                 https://www.twitch.tv/meowko/clip/LongFrozenBillAMPEnergy-fD9fzTkeugFDUXt8  2024/01/11    0.0000  NEGATIVE       POSITIVE
-8                                   Russia's nomination for replacing the Korean dancers     https://www.twitch.tv/lyasyaa/clip/EnergeticSuccessfulFerretTheRinger-9Yq8TxSv327rJ-Gu  2024/01/11    0.0000  NEGATIVE       POSITIVE
-9                                            Medic runs down survivor with Shelly-mobile                      https://clips.twitch.tv/CreativeEasySharkNotLikeThis-QKtc3QOAx56PNHXs  2024/01/11    0.3612  POSITIVE       NEGATIVE
-10                                      Korean streamer plays YOASOBI - Idol on a violin                        https://clips.twitch.tv/HardRelentlessSkunkSoBayed-4d1AMc87CBnDmuC5  2024/01/11    0.2500  POSITIVE       POSITIVE
-11                                            Connor loses it with voice controlled game                    https://clips.twitch.tv/NimbleCheerfulBaboonBigBrother-fBwwK8Fcx1_-7Qew  2024/01/11   -0.3182  NEGATIVE       NEGATIVE
-12                                       Streamer loving her cat thought her mic was off                          https://clips.twitch.tv/StupidSmellyPandaOSsloth-B93oVBEb5aK8zuW6  2024/01/11    0.5994  POSITIVE       NEGATIVE
-13                                                 Busan Demon puts it in the wrong hole          https://www.twitch.tv/exbc/clip/CourteousMiniatureAppleBCWarrior-Gsp8uysnIn3LL2kF  2024/01/11   -0.4767  NEGATIVE       NEGATIVE
-14                                                                       He will do good    https://clips.twitch.tv/ResilientCorrectMinkMoreCowbell-GGLDKbpBM3yDpiaP?tt_medium=redt  2024/01/11    0.4404  POSITIVE       POSITIVE
-15             AvoidingThePuddle - Aris hears about Lacari's Stay on the Mental Hospital  https://clips.twitch.tv/GlamorousPrettySeahorseTwitchRaid-jXSntj_lmeB4iGX9?tt_medium=redt  2024/01/11    0.0000  NEGATIVE       POSITIVE
-16                                                              xQc has a friend in Chad                                https://kick.com/xqc?clip=clip_01HKRV19FB4H1RB8WNTTK9B6M9?1  2024/01/11    0.4939  POSITIVE       POSITIVE
-17                   Willardson Neffelheim's Hot Sauce Completely Sells Out In 3 Minutes                          https://clips.twitch.tv/ObeseThankfulRatFailFish-hbXTbfWGNpiE-jD_  2024/01/11    0.0000  NEGATIVE       POSITIVE
-18                                                               Deadpool 3 leaked scene                  https://clips.twitch.tv/HumbleApatheticMallardPeteZaroll-jaUx4kK-OCf4icxH  2024/01/11   -0.3182  NEGATIVE       NEGATIVE
-19                                            Tyler1 proves that Erobb221 is his brother                        https://clips.twitch.tv/AwkwardClumsyTurtleDBstyle-lQ_FAOUN9iMu2e_9  2024/01/11    0.0000  NEGATIVE       NEGATIVE
-20                                         Hachubby tells her true feelings about Forsen           https://www.twitch.tv/hachubby/clip/AltruisticBlitheLaptopKippa-tbxn2rYJXFdFMYx2  2024/01/11    0.4215  POSITIVE       POSITIVE
+                                                                                   title                                                                                                        url        date  compound   SA_nltk SA_distilibert
+0                                                      Mizkif supports the use of AI art                                             https://clips.twitch.tv/RudeSpicyDaikonSSSsss-PYM0hKcci5NT9bvB  2024/01/12    0.3612  POSITIVE       POSITIVE
+1                  Amouranth's POV of playing DMCA music and getting banned from NoPixel                                          https://kick.com/amouranth?clip=clip_01HKZJFQFKH110ABZGSZGSTFVC?2  2024/01/12   -0.2960  NEGATIVE       NEGATIVE
+2           After making $60M, Amouranth recommends that others do not start an OnlyFans                                            https://kick.com/amouranth?clip=clip_01HKVA9YPCSMYEWW8Y3AADPCYM  2024/01/12    0.2263  POSITIVE       NEGATIVE
+3                                                                      hostage centipede                                     https://clips.twitch.tv/DrabFaithfulReindeerAllenHuhu-Kj0XAiyt9WKy_4PG  2024/01/12    0.0000  NEGATIVE       NEGATIVE
+4                                         Tyler1 a mixture of Acoustisim ADHD and SCHIZO                              https://clips.twitch.tv/EntertainingJoyousPheasantYouDontSay-LzRecq85XXies-pj  2024/01/12    0.0000  NEGATIVE       NEGATIVE
+5                                  Amouranth plays DMCA music and gets killed in NoPixel                                       https://clips.twitch.tv/MoistTangibleGazelleVoteNay-YWxvPokuGv2wfLyV  2024/01/12   -0.5423  NEGATIVE       NEGATIVE
+6   KaiCenat goes on a rant and screams "god will handle you the right way" to Lil Nas X                                           https://clips.twitch.tv/RichPoliteLampBrokeBack-3YUzB-mNMEpvzV_3  2024/01/12   -0.3612  NEGATIVE       POSITIVE
+7                       Announcing the LSF AMA Series: Starting Saturday, with Mod Dilly  https://www.reddit.com/r/LivestreamFail/comments/1951r86/announcing_the_lsf_ama_series_starting_saturday/  2024/01/12    0.0000  NEGATIVE       POSITIVE
+8                                              NymN with his hyper-stimulating DJ skills                                   https://clips.twitch.tv/AnnoyingResoluteCroquetteDatBoi-gYMEdIAf9g5D89mP  2024/01/12    0.0000  NEGATIVE       POSITIVE
+9                                                                           The Cornflip                                        https://clips.twitch.tv/InventiveWrongAdminPJSugar-zAUXKblZBawSYjJC  2024/01/12    0.0000  NEGATIVE       NEGATIVE
+10                                 Age of Empires Pro Fumbles Tournament Game in Seconds                                        https://clips.twitch.tv/RoughAlertEndivePunchTrees-4O4CgA_Fca_MQKgY  2024/01/12    0.0000  NEGATIVE       NEGATIVE
+11                                                           Forsen can't be brainwashed                                         https://clips.twitch.tv/AlertWiseAnacondaRuleFive-zusACHAnBb_2qRuD  2024/01/12    0.0000  NEGATIVE       POSITIVE
+12                                                             Clint lost twitch partner                                      https://clips.twitch.tv/InspiringFrozenKoupreyDatBoi-UvOYH8yTip-Xe5pM  2024/01/12   -0.3182  NEGATIVE       NEGATIVE
+13                                         Wubby pulling the number he said during intro                                    https://clips.twitch.tv/EnjoyableObliviousPartridgeYee-Y83TDXScdxOHFkGw  2024/01/12    0.0772  NEGATIVE       NEGATIVE
+14                                                                        Chair broke...                                   https://clips.twitch.tv/DelightfulConfidentClipzTakeNRG-cUbL3PTjTiD-1Z3m  2024/01/12    0.0000  NEGATIVE       NEGATIVE
+15                                The new season is really good for tylers mental health                https://clips.twitch.tv/CarefulSmoggyPlumberNerfBlueBlaster-Wgre5qgSGTd0iowP?tt_medium=redt  2024/01/12    0.4927  POSITIVE       POSITIVE
+16                                                                  Great flank until...                                     https://clips.twitch.tv/FilthyStupidGazelleKappaClaus-k4Mn6etpt-eCJnxh  2024/01/12    0.6249  POSITIVE       POSITIVE
+17                                                                           THE MISSILE                                       https://clips.twitch.tv/UglyModernNightingaleNomNom-LdmHx4baPeYt0IJ1  2024/01/12    0.0000  NEGATIVE       POSITIVE
+18                                  Twitch CEO Dan Clancy admits Twitch isn't profitable                                     https://clips.twitch.tv/KitschyModernWaffleJonCarnage-UejrMqu62uyg_dVc  2024/01/12   -0.0531  NEGATIVE       NEGATIVE
+19           Gave my prime sub to a small streamer and he went all out for the thank you                                         https://clips.twitch.tv/FuriousPerfectFishBudStar-7YKId5EzWSGRjct2  2024/01/12    0.3612  POSITIVE       POSITIVE
+20                                                                  Grandpa Beach Wisdom                                   https://clips.twitch.tv/InquisitiveGiftedFishTBTacoLeft-vRgC7dwBa6iRD_l1  2024/01/12    0.5267  POSITIVE       POSITIVE
+21                                                            Raccoon tries to spook cat                                      https://clips.twitch.tv/SarcasticBraveTrollFUNgineer-Wyeqe9WsvyBup_Gi  2024/01/12    0.0000  NEGATIVE       NEGATIVE
+22                                                                   Ludwig calls Atrioc                                          https://www.youtube.com/clip/Ugkx-jKBHJ2uBo-yWCGXCNyCKJyFv-ZNKdrr  2024/01/12    0.0000  NEGATIVE       NEGATIVE
+23                                            Tyler says thank you after a $100 donation                             https://clips.twitch.tv/CourteousAmorphousCarabeefKeyboardCat-khYVrEztPCfcbKXR  2024/01/12    0.3612  POSITIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    15
-POSITIVE     6
+NEGATIVE    17
+POSITIVE     7
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    12
-NEGATIVE     9
+NEGATIVE    13
+POSITIVE    11
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
