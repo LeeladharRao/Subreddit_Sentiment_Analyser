@@ -1,41 +1,56 @@
 <!-- posts starts -->
-                                                                                   title                                                                                                        url        date  compound   SA_nltk SA_distilibert
-0                                                      Mizkif supports the use of AI art                                             https://clips.twitch.tv/RudeSpicyDaikonSSSsss-PYM0hKcci5NT9bvB  2024/01/12    0.3612  POSITIVE       POSITIVE
-1                  Amouranth's POV of playing DMCA music and getting banned from NoPixel                                          https://kick.com/amouranth?clip=clip_01HKZJFQFKH110ABZGSZGSTFVC?2  2024/01/12   -0.2960  NEGATIVE       NEGATIVE
-2           After making $60M, Amouranth recommends that others do not start an OnlyFans                                            https://kick.com/amouranth?clip=clip_01HKVA9YPCSMYEWW8Y3AADPCYM  2024/01/12    0.2263  POSITIVE       NEGATIVE
-3                                                                      hostage centipede                                     https://clips.twitch.tv/DrabFaithfulReindeerAllenHuhu-Kj0XAiyt9WKy_4PG  2024/01/12    0.0000  NEGATIVE       NEGATIVE
-4                                         Tyler1 a mixture of Acoustisim ADHD and SCHIZO                              https://clips.twitch.tv/EntertainingJoyousPheasantYouDontSay-LzRecq85XXies-pj  2024/01/12    0.0000  NEGATIVE       NEGATIVE
-5                                  Amouranth plays DMCA music and gets killed in NoPixel                                       https://clips.twitch.tv/MoistTangibleGazelleVoteNay-YWxvPokuGv2wfLyV  2024/01/12   -0.5423  NEGATIVE       NEGATIVE
-6   KaiCenat goes on a rant and screams "god will handle you the right way" to Lil Nas X                                           https://clips.twitch.tv/RichPoliteLampBrokeBack-3YUzB-mNMEpvzV_3  2024/01/12   -0.3612  NEGATIVE       POSITIVE
-7                       Announcing the LSF AMA Series: Starting Saturday, with Mod Dilly  https://www.reddit.com/r/LivestreamFail/comments/1951r86/announcing_the_lsf_ama_series_starting_saturday/  2024/01/12    0.0000  NEGATIVE       POSITIVE
-8                                              NymN with his hyper-stimulating DJ skills                                   https://clips.twitch.tv/AnnoyingResoluteCroquetteDatBoi-gYMEdIAf9g5D89mP  2024/01/12    0.0000  NEGATIVE       POSITIVE
-9                                                                           The Cornflip                                        https://clips.twitch.tv/InventiveWrongAdminPJSugar-zAUXKblZBawSYjJC  2024/01/12    0.0000  NEGATIVE       NEGATIVE
-10                                 Age of Empires Pro Fumbles Tournament Game in Seconds                                        https://clips.twitch.tv/RoughAlertEndivePunchTrees-4O4CgA_Fca_MQKgY  2024/01/12    0.0000  NEGATIVE       NEGATIVE
-11                                                           Forsen can't be brainwashed                                         https://clips.twitch.tv/AlertWiseAnacondaRuleFive-zusACHAnBb_2qRuD  2024/01/12    0.0000  NEGATIVE       POSITIVE
-12                                                             Clint lost twitch partner                                      https://clips.twitch.tv/InspiringFrozenKoupreyDatBoi-UvOYH8yTip-Xe5pM  2024/01/12   -0.3182  NEGATIVE       NEGATIVE
-13                                         Wubby pulling the number he said during intro                                    https://clips.twitch.tv/EnjoyableObliviousPartridgeYee-Y83TDXScdxOHFkGw  2024/01/12    0.0772  NEGATIVE       NEGATIVE
-14                                                                        Chair broke...                                   https://clips.twitch.tv/DelightfulConfidentClipzTakeNRG-cUbL3PTjTiD-1Z3m  2024/01/12    0.0000  NEGATIVE       NEGATIVE
-15                                The new season is really good for tylers mental health                https://clips.twitch.tv/CarefulSmoggyPlumberNerfBlueBlaster-Wgre5qgSGTd0iowP?tt_medium=redt  2024/01/12    0.4927  POSITIVE       POSITIVE
-16                                                                  Great flank until...                                     https://clips.twitch.tv/FilthyStupidGazelleKappaClaus-k4Mn6etpt-eCJnxh  2024/01/12    0.6249  POSITIVE       POSITIVE
-17                                                                           THE MISSILE                                       https://clips.twitch.tv/UglyModernNightingaleNomNom-LdmHx4baPeYt0IJ1  2024/01/12    0.0000  NEGATIVE       POSITIVE
-18                                  Twitch CEO Dan Clancy admits Twitch isn't profitable                                     https://clips.twitch.tv/KitschyModernWaffleJonCarnage-UejrMqu62uyg_dVc  2024/01/12   -0.0531  NEGATIVE       NEGATIVE
-19           Gave my prime sub to a small streamer and he went all out for the thank you                                         https://clips.twitch.tv/FuriousPerfectFishBudStar-7YKId5EzWSGRjct2  2024/01/12    0.3612  POSITIVE       POSITIVE
-20                                                                  Grandpa Beach Wisdom                                   https://clips.twitch.tv/InquisitiveGiftedFishTBTacoLeft-vRgC7dwBa6iRD_l1  2024/01/12    0.5267  POSITIVE       POSITIVE
-21                                                            Raccoon tries to spook cat                                      https://clips.twitch.tv/SarcasticBraveTrollFUNgineer-Wyeqe9WsvyBup_Gi  2024/01/12    0.0000  NEGATIVE       NEGATIVE
-22                                                                   Ludwig calls Atrioc                                          https://www.youtube.com/clip/Ugkx-jKBHJ2uBo-yWCGXCNyCKJyFv-ZNKdrr  2024/01/12    0.0000  NEGATIVE       NEGATIVE
-23                                            Tyler says thank you after a $100 donation                             https://clips.twitch.tv/CourteousAmorphousCarabeefKeyboardCat-khYVrEztPCfcbKXR  2024/01/12    0.3612  POSITIVE       POSITIVE
+                                                            title                                                                                                          url        date  compound   SA_nltk SA_distilibert
+0   Hachu celebrates a successful first day at the Iron Forge gym                                      https://clips.twitch.tv/BreakableCuteGalagoKevinTurtle-qkwNMUlVFfnvf0km  2024/01/13    0.8176  POSITIVE       POSITIVE
+1                          Hachu promotes Mizkif's and Knut's gym                                    https://clips.twitch.tv/EnchantingNurturingSushiPlanking-9RbTJ1fjVaGYNg7W  2024/01/13    0.3400  POSITIVE       POSITIVE
+2                       forsen gets answered via public transport                                     https://clips.twitch.tv/SteamyColdbloodedTurtlePipeHype-wbzqSnSdtyCLL-qo  2024/01/13    0.0000  NEGATIVE       NEGATIVE
+3                                                   instant karma                                 https://clips.twitch.tv/UninterestedNimbleSushiAMPTropPunch-HiA5KXr_AiI2cfJz  2024/01/13    0.0000  NEGATIVE       POSITIVE
+4                  S1mple retires from competitive Counter Strike                                              https://clips.twitch.tv/RelievedBadElkBabyRage-aNtLi36KWvjI5hJL  2024/01/13    0.0516  NEGATIVE       NEGATIVE
+5                                                    Gravity wins                                      https://clips.twitch.tv/ThankfulMagnificentMagpieLitty-vh4f3lBk9cpDjHpg  2024/01/13    0.5719  POSITIVE       POSITIVE
+6                                  Guess who's back?! Back Again!                                            https://clips.twitch.tv/PowerfulNastyBeefGivePLZ-xUhcNCMB8mRAJjwX  2024/01/13    0.0000  NEGATIVE       NEGATIVE
+7                                      forsen is literally batman                                   https://clips.twitch.tv/ExquisiteInnocentEmuMrDestructoid-N0m_cfD8h_sQnTBR  2024/01/13    0.0000  NEGATIVE       POSITIVE
+8                                          Leave From The Vine...                                      https://clips.twitch.tv/EphemeralCarefulOrangeKreygasm-ALuYScC2K83CAHb8  2024/01/13   -0.0516  NEGATIVE       NEGATIVE
+9                  The best non-winning chess play I've ever seen                                           https://clips.twitch.tv/SolidFitSushiAMPTropPunch-ykdvFxzLM3A42XVG  2024/01/13    0.7650  POSITIVE       POSITIVE
+10                                          Forsen loses the cops                                             https://clips.twitch.tv/WiseMuddyUdonHassanChop-lTmxEBZLzioDbDm_  2024/01/13   -0.3182  NEGATIVE       NEGATIVE
+11                               This game is not even that scary                                              https://clips.twitch.tv/EvilRefinedBeanTriHard-t0PAjw6XoxnfHubc  2024/01/13    0.3875  POSITIVE       NEGATIVE
+12            AMA with Dilly, the Supcaitlin Mod that went Viral.  https://www.reddit.com/r/LivestreamFail/comments/195xv5g/ama_with_dilly_the_supcaitlin_mod_that_went_viral/  2024/01/13    0.0000  NEGATIVE       NEGATIVE
+13                       Nymn releases a mouse back into the wild                                              https://clips.twitch.tv/AntsyPopularGullPJSalt-ndMV1ts1LrR4zZkn  2024/01/13    0.0000  NEGATIVE       POSITIVE
+14                Streamer dieing internally during a long stream                              https://www.twitch.tv/imkongguksu/clip/DeadRelentlessDiscKeepo-wCn7OAKaW-aMbwHU  2024/01/13    0.0000  NEGATIVE       NEGATIVE
+15                                    Nymn and Minus find a mouse                                 https://clips.twitch.tv/TenuousApatheticDonkeyLeeroyJenkins-xuMMga8HOSNQN5Fk  2024/01/13    0.0000  NEGATIVE       NEGATIVE
+16                                          VaN takes a cold bath                                   https://clips.twitch.tv/AmorphousGrotesqueWasabiJKanStyle-tl0YpC4RyLoXEEwI  2024/01/13    0.0000  NEGATIVE       NEGATIVE
+17                     Dylantr0 ponders a very important question                                         https://clips.twitch.tv/SeductiveGentleKeyboardDerp-mug13ds-Sokfo0Yg  2024/01/13    0.2716  POSITIVE       POSITIVE
+18                                          Perfectly timed karma                                           https://clips.twitch.tv/PleasantHardBaconBabyRage-moRLxU_juoi-UK-D  2024/01/13    0.6369  POSITIVE       POSITIVE
+19                             live near -40C without second door                           https://clips.twitch.tv/BelovedPricklyArugula4Head-vfQYqIGB_E55QDR3?tt_medium=redt  2024/01/13    0.0000  NEGATIVE       POSITIVE
+20   Jason sold the PC to the Cops and didn't know it was illegal                                          https://clips.twitch.tv/OpenCheerfulScallionNotATK-wPUihvqCUnd2D1gy  2024/01/13   -0.5574  NEGATIVE       NEGATIVE
+21                                                Daddy's Working                                        https://clips.twitch.tv/ColdbloodedWonderfulBeanDerp-kKeFglaqzHJG-HiW  2024/01/13    0.0000  NEGATIVE       POSITIVE
+22                         Destiny learns some disappointing news                                                https://kick.com/destiny?clip=clip_01HM1ZSF9AS00HN2THW22PYQP1  2024/01/13   -0.4939  NEGATIVE       NEGATIVE
+23                                      what are the odds of this                                          https://clips.twitch.tv/TangentialCorrectRavenMcaT-YT2nCzGB2kIZnHFe  2024/01/13    0.0000  NEGATIVE       NEGATIVE
+24                                               Unfiltered judge                     https://www.twitch.tv/deansocool/clip/GorgeousAltruisticNoodleTheRinger-YjPxPUVJYMg_FwFB  2024/01/13    0.0000  NEGATIVE       NEGATIVE
+25                                  Riot is a small indie company                                    https://clips.twitch.tv/HonorableMiniatureKoupreyOhMyDog-MmshWE7sLU1-3dQI  2024/01/13   -0.5574  NEGATIVE       POSITIVE
+26                                  Car enthusiasts take pictures                               https://clips.twitch.tv/AbstemiousEagerTermiteResidentSleeper-_HdFKsi6CAY61p9d  2024/01/13    0.3400  POSITIVE       POSITIVE
+27                    Charming_Jo turns NewJeans into a folk band                                           https://clips.twitch.tv/RoughTangibleMarrowKlappa-OPcR-uvXilQpImdg  2024/01/13    0.0000  NEGATIVE       POSITIVE
+28                                    90's Nintendo being a troll                                     https://clips.twitch.tv/EnchantingFreezingLlamaBudBlast-pT_AL9ievIK1PQyG  2024/01/13    0.0000  NEGATIVE       NEGATIVE
+29                 Rage reads an erotic fanfic from his community                                               https://kick.com/yourrage?clip=clip_01HKY0WZKZHXS0Q8N13TPEYPYR  2024/01/13   -0.5574  NEGATIVE       POSITIVE
+30                           IreliaCarriesU outplays his opponent                                         https://clips.twitch.tv/CrazyExquisiteOysterPMSTwin-ZlOp8qvqOZtJdOeE  2024/01/13    0.0000  NEGATIVE       POSITIVE
+31                                              Dilly the Dizzler                                https://clips.twitch.tv/ArtsyTrustworthyFlamingoDeIlluminati-S_SSYxpaD2U_YEb3  2024/01/13    0.0000  NEGATIVE       NEGATIVE
+32                              streamer gets walked in on at spa                                       https://clips.twitch.tv/CloudyFastGrasshopperCmonBruh-s2bLnLZpAY0o0JEw  2024/01/13    0.0000  NEGATIVE       NEGATIVE
+33                                       Shroud creates a villain                             https://clips.twitch.tv/TentativeNurturingPheasantChocolateRain-180E4isba6V7vuAb  2024/01/13   -0.3612  NEGATIVE       NEGATIVE
+34    Squeex fails a deez nuts joke - GTA NP RP w/ squeex/lozdogs                        https://clips.twitch.tv/SeductiveSilkyClamArsonNoSexy-j-CgBXCtxZlw1a-Z?tt_medium=redt  2024/01/13    0.0601  NEGATIVE       NEGATIVE
+35                  Crossing guard directs traffic at a busy road                                       https://clips.twitch.tv/DiligentDarlingBurritoCoolCat-vRzMwXvWUgu8-Nh4  2024/01/13    0.0000  NEGATIVE       POSITIVE
+36                                  Dunkey plays a *farming game*                                    https://clips.twitch.tv/WanderingFancyVulturePanicBasket-KxYJnGotpF_UZUzd  2024/01/13    0.2500  POSITIVE       POSITIVE
+37                                                  Classic Erobb                        https://www.twitch.tv/thewhiteowl01/clip/DarkCallousMangetoutVoteYea-hZe6hFf7Hfj9-ad-  2024/01/13    0.0000  NEGATIVE       NEGATIVE
+38      kangjoel gets propositioned on the streets of Los Angeles                                               https://kick.com/kangjoel?clip=clip_01HKYHRMN0VM3BFQ6GASF86QXH  2024/01/13    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    17
-POSITIVE     7
+NEGATIVE    30
+POSITIVE     9
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    13
-POSITIVE    11
+NEGATIVE    21
+POSITIVE    18
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
