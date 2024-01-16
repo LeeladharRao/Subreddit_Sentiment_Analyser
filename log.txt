@@ -1,42 +1,38 @@
 <!-- posts starts -->
-                                                                                                 title                                                                             url        date  compound   SA_nltk SA_distilibert
-0                                                                    Aris has a message to Forsan fans       https://clips.twitch.tv/ArborealHelplessStinkbugRitzMitz-LJtPc74eP9rgiYrX  2024/01/14    0.0000  NEGATIVE       POSITIVE
-1                                                                      AvoidingThePuddle - Indian Food         https://clips.twitch.tv/RealFantasticPheasantBuddhaBar-q0KZyxadkFg8Yu04  2024/01/14    0.0000  NEGATIVE       NEGATIVE
-2                                                                             Destiny criticizes Hasan                   https://kick.com/destiny?clip=clip_01HM2EW6S8G8JKDB7XMMS40FB3  2024/01/14   -0.3400  NEGATIVE       NEGATIVE
-3                                                                       Unlucky connection lost timing        https://clips.twitch.tv/ResourcefulMildParrotYouDontSay-lvcycvLh7FOvipFT  2024/01/14   -0.3182  NEGATIVE       NEGATIVE
-4                                                                                Intense Tekken Moment             https://clips.twitch.tv/HungryAgitatedPotatoMVGame-lwafHvfdSYTAnrUn  2024/01/14    0.0772  NEGATIVE       POSITIVE
-5                                                              in-game switch turns on IRL lights kekl               https://clips.twitch.tv/BlushingHardSwordMingLee-vxbqSrQ-21sGeskZ  2024/01/14    0.0000  NEGATIVE       NEGATIVE
-6                                                         Liriks delivery driver has a little whoopsie  https://clips.twitch.tv/BombasticAuspiciousAsteriskRaccAttack-6rpopgvrNFGIPwZu  2024/01/14    0.0000  NEGATIVE       POSITIVE
-7                                                            Dobby has been freed after 17 long years.        https://clips.twitch.tv/VenomousSingleHornetGingerPower-YkjS4tnnERXb3KG4  2024/01/14    0.4019  POSITIVE       NEGATIVE
-8                                                           Malena finds out about Nick's new relation       https://clips.twitch.tv/SmellyInquisitivePeanutPermaSmug-tQmNP4bzJ8l43TAB  2024/01/14    0.0000  NEGATIVE       POSITIVE
-9                                                        Jason finally asked Nunu to be his Girlfriend         https://clips.twitch.tv/LovelyEnergeticSrirachaSoBayed-vRu13J-dAx8uM6Ks  2024/01/14    0.0000  NEGATIVE       POSITIVE
-10                                                                      average tf2 player interaction          https://clips.twitch.tv/DepressedEagerPotCoolStoryBro-b8JQKdmf-7ZtcxjX  2024/01/14    0.0000  NEGATIVE       POSITIVE
-11                                                                                       Drum trickery              https://clips.twitch.tv/WrongAthleticTapirPMSTwin-x7QYKiTK0SvOva_y  2024/01/14   -0.2732  NEGATIVE       NEGATIVE
-12                                                                            the demons took over him            https://clips.twitch.tv/ArtisticWrongCaribouMingLee--9LwT78FFsSXKGYr  2024/01/14    0.0000  NEGATIVE       POSITIVE
-13                                                                                  Denzel gets caught      https://clips.twitch.tv/RealImpossibleAlfalfaTBCheesePull-jRv5fetGHmtkDjDW  2024/01/14    0.0000  NEGATIVE       POSITIVE
-14                                                                        Denmark's new king and queen                 https://clips.twitch.tv/FineHumbleMagpieSSSsss-k1lai1X89y77rhF7  2024/01/14    0.0000  NEGATIVE       POSITIVE
-15                                            Quin implements a new Twitch feature. Reply = 8 hour ban              https://clips.twitch.tv/TenuousBoredCobraSpicyBoy-sbTncf9DZyBkouaO  2024/01/14   -0.5574  NEGATIVE       NEGATIVE
-16  New org forms to help Koreans stay on Twitch, announces Berry0314 and Ninibae as first two members                   https://twitter.com/NeoParadigmEnt/status/1746180680340345134  2024/01/14    0.4019  POSITIVE       NEGATIVE
-17                                                    Slime admits he is 33 years old to his teammates       https://clips.twitch.tv/NiceVictoriousCaribouMoreCowbell-oyseHQVIbAlyrzhw  2024/01/14    0.2960  POSITIVE       NEGATIVE
-18                                                                When chat attempts rescue operations        https://clips.twitch.tv/ComfortableJollyMangetoutOSfrog-pHQDqAX8sRvcWPGP  2024/01/14    0.5106  POSITIVE       NEGATIVE
-19                                              Wholesome Streamer Finally Makes the Jump After 2 Days                https://clips.twitch.tv/LuckySparklySwordTTours-rQ9NnwPgYDXY706h  2024/01/14    0.0000  NEGATIVE       POSITIVE
-20                                      Ramasquamy gets into emotional drama with his campaign manager         https://clips.twitch.tv/GoldenAgreeableTigerWholeWheat-bjBoind2J7XlVn2Z  2024/01/14    0.1531  NEGATIVE       POSITIVE
-21                                                   Not what you want to during your new $4K PC build           https://clips.twitch.tv/SteamyAnnoyingPhoneAsianGlow-ky6myNLtyIpCRCeY  2024/01/14   -0.0572  NEGATIVE       NEGATIVE
-22                                                                         Why are there bumpers here?       https://clips.twitch.tv/FaintBlatantPelicanChocolateRain-wzbo9B5wXPY5n5QK  2024/01/14    0.0000  NEGATIVE       NEGATIVE
-23                                                Fighter gets knocked out at Adin Ross’s boxing event                  https://kick.com/adinross?clip=clip_01HM2YMB2D5W8R1VZ008CS1YYZ  2024/01/14    0.1531  NEGATIVE       NEGATIVE
-24                                                                   Aris corrects a banned user error                     https://clips.twitch.tv/EagerBoredWebSMOrc-HXHXWBq--Qrkw5jG  2024/01/14   -0.6908  NEGATIVE       NEGATIVE
+                                                                                      title                                                                                             url        date  compound   SA_nltk SA_distilibert
+0                  Streamer Admits To Reporting Keemstar To The IRS For $4500 Bounty Reward                              https://kick.com/sjc_official?clip=clip_01HM7PCXB8B2ERH5VRAQDTX378  2024/01/15    0.7096  POSITIVE       NEGATIVE
+1                                                                         Manatees lounging                       https://clips.twitch.tv/BumblingObservantOysterPicoMause-G5ZUm5CXMHP9ddqO  2024/01/15    0.0000  NEGATIVE       NEGATIVE
+2                                          CathFawr briefly returns after a year in Ukraine                       https://clips.twitch.tv/MiniatureSquareReubenDancingBaby-ZFesJx1KRNJv2RMk  2024/01/15    0.0000  NEGATIVE       POSITIVE
+3                                                                    JP Conquers his demons                           https://clips.twitch.tv/SmellySmoothSproutJonCarnage-4a9m_Kk6GaSLyqju  2024/01/15    0.3680  POSITIVE       POSITIVE
+4                                                                  forsen alerts the guards                               https://clips.twitch.tv/CreativeAbstruseHerdMau5-ScqeYtqynsl9sVtl  2024/01/15    0.0000  NEGATIVE       POSITIVE
+5                                                                   streamer begins to sing                  https://clips.twitch.tv/AttractiveMiniatureMousePhilosoraptor-9mK-OgeXOW_aFm5c  2024/01/15    0.0000  NEGATIVE       POSITIVE
+6                                                               Cyr has a mini heart attack                         https://clips.twitch.tv/DiligentBetterGaurCharlieBitMe-KwLOvJbcAkSSkH-C  2024/01/15   -0.4767  NEGATIVE       NEGATIVE
+7                                      Old man tries to play video games for the first time                                  https://clips.twitch.tv/MoistDeadNigiriSSSsss-XAf6KOYZcinPqhDS  2024/01/15    0.3400  POSITIVE       NEGATIVE
+8                                  Tarik Is Now a Professional Valorant Tournament Observer              https://clips.twitch.tv/UnsightlyInspiringClintmullinsDoritosChip-ZRC1Mt7F9k0u26x0  2024/01/15    0.0000  NEGATIVE       POSITIVE
+9                                                                                 Groceries                          https://clips.twitch.tv/IcyCautiousDumplingsDatSheffy-BPPlW2xGNNLnkETT  2024/01/15    0.0000  NEGATIVE       POSITIVE
+10                                                                    Pokémon Card Unboxing                     https://clips.twitch.tv/OpenGleamingNeanderthalFeelsBadMan-RYthfgPTS7HdgoJQ  2024/01/15    0.0000  NEGATIVE       NEGATIVE
+11                                                                               Yodel King                               https://clips.twitch.tv/JazzyLazySashimiTheTarFu-44TBJ7PWoGmPILYw  2024/01/15    0.0000  NEGATIVE       POSITIVE
+12                                                              Japanese way to stop google  https://www.twitch.tv/ruunachu/clip/SpinelessSpoopyReubenDoggo-z2Pi3rZkBjSAPaCr?tt_medium=redt  2024/01/15   -0.2960  NEGATIVE       NEGATIVE
+13                                                                  defector to North Korea                            https://clips.twitch.tv/ObliqueKnottyAardvarkWoofer-9xxy2D1850LoqCb8  2024/01/15   -0.4404  NEGATIVE       NEGATIVE
+14                                       Vivek finds the math problem solved by the janitor                             https://clips.twitch.tv/MushyRespectfulBatCurseLit-E5s5bJ5vZ8Qa1yfg  2024/01/15   -0.1531  NEGATIVE       POSITIVE
+15                                                               when you give power to xdd                                    https://clips.twitch.tv/SpicyUglyButterMcaT-MKI5R0vgHA-wFhIm  2024/01/15    0.0000  NEGATIVE       POSITIVE
+16  After almost 7 hours, Emily drinks a gallon water..... with a fork: A Mr. Beast Special                            https://clips.twitch.tv/FragileTawdryLocustTheTarFu-BMYE1-ifLUZLqehy  2024/01/15    0.4019  POSITIVE       NEGATIVE
+17                                                            Gordon Ramsay visits Snr Buns                              https://clips.twitch.tv/MildFancyPeanutPeteZaroll-RKvkBuHQ3h41aJYt  2024/01/15    0.0000  NEGATIVE       POSITIVE
+18                   [BG3 Spoilers] WolfheartFPS loses his honor mode run at the final boss                             https://clips.twitch.tv/BitterCogentBearSquadGoals-6O4-ZjH4iZRLUmVv  2024/01/15    0.2263  POSITIVE       NEGATIVE
+19                                          Tyler1 Issues A Challenge To The Dallas Cowboys                              https://clips.twitch.tv/HotPoisedHawkThisIsSparta-oAM0dlQzdZeTlyxv  2024/01/15    0.0772  NEGATIVE       NEGATIVE
+20                                                               Charming Jo and Coomo duet                          https://clips.twitch.tv/SmilingUnusualJamItsBoshyTime-KfachOo0w49vMfbP  2024/01/15    0.5859  POSITIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    21
-POSITIVE     4
+NEGATIVE    15
+POSITIVE     6
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    14
 POSITIVE    11
+NEGATIVE    10
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
