@@ -1,38 +1,44 @@
 <!-- posts starts -->
-                                                                                      title                                                                                             url        date  compound   SA_nltk SA_distilibert
-0                  Streamer Admits To Reporting Keemstar To The IRS For $4500 Bounty Reward                              https://kick.com/sjc_official?clip=clip_01HM7PCXB8B2ERH5VRAQDTX378  2024/01/15    0.7096  POSITIVE       NEGATIVE
-1                                                                         Manatees lounging                       https://clips.twitch.tv/BumblingObservantOysterPicoMause-G5ZUm5CXMHP9ddqO  2024/01/15    0.0000  NEGATIVE       NEGATIVE
-2                                          CathFawr briefly returns after a year in Ukraine                       https://clips.twitch.tv/MiniatureSquareReubenDancingBaby-ZFesJx1KRNJv2RMk  2024/01/15    0.0000  NEGATIVE       POSITIVE
-3                                                                    JP Conquers his demons                           https://clips.twitch.tv/SmellySmoothSproutJonCarnage-4a9m_Kk6GaSLyqju  2024/01/15    0.3680  POSITIVE       POSITIVE
-4                                                                  forsen alerts the guards                               https://clips.twitch.tv/CreativeAbstruseHerdMau5-ScqeYtqynsl9sVtl  2024/01/15    0.0000  NEGATIVE       POSITIVE
-5                                                                   streamer begins to sing                  https://clips.twitch.tv/AttractiveMiniatureMousePhilosoraptor-9mK-OgeXOW_aFm5c  2024/01/15    0.0000  NEGATIVE       POSITIVE
-6                                                               Cyr has a mini heart attack                         https://clips.twitch.tv/DiligentBetterGaurCharlieBitMe-KwLOvJbcAkSSkH-C  2024/01/15   -0.4767  NEGATIVE       NEGATIVE
-7                                      Old man tries to play video games for the first time                                  https://clips.twitch.tv/MoistDeadNigiriSSSsss-XAf6KOYZcinPqhDS  2024/01/15    0.3400  POSITIVE       NEGATIVE
-8                                  Tarik Is Now a Professional Valorant Tournament Observer              https://clips.twitch.tv/UnsightlyInspiringClintmullinsDoritosChip-ZRC1Mt7F9k0u26x0  2024/01/15    0.0000  NEGATIVE       POSITIVE
-9                                                                                 Groceries                          https://clips.twitch.tv/IcyCautiousDumplingsDatSheffy-BPPlW2xGNNLnkETT  2024/01/15    0.0000  NEGATIVE       POSITIVE
-10                                                                    Pokémon Card Unboxing                     https://clips.twitch.tv/OpenGleamingNeanderthalFeelsBadMan-RYthfgPTS7HdgoJQ  2024/01/15    0.0000  NEGATIVE       NEGATIVE
-11                                                                               Yodel King                               https://clips.twitch.tv/JazzyLazySashimiTheTarFu-44TBJ7PWoGmPILYw  2024/01/15    0.0000  NEGATIVE       POSITIVE
-12                                                              Japanese way to stop google  https://www.twitch.tv/ruunachu/clip/SpinelessSpoopyReubenDoggo-z2Pi3rZkBjSAPaCr?tt_medium=redt  2024/01/15   -0.2960  NEGATIVE       NEGATIVE
-13                                                                  defector to North Korea                            https://clips.twitch.tv/ObliqueKnottyAardvarkWoofer-9xxy2D1850LoqCb8  2024/01/15   -0.4404  NEGATIVE       NEGATIVE
-14                                       Vivek finds the math problem solved by the janitor                             https://clips.twitch.tv/MushyRespectfulBatCurseLit-E5s5bJ5vZ8Qa1yfg  2024/01/15   -0.1531  NEGATIVE       POSITIVE
-15                                                               when you give power to xdd                                    https://clips.twitch.tv/SpicyUglyButterMcaT-MKI5R0vgHA-wFhIm  2024/01/15    0.0000  NEGATIVE       POSITIVE
-16  After almost 7 hours, Emily drinks a gallon water..... with a fork: A Mr. Beast Special                            https://clips.twitch.tv/FragileTawdryLocustTheTarFu-BMYE1-ifLUZLqehy  2024/01/15    0.4019  POSITIVE       NEGATIVE
-17                                                            Gordon Ramsay visits Snr Buns                              https://clips.twitch.tv/MildFancyPeanutPeteZaroll-RKvkBuHQ3h41aJYt  2024/01/15    0.0000  NEGATIVE       POSITIVE
-18                   [BG3 Spoilers] WolfheartFPS loses his honor mode run at the final boss                             https://clips.twitch.tv/BitterCogentBearSquadGoals-6O4-ZjH4iZRLUmVv  2024/01/15    0.2263  POSITIVE       NEGATIVE
-19                                          Tyler1 Issues A Challenge To The Dallas Cowboys                              https://clips.twitch.tv/HotPoisedHawkThisIsSparta-oAM0dlQzdZeTlyxv  2024/01/15    0.0772  NEGATIVE       NEGATIVE
-20                                                               Charming Jo and Coomo duet                          https://clips.twitch.tv/SmilingUnusualJamItsBoshyTime-KfachOo0w49vMfbP  2024/01/15    0.5859  POSITIVE       POSITIVE
+                                                                                      title                                                                                                          url        date  compound   SA_nltk SA_distilibert
+0                                                          Average loltyler1 viewer message                                      https://clips.twitch.tv/VibrantInnocentNigiriBCWarrior-9O66zIzrX7Fx0UPV  2024/01/16    0.0000  NEGATIVE       NEGATIVE
+1                                                                 Ask and you shall receive                                        https://clips.twitch.tv/HonestVainCheesecakeTebowing-AhjHWUp2W3Yh-sPu  2024/01/16    0.0000  NEGATIVE       POSITIVE
+2                                                                            -5k for inting                                           https://clips.twitch.tv/ObeseCloudySalmonTheTarFu-7p6orqRN4B1MeUzR  2024/01/16    0.0000  NEGATIVE       NEGATIVE
+3                                                        Snowboard streamer runs into tree!                                       https://clips.twitch.tv/PeacefulEnchantingWrenMingLee-_C-AwGieB48AD-RE  2024/01/16    0.0000  NEGATIVE       POSITIVE
+4                                                                   losing train of thought                                             https://clips.twitch.tv/NaiveAnimatedCheeseWOOP-rP02XYyWnxnQd7eh  2024/01/16   -0.3818  NEGATIVE       NEGATIVE
+5                                      league streamer doesnt reduce APM even if PC crashes                                https://www.twitch.tv/he0901/clip/LightGiftedPistachioOSfrog-Gz0Ml3ugF-M2PSO5  2024/01/16    0.0000  NEGATIVE       NEGATIVE
+6                                                             The future of react streaming                              https://clips.twitch.tv/DelightfulIntelligentGerbilNinjaGrumpy-YA6p59_AvqQSlNi6  2024/01/16    0.0000  NEGATIVE       POSITIVE
+7                        Canniny's leather motorcycle outfit doesn't seem that safe or warm                                        https://clips.twitch.tv/CarefulKawaiiDogeNinjaGrumpy-Kp2dQmdIHPJeHKoM  2024/01/16   -0.1295  NEGATIVE       NEGATIVE
+8                                                                       Bird poops on Jinny                                   https://clips.twitch.tv/AggressiveNimbleWoodcockCorgiDerp-bH-x45WqqZ8fQzTW  2024/01/16    0.0000  NEGATIVE       POSITIVE
+9                                             Hotel California in the middle of snowy Korea                             https://www.twitch.tv/jaystreazy/clip/ResoluteBumblingMilkANELE-eyzS2g2V-nZi011Q  2024/01/16    0.0000  NEGATIVE       POSITIVE
+10                              Streamers IRL setup caughts fire during bowling competition                                          https://clips.twitch.tv/CuteAliveCasetteKappaClaus-rRF4Vhk9wkT1tE1E  2024/01/16   -0.3400  NEGATIVE       NEGATIVE
+11                                           Angle of Shibuya rescues a trapped snowboarder                                            https://clips.twitch.tv/GoodSmoggyCakePunchTrees-XkbU3IhXnFq5eWnF  2024/01/16   -0.2732  NEGATIVE       POSITIVE
+12                                                                              side danger                                            https://www.youtube.com/clip/UgkxHmLqbzv-Ie9FvpQhz7me2MsmECqHafDL  2024/01/16   -0.5267  NEGATIVE       NEGATIVE
+13                                               Least sane dota player's mouse gets hacked                      https://clips.twitch.tv/HonestRespectfulKangarooPMSTwin-vcZ6yXy0mEtYsLye?tt_medium=redt  2024/01/16   -0.4019  NEGATIVE       NEGATIVE
+14                                   Dota2 streamer experiences some technical difficulties                                      https://clips.twitch.tv/TangibleSwissSkunkStinkyCheese-xp3-fg-T0qTHxaQ3  2024/01/16   -0.2960  NEGATIVE       NEGATIVE
+15                                                                   Tyler1 almost slips up                             https://clips.twitch.tv/DignifiedAuspiciousStingrayItsBoshyTime-a_VzAigDcpMuXky7  2024/01/16    0.0000  NEGATIVE       NEGATIVE
+16                                                   Server audition video gets interrupted                       https://www.twitch.tv/roflgator/clip/ExcitedPeppyBubbleteaDoritosChip-h86O6EX8-g31f-dE  2024/01/16   -0.2960  NEGATIVE       NEGATIVE
+17  Softgiving Collected $1.65 Million from Charity Donations in 2022, New Tax Records Show  https://www.jacobwolf.report/p/softgiving-collected-165-million-charity-donations-2022-new-tax-records-show  2024/01/16    0.4215  POSITIVE       NEGATIVE
+18                                              Weegee sets new Super Mario 64 World Record                                       https://clips.twitch.tv/CrackyRespectfulPistachioBIRB-FWvl2KOhrTU2UCsN  2024/01/16    0.5994  POSITIVE       POSITIVE
+19                                         Destiny gets interrupted while discussing incest                                                https://kick.com/destiny?clip=clip_01HM8CRGCS9M2N4RQJXQGC95GA  2024/01/16   -0.2960  NEGATIVE       NEGATIVE
+20                                            Asmongold rages - smacks self with controller                                        https://clips.twitch.tv/CredulousImpartialLouse4Head-mcozszGBJswVPXaZ  2024/01/16   -0.4767  NEGATIVE       NEGATIVE
+21                                                               Destiny wears a cool shirt                                                https://kick.com/destiny?clip=clip_01HM759MTCZ9XFK54MWXN5THDW  2024/01/16    0.3182  POSITIVE       POSITIVE
+22                                                           Just Another Day In Los Santos                         https://clips.twitch.tv/BeautifulJoyousUdonNononoCat-Iix45Xv4LgP7QRbh?tt_medium=redt  2024/01/16    0.0000  NEGATIVE       NEGATIVE
+23                                                                 40 votes for RAMASQUAMY!                                        https://clips.twitch.tv/PlainAcceptableCatTwitchRaid-OJja0RevQYZXeFH9  2024/01/16    0.0000  NEGATIVE       POSITIVE
+24                                                         Cornwood takes out the dinosaurs                                             https://clips.twitch.tv/NastyScaryCobblerTTours-dxUIjoZ8PftyUxx9  2024/01/16    0.0000  NEGATIVE       POSITIVE
+25                                                          Where we dropping? FT. Cornwood                                    https://clips.twitch.tv/SpinelessHeartlessSnakeOMGScoots-tLA67fx4lIZyCQ0z  2024/01/16    0.0000  NEGATIVE       NEGATIVE
+26                                                                  Shirt is missing an "H"                                               https://clips.twitch.tv/GrotesqueVastGoatMcaT-mm9zmhfoegA4xRNG  2024/01/16   -0.2960  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    15
-POSITIVE     6
+NEGATIVE    24
+POSITIVE     3
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    11
-NEGATIVE    10
+NEGATIVE    17
+POSITIVE    10
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
