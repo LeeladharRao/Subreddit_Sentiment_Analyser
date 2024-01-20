@@ -1,37 +1,47 @@
 <!-- posts starts -->
-                                                                                                                             title                                                                                                        url        date  compound   SA_nltk SA_distilibert
-0                                                                                                      Jinny Watches Rocket launch                                           https://clips.twitch.tv/FairObliviousLampTTours-T9XLtnAUs6QmGVnE  2024/01/18    0.0000  NEGATIVE       POSITIVE
-1                                                                                               NASA Grants Permission To Swag Out                                    https://clips.twitch.tv/LightTrappedFennelDeIlluminati-BwJGQOyrCqXMI0MP  2024/01/18    0.2263  POSITIVE       NEGATIVE
-2                                                                                           Hachu rates the best haircut on twitch                                   https://clips.twitch.tv/BloodyCrazyOysterFreakinStinkin-lCt71aS3YMi-XbRW  2024/01/18    0.6369  POSITIVE       POSITIVE
-3                                                                                             OSU Player competes against TTS dono                                 https://clips.twitch.tv/HeadstrongFrigidOpossumPeteZaroll-kLBi8liGKjTtorZG  2024/01/18    0.0000  NEGATIVE       NEGATIVE
-4                                                                                               Ju Wenjun beats Alireza Firouzja!!                       https://clips.twitch.tv/AstuteResoluteChickpeaPeanutButterJellyTime-QlwaOOfivYAWlpWt  2024/01/18    0.0000  NEGATIVE       POSITIVE
-5                                                                         streamer solved math equations to prove she's not stupid                                  https://clips.twitch.tv/TriumphantInspiringStapleSaltBae-L74whDKYIvIZdRgr  2024/01/18    0.5962  POSITIVE       POSITIVE
-6                                                                                               Thebausffs opinion on influencers.                                      https://clips.twitch.tv/OriginalStrongKoupreyBudStar-e6SFQLawv8BM5__9  2024/01/18    0.0000  NEGATIVE       POSITIVE
-7                                                                                      NL goes on a rant about Jerma985 retirement                                           https://clips.twitch.tv/TameCredulousJayVoteYea-n37ri7WC3c17Rrks  2024/01/18   -0.3400  NEGATIVE       NEGATIVE
-8                                                                                            Limmy has some technical difficulties                                     https://clips.twitch.tv/PerfectProtectiveJuiceWutFace-Hr2bCWjy22jT7m_9  2024/01/18   -0.2960  NEGATIVE       NEGATIVE
-9                                                                 incredible saxophonist sneaks in the mario kart lick in his solo                                           https://clips.twitch.tv/BoringSmoggyKuduWutFace-9wOyxfhzZziVaxEU  2024/01/18    0.0000  NEGATIVE       POSITIVE
-10                                                                                                                            nice                                        https://clips.twitch.tv/PoliteGloriousLocustFunRun-3ft6nyROfPycabZV  2024/01/18    0.4215  POSITIVE       POSITIVE
-11                                                                                             Chatbot Raid proves its own product                                   https://clips.twitch.tv/DarkMagnificentShallotThunBeast-bYDaSowadBCm8XcH  2024/01/18    0.0000  NEGATIVE       POSITIVE
-12                                                                                                           prezoh steps on a rat  https://www.twitch.tv/prezoh/clip/SneakyFlirtyOxWTRuck-BT11Yei5JeFp9EdP?filter=clips&range=24hr&sort=time  2024/01/18    0.0000  NEGATIVE       NEGATIVE
-13                                                                                  Japanese hotel room decorated by and for weebs                                 https://clips.twitch.tv/LittleTransparentSandwichEagleEye-Hi8XJpDwh_--bzna  2024/01/18    0.0000  NEGATIVE       POSITIVE
-14                                                                                POE streamer keeps his promise and goes full mao                                     https://clips.twitch.tv/SingleComfortableFennelPJSalt-wBNhItOh2FYyonLt  2024/01/18    0.3182  POSITIVE       POSITIVE
-15                                                                                          Man beats SM64 16-star with a drum set                                    https://clips.twitch.tv/ObservantPowerfulFriseeWutFace-XDgJWggnybfs3mL0  2024/01/18    0.0000  NEGATIVE       POSITIVE
-16  Destiny explains why him streaming with Nick Fuentes or Lauren Southern is different than Hasan interviewing a Yemeni "pirate"                                              https://kick.com/destiny?clip=clip_01HMD4B87H68DNGJHKN0JBJE5G  2024/01/18    0.0000  NEGATIVE       NEGATIVE
-17             Mizkif - Imagine trying to influence people to join your gym, but not greeting them when they enter on opening day.                                    https://clips.twitch.tv/PiliableFrigidSalamanderYouWHY-yHh6d-hJ0Ki41Om6  2024/01/18   -0.2905  NEGATIVE       NEGATIVE
-18                                                                                                      wrong translate to english              https://www.twitch.tv/ruunachu/clip/MoralBumblingOxJonCarnage-274M5YRelPZ6uoFq?tt_medium=redt  2024/01/18   -0.4767  NEGATIVE       NEGATIVE
-19                                                                                      Asmon Gets Schooled on Stream, by his dad.                                         https://clips.twitch.tv/GlutenFreeFamousPuffinWow-bfxXsyr_2Bb4FHgz  2024/01/18    0.0000  NEGATIVE       POSITIVE
+                                                                   title                                                                                      url        date  compound   SA_nltk SA_distilibert
+0                               Destiny explains the bank time traveller                            https://kick.com/destiny?clip=clip_01HMJ1MGRXW24797EN2ANH0Z63  2024/01/19    0.0000  NEGATIVE       POSITIVE
+1                                                      Just Texas things               https://clips.twitch.tv/HilariousBelovedCarabeefPastaThat-LpdedByA3SXYB2_5  2024/01/19    0.0000  NEGATIVE       POSITIVE
+2                                The Ruined King loses faith in humanity            https://clips.twitch.tv/SquareEncouragingPangolinKevinTurtle-ZvujFTRY2Dux2_6d  2024/01/19   -0.3818  NEGATIVE       NEGATIVE
+3              Influencers have arrived at the Iron Forge Gym.... Regret              https://clips.twitch.tv/BlindingRelentlessNarwhalTwitchRPG-yRKhpNJsynOEGq0-  2024/01/19   -0.4215  NEGATIVE       NEGATIVE
+4                                                       "what killed me"                 https://clips.twitch.tv/ProudCharmingPineapplePicoMause-tM36wII7h60f3C9v  2024/01/19   -0.6705  NEGATIVE       NEGATIVE
+5                           Streamer realizes he looks like a anglerfish                       https://clips.twitch.tv/OddBlightedOcelotRuleFive-csXOlYvseuKQvlIn  2024/01/19    0.3612  POSITIVE       NEGATIVE
+6                                            Northernlion is a great dad              https://clips.twitch.tv/DeafFriendlyAsparagusDoubleRainbow-qAM_s82gqU6JtPuK  2024/01/19    0.6249  POSITIVE       POSITIVE
+7                                            Beware of the broccoli head                          https://clips.twitch.tv/ElatedDoubtfulTigerYee-B7DWogZ34ecPuvsJ  2024/01/19    0.0000  NEGATIVE       NEGATIVE
+8                                                   NL goes to the store                    https://clips.twitch.tv/DeterminedThankfulCodCoolCat-RNU1H7nIg11gVCMF  2024/01/19    0.0000  NEGATIVE       NEGATIVE
+9                                      PeachJars has a request for Hachu             https://clips.twitch.tv/StylishComfortableHerbsItsBoshyTime-5bKGI4mcZj4a4b4d  2024/01/19    0.0000  NEGATIVE       NEGATIVE
+10                                     PirateSoftware hears a shiny Pal.                     https://clips.twitch.tv/ResourcefulBusyTurnipPupper-gwdqiZFOequI6_at  2024/01/19    0.0000  NEGATIVE       NEGATIVE
+11                                  The worst perch in Minecraft history                      https://clips.twitch.tv/BombasticHonestHyenaM4xHeh-TJJpmIpMs7dBr0Jt  2024/01/19   -0.6249  NEGATIVE       NEGATIVE
+12               Northernlion explains what's wrong with kids these days              https://clips.twitch.tv/EnchantingCovertSquirrelTwitchRaid--4c3VwLZJKCALnc1  2024/01/19   -0.4767  NEGATIVE       NEGATIVE
+13                                                     The kitty dropped   https://www.twitch.tv/irissiri129/clip/NastyAmorphousFungusTBTacoLeft-G6Xr93HnfxrpAfsA  2024/01/19    0.0000  NEGATIVE       POSITIVE
+14                         Least Intricate Dark Souls Speedrunning Strat             https://clips.twitch.tv/MuddyScrumptiousHamburgerRaccAttack-uu6R8H9FLmwsvIQa  2024/01/19   -0.1139  NEGATIVE       NEGATIVE
+15                                                 Anish steals the Pawn             https://clips.twitch.tv/ShakingBashfulStinkbugPeteZarollTie-i4anG5BPdcEAnIPA  2024/01/19   -0.5106  NEGATIVE       NEGATIVE
+16                               Emily's first impression of Knut vs Now                           https://clips.twitch.tv/DoubtfulOpenHawkKAPOW-MjjAGu9m9qxAozrr  2024/01/19    0.2263  POSITIVE       POSITIVE
+17                                                 relaxing ASMR massage  https://www.twitch.tv/akaonikou1207/clip/AmazingAnnoyingManateeSoBayed-rcTmfO9soro0pYSV  2024/01/19    0.4939  POSITIVE       POSITIVE
+18                                Hachubby finds a Chun-Li skill teacher   https://www.twitch.tv/hachubby/clip/FriendlyCourteousShieldRaccAttack-zm5ZugschLrTpPpY  2024/01/19    0.0000  NEGATIVE       POSITIVE
+19      Man tries to act natural after secretly creep recording on beach      https://www.twitch.tv/ibabyrainbow/clip/HonestPatientApplePoooound-M8y-cQHdmLQNydlT  2024/01/19    0.3612  POSITIVE       NEGATIVE
+20                                     Squeex is comfortable not winning                    https://clips.twitch.tv/TawdryPleasantSashimiPJSugar-60FqDFSpLVAZ9qoV  2024/01/19    0.1341  NEGATIVE       NEGATIVE
+21                                   Summit1g is scavved out of his mind                https://clips.twitch.tv/WealthyBlindingChipmunkAsianGlow-pL0xidI36KnKfqZh  2024/01/19    0.0000  NEGATIVE       NEGATIVE
+22                           Rob will be cycling streaming from his desk                    https://clips.twitch.tv/LovelyResilientSpindlePJSalt-XrKDgP77d5sTnyO8  2024/01/19   -0.5574  NEGATIVE       NEGATIVE
+23                           Train mistakes Pakistan for a city in India                      https://kick.com/trainwreckstv?clip=clip_01HMFGAC7Q898S1VGH2YQNWKKX  2024/01/19   -0.3612  NEGATIVE       NEGATIVE
+24                                 Knut Denies Morgpie The WIFI Password                  https://clips.twitch.tv/SillyEnjoyableCattleBigBrother-YUiwWsDUm0Q9qnSF  2024/01/19   -0.4215  NEGATIVE       NEGATIVE
+25                                 New meta continues to push boundaries            https://clips.twitch.tv/InnocentSuspiciousOctopusHassaanChop-yIXiHv6glYkKgAeQ  2024/01/19    0.0000  NEGATIVE       POSITIVE
+26                                         Jadey true laugh revealed! <3      https://clips.twitch.tv/GrossMoralWaspDoubleRainbow-ycC-TsV-y4gsGDMg?tt_medium=redt  2024/01/19    0.8622  POSITIVE       POSITIVE
+27                                  Hasan on if he would forgive Destiny                https://clips.twitch.tv/DeliciousCrowdedAsparagusOSsloth-PVK-xPry45WMDBVJ  2024/01/19    0.2732  POSITIVE       NEGATIVE
+28  Gym has only been open for 1 day and the owners are already arguing.                 https://clips.twitch.tv/SassyIncredulousGazelleCopyThis-JJ2dhsL4R6NqJFXY  2024/01/19   -0.4588  NEGATIVE       NEGATIVE
+29                                           CS2 RECEIVES A HUGE UPDATE!                   https://clips.twitch.tv/SmilingFreezingMangetoutSMOrc-bOig9NxQNPFasksa  2024/01/19    0.3802  POSITIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    15
-POSITIVE     5
+NEGATIVE    22
+POSITIVE     8
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    12
-NEGATIVE     8
+NEGATIVE    20
+POSITIVE    10
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
