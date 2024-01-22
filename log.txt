@@ -1,42 +1,37 @@
 <!-- posts starts -->
-                                                                                      title                                                                                                                    url        date  compound   SA_nltk SA_distilibert
-0                                                                    turgle times perfectly                                                 https://clips.twitch.tv/HomelyCredulousTapirSwiftRage-dz-2gp1HlIY58CBw  2024/01/20    0.6369  POSITIVE       POSITIVE
-1                               Twitch - Chicago Police Department shuts down Marc Rebillet                                                   https://clips.twitch.tv/FaithfulDignifiedLionDatBoi-iAZAsWw4WAThri2p  2024/01/20    0.0000  NEGATIVE       NEGATIVE
-2       League pro says on live interview, every team gets FISTED by Asian teams in worlds.                                                      https://clips.twitch.tv/CuteEnticingHerringKappa-Ur2ZHuk7oLYKehin  2024/01/20    0.0000  NEGATIVE       NEGATIVE
-3                                                                                  Poor cat                                                https://clips.twitch.tv/AthleticNimbleChowderPastaThat-P4RuT888EQiV9Y8g  2024/01/20   -0.4767  NEGATIVE       NEGATIVE
-4                                                 Dantes's future plans with his girlfriend                                   https://clips.twitch.tv/DeterminedPlainHawkFutureMan-pwrycldinEe4vdxD?tt_medium=redt  2024/01/20    0.0000  NEGATIVE       POSITIVE
-5                                             Zoomer tries drawing the "Cool S" from memory                                                   https://clips.twitch.tv/OnerousBillowingDogPoooound-TX8YoHKVSUP1lVEp  2024/01/20    0.3182  POSITIVE       NEGATIVE
-6                                                           forsen scathingly condemns loli  https://www.twitch.tv/forsen/clip/ConcernedKindDurianDancingBanana-aNKHKRzasUrrwGcr?filter=clips&range=24hr&sort=time  2024/01/20   -0.5106  NEGATIVE       NEGATIVE
-7                                                               M0xyy rizzing up a Stripper                                                  https://clips.twitch.tv/RacyNastyPangolinSuperVinlin-OdfLckKpqE0csGQV  2024/01/20    0.0000  NEGATIVE       NEGATIVE
-8                                                The secret behind m0xyys voice revealed!!!                                  https://clips.twitch.tv/ConfidentDignifiedHummingbirdNerfBlueBlaster-XexsYz9z7f3Qoaf0  2024/01/20    0.0000  NEGATIVE       POSITIVE
-9   Hi, I’m Jacob Wolf, award-winning reporter who broke the Softgiving charity story. AMA!             https://www.reddit.com/r/LivestreamFail/comments/19bf7ni/hi_im_jacob_wolf_awardwinning_reporter_who_broke/  2024/01/20    0.0000  NEGATIVE       POSITIVE
-10                                                      Fandy lifts up tiny korean streamer                                                      https://clips.twitch.tv/NaivePeacefulCrowVoteYea-7l6lvZNCVBZzeTnF  2024/01/20    0.0000  NEGATIVE       POSITIVE
-11                                                             rip psp o7 (skiing incident)                                                     https://clips.twitch.tv/CheerfulGiftedDeerCoolCat-jgOZlBTVas3magpo  2024/01/20    0.0000  NEGATIVE       NEGATIVE
-12                                                  Austin goes live from a Pro-Life Summit                                                 https://clips.twitch.tv/LivelyPreciousLadiesPartyTime-Bii2H8l6i70xfaM5  2024/01/20    0.0000  NEGATIVE       POSITIVE
-13                                                                         Motorcycle dance                                          https://clips.twitch.tv/HandsomeBetterAirGuitarOptimizePrime-U7thP2Kr75P0xrow  2024/01/20    0.0000  NEGATIVE       POSITIVE
-14                                                       LowTierGod admiring the last of us                             https://clips.twitch.tv/EsteemedNaiveSoymilkStoneLightning-TmukHmvj-kGaHPUk?tt_medium=redt  2024/01/20    0.3818  POSITIVE       POSITIVE
-15                                                       Mhyochi shows her new assets BOOBA                                                   https://clips.twitch.tv/RenownedPlausibleOryxWTRuck-E7ebFVersqej3afP  2024/01/20    0.1779  NEGATIVE       POSITIVE
-16                                                          Tyler looking for a duo partner                                                           https://clips.twitch.tv/HotMoistYakTebowing-w9FFHeO-xQDq6jWc  2024/01/20    0.0000  NEGATIVE       NEGATIVE
-17                  Uncover why this aspiring creator chose to kickstart her career in 2024                                                 https://clips.twitch.tv/DaintyBlightedCiderTBTacoLeft-jROX0J3tH8s0IKTJ  2024/01/20    0.0000  NEGATIVE       NEGATIVE
-18                                                                   Erobb does a Keg Stand                                                     https://clips.twitch.tv/KnottyCharmingMoonDogFace-2BVsBdwKowvZJfTX  2024/01/20    0.0000  NEGATIVE       NEGATIVE
-19                                            Emoney gets a little too drunk with the mayor                                                https://clips.twitch.tv/JollyNeighborlyCheesecakeKippa-i0tj28e36fVtPv4K  2024/01/20   -0.2782  NEGATIVE       NEGATIVE
-20                                                       Mayor and Rocky out drinking Erobb                                                    https://clips.twitch.tv/DarkRoughKoalaTBCheesePull-cpK0xqlF3_d-PBak  2024/01/20    0.0000  NEGATIVE       NEGATIVE
-21                                                     Toying with a graphic-design spammer                                                https://clips.twitch.tv/DifficultPerfectPigeonPipeHype-C9q490SMF5v481SD  2024/01/20   -0.4939  NEGATIVE       NEGATIVE
-22                                    All I Need when we get AV1 with Enhanced Broadcasting                                                https://clips.twitch.tv/PiercingCoweringFennelTheThing-IgcDb9efzpVPMID9  2024/01/20    0.0000  NEGATIVE       NEGATIVE
-23                                                                   Jynxzi gets a surprise                                                       https://clips.twitch.tv/DeadZanyNikudonSpicyBoy-MRn88fSmY5jvIDqn  2024/01/20    0.2732  POSITIVE       POSITIVE
-24                                                     Aris is ahead with his gaming strats                                                  https://clips.twitch.tv/SneakyBillowingLorisImGlitch-07QRHHWtx_yMEyTK  2024/01/20    0.0000  NEGATIVE       POSITIVE
+                                                                                                               title                                                                                         url        date  compound   SA_nltk SA_distilibert
+0                                                                Stranger helps Coco to recreate an ig model picture                      https://clips.twitch.tv/FairDeadCrocodileAMPTropPunch-Rh97pawFh5e8KaYr  2024/01/21    0.3818  POSITIVE       POSITIVE
+1                                                                                     Knut gets lifted by a wrestler                       https://clips.twitch.tv/SmilingGoodMonkeyGingerPower-IFmhQX25E3nmje7X  2024/01/21    0.0000  NEGATIVE       POSITIVE
+2                                                                                            Mayor makes Lrobb bleed                 https://clips.twitch.tv/LongIntelligentKoupreyItsBoshyTime-1zZgGeBePon5ALmN  2024/01/21    0.0000  NEGATIVE       NEGATIVE
+3   xQc finds out Hasan's Main Editor cuts in clips of him “reacting” as placeholder when he leaves for the bathroom           https://clips.twitch.tv/GorgeousEndearingWoodcockResidentSleeper-H_yfYThdWjQUjc26  2024/01/21   -0.2960  NEGATIVE       NEGATIVE
+4                                                              cat taking advantage of the streamer turning her back                         https://clips.twitch.tv/PlainAmazonianPidgeonKAPOW-wdxAMeSIYv_qKjoD  2024/01/21    0.2500  POSITIVE       POSITIVE
+5                                                                       TF2 outplaying yourself with your own sentry                             https://clips.twitch.tv/NastySourLeopardAliens-GUw3vyaAutIwCWsu  2024/01/21    0.0000  NEGATIVE       NEGATIVE
+6                         Streamer gets assaulted during IRL stream so he defends himself with a jiu jitsu heel hook                         https://kick.com/theosidelocos?clip=clip_01HMPK694S28TGH5JFHFG5YEST  2024/01/21   -0.5267  NEGATIVE       NEGATIVE
+7                                                                                             Forsen slapping cheese                               https://clips.twitch.tv/ElatedRacyOwlTF2John-j-OGwqbadNHh8aEb  2024/01/21    0.0000  NEGATIVE       NEGATIVE
+8                                                                          Alireza beats World Champion Ding Liren!!                       https://clips.twitch.tv/TriumphantAgileBaconTooSpicy-mlHCFuOaET3CXFEY  2024/01/21    0.6688  POSITIVE       POSITIVE
+9                                                                                          fanfan exposes ExtraEmily                 https://clips.twitch.tv/HeadstrongAmericanCourgetteSaltBae-CgyvB-kCehLy-4xi  2024/01/21   -0.1280  NEGATIVE       POSITIVE
+10                                                                                         knowledgeable taxi driver           https://www.twitch.tv/jinnytty/clip/PoorFunnyCormorantKappaClaus-IcAsvSUDKfnHCsEY  2024/01/21    0.0000  NEGATIVE       POSITIVE
+11                                                                                     Trying to keep the new PC dry  https://www.twitch.tv/waterlynn/clip/HappyEphemeralCrocodileMrDestructoid-LlCsIC_NwXaP7c9s  2024/01/21    0.0000  NEGATIVE       NEGATIVE
+12                                                             Japanese man got rejected but lurks around behind her                   https://clips.twitch.tv/AuspiciousImportantLlamaPipeHype-AggKmkdthzpaCHvn  2024/01/21   -0.5423  NEGATIVE       POSITIVE
+13                                                                           Most satisfying death from above moment                            https://clips.twitch.tv/SavageHorriblePanWTRuck-p3LAMdI5s3HuD9HB  2024/01/21   -0.2228  NEGATIVE       POSITIVE
+14                                                                                                  Asian Emma Stone                      https://clips.twitch.tv/DifficultKathishNoodlePJSugar-5O-PcGkudlvI6qHe  2024/01/21    0.0000  NEGATIVE       POSITIVE
+15                                                                                    Rushboar, what are you doing?!                    https://clips.twitch.tv/FamousCarelessWaterStinkyCheese-QNsJ6aOObXQJ1qBJ  2024/01/21    0.0000  NEGATIVE       NEGATIVE
+16                                                                        streamer calibrates $200 ping pong machine                          https://clips.twitch.tv/PleasantOnerousSwanPJSalt-5O5ltRZ6i507h8J2  2024/01/21    0.0000  NEGATIVE       NEGATIVE
+17                                                                                           Knut exposes ExtraEmily                  https://clips.twitch.tv/AttractiveAnimatedBaconKappaClaus-x6ZA_4514LwPLY6f  2024/01/21   -0.1280  NEGATIVE       NEGATIVE
+18                                                                            Boggles Electrocutes Himself on Stream                             https://kick.com/imboggles?clip=clip_01HMM2B35HBY9WGNZ37W4HV1NT  2024/01/21    0.0000  NEGATIVE       NEGATIVE
+19                                                                                       The New Mayor of Los Santos                https://clips.twitch.tv/HilariousExuberantHabaneroAllenHuhu-8pt173wy6thgMS2V  2024/01/21    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    21
-POSITIVE     4
+NEGATIVE    17
+POSITIVE     3
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    14
-POSITIVE    11
+POSITIVE    10
+NEGATIVE    10
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
