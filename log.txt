@@ -1,37 +1,37 @@
 <!-- posts starts -->
-                                                                                                               title                                                                                         url        date  compound   SA_nltk SA_distilibert
-0                                                                Stranger helps Coco to recreate an ig model picture                      https://clips.twitch.tv/FairDeadCrocodileAMPTropPunch-Rh97pawFh5e8KaYr  2024/01/21    0.3818  POSITIVE       POSITIVE
-1                                                                                     Knut gets lifted by a wrestler                       https://clips.twitch.tv/SmilingGoodMonkeyGingerPower-IFmhQX25E3nmje7X  2024/01/21    0.0000  NEGATIVE       POSITIVE
-2                                                                                            Mayor makes Lrobb bleed                 https://clips.twitch.tv/LongIntelligentKoupreyItsBoshyTime-1zZgGeBePon5ALmN  2024/01/21    0.0000  NEGATIVE       NEGATIVE
-3   xQc finds out Hasan's Main Editor cuts in clips of him “reacting” as placeholder when he leaves for the bathroom           https://clips.twitch.tv/GorgeousEndearingWoodcockResidentSleeper-H_yfYThdWjQUjc26  2024/01/21   -0.2960  NEGATIVE       NEGATIVE
-4                                                              cat taking advantage of the streamer turning her back                         https://clips.twitch.tv/PlainAmazonianPidgeonKAPOW-wdxAMeSIYv_qKjoD  2024/01/21    0.2500  POSITIVE       POSITIVE
-5                                                                       TF2 outplaying yourself with your own sentry                             https://clips.twitch.tv/NastySourLeopardAliens-GUw3vyaAutIwCWsu  2024/01/21    0.0000  NEGATIVE       NEGATIVE
-6                         Streamer gets assaulted during IRL stream so he defends himself with a jiu jitsu heel hook                         https://kick.com/theosidelocos?clip=clip_01HMPK694S28TGH5JFHFG5YEST  2024/01/21   -0.5267  NEGATIVE       NEGATIVE
-7                                                                                             Forsen slapping cheese                               https://clips.twitch.tv/ElatedRacyOwlTF2John-j-OGwqbadNHh8aEb  2024/01/21    0.0000  NEGATIVE       NEGATIVE
-8                                                                          Alireza beats World Champion Ding Liren!!                       https://clips.twitch.tv/TriumphantAgileBaconTooSpicy-mlHCFuOaET3CXFEY  2024/01/21    0.6688  POSITIVE       POSITIVE
-9                                                                                          fanfan exposes ExtraEmily                 https://clips.twitch.tv/HeadstrongAmericanCourgetteSaltBae-CgyvB-kCehLy-4xi  2024/01/21   -0.1280  NEGATIVE       POSITIVE
-10                                                                                         knowledgeable taxi driver           https://www.twitch.tv/jinnytty/clip/PoorFunnyCormorantKappaClaus-IcAsvSUDKfnHCsEY  2024/01/21    0.0000  NEGATIVE       POSITIVE
-11                                                                                     Trying to keep the new PC dry  https://www.twitch.tv/waterlynn/clip/HappyEphemeralCrocodileMrDestructoid-LlCsIC_NwXaP7c9s  2024/01/21    0.0000  NEGATIVE       NEGATIVE
-12                                                             Japanese man got rejected but lurks around behind her                   https://clips.twitch.tv/AuspiciousImportantLlamaPipeHype-AggKmkdthzpaCHvn  2024/01/21   -0.5423  NEGATIVE       POSITIVE
-13                                                                           Most satisfying death from above moment                            https://clips.twitch.tv/SavageHorriblePanWTRuck-p3LAMdI5s3HuD9HB  2024/01/21   -0.2228  NEGATIVE       POSITIVE
-14                                                                                                  Asian Emma Stone                      https://clips.twitch.tv/DifficultKathishNoodlePJSugar-5O-PcGkudlvI6qHe  2024/01/21    0.0000  NEGATIVE       POSITIVE
-15                                                                                    Rushboar, what are you doing?!                    https://clips.twitch.tv/FamousCarelessWaterStinkyCheese-QNsJ6aOObXQJ1qBJ  2024/01/21    0.0000  NEGATIVE       NEGATIVE
-16                                                                        streamer calibrates $200 ping pong machine                          https://clips.twitch.tv/PleasantOnerousSwanPJSalt-5O5ltRZ6i507h8J2  2024/01/21    0.0000  NEGATIVE       NEGATIVE
-17                                                                                           Knut exposes ExtraEmily                  https://clips.twitch.tv/AttractiveAnimatedBaconKappaClaus-x6ZA_4514LwPLY6f  2024/01/21   -0.1280  NEGATIVE       NEGATIVE
-18                                                                            Boggles Electrocutes Himself on Stream                             https://kick.com/imboggles?clip=clip_01HMM2B35HBY9WGNZ37W4HV1NT  2024/01/21    0.0000  NEGATIVE       NEGATIVE
-19                                                                                       The New Mayor of Los Santos                https://clips.twitch.tv/HilariousExuberantHabaneroAllenHuhu-8pt173wy6thgMS2V  2024/01/21    0.0000  NEGATIVE       POSITIVE
+                                                                                                                    title                                                                                                                 url        date  compound   SA_nltk SA_distilibert
+0                                                                               Miz forgot to pay for Ironforge's heating                                              https://clips.twitch.tv/PerfectWanderingCucumberSMOrc-FEJ-EiPpqgPlGbwH  2024/01/22   -0.1027  NEGATIVE       NEGATIVE
+1                                                                                                   Guy walks into a pole                                                   https://clips.twitch.tv/GeniusAmusedTildeHeyGuys-Z-ACACGjcjEsD2AN  2024/01/22    0.0000  NEGATIVE       POSITIVE
+2                                        Xenathewitch cameraman steals old Uber drivers phone and tosses it under his car                                                  https://kick.com/xenathewitch?clip=clip_01HMSBXRWE0AQD2WPX7Z7XRXM4  2024/01/22   -0.5106  NEGATIVE       NEGATIVE
+3                                                                                                                God Mode  https://www.twitch.tv/summit1g/clip/CarefulHumbleCobblerTF2John-X4ogPd6Cye3P3XuR?filter=clips&range=24hr&sort=time  2024/01/22    0.2732  POSITIVE       POSITIVE
+4                                                                                                Lil Bro is flabbergasted                                                     https://clips.twitch.tv/SpineyCuteMooseSaltBae-Dn5qUyAwe3upUFUr  2024/01/22    0.0000  NEGATIVE       NEGATIVE
+5                                                                                         first and last sponsored stream                                              https://clips.twitch.tv/FunBillowingGoosePeoplesChamp-l5bWGGgAgf4dAFOu  2024/01/22    0.0000  NEGATIVE       POSITIVE
+6                                                Aurateur encounters a familiar voice in the newest Prince of Persia game                                              https://clips.twitch.tv/CovertJazzyAmazonRiPepperonis-j2MNPVji96q7qoe7  2024/01/22    0.0000  NEGATIVE       POSITIVE
+7                                                                 Grandma checking cosplay streamer while getting massage                  https://www.twitch.tv/ruunachu/clip/SpineyEnjoyableLEDAMPTropPunch-4ROvQ_xcHkd0HfSE?tt_medium=redt  2024/01/22    0.0000  NEGATIVE       NEGATIVE
+8   "I no longer have the same audience bc you pulled the f*ck Hasan ripcord to many times and you sucked me dry" - Hasan                                           https://clips.twitch.tv/VibrantOutstandingLasagnaOSsloth-ELAIcekpu_sCrehr  2024/01/22   -0.6369  NEGATIVE       NEGATIVE
+9                                                             I've never seen someone so hyped about the Second Punic War                                          https://clips.twitch.tv/CleanMoralVelociraptorHoneyBadger-GSxrnKVvlKvh_iha  2024/01/22   -0.5994  NEGATIVE       NEGATIVE
+10                                                                                        professional explains motorboat                                              https://clips.twitch.tv/DeafLightCasetteMrDestructoid--5UjdV8A3lMw0QA6  2024/01/22    0.0000  NEGATIVE       POSITIVE
+11                                                                                         Gigi and the old man kazoo duo                                                      https://clips.twitch.tv/FrigidOilyLardDogFace-VTQRjG4A8GIngUvN  2024/01/22    0.0000  NEGATIVE       POSITIVE
+12                                                                                                 Sanest German Streamer                                             https://clips.twitch.tv/AstutePlacidFloofChocolateRain-hQIp-IjVLSDIjv29  2024/01/22    0.0000  NEGATIVE       POSITIVE
+13                                                                                                        She can fix him                                                    https://clips.twitch.tv/FilthyTenderOrcaVoteYea-L5U8FIiOvIBVF_UI  2024/01/22    0.0000  NEGATIVE       NEGATIVE
+14                                                                                  Most scuffed setup to stream DS games                                                    https://clips.twitch.tv/NiceCreativeHorseDatBoi-mlelPQuFGfeJBouk  2024/01/22    0.0000  NEGATIVE       NEGATIVE
+15                                                              Paymoneywubby comments on Hasan's Houthi pirate interview                                                    https://clips.twitch.tv/AstuteSnappyLemurUnSane-OgrAAeZevZg6K6xU  2024/01/22    0.0000  NEGATIVE       NEGATIVE
+16                                                                      Why Wubby doesn't call out hate comments anymore.                                     https://clips.twitch.tv/IntelligentObservantBubbleteaAsianGlow-Ejz1ZcZ2vX7LE-qJ  2024/01/22    0.4585  POSITIVE       POSITIVE
+17                                                                                                Erobb gets owned by Miz                                         https://clips.twitch.tv/EnergeticDaintyCakeResidentSleeper-djIhMHkjoYGmF_1-  2024/01/22    0.0000  NEGATIVE       NEGATIVE
+18                                                 Burn | Johnny Silverhand has a mission should you choose to accept it.                                                 https://clips.twitch.tv/PrettyShinyWolverineBCouch-IYtM01Jddzrm3SLK  2024/01/22    0.3818  POSITIVE       POSITIVE
+19                                                                                 Miz and Erobb get owned by state champ                                                      https://clips.twitch.tv/DirtyTacitJamPogChamp-xubLSl5hkDXXRZbh  2024/01/22    0.4767  POSITIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    17
-POSITIVE     3
+NEGATIVE    16
+POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    10
-NEGATIVE    10
+NEGATIVE    11
+POSITIVE     9
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
