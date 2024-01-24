@@ -1,37 +1,34 @@
 <!-- posts starts -->
-                                                                                                                    title                                                                                                                 url        date  compound   SA_nltk SA_distilibert
-0                                                                               Miz forgot to pay for Ironforge's heating                                              https://clips.twitch.tv/PerfectWanderingCucumberSMOrc-FEJ-EiPpqgPlGbwH  2024/01/22   -0.1027  NEGATIVE       NEGATIVE
-1                                                                                                   Guy walks into a pole                                                   https://clips.twitch.tv/GeniusAmusedTildeHeyGuys-Z-ACACGjcjEsD2AN  2024/01/22    0.0000  NEGATIVE       POSITIVE
-2                                        Xenathewitch cameraman steals old Uber drivers phone and tosses it under his car                                                  https://kick.com/xenathewitch?clip=clip_01HMSBXRWE0AQD2WPX7Z7XRXM4  2024/01/22   -0.5106  NEGATIVE       NEGATIVE
-3                                                                                                                God Mode  https://www.twitch.tv/summit1g/clip/CarefulHumbleCobblerTF2John-X4ogPd6Cye3P3XuR?filter=clips&range=24hr&sort=time  2024/01/22    0.2732  POSITIVE       POSITIVE
-4                                                                                                Lil Bro is flabbergasted                                                     https://clips.twitch.tv/SpineyCuteMooseSaltBae-Dn5qUyAwe3upUFUr  2024/01/22    0.0000  NEGATIVE       NEGATIVE
-5                                                                                         first and last sponsored stream                                              https://clips.twitch.tv/FunBillowingGoosePeoplesChamp-l5bWGGgAgf4dAFOu  2024/01/22    0.0000  NEGATIVE       POSITIVE
-6                                                Aurateur encounters a familiar voice in the newest Prince of Persia game                                              https://clips.twitch.tv/CovertJazzyAmazonRiPepperonis-j2MNPVji96q7qoe7  2024/01/22    0.0000  NEGATIVE       POSITIVE
-7                                                                 Grandma checking cosplay streamer while getting massage                  https://www.twitch.tv/ruunachu/clip/SpineyEnjoyableLEDAMPTropPunch-4ROvQ_xcHkd0HfSE?tt_medium=redt  2024/01/22    0.0000  NEGATIVE       NEGATIVE
-8   "I no longer have the same audience bc you pulled the f*ck Hasan ripcord to many times and you sucked me dry" - Hasan                                           https://clips.twitch.tv/VibrantOutstandingLasagnaOSsloth-ELAIcekpu_sCrehr  2024/01/22   -0.6369  NEGATIVE       NEGATIVE
-9                                                             I've never seen someone so hyped about the Second Punic War                                          https://clips.twitch.tv/CleanMoralVelociraptorHoneyBadger-GSxrnKVvlKvh_iha  2024/01/22   -0.5994  NEGATIVE       NEGATIVE
-10                                                                                        professional explains motorboat                                              https://clips.twitch.tv/DeafLightCasetteMrDestructoid--5UjdV8A3lMw0QA6  2024/01/22    0.0000  NEGATIVE       POSITIVE
-11                                                                                         Gigi and the old man kazoo duo                                                      https://clips.twitch.tv/FrigidOilyLardDogFace-VTQRjG4A8GIngUvN  2024/01/22    0.0000  NEGATIVE       POSITIVE
-12                                                                                                 Sanest German Streamer                                             https://clips.twitch.tv/AstutePlacidFloofChocolateRain-hQIp-IjVLSDIjv29  2024/01/22    0.0000  NEGATIVE       POSITIVE
-13                                                                                                        She can fix him                                                    https://clips.twitch.tv/FilthyTenderOrcaVoteYea-L5U8FIiOvIBVF_UI  2024/01/22    0.0000  NEGATIVE       NEGATIVE
-14                                                                                  Most scuffed setup to stream DS games                                                    https://clips.twitch.tv/NiceCreativeHorseDatBoi-mlelPQuFGfeJBouk  2024/01/22    0.0000  NEGATIVE       NEGATIVE
-15                                                              Paymoneywubby comments on Hasan's Houthi pirate interview                                                    https://clips.twitch.tv/AstuteSnappyLemurUnSane-OgrAAeZevZg6K6xU  2024/01/22    0.0000  NEGATIVE       NEGATIVE
-16                                                                      Why Wubby doesn't call out hate comments anymore.                                     https://clips.twitch.tv/IntelligentObservantBubbleteaAsianGlow-Ejz1ZcZ2vX7LE-qJ  2024/01/22    0.4585  POSITIVE       POSITIVE
-17                                                                                                Erobb gets owned by Miz                                         https://clips.twitch.tv/EnergeticDaintyCakeResidentSleeper-djIhMHkjoYGmF_1-  2024/01/22    0.0000  NEGATIVE       NEGATIVE
-18                                                 Burn | Johnny Silverhand has a mission should you choose to accept it.                                                 https://clips.twitch.tv/PrettyShinyWolverineBCouch-IYtM01Jddzrm3SLK  2024/01/22    0.3818  POSITIVE       POSITIVE
-19                                                                                 Miz and Erobb get owned by state champ                                                      https://clips.twitch.tv/DirtyTacitJamPogChamp-xubLSl5hkDXXRZbh  2024/01/22    0.4767  POSITIVE       NEGATIVE
+                                                                         title                                                                                                                                 url        date  compound   SA_nltk SA_distilibert
+0                                                    Knut torturing poor Emily                                                                https://clips.twitch.tv/ConfidentLuckyLobsterWoofer-73w_kfljn63qOKF7  2024/01/23   -0.7964  NEGATIVE       NEGATIVE
+1                                                         Cupid has your heart                                                                 https://clips.twitch.tv/ExcitedSteamyYakCclamChamp-3UJU7tgXUSlJKua6  2024/01/23    0.0000  NEGATIVE       POSITIVE
+2                                                   Marc finds his new protégé                                                       https://clips.twitch.tv/AdventurousCrunchyPicklesBleedPurple-8wupoibgetHf3Hco  2024/01/23    0.0000  NEGATIVE       POSITIVE
+3                                             Hachu approves Knut's dump truck                                                               https://clips.twitch.tv/SpeedyPolishedTarsierMingLee-oSvWqLX8fXxFBfrH  2024/01/23    0.0258  NEGATIVE       POSITIVE
+4                                Pokimane going off on a viewer about gambling                                                             https://clips.twitch.tv/SpinelessWrongEagleSuperVinlin-Lu-0_tvWo5rR4DlJ  2024/01/23    0.0000  NEGATIVE       NEGATIVE
+5                                                Streamer Fights His Mother...                                                          https://clips.twitch.tv/CuteIgnorantHedgehogChocolateRain-Pi9KGZ6ZuuG05wpY  2024/01/23   -0.4019  NEGATIVE       NEGATIVE
+6                            ohnePixel does not like when women talk confirmed                                                              https://clips.twitch.tv/AbnegateBrainySoymilkRuleFive-BBIYRa9tx5RT73W8  2024/01/23   -0.2755  NEGATIVE       NEGATIVE
+7                                       forsen reacts to pdf material (not 2d)                                                      https://www.twitch.tv/forsen/clip/EvilLongCormorantWholeWheat-RxRuZzKVo0j-wY_7  2024/01/23    0.0000  NEGATIVE       NEGATIVE
+8                                                           Android Hate Crime                                                            https://clips.twitch.tv/PolishedCloudyLasagnaRaccAttack-Nj6bXlg7d3RQjQ6K  2024/01/23   -0.8020  NEGATIVE       NEGATIVE
+9                                                      Forsen and Horses Aware                                                                  https://clips.twitch.tv/HotTrustworthySushiTTours-CnES4oxcpdmpnMrH  2024/01/23    0.0000  NEGATIVE       POSITIVE
+10                                          Baker makes the cutest little guys                                                 https://www.twitch.tv/kungfukaity/clip/AthleticOilyPancakeTebowing-7IdZlF1lslIE487A  2024/01/23    0.5859  POSITIVE       POSITIVE
+11              Streamer creates a subjective, interactive version of Jeopardy  https://www.twitch.tv/everythingnowshow/clip/ResourcefulObedientTurnipAsianGlow-L6SJcqrI57jMJN6Y?filter=clips&range=24hr&sort=time  2024/01/23   -0.2500  NEGATIVE       POSITIVE
+12  Kpop singer Siyeon sings her song in Charming Jo's studio (QWER - Discord)                                                          https://clips.twitch.tv/InnocentCredulousStarlingImGlitch-dcyydpCZtSnFb4jq  2024/01/23    0.5859  POSITIVE       POSITIVE
+13                                                  "Can't wait for the choke"                                                           https://clips.twitch.tv/GenerousVenomousKumquatPastaThat-c_d8osRW9aIds1FZ  2024/01/23   -0.5423  NEGATIVE       NEGATIVE
+14                               Eric Lamont Robbins, illiterate animal abuser                                                               https://clips.twitch.tv/SassyBreakableWrenBloodTrail-tQjbw2abbABufwQx  2024/01/23   -0.5574  NEGATIVE       NEGATIVE
+15                                           Destiny's show goes off the rails                                                                       https://kick.com/destiny?clip=clip_01HMSSBEV6T722V7ZAVMVSXAN9  2024/01/23    0.0000  NEGATIVE       NEGATIVE
+16                 Iron Forge Gym's MMA team gets its first Championship Title                                                            https://clips.twitch.tv/RenownedBlushingChipmunkHeyGirl-jxv1nUj3WXZuvb8t  2024/01/23    0.4404  POSITIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    16
-POSITIVE     4
+NEGATIVE    14
+POSITIVE     3
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    11
-POSITIVE     9
+NEGATIVE    9
+POSITIVE    8
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
