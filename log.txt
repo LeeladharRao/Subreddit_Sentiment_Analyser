@@ -1,43 +1,41 @@
 <!-- posts starts -->
-                                                                   title                                                                                  url        date  compound   SA_nltk SA_distilibert
-0                           NFL player checks his madden score on stream            https://clips.twitch.tv/AverageSullenOpossumPeoplesChamp-TSimeaAx5Ge7kMER  2024/01/25    0.0000  NEGATIVE       NEGATIVE
-1                            Eveuh Experiences Earthquake Live on Stream        https://www.twitch.tv/eveuh/clip/OutstandingBoxyOilTheRinger-GS-If3rVpskm8itq  2024/01/25    0.0000  NEGATIVE       POSITIVE
-2                       Quin dies in HC Palworld and finds a new pokemon                      https://clips.twitch.tv/CloudyVastKleeSpicyBoy-yKpdkY2C_es6GdVa  2024/01/25    0.0000  NEGATIVE       POSITIVE
-3                                   The greatest King Roar from Tekken 8                        https://clips.twitch.tv/BadCalmEagleTheThing-ewErYKtfRPkNP35g  2024/01/25    0.6369  POSITIVE       POSITIVE
-4                                  Asian Emma Stone tries the milk dance                   https://clips.twitch.tv/StrangeEvilChoughOSkomodo-LVsD2S-GNZqYr0e3  2024/01/25    0.0000  NEGATIVE       POSITIVE
-5                                         Elajjaz reveals his true voice            https://clips.twitch.tv/TransparentClearPoultrySeemsGood-u_mVm1yRB-gIrKAB  2024/01/25    0.4215  POSITIVE       POSITIVE
-6                                                       Tyler1 restarted              https://clips.twitch.tv/FantasticLovelyCarabeefOneHand-dJ5VEEU5yYYiR-CQ  2024/01/25    0.0000  NEGATIVE       POSITIVE
-7                                    Destiny sees the other side of Kick                        https://kick.com/destiny?clip=clip_01HN0WXV2KJF7XG5HR0R6M72VE  2024/01/25    0.0000  NEGATIVE       POSITIVE
-8   MAXIMILIAN_DOOD finds out he's not the oldest at the Streamer Awards                 https://clips.twitch.tv/IronicSpineyOctopusTebowing-BmQEXUYbxvPFUNa-  2024/01/25    0.4588  POSITIVE       NEGATIVE
-9                                    psp finds himself on chinese TikTok                   https://clips.twitch.tv/GiftedAuspiciousAniseMau5-rCiIsZ3djAvAUOAC  2024/01/25    0.0000  NEGATIVE       POSITIVE
-10                                         Crazy cat lady feeds her cats              https://clips.twitch.tv/FriendlyOriginalNarwhalVoteNay-cngubXE14wkPgQev  2024/01/25   -0.3400  NEGATIVE       POSITIVE
-11                                                                 Kappa                 https://clips.twitch.tv/RacyRespectfulWitchFrankerZ-zCYuCvkQjbwQmk8Q  2024/01/25    0.0000  NEGATIVE       POSITIVE
-12                                                             Good Luck        https://clips.twitch.tv/ArbitraryCuriousEagleResidentSleeper-gVCnBgdCQdvMQTDp  2024/01/25    0.7096  POSITIVE       POSITIVE
-13                              NL follows a couple of pokemon fans on X                 https://clips.twitch.tv/PreciousCleverTomatoPMSTwin-dyZr1eDhVXVkq1MT  2024/01/25    0.0000  NEGATIVE       POSITIVE
-14                                       Jinny gets stuck again! zipline   https://www.twitch.tv/jinnytty/clip/RichThankfulWerewolfAllenHuhu-4faMBY7HfTEDyOhC  2024/01/25   -0.3164  NEGATIVE       NEGATIVE
-15                                          Tony the Tiger's biggest fan               https://clips.twitch.tv/LachrymoseUglySkirretPipeHype-rNENdQ_OjNAEdx4B  2024/01/25    0.3182  POSITIVE       POSITIVE
-16                                Hachu got the dead but forgot the lift             https://clips.twitch.tv/PreciousAttractiveOrcaPartyTime-0ij0JjMeR8EInUGa  2024/01/25   -0.3919  NEGATIVE       NEGATIVE
-17   twitch streamer tries to put out fire by applying paper towel to it  https://www.twitch.tv/yoshimyan/clip/GoldenZanyDogeResidentSleeper-1QZkJOOhzIQCn5uG  2024/01/25   -0.3400  NEGATIVE       NEGATIVE
-18                                     A closer look at a chinese street              https://clips.twitch.tv/ApatheticAffluentLadiesPJSugar-C9hGD93cyD5H9ITd  2024/01/25    0.0000  NEGATIVE       POSITIVE
-19                         xQc reacts to Pokimane talking about gambling                            https://kick.com/xqc?clip=clip_01HMZK3BP5BSPEND59HP4M807B  2024/01/25    0.0000  NEGATIVE       NEGATIVE
-20                               Hidden Gem nominee cannot name 69 women                   https://clips.twitch.tv/PunchyDarkBillBleedPurple-IEQJMvi3yTiFkONY  2024/01/25    0.0000  NEGATIVE       NEGATIVE
-21                                      Knut gets a tour of Emily's room             https://clips.twitch.tv/TenuousAmericanYakChocolateRain-Y3-JPV0s71AJklVo  2024/01/25    0.0000  NEGATIVE       POSITIVE
-22          Knut stops on the highway to help push a car out of the road           https://clips.twitch.tv/BitterAmericanAntelopeDancingBaby-SqNrU0yylBPip707  2024/01/25    0.2732  POSITIVE       NEGATIVE
-23                                            NL asks Chiblee a question         https://clips.twitch.tv/LittleConfidentMosquitoPeoplesChamp-j3ZbyDVPe0m243_4  2024/01/25    0.0000  NEGATIVE       NEGATIVE
-24                     Tyler1's enemy insults him at the end of the game                     https://clips.twitch.tv/SpookyToughOysterOpieOP-sN7dC_HBFis9D79c  2024/01/25   -0.7430  NEGATIVE       NEGATIVE
-25                                                  Squeex has COVID aim            https://clips.twitch.tv/DirtyResilientEggplantHassanChop-iauYX1Uj5NzUQxPH  2024/01/25    0.0000  NEGATIVE       NEGATIVE
+                                                                                                              title                                                                                                      url        date  compound   SA_nltk SA_distilibert
+0                                                                               The cringe to Northernlion pipeline                                  https://clips.twitch.tv/PleasantComfortableTitanSSSsss-CweClDbCwmvUTyac  2024/01/26    0.0000  NEGATIVE       NEGATIVE
+1                                                                               Hikaru calls IShowSpeed "IShowMeat"                                           https://kick.com/gmhikaru?clip=clip_01HN3JHYCAT5YQNSY44X4C7V7S  2024/01/26    0.0000  NEGATIVE       NEGATIVE
+2                                                                                                  Kaya is HUGE now                                           https://clips.twitch.tv/AmusedBigKittenTTours-W8uPN_uf9fj5HXBE  2024/01/26    0.4648  POSITIVE       POSITIVE
+3                                                        NL visits Alveus and gets to play Jackbox with an elephant                                           https://clips.twitch.tv/AgitatedWisePoxVoHiYo-ZcTYkVq1LHiUQoec  2024/01/26    0.3400  POSITIVE       POSITIVE
+4                                                                           Chinchilla trained to create a LSF post                                 https://clips.twitch.tv/HelplessSlipperyCamelRaccAttack-9g3-HT0FMaLEqx6c  2024/01/26    0.2732  POSITIVE       POSITIVE
+5                                                                                                       Best aim NA                              https://clips.twitch.tv/TrappedSparklySpaghettiShazBotstix-GyvFKehna0PLn59h  2024/01/26    0.6369  POSITIVE       POSITIVE
+6                                                                                                       poor cat #2                                  https://clips.twitch.tv/PlayfulSpineyWallabyBloodTrail-uUw3TE4i3oeJn5MZ  2024/01/26   -0.4767  NEGATIVE       NEGATIVE
+7                                                                                                      Classic dono                              https://clips.twitch.tv/GloriousSpotlessSrirachaSquadGoals-tyXFdPDDT6vZf8pR  2024/01/26    0.0000  NEGATIVE       POSITIVE
+8                                                                    Forsen chokes in Tekken 8 (real voice WutFace)                                       https://clips.twitch.tv/PlainHappyGnatKevinTurtle-j5WMFy_LmqROCDCc  2024/01/26   -0.4588  NEGATIVE       NEGATIVE
+9                                                                                                 Maya pranks Hasan                                     https://clips.twitch.tv/DeafAmericanGoblinOMGScoots-bnfygBKVewkax0hs  2024/01/26    0.0000  NEGATIVE       NEGATIVE
+10                                                                TF2 player voices opinion on CS "lack of content"                             https://www.twitch.tv/dorozea/clip/ModernHealthyPoxFailFish-b1eq35-9KaMD2DQe  2024/01/26   -0.3182  NEGATIVE       NEGATIVE
+11                                                                                                  Lirik is a weeb                            https://clips.twitch.tv/TransparentResourcefulTildeDatSheffy-6_xvG0a8BVNQu4m3  2024/01/26    0.0000  NEGATIVE       NEGATIVE
+12  Hi, I’m Cecilia D’Anastasio, the Bloomberg gaming reporter who’s broken some of the biggest Twitch stories. AMA  https://www.reddit.com/r/LivestreamFail/comments/1abondd/hi_im_cecilia_danastasio_the_bloomberg_gaming/  2024/01/26   -0.4767  NEGATIVE       NEGATIVE
+13                                                                                                 Aris on Palworld             https://www.twitch.tv/avoidingthepuddle/clip/EnticingPlausiblePancakeVoHiYo-PBdRl04TC0vK5FV8  2024/01/26    0.0000  NEGATIVE       POSITIVE
+14                                                                                       china living in the future                              https://www.twitch.tv/waterlynn/clip/HotZanyLaptopPoooound-anOSC-H7KUlhD2mv  2024/01/26    0.0000  NEGATIVE       POSITIVE
+15                                                                                                        Free Soup                                   https://clips.twitch.tv/ScaryManlyOysterLeeroyJenkins-RJ293cmiYD9-pdOz  2024/01/26    0.5106  POSITIVE       POSITIVE
+16                                                                                         Zoil Runs On A Treadmill                                       https://clips.twitch.tv/AstuteBelovedSalsifyFloof-w0hyXFGCEOA8La35  2024/01/26    0.0000  NEGATIVE       NEGATIVE
+17                                                                                            Summit's Great Timing                                  https://clips.twitch.tv/ToughReliableMeatloafShadyLulu-1P7MXSqSlHJts2sX  2024/01/26    0.6249  POSITIVE       POSITIVE
+18                                                             Adin Ross and Vitaly chase down an alleged pedophile                                           https://kick.com/adinross?clip=clip_01HN1NEHAHR19MNVTNQDWF2KJW  2024/01/26    0.0000  NEGATIVE       NEGATIVE
+19                                        Atrioc changes his mind about Destiny after actually watching his content                                          https://clips.twitch.tv/CalmRockyVanillaUnSane-F8vdCTDqFdr9q8mJ  2024/01/26    0.0000  NEGATIVE       NEGATIVE
+20                                                       Xqc compares overtly toxic with covertly toxic communities                                                https://kick.com/xqc?clip=clip_01HN1V0BBNTTYWEPW0D6VYA4QZ  2024/01/26    0.0000  NEGATIVE       NEGATIVE
+21                                                                                 Aris roasting TheMainManSWE fans                                    https://clips.twitch.tv/AthleticManlySkunkJonCarnage-LKzCYQtNG9tWAC4u  2024/01/26    0.0000  NEGATIVE       POSITIVE
+22                                                                           Aris gets asked why he streams in 720p                                https://clips.twitch.tv/BloodyInquisitivePartridgeVoHiYo-eWiFpIcXaaEntWFO  2024/01/26    0.0000  NEGATIVE       NEGATIVE
+23                                                                         When Twitch Chat says the clip is 'Safe'                                   https://clips.twitch.tv/PreciousOutstandingKiwiVoHiYo-u6k2bNGndtxY2fS1  2024/01/26    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    20
+NEGATIVE    18
 POSITIVE     6
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    15
-NEGATIVE    11
+NEGATIVE    14
+POSITIVE    10
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
