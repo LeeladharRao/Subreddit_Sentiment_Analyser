@@ -1,48 +1,40 @@
 <!-- posts starts -->
-                                                                   title                                                                                         url        date  compound   SA_nltk SA_distilibert
-0           So I guess this is what qualifies for creative arts streamer                  https://clips.twitch.tv/ObedientSeductiveHedgehogSpicyBoy-81TBwZ_iwoapI6X7  2024/01/27    0.4404  POSITIVE       POSITIVE
-1                    Something in the forest watching a ritualistic fire                             https://clips.twitch.tv/ZealousCalmCrabVoteNay-N4_GdPVY-LGuA5vK  2024/01/27   -0.3400  NEGATIVE       POSITIVE
-2                                        "I'm never opening links again"                            https://clips.twitch.tv/ColdStrongWitchUncleNox-pad5IXIKcHO6k55I  2024/01/27    0.0000  NEGATIVE       NEGATIVE
-3                       Fanfan on chatters who hate on other communities                       https://clips.twitch.tv/ObeseBlushingWaterSquadGoals-eNr2qbaXb7P3V9ob  2024/01/27   -0.5719  NEGATIVE       NEGATIVE
-4                                                      Cyr shits himself                  https://clips.twitch.tv/TriangularDistinctCougarBrainSlug-_t4XtDsttNTmu7nV  2024/01/27   -0.4767  NEGATIVE       NEGATIVE
-5                                             Never Use Wood In Palworld    https://www.twitch.tv/troymaconn/clip/PrettiestMotionlessFungusCmonBruh-4dff6Q0w1rhYTdYj  2024/01/27    0.0000  NEGATIVE       NEGATIVE
-6                                          Blu took on Da Bomb hot sauce                          https://clips.twitch.tv/RenownedResoluteSkunkDerp-ZNSut7wEfL9QbyKC  2024/01/27   -0.4939  NEGATIVE       NEGATIVE
-7                                Forsen is the strongest in the universe                      https://clips.twitch.tv/PlayfulTentativeAmazonPMSTwin-BK_xrk2Q7Pq2ZR4z  2024/01/27    0.4404  POSITIVE       POSITIVE
-8                                                    Nymn fell off Sadeg                    https://clips.twitch.tv/IronicTawdryRhinocerosSmoocherZ-Gsu3kT43xfbVdvZ1  2024/01/27    0.0000  NEGATIVE       NEGATIVE
-9                    You won't expect where the cockroach will come from  https://www.twitch.tv/itamarorzagron/clip/AlertPlausibleStrawberryPJSugar-kTyizldlcYsugC2I  2024/01/27    0.0000  NEGATIVE       NEGATIVE
-10                                                     Cat interrupts RP             https://clips.twitch.tv/InexpensiveDarlingPassionfruitBatChest-IABImoW8Lo3Gfb9k  2024/01/27   -0.3182  NEGATIVE       NEGATIVE
-11           German Streamer Papaplatte falls into frozen lake with bike                           https://clips.twitch.tv/CaringBlueGerbilKreygasm-iVRAV-nGF-j4OXE7  2024/01/27    0.0000  NEGATIVE       NEGATIVE
-12                                   Papaplatte Falls Into A Frozen Lake                       https://clips.twitch.tv/ArtsyPolishedTubersDatSheffy-19Yai6wdql1pZmLH  2024/01/27    0.0000  NEGATIVE       NEGATIVE
-13                                           earthshake caught on stream                          https://clips.twitch.tv/ScaryFrigidBadgerKreygasm-qf3uobBJwUGuDjUj  2024/01/27    0.0000  NEGATIVE       POSITIVE
-14                             Papaplatte Eats It Biking Down a Mountain                     https://clips.twitch.tv/ShySmoothCoyoteNerfBlueBlaster-5xMYAPnqkHDx-76z  2024/01/27    0.0000  NEGATIVE       POSITIVE
-15                                        Fanfan about cheating in games                  https://clips.twitch.tv/SarcasticBrightPineapplePicoMause-xVTfASPliYHDDyvb  2024/01/27   -0.5574  NEGATIVE       NEGATIVE
-16                                              Liam is not a degenerate                  https://clips.twitch.tv/PeacefulCoweringSalamanderMingLee-d9tm5qrvLQWWNtRw  2024/01/27    0.0000  NEGATIVE       POSITIVE
-17                            You have the sweetest voice. It is like...         https://clips.twitch.tv/GiftedPlumpCakePeoplesChamp-E4ZKZmUr_QAQTEde?tt_medium=redt  2024/01/27    0.0000  NEGATIVE       POSITIVE
-18  My car is 3 days old, never have I ever thought this would happen...                             https://clips.twitch.tv/BoldSolidSnailOSkomodo-6TELp1f06C2GKLrc  2024/01/27    0.0000  NEGATIVE       NEGATIVE
-19                                             Amouranth has been banned                                 https://twitter.com/StreamerBans/status/1751038477032902929  2024/01/27   -0.4588  NEGATIVE       NEGATIVE
-20                                    Neff and Cyr YouTube Channel Soon!                           https://clips.twitch.tv/FunBlindingOxKappaWealth-iPHuOv7y8zRy2jAf  2024/01/27    0.0000  NEGATIVE       POSITIVE
-21                                          Clint "Daigo Umegara" Steben                          https://clips.twitch.tv/GrotesqueObesePigKreygasm-jEk8571FBfY32553  2024/01/27    0.0000  NEGATIVE       POSITIVE
-22                                                       Welcome All In!                          https://clips.twitch.tv/WrongVastLaptopKappaClaus-IDtrQ-K8h5JZDjfs  2024/01/27    0.5093  POSITIVE       POSITIVE
-23                 When you say the wrong name during an intimate moment                        https://clips.twitch.tv/RespectfulThirstyDogRedCoat-oG4LgUvBm6ycdy15  2024/01/27   -0.4767  NEGATIVE       POSITIVE
-24                                    What's that bookmark to the right?                       https://clips.twitch.tv/WittyRoundLeopardNinjaGrumpy-EgoNSBf68EXeehXR  2024/01/27    0.0000  NEGATIVE       NEGATIVE
-25                                  Henry saves a dog stuck in the river                                 https://kick.com/henry?clip=clip_01HN4DWZSM81BFHYTY7EJBY2T4  2024/01/27   -0.2500  NEGATIVE       NEGATIVE
-26                                    Hasan learns how to beat up Mizkif                  https://clips.twitch.tv/EnthusiasticCalmFungusKeyboardCat-ll_y8JFgZUrRY0VG  2024/01/27    0.0000  NEGATIVE       POSITIVE
-27                                             nipple special for mizkif                           https://clips.twitch.tv/EvilCorrectCobblerBCouch-UBvG6O4S-_NnUM6B  2024/01/27    0.4019  POSITIVE       NEGATIVE
-28                                     erobb vs extraemily drama started                           https://clips.twitch.tv/FragileSingleConsoleDerp-YQdS6K9_1G3j1hZq  2024/01/27    0.0000  NEGATIVE       NEGATIVE
-29                               Moonmoon gets a disturbing text message                  https://clips.twitch.tv/ScaryArtisticHamsterDancingBanana-fV8DQDkNDhKmkZPU  2024/01/27   -0.5106  NEGATIVE       NEGATIVE
-30                                          Gymcon 2023 (not a meme gym)                           https://clips.twitch.tv/PiliableViscousTeaPJSalt-zYuLvoEO7KNnAXyG  2024/01/27    0.0000  NEGATIVE       NEGATIVE
+                                                                                           title                                                                                               url        date  compound   SA_nltk SA_distilibert
+0                                                                               Jackson 5 reborn                         https://clips.twitch.tv/DependableMiniatureAardvarkDxCat-8fg5qdCjNSLH-DpI  2024/01/28    0.0000  NEGATIVE       POSITIVE
+1                                                                     Nintendo guy saves the day                           https://clips.twitch.tv/CrepuscularPlayfulAntSwiftRage-7ftYqaMNIPxLi47i  2024/01/28    0.0000  NEGATIVE       POSITIVE
+2                                                       Blast production hit the Fortnite button                                   https://clips.twitch.tv/IcyEvilHamsterRitzMitz-sNuLfZoTuMG-ZcRl  2024/01/28    0.0000  NEGATIVE       POSITIVE
+3                                                     TF2 player does a little too much trolling                                    https://clips.twitch.tv/PlayfulRockyPonyANELE-dVJX9uFWCFUBS8gG  2024/01/28    0.0000  NEGATIVE       NEGATIVE
+4                                                                                      Full Send                                 https://clips.twitch.tv/BusyGenerousUdonPlanking-iAOW1-ULEp_K8GMR  2024/01/28    0.0000  NEGATIVE       POSITIVE
+5                                                 Forsen's thoughts about King mains in Tekken 8                       https://clips.twitch.tv/GlamorousKawaiiGiraffeCoolStoryBro-AfsaBrDo5MO9fHRK  2024/01/28    0.0000  NEGATIVE       POSITIVE
+6   time traveling linker avoids the dreaded forsen skip, donates perfectly timed follow up link                          https://clips.twitch.tv/CogentHealthyAmazonAMPTropPunch-vodybK2jZZEd2EJt  2024/01/28   -0.0516  NEGATIVE       POSITIVE
+7                                                       CS player accidently jumps during a 1v1!                            https://clips.twitch.tv/UnsightlyArtisticMangoTriHard-wY8DA97-Oc18UiLq  2024/01/28    0.0000  NEGATIVE       NEGATIVE
+8                        Streamer says streaming is easy and then stream breaks down immediately           https://www.twitch.tv/xxxcrazymikexxx/clip/NaiveSnappyGoldfishPipeHype-rd11vxonzGMQaFTg  2024/01/28    0.4404  POSITIVE       NEGATIVE
+9                                                Willerz'- a series of unfortunate circumstances                                https://clips.twitch.tv/AmusedArtisticDogeCoolCat-nMqgJq5meCz-F4Oz  2024/01/28   -0.4588  NEGATIVE       NEGATIVE
+10                                                                       Moments before Disaster  https://www.twitch.tv/minatoaquach_hololive/clip/TardyRealTruffleStoneLightning-QXLLNqqJ4ttwlm9m  2024/01/28   -0.6249  NEGATIVE       NEGATIVE
+11                                                              7/11 Clerk Tries to Buy Streamer                          https://clips.twitch.tv/VivaciousSpicyGorillaBibleThump-9au-kbaedqBy4rgE  2024/01/28    0.0000  NEGATIVE       NEGATIVE
+12                                         Aris warns a vtuber about tekken 8 online multiplayer                           https://clips.twitch.tv/PunchyMotionlessGalagoCopyThis-d6SOPdEVU3-5NGqh  2024/01/28   -0.1027  NEGATIVE       NEGATIVE
+13                                                         Aris fan demographic has been tainted                                 https://clips.twitch.tv/CogentSavoryEagleTF2John-5Kf2KImyJWPgvidQ  2024/01/28    0.3182  POSITIVE       NEGATIVE
+14   5 adult streamers (Will, ExtraEmily, Cyr, Hasan, Emiru) regretting getting in a kiddie ride                                https://clips.twitch.tv/FairBlatantBaboonTinyFace-p5QRqQlQNq3XpyVL  2024/01/28   -0.4019  NEGATIVE       NEGATIVE
+15                                          Tense Final Moments of Street Fighter 6 Grand Finals                         https://clips.twitch.tv/ProudHorribleClipzFreakinStinkin-tuzSU9-ryEYIrgQt  2024/01/28    0.2960  POSITIVE       POSITIVE
+16                                                                          Kripp should be fine             https://clips.twitch.tv/SaltyTransparentSpindleVoHiYo-H8jmxpCyWt6QPaeO?tt_medium=redt  2024/01/28    0.2023  POSITIVE       POSITIVE
+17                                              This is what peak Overwatch2 gameplay looks like                             https://clips.twitch.tv/ImpossibleCreativeKiwiRlyTho-NnXORNPgZdwXpbAu  2024/01/28    0.3612  POSITIVE       NEGATIVE
+18                                    Weed frog guy has a sudden theory on the origins of Islam.                             https://clips.twitch.tv/RepleteSpineyTrayKevinTurtle-MX_ZcFthVt1WmLSR  2024/01/28    0.0000  NEGATIVE       POSITIVE
+19                                                     Hachu bought a thoughtful gift for Mizkif                       https://clips.twitch.tv/DifficultApatheticEyeballPartyTime-xd1tp3gR6MWDlOMf  2024/01/28    0.6705  POSITIVE       POSITIVE
+20                                                              Will is prepared for the future.                                https://clips.twitch.tv/SnappyTardyCrabPeteZaroll-iU_5xZ1iD3nmlFwE  2024/01/28    0.2263  POSITIVE       POSITIVE
+21                                                              Cyr says the quiet part out loud                                  https://clips.twitch.tv/IgnorantTenuousMomDxCat-LAiYQinPGMPmQlyT  2024/01/28    0.0000  NEGATIVE       POSITIVE
+22                Emiru runs out of medieval cosplays after Hasan, Will Neff gets whats left LUL                            https://clips.twitch.tv/CreativeToughGazelleFUNgineer-ylq4HeckBxgy7UqO  2024/01/28    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    27
-POSITIVE     4
+NEGATIVE    16
+POSITIVE     7
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    19
 POSITIVE    12
+NEGATIVE    11
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
