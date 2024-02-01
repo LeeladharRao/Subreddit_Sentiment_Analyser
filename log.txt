@@ -1,40 +1,35 @@
 <!-- posts starts -->
-                                                                                                                title                                                                                url        date  compound   SA_nltk SA_distilibert
-0                                                                   First human Neuralink patient leaves the hospital             https://clips.twitch.tv/PatientSourDinosaurJonCarnage-LxvAUc7_A2Bl_JKT  2024/01/30    0.0000  NEGATIVE       NEGATIVE
-1                                                                                   Kubon destroys showcase on stream                    https://clips.twitch.tv/EagerPoorStarlingKappa-9ggo1iZJKalzS50S  2024/01/30   -0.5574  NEGATIVE       NEGATIVE
-2                                                                                          Emily gets on Pops' Harley           https://clips.twitch.tv/PowerfulWittyGazelleFeelsBadMan-lvdotYGQIuPgcIHj  2024/01/30    0.0000  NEGATIVE       POSITIVE
-3                                                                                              The ting goes skrrrahh              https://clips.twitch.tv/ZealousTiredClipsdadTinyFace-FB5bJaMVf0KfeFDG  2024/01/30    0.0000  NEGATIVE       NEGATIVE
-4                                                       Dist spends an hour stacking barrels to skip the first puzzle                     https://clips.twitch.tv/EvilHomelyMelonPJSalt-rwdtkYK0LfZ_TCeA  2024/01/30    0.0000  NEGATIVE       NEGATIVE
-5                                                                                                    Endless Dialogue               https://clips.twitch.tv/AmazonianHotSnakeCclamChamp-Bs9WnpL-3SEwlJsP  2024/01/30    0.0000  NEGATIVE       NEGATIVE
-6                                                                                              Pokimane leaves Twitch               https://clips.twitch.tv/ExquisiteBreakableGnatFloof-84-ZMgITuF8bZXTx  2024/01/30    0.0000  NEGATIVE       NEGATIVE
-7                                                                                           Pokimane - The End Of Era                         https://twitter.com/pokimanelol/status/1752407158501830828  2024/01/30    0.0000  NEGATIVE       NEGATIVE
-8                                                                                      PeachJars wants to pet the cat     https://clips.twitch.tv/StrongSplendidPistachioNerfRedBlaster-7M5mgQoexgXzjR0a  2024/01/30    0.0000  NEGATIVE       NEGATIVE
-9                                                                                 cheering for Korea at the Asian Cup                https://clips.twitch.tv/RudeBovineGorillaNononoCat-lQ-56T2GBfhL1MK5  2024/01/30    0.5106  POSITIVE       POSITIVE
-10                                                                    BunchiJumpi - The NYC sniper strikes Bun again!                       https://clips.twitch.tv/SassySourJayHeyGuys-6ii0wE8SB7EMmCW9  2024/01/30   -0.4199  NEGATIVE       NEGATIVE
-11                                                             Moonmoon realizes Vivek was right about the Government           https://clips.twitch.tv/GlutenFreeOriginalLocustGivePLZ-WZvRokw0z4Vl-Sfp  2024/01/30    0.0000  NEGATIVE       NEGATIVE
-12                                                                   Zoil forgets to close his tabs before going live                 https://clips.twitch.tv/DarlingBoldCrowTwitchRaid-_-utWQOFXgDLW7C_  2024/01/30    0.0000  NEGATIVE       NEGATIVE
-13                                                                  Caster posits on an item during an 80-minute game         https://clips.twitch.tv/BeautifulPrettiestPepperFutureMan-9lUAiHqfrko1dFcz  2024/01/30    0.0000  NEGATIVE       POSITIVE
-14  Me: Mom, can I please have the Eiffel Tower? Mom: No, we have the Eiffel Tower at home. The Eiffel Tower at home:                https://clips.twitch.tv/SparklyGiantFlyShazBotstix-btP9MSybVWokernu  2024/01/30    0.0258  NEGATIVE       NEGATIVE
-15                                                                                        Cornwood takes 1 day off...               https://clips.twitch.tv/AgileIncredulousCheeseANELE-IRUl-qhGhNxyxn0p  2024/01/30    0.0000  NEGATIVE       NEGATIVE
-16                                          Destiny gives advice on what to do if your boss asks you to come in early                      https://kick.com/destiny?clip=clip_01HNAYXS0AM9KMYWHY9H6WGNH9  2024/01/30    0.0000  NEGATIVE       POSITIVE
-17                                                                            singsing is impressed by jiggle physics                 https://clips.twitch.tv/SavoryFunnyParrotEagleEye-HU82bgJuHR-K9MAI  2024/01/30    0.4767  POSITIVE       POSITIVE
-18                                                                                                  NEW AMP HOUSE 🔥🔥🔥                   https://clips.twitch.tv/ElegantSoftMinkMikeHogu-Zerf2M7MhnXyPnc-  2024/01/30    0.0000  NEGATIVE       POSITIVE
-19                                                                       kai raged over madden and destroys his setup             https://clips.twitch.tv/ViscousCarefulGrasshopperWOOP-PJW4r4h3gKhvCt4K  2024/01/30   -0.7650  NEGATIVE       NEGATIVE
-20                                                                                     xQc watches Kai lose at Madden                   https://clips.twitch.tv/WittyClearMilkCorgiDerp-rAjoTv9QH_vkAuct  2024/01/30   -0.4019  NEGATIVE       NEGATIVE
-21                                                                                    Tonka T has a post game debrief           https://clips.twitch.tv/CrackyApatheticPelicanTwitchRPG-jYD_w3Vu_1-sbMYx  2024/01/30    0.0000  NEGATIVE       NEGATIVE
-22                                                                                  Hasan’s channel trends discussion  https://youtube.com/clip/Ugkxwnk1V3Pa7VJ1GHN866sxuOi5RwBIPlT4?si=OKDBUFEWSFN4i0n9  2024/01/30    0.0000  NEGATIVE       POSITIVE
+                                                            title                                                                                   url        date  compound   SA_nltk SA_distilibert
+0                                      Knut has reached his limit                 https://clips.twitch.tv/HonestFuriousGrouseCorgiDerp-qKGpJiY8wCumoafW  2024/01/31    0.1027  NEGATIVE       POSITIVE
+1                       NL caught talking shit on word difficulty                      https://clips.twitch.tv/ModernNastyParrotLitFam-jGctwbk9f9Tmkadd  2024/01/31   -0.7184  NEGATIVE       NEGATIVE
+2                                      When the chair attacks you                https://clips.twitch.tv/ProductiveCarefulFungusDatBoi-JjvnjL29kAVwyQkM  2024/01/31   -0.4404  NEGATIVE       NEGATIVE
+3                      Hachu decorates the Iron Forge office room            https://clips.twitch.tv/TawdryCulturedDelicataHoneyBadger-Lmt3r-x4ro99JjWQ  2024/01/31    0.0000  NEGATIVE       POSITIVE
+4         Erobb Gets The Benchmark Score For His New Starforge PC  https://clips.twitch.tv/LaconicKitschyPotatoCurseLit-9lIyKABXLhrEJhZG?tt_medium=redt  2024/01/31    0.0000  NEGATIVE       POSITIVE
+5                       Pokimane will now be streaming on YouTube                            https://twitter.com/pokimanelol/status/1752755324652814759  2024/01/31    0.0000  NEGATIVE       NEGATIVE
+6                            Gymbros being not so good at gymming                https://clips.twitch.tv/CheerfulFitNikudonGrammarKing-xUuk9GkSNPAzsLla  2024/01/31   -0.4640  NEGATIVE       NEGATIVE
+7                                     Squeex's bird take on Hasan      https://www.twitch.tv/squeex/clip/DistinctOriginalWormPermaSmug-VYBVF7BcDz2agyyR  2024/01/31    0.0000  NEGATIVE       POSITIVE
+8                                               loud = funny LULW        https://www.twitch.tv/maya/clip/NimblePolishedAardvarkSoBayed-0RT-WZs3V0-9LeJ4  2024/01/31    0.4404  POSITIVE       POSITIVE
+9                                     He has a girlfriend.. SIR.!               https://clips.twitch.tv/GorgeousPlausibleChoughVoteNay-mIxHzlOn9h-prp10  2024/01/31    0.0000  NEGATIVE       POSITIVE
+10                             Targetted ads for married streamer                   https://clips.twitch.tv/AverageSincereWaspPraiseIt-9wzjpcFOONrpeVy7  2024/01/31    0.0000  NEGATIVE       NEGATIVE
+11                               Will & Cyr speedrun cancellation             https://clips.twitch.tv/ImpossiblePlayfulCiderCeilingCat-v83z7-hDkVvGSDso  2024/01/31    0.0000  NEGATIVE       NEGATIVE
+12                                Liam gets linked a game to play                      https://clips.twitch.tv/RichStormyShieldGivePLZ-hsl-G0K4ANpJgrV0  2024/01/31    0.3400  POSITIVE       POSITIVE
+13  The mayor of Los Santos sees his favorite person in the world                https://clips.twitch.tv/SuccessfulBlithePotatoPJSugar-GWvaGIB11pm5cK7O  2024/01/31    0.4588  POSITIVE       POSITIVE
+14                             Chatter ends up in the wrong class                https://clips.twitch.tv/ViscousHonorableCougarPJSugar-ivyu4QQyie2Y-rMw  2024/01/31   -0.4767  NEGATIVE       NEGATIVE
+15                 Jynxzi beats XQC without using a single bullet               https://clips.twitch.tv/TrustworthyNicePartridgeMVGame-e7lStI9_-1oYz6Gp  2024/01/31    0.0000  NEGATIVE       POSITIVE
+16                                1hp and a dream on the last day                    https://clips.twitch.tv/SuaveFineWerewolfDAESuppy-cg69oGPjQWqoII0j  2024/01/31    0.2500  POSITIVE       POSITIVE
+17                                         Erobb gets cucked live                https://clips.twitch.tv/InnocentKathishTeaNinjaGrumpy-fM7sKdQW9PkBUG9-  2024/01/31    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    21
-POSITIVE     2
+NEGATIVE    14
+POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    16
-POSITIVE     7
+POSITIVE    10
+NEGATIVE     8
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
