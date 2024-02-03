@@ -1,41 +1,37 @@
 <!-- posts starts -->
-                                                                   title                                                                                                                       url        date  compound   SA_nltk SA_distilibert
-0                              Will tries to warn a player about meteors                                                      https://clips.twitch.tv/KawaiiOnerousPangolinUnSane-eJNKYZQQY125qTf2  2024/02/01   -0.1027  NEGATIVE       NEGATIVE
-1                                     Coney plays a very silly gameshow!                                               https://clips.twitch.tv/ImpartialOutstandingDelicataM4xHeh-5ju6hsSCmpGkKzWc  2024/02/01    0.3989  POSITIVE       POSITIVE
-2                                                               Cake Pop                                                     https://clips.twitch.tv/TastyEnchantingTurnipWutFace-IKoEWXqxy3BhlMae  2024/02/01    0.0000  NEGATIVE       POSITIVE
-3                                                           Forsen madge                                                     https://clips.twitch.tv/BoringGiftedHawkTBCheesePull-1iPAJlVeh4vwTc21  2024/02/01    0.0000  NEGATIVE       POSITIVE
-4                                  CS caster makes a spot on observation                                                        https://clips.twitch.tv/SpunkySlipperyBoarCoolCat-PD8uhYqtl1JL261A  2024/02/01    0.0000  NEGATIVE       POSITIVE
-5                                                   Opossum risks it all                        https://www.twitch.tv/midwest_wildlifecam/clip/ConsiderateGrossBibimbapTBTacoLeft-AIg1oCxAIq8s9_ok  2024/02/01   -0.2732  NEGATIVE       NEGATIVE
-6                Streamer captures SpaceX rocket coming in for a landing       https://www.twitch.tv/drwd40/clip/PunchyAmericanLocustRiPepperonis-JJWbMufogJvLjWZ2?filter=clips&range=7d&sort=time  2024/02/01    0.0000  NEGATIVE       POSITIVE
-7              Engineering streamer invents an incredibly useful machine  https://www.twitch.tv/uwu_to_owo/clip/TalentedAttractiveWallabyPoooound-2sN0Z-9bnElGojnC?filter=clips&range=7d&sort=time  2024/02/01    0.4927  POSITIVE       POSITIVE
-8   Bartender gets into it with customer after disagreement about a pour                                    https://www.twitch.tv/porkmarshmallow/clip/MiniatureSquareDonutYouWHY-ai6VtiU8Z7lcRN4T  2024/02/01   -0.3612  NEGATIVE       POSITIVE
-9                                 Average Palworld player end game ideas                                                    https://clips.twitch.tv/StylishNiceChamoisHoneyBadger-Px3Krz9R57DJH2C-  2024/02/01    0.0000  NEGATIVE       NEGATIVE
-10                                   Knut finally gets his cinnamon buns                                               https://clips.twitch.tv/CharmingCulturedVanillaGingerPower-is4iOA3rN36uFO7j  2024/02/01    0.0000  NEGATIVE       POSITIVE
-11                              Twitch weather reporter finds a new city                                                https://clips.twitch.tv/SnappyKitschyClintmullinsRickroll-bx6otpqbxJUaxj3x  2024/02/01    0.0000  NEGATIVE       POSITIVE
-12                 Ruthless businesswoman doesn't remember her old memes                                      https://www.twitch.tv/hachubby/clip/FuriousCourteousChowderPanicVis-9LhTI72hF7SyRbUZ  2024/02/01    0.0000  NEGATIVE       NEGATIVE
-13                                                            Sadge Inc.                                   https://www.twitch.tv/charming_jo/clip/GlutenFreeCuteCarabeefPicoMause-anwkNOndocZzho9o  2024/02/01    0.0000  NEGATIVE       NEGATIVE
-14                                      Mar should NOT be in the kitchen                                 https://www.twitch.tv/marisnot12/clip/ImportantAmorphousPastaGingerPower-85AtMcCKVtJSU-Za  2024/02/01    0.0000  NEGATIVE       NEGATIVE
-15                            Palworld players when they catch a new Pal                                                   https://clips.twitch.tv/TubularCrowdedChickenSeemsGood-CsPVR1Cj1XVBFVr7  2024/02/01    0.0000  NEGATIVE       NEGATIVE
-16                                                 Brain cells working 😜                                                 https://clips.twitch.tv/SpineyEncouragingTildeYouDontSay-I111IC1O_k6EC8Rx  2024/02/01    0.0000  NEGATIVE       POSITIVE
-17                          Gappy risks getting DQd from Streamer Awards                                                   https://clips.twitch.tv/PlumpUninterestedFloofRalpherZ-me7yD1mc-eW7mtVA  2024/02/01    0.2263  POSITIVE       NEGATIVE
-18                         Strategy streamer in his second fighting game                                                          https://clips.twitch.tv/CalmSincereBulgogiKappa-qEKK1O-HI5pyXyR-  2024/02/01   -0.3612  NEGATIVE       POSITIVE
-19                                            Will Neff Tanking the Dono                                  https://clips.twitch.tv/AlluringCoweringWerewolfTooSpicy-JpEQLOCqHIkTXzJ2?tt_medium=redt  2024/02/01    0.0000  NEGATIVE       NEGATIVE
-20                 Grown man has temper tantrum playing children's game.                                                     https://clips.twitch.tv/AbstemiousSecretiveGnatFloof-Ia1gn8ubhHgZiBIv  2024/02/01   -0.5859  NEGATIVE       NEGATIVE
-21                                                  Summit Hyped for EFT                                                        https://clips.twitch.tv/AmazingSleepyOcelotDatBoi-EF9j6JJbYhp5iX6q  2024/02/01    0.0000  NEGATIVE       NEGATIVE
-22                                   xQc has a conversation with himself                                                                 https://kick.com/xqc?clip=clip_01HNF57NQG0RQ49CBQKCSN0W9S  2024/02/01    0.0000  NEGATIVE       POSITIVE
-23                                         Ari helps Hachu with her visa                                                       https://clips.twitch.tv/ElegantAmericanDeerCoolCat-sUBbVbtgJshy03Pr  2024/02/01    0.3818  POSITIVE       POSITIVE
+                                                                              title                                                                                     url        date  compound   SA_nltk SA_distilibert
+0                                                   Forsen fights weakest King main                    https://clips.twitch.tv/AmusedGleamingVanillaRlyTho-GMGr8QHftTbo56m1  2024/02/02   -0.7184  NEGATIVE       NEGATIVE
+1                                         New E-Girl Method. (Working patch 2/2024)        https://clips.twitch.tv/CrepuscularInexpensiveSparrowStrawBeary-DPYSYh3vkRXZJSk4  2024/02/02    0.0000  NEGATIVE       NEGATIVE
+2                                          Destiny's advice to his 19 year old self                           https://kick.com/destiny?clip=clip_01HNNJ30G0VJ02Q5S3EVCTKPWN  2024/02/02    0.0000  NEGATIVE       POSITIVE
+3                                                                Forsen eats cereal                          https://clips.twitch.tv/LuckyBigRavenTheTarFu-wQOF8W4ahR5cXYq7  2024/02/02    0.0000  NEGATIVE       NEGATIVE
+4                                                                Forsen's daughter?                  https://clips.twitch.tv/FlirtySmallBearFreakinStinkin-h9ZxKA9k7MiiHacS  2024/02/02    0.0000  NEGATIVE       NEGATIVE
+5                                                             Lirik analyzes the AI                 https://clips.twitch.tv/PricklyInspiringAyeayeKreygasm-ok44r56nuewOZIsC  2024/02/02    0.0000  NEGATIVE       POSITIVE
+6                    Tectone fights with another streamer and calls him the R-word.                 https://clips.twitch.tv/RelievedNurturingHamStrawBeary-G2ZKqi_hfVh1kS4k  2024/02/02   -0.4019  NEGATIVE       NEGATIVE
+7                                         Charming Jo shows off his twerking skills             https://clips.twitch.tv/AnnoyingEndearingFalconDancingBaby-WFTqVI3T1umFvLRb  2024/02/02    0.5859  POSITIVE       POSITIVE
+8                               When grandpa hits the wrong button on the TV remote                  https://clips.twitch.tv/ImpossibleBigIcecreamTheThing-Yo84cmmPjlC-FrnT  2024/02/02   -0.4767  NEGATIVE       NEGATIVE
+9                        Charming Jo performs Lost My Phone with an acoustic guitar             https://clips.twitch.tv/BombasticEmpathicNostrilKappaClaus-5AHxP9ImehEaLjce  2024/02/02    0.3612  POSITIVE       POSITIVE
+10                                                  NymN finds himself on guessr.tv                https://clips.twitch.tv/TenaciousEphemeralChowderVoHiYo-pZsud2Hrugq3kC2P  2024/02/02    0.0000  NEGATIVE       NEGATIVE
+11                                                                Emily in 20 years  https://www.twitch.tv/extraemily/clip/InexpensiveOddLemurAMPTropPunch-BVanKZ2PpdNmKUME  2024/02/02    0.0000  NEGATIVE       POSITIVE
+12                                                That was one "beep" over the line                    https://clips.twitch.tv/DependableIcyBubbleteaDoggo-gZDvbghg0oO35O81  2024/02/02    0.0000  NEGATIVE       NEGATIVE
+13                                     21 Savage experiences TTS for the first time                        https://kick.com/adinross?clip=clip_01HNM6RQ4ZRHN5T5QQ5WE0711B?1  2024/02/02   -0.4588  NEGATIVE       POSITIVE
+14                   21Savage cheated against Adin Ross with marked cards for $40k+                          https://kick.com/adinross?clip=clip_01HNMD7PSMG0MFB2V6Y67TCVFX  2024/02/02   -0.5106  NEGATIVE       NEGATIVE
+15  Award winning chef and author J Kenji Lopez Alt has his first stream on YouTube            https://youtube.com/clip/UgkxwdNMe7jnclGYWeo-2KX99qzCM3q6_pQ5?feature=shared  2024/02/02    0.7845  POSITIVE       POSITIVE
+16                                              Most expensive hotel in Quebec City                  https://clips.twitch.tv/DifferentSpeedySpindleVoteYea-Lj09lfU04j6x6uFi  2024/02/02    0.0000  NEGATIVE       POSITIVE
+17                                  Artosis shares how he makes tea and exports it.                https://clips.twitch.tv/FantasticAgitatedBaconCorgiDerp-_OGKhePseUHrkLae  2024/02/02    0.2960  POSITIVE       POSITIVE
+18                                           Joeishungry gets boosted to level 100k                         https://clips.twitch.tv/HyperHardPhoneRitzMitz-nH0BvuEi3hbddnFq  2024/02/02    0.3612  POSITIVE       POSITIVE
+19                                                                        Rob looks               https://clips.twitch.tv/SpinelessElegantQueleaSquadGoals-UhrfBW40kTaa2Obf  2024/02/02   -0.5574  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    20
-POSITIVE     4
+NEGATIVE    15
+POSITIVE     5
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    13
-NEGATIVE    11
+POSITIVE    11
+NEGATIVE     9
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
