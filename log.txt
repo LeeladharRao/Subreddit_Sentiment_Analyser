@@ -1,60 +1,63 @@
 <!-- posts starts -->
-                                                                                          title                                                                                        url        date  compound   SA_nltk SA_distilibert
-0                                                    Mario Kart speedrunner discovers new strat          https://www.twitch.tv/liam/clip/FragileCrepuscularPlumberHeyGirl-iAQL_VzOPmgBO_oi  2024/02/06    0.0000  NEGATIVE       POSITIVE
-1                                                                                      Tai Ming                https://clips.twitch.tv/AmazonianImpossibleOysterPermaSmug-NVtpOOjecHk82Emk  2024/02/06    0.0000  NEGATIVE       POSITIVE
-2                                                                    Forsen receives a donation                      https://clips.twitch.tv/KawaiiBumblingPonyCeilingCat-ty_Mq-dBZF99CWMI  2024/02/06    0.0000  NEGATIVE       POSITIVE
-3                                                              Streamer really needs some meat!                 https://clips.twitch.tv/ModernProductiveNigiriBleedPurple-Wg41b4cU8GVdZTud  2024/02/06    0.0000  NEGATIVE       NEGATIVE
-4                                                               Average console fanboy reaction                        https://clips.twitch.tv/ModernLovelySaladBrainSlug-CyAAG7mDih7NQGNh  2024/02/06    0.0000  NEGATIVE       NEGATIVE
-5                                                                                 -1100 dollars                            https://clips.twitch.tv/CorrectSmellyYamPJSalt-NxlE1_-jgG6DJ4gp  2024/02/06    0.0000  NEGATIVE       POSITIVE
-6                                                        Movie buff writes John Wick: Chapter 5                https://clips.twitch.tv/GlutenFreeInquisitiveSnailMikeHogu-cGR_DJe9znFXIKGO  2024/02/06    0.0000  NEGATIVE       POSITIVE
-7                                                        Forsen wants to get stepped on by Nina              https://clips.twitch.tv/HeartlessOutstandingRaccoonSeemsGood-T75qFoR_04or9zyd  2024/02/06    0.0000  NEGATIVE       NEGATIVE
-8                                                                 You just breathed in my mouth                   https://clips.twitch.tv/CuriousAntsyOpossumItsBoshyTime-dii78yQLT9YpgseF  2024/02/06    0.0000  NEGATIVE       POSITIVE
-9                             Forsen copes after he gets reality checked by an actual King main                              https://clips.twitch.tv/AstuteDrabChoughBIRB-taZmdU8KTw4LkU70  2024/02/06    0.0000  NEGATIVE       NEGATIVE
-10                                                                                OTK Flowchart                       https://clips.twitch.tv/BrightStormyCasetteMikeHogu-6WCWviYMF_IqaLOe  2024/02/06    0.0000  NEGATIVE       NEGATIVE
-11                                                                      Average Twitch chatter.      https://clips.twitch.tv/GiantEvilJellyfishTBTacoRight-n0914cXhF2fqcQXZ?tt_medium=redt  2024/02/06    0.0000  NEGATIVE       NEGATIVE
-12                                         Before fighting, 800 deaths after fight <1000 deaths                https://clips.twitch.tv/AltruisticAgreeableOcelotAsianGlow-mIZfGOail8YsT1YK  2024/02/06   -0.6249  NEGATIVE       NEGATIVE
-13                     Alinity says Mitch was fighting other people after the fight with Mizkif              https://clips.twitch.tv/TriangularSucculentCucumberHotPokket-WkeYwZog3Hu4t1FH  2024/02/06   -0.6249  NEGATIVE       NEGATIVE
-14                  Alinity's take on Mitch Jones and on Miz still associating with Mitch Jones                  https://clips.twitch.tv/EasySparklyMagpieNerfBlueBlaster-g3EiYNmIHhH_zZPc  2024/02/06    0.0000  NEGATIVE       NEGATIVE
-15                                                                       Alinity on Mitch Jones                          https://clips.twitch.tv/BrightPuzzledRatTooSpicy-9yjfhaSdW-wRWBlN  2024/02/06    0.0000  NEGATIVE       POSITIVE
-16                                                              Husky doesn't want to be filmed                             https://clips.twitch.tv/SavageShySnailVoteNay-3JE7RBHwRciG-QjN  2024/02/06   -0.0572  NEGATIVE       NEGATIVE
-17                                                      LIRIK realized the tournament is rigged           https://clips.twitch.tv/ImportantAcceptableCarabeefThisIsSparta-r3egiKh9Ru1abvJS  2024/02/06   -0.3612  NEGATIVE       NEGATIVE
-18                                               Knuts Take On The Mitch Jones & Mizkif Scuffle                       https://clips.twitch.tv/OnerousHardFlamingoGOWSkull-ZZUQo9QRntOEePnz  2024/02/06    0.0000  NEGATIVE       POSITIVE
-19                                                                  average McAfee user in 2024                      https://clips.twitch.tv/FantasticGleamingLyrebirdYee-9OgqrHPoJJ5ZxsMC  2024/02/06    0.0000  NEGATIVE       NEGATIVE
-20                                                                                   For NMPLOL                            https://clips.twitch.tv/OnerousObeseToadLitFam-mssgp8Z-Qu9tnxUL  2024/02/06    0.0000  NEGATIVE       NEGATIVE
-21                                                                                    good shot          https://www.twitch.tv/elina/clip/SucculentElegantShieldDatSheffy-6_At0-63-YCmIXqH  2024/02/06    0.4404  POSITIVE       POSITIVE
-22  Mitch jones releases a video of Mizkif "allegedly assaulting" him & sending him to Hospital                          https://clips.twitch.tv/QuaintYawningTrollDatBoi-PCXaKk_HcITAV0Kf  2024/02/06   -0.5106  NEGATIVE       NEGATIVE
-23                                                        bartender is having a bad day at work                       https://clips.twitch.tv/CalmInventiveMageKappaPride-SrQrvcwdoCzRobNP  2024/02/06   -0.5423  NEGATIVE       NEGATIVE
-24                                 Spanish streamer beats Margit in Elden Ring using Morse Code                              https://clips.twitch.tv/FurryHungryLlamaBIRB-2xS7_9PEdre0x-U1  2024/02/06    0.0000  NEGATIVE       POSITIVE
-25                                                     Spooonmeee -When your Chat Hates you LUL  https://www.twitch.tv/spooonmeee/clip/AmusedMoralSpaghettiStoneLightning-v068z8Pto8EjF3cn  2024/02/06   -0.4404  NEGATIVE       NEGATIVE
-26                                                            Rob ruins a mother and kid moment                 https://clips.twitch.tv/LitigiousTastyGerbilDancingBanana-8a4Tvgqffg9v_yPO  2024/02/06   -0.7579  NEGATIVE       NEGATIVE
-27                                                                    49ers Wascot Did Em Dirty                        https://clips.twitch.tv/InexpensiveBoredUdonPJSalt-H5O0H8lBgYJg59o7  2024/02/06   -0.4404  NEGATIVE       NEGATIVE
-28                                                               Worlds tallest statue is crazy                    https://clips.twitch.tv/EnjoyableEnchantingCocoaOpieOP-l9kluhlsgB5gwPme  2024/02/06   -0.3400  NEGATIVE       POSITIVE
-29                                        Spooonmeee turns on Dixper ~ INSTANT REGRET JUMPSCARE                             https://clips.twitch.tv/NastyBadChipmunk4Head-fr-5DgZua4pvypEQ  2024/02/06   -0.5473  NEGATIVE       NEGATIVE
-30                     While in Sapporo Rob and Tracy decide to eat some parfait as a challenge                  https://clips.twitch.tv/DepressedTiredMushroomHassanChop-66oBuO6Y5mBM4G_z  2024/02/06   -0.5106  NEGATIVE       NEGATIVE
-31                                                            roflgator calls out OTK followers                   https://clips.twitch.tv/TrappedPopularJackalTBTacoRight-Ttm5_ECsUwLU6Z_P  2024/02/06    0.0000  NEGATIVE       NEGATIVE
-32                                                                         finally hits shinryu                   https://clips.twitch.tv/RelentlessPunchyHerdMoreCowbell-zPsHcEAo61YEnDMW  2024/02/06    0.0000  NEGATIVE       POSITIVE
-33                                                        Streamers' super soaker malfunctions.                          https://clips.twitch.tv/SingleSuperLasagnaKlappa-apODIoCBdaW33zX1  2024/02/06    0.5994  POSITIVE       NEGATIVE
-34                                     jg diff but it doesn't matter because top diff is bigger       https://www.twitch.tv/simply_mysti/clip/FragileAntsySeahorseOhMyDog-h7ao_zqiJitmnamo  2024/02/06   -0.2498  NEGATIVE       POSITIVE
-35                                                               Detonation expert.. detonated!                      https://clips.twitch.tv/SmellySparklyTaroMoreCowbell-GgHuQttohb_XCaDo  2024/02/06    0.0000  NEGATIVE       POSITIVE
-36                                                                                  Kinda clean               https://www.twitch.tv/sclooty/clip/SpoopyFunCaribouRalpherZ-NiB9bybcw4Q8UO5W  2024/02/06    0.3415  POSITIVE       POSITIVE
-37                                                      streamer spectates phone getting stolen                      https://clips.twitch.tv/DepressedIcyCobblerTheRinger-qQreXCt8gI92rHKu  2024/02/06   -0.4939  NEGATIVE       NEGATIVE
-38                                               Snow puddle chaos at Shibuya Scramble Crossing                    https://clips.twitch.tv/SeductiveGoodAsteriskBlargNaut-obn3VWm8JEHUIFo6  2024/02/06   -0.5719  NEGATIVE       NEGATIVE
-39                        IRL streamer witnesses a coked out man attempt standup at an open mic                               https://kick.com/carldo?clip=clip_01HNY76S5MEWW9G0XA987NRXX9  2024/02/06    0.0000  NEGATIVE       NEGATIVE
-40                                                                                   Based Soda                      https://clips.twitch.tv/ShakingLachrymoseKittenKippa-SsIKToQVRqvkLbqE  2024/02/06    0.0000  NEGATIVE       NEGATIVE
-41                                                                      $1 ramen kills $2000 PC                       https://clips.twitch.tv/ObliviousNiceLobsterRedCoat-FG9m9xcpcz5EbcRR  2024/02/06   -0.5423  NEGATIVE       NEGATIVE
-42                                      xQc has an interesting take on the ExtraEmily situation                 https://clips.twitch.tv/AmericanAnimatedSmoothieCorgiDerp-66ZpLqK4q-2mn_Il  2024/02/06    0.4019  POSITIVE       POSITIVE
+                                                                                          title                                                                                                 url        date  compound   SA_nltk SA_distilibert
+0                                                                         The Locals are Crazy!                                  https://clips.twitch.tv/DrabRelentlessBottleFloof-zICinbqVDvOm_xnR  2024/02/07   -0.4003  NEGATIVE       POSITIVE
+1                                                                         Average Brit Streamer                                            https://www.twitch.tv/ivanallcaps/v/2056270361?sr=a&t=6s  2024/02/07    0.0000  NEGATIVE       POSITIVE
+2                                                                                  that's a lie                           https://clips.twitch.tv/TenaciousRelentlessCoffeeVoteNay-3zoxg86ORlMfJ8si  2024/02/07    0.0000  NEGATIVE       NEGATIVE
+3                                                                                         Moist                         https://www.twitch.tv/elina/clip/IgnorantDeadGoblinBudStar-yPUn10JIq39liR9v  2024/02/07    0.0000  NEGATIVE       POSITIVE
+4                                                     Ikea streamer got distracted by the radio                  https://www.twitch.tv/elina/clip/GoldenDignifiedInternKappaWealth-3brxYjX23lYr-Ul0  2024/02/07   -0.3400  NEGATIVE       NEGATIVE
+5                                                             Baj's fight club goes as expected                   https://clips.twitch.tv/FlaccidCredulousPicklesCharlietheUnicorn-cBN_sCx4LZnwHy6O  2024/02/07   -0.3818  NEGATIVE       NEGATIVE
+6                                                                    Forsen does viewer battles                          https://clips.twitch.tv/ProductiveTrustworthyKiwiPipeHype-Ci8EOZ4Wxf9T9CZc  2024/02/07   -0.3818  NEGATIVE       NEGATIVE
+7                                                                       Who are we rooting for?                                    https://clips.twitch.tv/GiftedAmericanPoxWoofer-RJcnfCclJm4F6343  2024/02/07    0.0000  NEGATIVE       NEGATIVE
+8                                                      Hachubby after two months in Miz's house                               https://clips.twitch.tv/StylishRoundEchidnaDatSheffy-qZuEAe2JLgydHO2y  2024/02/07    0.0000  NEGATIVE       NEGATIVE
+9                                                          emily getting tortured at iron forge                           https://clips.twitch.tv/CheerfulLivelyAlbatrossFutureMan-qovJ5RTmRY0IoE5Q  2024/02/07   -0.5574  NEGATIVE       NEGATIVE
+10                                                                           Relaxing Yoga clip                             https://clips.twitch.tv/VastRamshackleShallotFUNgineer-Z2ZraIbozZ9hZIxN  2024/02/07    0.4939  POSITIVE       POSITIVE
+11                                                               SHMACKERS 1st Hinge experience                                    https://clips.twitch.tv/LongGracefulDogeOneHand-RY4uBcVwQJrDKSXx  2024/02/07    0.0000  NEGATIVE       NEGATIVE
+12                                                                   Emily tries smelling salts                                        https://clips.twitch.tv/FastManlyWaspFunRun-Mw6DUQuA7amDL1su  2024/02/07    0.0000  NEGATIVE       NEGATIVE
+13                                                                          Zoil needs a new pc                            https://clips.twitch.tv/PunchyImportantCarrotStrawBeary-8ec2bbPWpLQkthEp  2024/02/07    0.0000  NEGATIVE       NEGATIVE
+14                                             HAchubby - Hachubby shows the inside of her ears                                  https://clips.twitch.tv/EvilHonorablePeachWutFace-OjC7ZtrwEYYCsteF  2024/02/07    0.0000  NEGATIVE       NEGATIVE
+15                                                                    How is she THIS broken???                         https://clips.twitch.tv/PeppySmellyWolverineNerfRedBlaster-4sHl25mnLeYWjH0U  2024/02/07   -0.5632  NEGATIVE       NEGATIVE
+16                                                                  we are not judging also us:                   https://www.twitch.tv/ninnauwu/clip/MoralZanyHamburgerHumbleLife-uJJZiATMol-E2fj1  2024/02/07    0.0000  NEGATIVE       NEGATIVE
+17                                                               Symfuhny uses his Aimbot hacks                        https://twitch.tv/clip/TentativeBloodyIcecreamPhilosoraptor-tQe-RwdPgDA6bepT  2024/02/07    0.0000  NEGATIVE       NEGATIVE
+18                                                               ppl giving side eye irl stream                        https://www.twitch.tv/ninnauwu/clip/ProudAverageYakTinyFace-IU8Oh365KWZRdKDb  2024/02/07    0.3400  POSITIVE       POSITIVE
+19                                                                   I've spat all over myself.                                  https://clips.twitch.tv/RealVibrantPterodactylWow-mJEK2GzMy7_12nQe  2024/02/07    0.0000  NEGATIVE       NEGATIVE
+20                                          Magnus Carlsen is Chessable Masters 2024 CHAMPION!!                                 https://clips.twitch.tv/JollyImpartialBearOSkomodo-ojGJXMieu8PuhAQn  2024/02/07    0.7365  POSITIVE       POSITIVE
+21                                                                      random kid in mcdonalds                                https://clips.twitch.tv/PreciousBadAirGuitarOneHand-_EeXA10PE80V6JK0  2024/02/07    0.0000  NEGATIVE       NEGATIVE
+22                                                                     random kid in mc donalds                              https://clips.twitch.tv/CoweringObliviousPonyCopyThis-qPl4re1-T3wVBqDy  2024/02/07    0.0000  NEGATIVE       NEGATIVE
+23                                                                Tectone did not see it coming                                  https://clips.twitch.tv/WittyCrazyBarracudaNomNom-eD3Fz3JvUovs6Pqu  2024/02/07    0.0000  NEGATIVE       NEGATIVE
+24                                                                                           $9    https://www.twitch.tv/avoidingthepuddle/clip/AntediluvianFunnyPidgeonBloodTrail-SFR94yzQwCtlVy6b  2024/02/07    0.0000  NEGATIVE       POSITIVE
+25                                                   TFT streamer gets called out for his voice                                https://clips.twitch.tv/DrabPerfectWerewolfTooSpicy-Zz0RM2aKCXcfHMMN  2024/02/07    0.0000  NEGATIVE       NEGATIVE
+26                                                    Alireza leads 2-0 against Magnus Carlsen!                            https://clips.twitch.tv/NurturingAgreeableFlyJonCarnage-FVLFtsDEkOtOTbK5  2024/02/07    0.0000  NEGATIVE       POSITIVE
+27                                                                                         hugs             https://www.twitch.tv/bunchijumpi/clip/ObliviousCrypticPoultryImGlitch-Oz2IGTlbs04pYn65  2024/02/07    0.4939  POSITIVE       POSITIVE
+28                                                                                  KSI RETURNS                   https://youtube.com/clip/Ugkxl1777Geru09XGH1iae7_FIYP1o4wTFIz?si=Io33JbeeLh6XEttu  2024/02/07    0.0000  NEGATIVE       POSITIVE
+29                                                                    Joey tests twitch filters                                  https://clips.twitch.tv/ProudDifferentMouseM4xHeh-_cJ9V44cIC7GGypl  2024/02/07    0.0000  NEGATIVE       NEGATIVE
+30                                                                            Can i watch this?  https://www.twitch.tv/noraexplorer/clip/HappyBreakableTroutHeyGirl-iuSnyjIdwBH5rn-T?tt_medium=redt  2024/02/07    0.0000  NEGATIVE       POSITIVE
+31                                                                         Alpacca reading chat                         https://clips.twitch.tv/ImpossibleSleepySproutStinkyCheese-CNfQloJtab0KLxa-  2024/02/07    0.0000  NEGATIVE       NEGATIVE
+32                                                                                 Feeding time                                 https://clips.twitch.tv/SullenBoredDolphinGOWSkull-DnLg6nTmjMa_cOZU  2024/02/07    0.0000  NEGATIVE       POSITIVE
+33                                                            Drake found new purpose in India.                                  https://clips.twitch.tv/SavageOpenDunlinBCWarrior-VMgp0nYtd_Cuhy2K  2024/02/07    0.0000  NEGATIVE       POSITIVE
+34                         Squeex has already prepared a victory speech for the Streamer Awards                          https://clips.twitch.tv/SourComfortablePeppermintPipeHype-KD5ENnxPr76YgnzC  2024/02/07    0.5994  POSITIVE       NEGATIVE
+35                                                        Yuggie raised a terrifying apprentice                               https://clips.twitch.tv/AmusedFreezingGullYouDontSay-Q2yYML7EUsnijBtF  2024/02/07   -0.5719  NEGATIVE       NEGATIVE
+36                                                                TTS might have been a mistake                            https://clips.twitch.tv/DeliciousResilientSpiderVoteNay-Egmi-VX_HDOFF-wU  2024/02/07   -0.3400  NEGATIVE       NEGATIVE
+37  This is what Kick's Partner Hourly Salary Funds, Cowgirl Strip Dances - CEO 300 Gifted subs                                    https://kick.com/sweatergxd?clip=clip_01HP1P29RJ8MC9TMCSV4KF2QXD  2024/02/07    0.0000  NEGATIVE       NEGATIVE
+38      Mitch Jones goes into Fandy's chat after her and her Husband criticize Mitch's actions.                        https://clips.twitch.tv/JollyArtsyGnatPeanutButterJellyTime-yxhqAmjV-kGIpFym  2024/02/07   -0.3818  NEGATIVE       NEGATIVE
+39                                                                      Burger king does what ?                     https://clips.twitch.tv/LightFlaccidBeanBudStar-Fr2D9v_tcobSvbpC?tt_medium=redt  2024/02/07    0.0000  NEGATIVE       NEGATIVE
+40                                                                            D Company CEO 1v1                                    https://clips.twitch.tv/ViscousRacyRavenTakeNRG-fIDLFngYWo_2NuLO  2024/02/07    0.0000  NEGATIVE       POSITIVE
+41                                                                  raiychuu is left speechless              https://clips.twitch.tv/RespectfulPrettiestYakDansGame-dGhAuh6zNFqhOeXc?tt_medium=redt  2024/02/07    0.0000  NEGATIVE       NEGATIVE
+42                                                  Mitch Jones statement about the altercation                                           https://twitter.com/MitchJonez/status/1755050683815141848  2024/02/07    0.0000  NEGATIVE       POSITIVE
+43                                                               A Series of Unfortunate Events                                 https://clips.twitch.tv/PuzzledPlainRadishFailFish-3hP8J8pYp8c7WWCV  2024/02/07   -0.4588  NEGATIVE       NEGATIVE
+44                                                                     JP's Master plan for 4.0                                           https://kick.com/xqc?clip=clip_01HP0HJJVB79N6G90YWB1M46YA  2024/02/07    0.0000  NEGATIVE       POSITIVE
+45                                                   Ohnepixel likes the new Rocket™ CS2 update                                 https://clips.twitch.tv/KindAdventurousMarjoramWow-McYdai9PhOb7Vb_I  2024/02/07    0.4215  POSITIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    39
-POSITIVE     4
+NEGATIVE    40
+POSITIVE     6
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    27
-POSITIVE    16
+NEGATIVE    29
+POSITIVE    17
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
