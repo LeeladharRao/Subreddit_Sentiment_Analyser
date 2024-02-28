@@ -1,51 +1,70 @@
 <!-- posts starts -->
-                                                                                                  title                                                                                     url        date  compound   SA_nltk SA_distilibert
-0                                          A sad day for Korean streamers, but a happy day in Hong Kong                https://clips.twitch.tv/StrongEnthusiasticKoalaPipeHype-vY72rYpz2L_zMdyT  2024/02/26    0.6124  POSITIVE       POSITIVE
-1                       asmon roasting guy unironically lol (him taken out of context) but it fits well                 https://clips.twitch.tv/BetterCrunchyDragonfruitUnSane-yHiWISNFPYJOJYP9  2024/02/26    0.5499  POSITIVE       POSITIVE
-2                                                                            Woman tries to fly a plane                     https://clips.twitch.tv/EasyIgnorantJuiceCorgiDerp-5ghoR5-HIPJ8q4Be  2024/02/26    0.0000  NEGATIVE       NEGATIVE
-3                                                                   Emily fails to subvert expectations                        https://clips.twitch.tv/BetterToughDaikonNomNom-e92id-P9au5DJXlJ  2024/02/26   -0.4215  NEGATIVE       NEGATIVE
-4                                                           Simply viewer vouches for sponsor's quality                    https://clips.twitch.tv/MiniatureSillyGiraffePJSalt-C3bALcWIqnN1VIjy  2024/02/26    0.0000  NEGATIVE       NEGATIVE
-5                                                                                  Huge loss for twitch               https://clips.twitch.tv/AwkwardAnimatedFrogDancingBanana-fCoMpd-utOB9Ssv_  2024/02/26    0.0000  NEGATIVE       NEGATIVE
-6                                                   When non danish folks try to eat danish street food                       https://clips.twitch.tv/BadCrispyCheetahMikeHogu-uM8sQTxuAIjqUMY1  2024/02/26    0.0000  NEGATIVE       NEGATIVE
-7                                                                  The most stylish way to leave Twitch  https://www.twitch.tv/charming_jo/clip/RacyLazyBarracudaPeteZarollTie-t31Cjw3jGCZk3m9O  2024/02/26   -0.0516  NEGATIVE       POSITIVE
-8                                                           The timing when he said this was PERFECT 😭💀              https://clips.twitch.tv/BumblingTrustworthyRaisinTebowing-mswwxeKQx5wPfR2y  2024/02/26    0.6633  POSITIVE       POSITIVE
-9                                                                           LIRIK - Omelette du Fromage                    https://clips.twitch.tv/RichCrunchyClamRiPepperonis-dMoq1yKJOENGodZ-  2024/02/26    0.0000  NEGATIVE       NEGATIVE
-10                                                                   NL gets complimented on his outfit                  https://clips.twitch.tv/GiantSleepyChoughCoolStoryBro-_VIFuqyjR6iE4pJb  2024/02/26    0.4215  POSITIVE       POSITIVE
-11                                                                    One final hurrah for Korean booba                  https://clips.twitch.tv/KitschyObesePineappleCurseLit-QzKLIdznyGVSwqzb  2024/02/26    0.5574  POSITIVE       POSITIVE
-12                                                                               Farewell, Twitch Korea    https://clips.twitch.tv/InspiringCooperativePrariedogStoneLightning-6qT6WwxnuaLE9CvY  2024/02/26    0.0000  NEGATIVE       NEGATIVE
-13                                        Kick has been unbanned in Turkey while Twitch is still banned                               https://twitter.com/haskologlu/status/1762093057460052315  2024/02/26   -0.4588  NEGATIVE       NEGATIVE
-14                                                                       goodbye kiss from twitch korea                 https://clips.twitch.tv/TriumphantEnergeticAmazonANELE-QgnQLl9hK5rhnOmR  2024/02/26    0.4215  POSITIVE       NEGATIVE
-15                                                                   The moment Twitch Korea shuts down                         https://clips.twitch.tv/TawdryCuriousGullKAPOW-2-pRxtwcuLJt3X5S  2024/02/26    0.0000  NEGATIVE       NEGATIVE
-16                                                                NPC has enough of Squeex's dirty talk                     https://clips.twitch.tv/MoldyTransparentGarbageYee-3Z1XWPoCbEQR9A0p  2024/02/26   -0.4404  NEGATIVE       NEGATIVE
-17                                                                            Classic Knut scene switch               https://clips.twitch.tv/GenerousEmpathicDunlinKappaClaus-yyye-iiVyjxwTLNd  2024/02/26    0.0000  NEGATIVE       NEGATIVE
-18                                    Magicgirl loses her mic in the dark and her little helper is away                      https://clips.twitch.tv/ElatedStrangeRabbitYouWHY-NmRtgkvF-iQo27md  2024/02/26   -0.0498  NEGATIVE       NEGATIVE
-19                                                               xQc always jumping on Hasan hate train                 https://clips.twitch.tv/NeighborlyDiligentRadishNomNom-2Xre2QFpEZuoH0CZ  2024/02/26   -0.5719  NEGATIVE       NEGATIVE
-20                                                                       twitch korea funeral goes well             https://www.twitch.tv/2lyn_98/clip/PopularQuaintDadTF2John-78reWDjw4ZfWWE0f  2024/02/26   -0.1027  NEGATIVE       POSITIVE
-21                                                 Koreans streaming hentai on their last day on Twitch               https://clips.twitch.tv/SparklingArborealGorillaFailFish-bbc2yQ9U6D_H30w0  2024/02/26    0.0000  NEGATIVE       NEGATIVE
-22                                      Dota player getting some protein before a game in a tournament.                    https://clips.twitch.tv/BumblingSingleMangoBabyRage-ET2Vd37XeO17ySCJ  2024/02/26    0.0000  NEGATIVE       NEGATIVE
-23                                                   Dota2 top 500 player is caught red-handed cheating                       https://clips.twitch.tv/MushyDirtyGrassHotPokket-nq3whpVCmxGkWtGT  2024/02/26   -0.4215  NEGATIVE       NEGATIVE
-24                                                                          Liam thinks he'll get first                    https://clips.twitch.tv/SpoopyAmusedParrotChefFrank-WtJk3qUXUWUvGWMO  2024/02/26    0.0000  NEGATIVE       POSITIVE
-25  Amazing offer at just 4 subs, while I sit for 30 mins so my thumbnail is ...... Marketing 101 major                        https://kick.com/kailasmith?clip=clip_01HQG48JYYZ6AE14KBT1PMJTAB  2024/02/26    0.5859  POSITIVE       POSITIVE
-26                                                                        Aris keeps chat on their toes                  https://clips.twitch.tv/HealthyFilthyCheddarSwiftRage-kGHmkTuD_-LP3TOF  2024/02/26    0.0000  NEGATIVE       POSITIVE
-27                                                         Trying to break a wine glass with your voice               https://clips.twitch.tv/CallousSuspiciousAlpacaTheRinger-b4vb0Yh3qwUm3c-P  2024/02/26    0.0000  NEGATIVE       NEGATIVE
-28                                         A US Air Force member streamed his self-immolation on Twitch                               https://twitter.com/zachbussey/status/1761913995886309590  2024/02/26    0.0000  NEGATIVE       NEGATIVE
-29                                                                     Kai giving back to the community              https://clips.twitch.tv/WrongBeautifulPorcupineKappaClaus-IQzURcouBVNiZBP8  2024/02/26    0.3400  POSITIVE       POSITIVE
-30                                                                            Squeex on homeless people                   https://clips.twitch.tv/AbrasiveMoralElephantVoteYea-s5ThPCxu7tAyOlhC  2024/02/26    0.0000  NEGATIVE       NEGATIVE
-31                                                                        Forsen makes it to TFT Worlds                  https://clips.twitch.tv/VictoriousCuriousHorseWutFace-4Lw67cbcdFl3oUTB  2024/02/26    0.0000  NEGATIVE       POSITIVE
-32                                                      XQC on streamers helping Hasan out at the start              https://clips.twitch.tv/AbnegateKitschyPassionfruitBCouch-Vfs1IaBjIrxawBp-  2024/02/26    0.2960  POSITIVE       POSITIVE
-33                                                                           xQc gives a better example               https://clips.twitch.tv/TransparentFlirtyTaroGingerPower-ygXeXh_rsOb5ZV5S  2024/02/26    0.4404  POSITIVE       NEGATIVE
+                                                                                        title                                                                                     url        date  compound   SA_nltk SA_distilibert
+0                                              Joseline Kelly's insecure social media catfish                  https://clips.twitch.tv/LuckyPrettyCurryPhilosoraptor-McaxkArztxxiOL-t  2024/02/27   -0.4215  NEGATIVE       NEGATIVE
+1                                                   No Korean twitch, but we still got US ofc  https://www.twitch.tv/ellietheempress/clip/PlainSuperSrirachaRitzMitz-OwZMbp4A5nmX5eRG  2024/02/27   -0.1531  NEGATIVE       POSITIVE
+2                                             Mans got some of the craziest alerts on Twitch!                    https://clips.twitch.tv/SilkyHonorableOryxOMGScoots-mDlkUA_hzuaoqMS_  2024/02/27   -0.1260  NEGATIVE       NEGATIVE
+3                                                                                      forsen                   https://clips.twitch.tv/StormyCrowdedMarjoramDogFace-FUaIAtpui7YiVIOA  2024/02/27    0.0000  NEGATIVE       POSITIVE
+4                                                       Korea has fallen, but Japan is rising                        https://clips.twitch.tv/AmorphousShySangMingLee-wG-ComprMN5XxzwF  2024/02/27   -0.1901  NEGATIVE       POSITIVE
+5                                                Joseline Kelly on meeting her script writers                   https://clips.twitch.tv/PlayfulGracefulMangetoutDerp-MFxC21Zb0AdS-XIB  2024/02/27    0.0000  NEGATIVE       POSITIVE
+6                                        PlayStation 5 Overheats At the WORST Moment Possible                  https://clips.twitch.tv/GoldenProudSandwichTBTacoLeft-tf42ekncj3ZymY6m  2024/02/27   -0.7034  NEGATIVE       NEGATIVE
+7                                                         xQc receives a $60k watch as a gift                          https://kick.com/adinross?clip=clip_01HQNG3WDYBW1GQTT0HQK2720X  2024/02/27    0.4404  POSITIVE       NEGATIVE
+8                                                   Pohx explains Last Epoch end-game, RapGod                  https://clips.twitch.tv/JoyousCleverZebraCoolStoryBob-C0Y6z8jAIHfuO9NE  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+9                                                                       Forsen gets a max win                       https://clips.twitch.tv/AmazingBoxyHarePastaThat-A2ovyeyxC_zsF4oB  2024/02/27    0.5859  POSITIVE       POSITIVE
+10                                                                      Daily life of a panda                  https://clips.twitch.tv/PleasantCleverDragonflyNomNom-2oxVRN_hYVlMJxMP  2024/02/27    0.0000  NEGATIVE       POSITIVE
+11                                                              Duke Dennis In Counter Strike                https://clips.twitch.tv/DeterminedAnimatedYogurtBudStar-H8Zdm6BD1rLj991M  2024/02/27   -0.1280  NEGATIVE       NEGATIVE
+12                                 Destiny calls out Hasan's hypocrisy on being mad at Ludwig                           https://kick.com/destiny?clip=clip_01HQP2G1G7GX1PECWN190031D2  2024/02/27   -0.4939  NEGATIVE       NEGATIVE
+13                                                   AngryGinge gets PermaBanned from NoPixel                     https://clips.twitch.tv/VastBitterCheeseHassanChop-yOVf8PWs59LK-W2h  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+14                            Homeless Swedish man gets an orgasm when being hit with a train                     https://clips.twitch.tv/DarkSmokyPandaCharlieBitMe-G0rWyQIrK2llXp9T  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+15                                                                             erobb cant see     https://www.twitch.tv/erobb221/clip/ConsiderateDaintyWaspShadyLulu-J632EhnHUWjezX2g  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+16                                                                          We know why Emily                https://clips.twitch.tv/ConcernedCredulousLampShadyLulu-IXTUgCOy3Sh6kfw-  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+17                                                                 CALL THE FIRE DEPARTMENT!!                       https://clips.twitch.tv/SquareJollyLettuceFunRun-ktefUfpuT6O4s1em  2024/02/27   -0.4559  NEGATIVE       POSITIVE
+18                                                                      Forsen delivers Pizza                https://clips.twitch.tv/TemperedGleamingSpaghettiMVGame-NDMjko_eu5jWz-Pb  2024/02/27    0.0000  NEGATIVE       POSITIVE
+19                                                            Forsen discovers his new fetish                    https://clips.twitch.tv/ExquisiteOriginalSkunkKippa-tRLSHf1nPKjzaVHk  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+20                                                        Knut roasted by wife for being bald                  https://clips.twitch.tv/MistyMushyCheesecakeBrokeBack-KACd-V-a_sL9LUPU  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+21                                                                       new tiktoks incoming                    https://clips.twitch.tv/InventiveJazzyAardvarkFloof-d1ccD0PqFyh5m7x6  2024/02/27    0.0000  NEGATIVE       POSITIVE
+22                                        Tyler1 goes off on na pros and the scene as a whole                      https://clips.twitch.tv/LightArtisticPonyTheThing-kpIH3U23Qdgz9nmo  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+23                                                                   Hachubby catching strays          https://www.twitch.tv/charming_jo/clip/DrabRepleteOcelotKeepo-qeSda3FUm_DY3Vqb  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+24                                                         Carmen auditions for Love is Blind                      https://clips.twitch.tv/ObedientObliviousDadKappa-mf2YpbHLwIAAt-ws  2024/02/27    0.3612  POSITIVE       NEGATIVE
+25                                               Joey's taiwanese viewers were busy yesterday                        https://clips.twitch.tv/SoftObeseSproutImGlitch-BPN3990FVw4ptfof  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+26                                                             Woman takes her pig for a walk                    https://clips.twitch.tv/VastBillowingWaterDendiFace-z6lg-yLlIwaUNk11  2024/02/27    0.0000  NEGATIVE       POSITIVE
+27                                                     Rachel Kay looses it over joke in chat                      https://clips.twitch.tv/ClumsyRelatedGarlicTTours-wFcyTVK8whIP4_DW  2024/02/27    0.1531  NEGATIVE       NEGATIVE
+28                                                  Yuggie struggles with Korean size clothes                  https://clips.twitch.tv/TenderAlertTrianglePunchTrees-XYpceGGP4-_uXMeC  2024/02/27   -0.3612  NEGATIVE       NEGATIVE
+29                                              lydiaviolet - Lydia violet wants to be Mormon              https://clips.twitch.tv/RelatedTrustworthyQuailJonCarnage-gx0sUpAhDb0yDJ4C  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+30                                                 robcdee - Sticker Check on the famous Sign            https://clips.twitch.tv/TangentialEnchantingMouseCclamChamp-a5w_z3RoLefmw6Ny  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+31                                                                Drunk Scarra is best Scarra           https://clips.twitch.tv/CourteousObliviousPineappleFUNgineer-sm2SP18gWo_ydT6c  2024/02/27    0.4215  POSITIVE       POSITIVE
+32                                                                     xQc gets a hole in one                          https://kick.com/adinross?clip=clip_01HQMPRQCJYPDAZKXSARW5B9ZR  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+33                                                             xQc snipes the plushy toy race                          https://kick.com/adinross?clip=clip_01HQMRW2JWFDNDHY2Q5N5DFXCP  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+34                              zackrawrr - Streaming more emotionally taxing than most 9-5's                https://clips.twitch.tv/NiceObliviousDumplingsPicoMause-uRqzlMwezGnw4s0m  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+35                                       xQc asked a stripper to stop dancing and talk to him                          https://kick.com/adinross?clip=clip_01HQMNPW2G89758PJHK5DVMD0G  2024/02/27   -0.2960  NEGATIVE       NEGATIVE
+36                                                     xQc and Adin talk about his Twitch ban                          https://kick.com/adinross?clip=clip_01HQMMYFQKDPH2QW7082HW9N81  2024/02/27   -0.5574  NEGATIVE       NEGATIVE
+37                                        No way this guy even went to a community college 🙄                     https://clips.twitch.tv/VibrantTardyPeachTwitchRaid-7O5b1ACNhFZSUkti  2024/02/27   -0.2960  NEGATIVE       NEGATIVE
+38                                                        A happy couple goes on a waterslide                          https://kick.com/adinross?clip=clip_01HQMG9XDKKZT450VTKHNMY4F1  2024/02/27    0.5719  POSITIVE       POSITIVE
+39  Korean Twitch streamers react to the first signs of being cut off from Twtich for Koreans                        https://clips.twitch.tv/MistyLightConsoleSSSsss-jLv0X_H5dN4KCbV0  2024/02/27   -0.2732  NEGATIVE       NEGATIVE
+40                                                       Aris compare Last Epoch and Diablo 4                   https://clips.twitch.tv/GleamingKawaiiMinkPunchTrees-0bFJ2afA8zJoEXsr  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+41                                                                       Adin compliments xQc                          https://kick.com/adinross?clip=clip_01HQMHWXBWTBSSRZZSYTZAHN20  2024/02/27    0.4019  POSITIVE       POSITIVE
+42                                                     Adin Ross and XQC waterpark slide fail                          https://kick.com/adinross?clip=clip_01HQMFB3SYB7M6EPMSJPGQYWXY  2024/02/27   -0.5423  NEGATIVE       NEGATIVE
+43                                                            The Water Park Incident (Aware)                          https://kick.com/adinross?clip=clip_01HQMFC6470A74YSRPQ8R4HX4G  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+44                                                 Rob is tired of being the angel of Shibuya            https://clips.twitch.tv/LaconicCloudyDragonfruitHassaanChop-oL7UQVd95oeYsC59  2024/02/27   -0.7579  NEGATIVE       NEGATIVE
+45                                                    Adin passes out on RollerCoaster with X                          https://kick.com/adinross?clip=clip_01HQMCEDZE9DY38CCBEDFGD5AQ  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+46                                                                  xQc flexes for the camera                          https://kick.com/adinross?clip=clip_01HQM6G3N387FNFQVPEG967TTF  2024/02/27    0.0000  NEGATIVE       POSITIVE
+47                                                           New cod zombies map just dropped                          https://kick.com/adinross?clip=clip_01HQM5F0Y37J928TSZYEG2QTG3  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+48                                                                              Insane Clutch                      https://clips.twitch.tv/RoughHonorableSkunkLitFam-HvXY9Pl-bY3Z_6_a  2024/02/27   -0.4019  NEGATIVE       POSITIVE
+49                                                                           Zellsis in a 1v3               https://clips.twitch.tv/EnticingFaintMonkeyDoubleRainbow-OaTQk9BhCHeonq1f  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+50                                                                           Xqc snowboarding                          https://kick.com/adinross?clip=clip_01HQM3MG36XPQ8F2KP8S5YV8Y9  2024/02/27    0.0000  NEGATIVE       POSITIVE
+51                                                              Piers Morgan ambushes Destiny       https://youtube.com/clip/UgkxMnnZsdJuufXfUFfCzwvAk4FPC4-sG7FC?si=kNvSC217iUxGMm3q  2024/02/27    0.0000  NEGATIVE       NEGATIVE
+52                                                                   Man tries to fly a plane               https://clips.twitch.tv/GlamorousGeniusCroissantFailFish-ZkZ-ScO4nILQuaFU  2024/02/27    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    24
-POSITIVE    10
+NEGATIVE    47
+POSITIVE     6
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    21
-POSITIVE    13
+NEGATIVE    37
+POSITIVE    16
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
