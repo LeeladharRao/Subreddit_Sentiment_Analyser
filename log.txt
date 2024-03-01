@@ -1,49 +1,49 @@
 <!-- posts starts -->
-                                                               title                                                                                                                           url        date  compound   SA_nltk SA_distilibert
-0                                      Streamers can work a real job                                                  https://www.twitch.tv/emiru/clip/ManlyYawningFrogYouDontSay-7bRipqttGdBqPGbx  2024/02/28    0.0000  NEGATIVE       POSITIVE
-1                                                   Squeex god gamer                                                        https://clips.twitch.tv/DeafHeartlessFriesSoonerLater-YNQPYk-RA5DIbjQH  2024/02/28    0.2732  POSITIVE       NEGATIVE
-2                                                  Rhythmic exercise                                                             https://clips.twitch.tv/SpicyCoweringHamBatChest-g80QeE1UeVZBIdvn  2024/02/28    0.0000  NEGATIVE       POSITIVE
-3                             Twitch just wanna Squeex those cheeks!                                                        https://clips.twitch.tv/HappyFantasticFennelChefFrank-QgQ1_hGmok-9LFkX  2024/02/28    0.0000  NEGATIVE       NEGATIVE
-4                                  Cinna's dad gets caught Lamonting                                                           https://clips.twitch.tv/AgileVibrantTomatoRuleFive-nzLkSLbPRofe7SMC  2024/02/28    0.0000  NEGATIVE       NEGATIVE
-5         Balatro Game Creator gifts Northernlion some subscriptions                                                           https://clips.twitch.tv/PatientScaryCrowYouDontSay-oSilFtjqfptedI7j  2024/02/28    0.0000  NEGATIVE       NEGATIVE
-6                                      Zoil gets an interesting reel                                                   https://clips.twitch.tv/BlueVivaciousGoshawkFreakinStinkin-huOozIRPfnStxQHm  2024/02/28    0.4019  POSITIVE       POSITIVE
-7                           Jump-scare Made Her Pee Herself A Little                                                               https://clips.twitch.tv/LaconicMoralHerdSSSsss-OMFfv3MyzPhi6cJo  2024/02/28    0.0000  NEGATIVE       NEGATIVE
-8                                                      finnish vibes                                                https://clips.twitch.tv/EnergeticDeliciousDragonPhilosoraptor-Aadj1DVo3ZNnOUga  2024/02/28    0.0000  NEGATIVE       POSITIVE
-9                                                   most normal chat                                                    https://clips.twitch.tv/IntelligentHeadstrongHerdPraiseIt-18iJrfYxvW03FtKx  2024/02/28    0.0000  NEGATIVE       NEGATIVE
-10                                                testing new angles                                               https://www.twitch.tv/lyasyaa/clip/PrettyAnnoyingNostrilRlyTho-xRrbjGDJTCgG3PIB  2024/02/28    0.0000  NEGATIVE       POSITIVE
-11                           LilyPichu discovers sitting in Tekken 8                                             https://youtube.com/clip/UgkxF_3lh-X6JTpXtHu_rXPQEnEP3QJbKNVH?si=4tbipP1Qowfs3UB-  2024/02/28    0.0000  NEGATIVE       NEGATIVE
-12                                          W rizz from young Squeex                                            https://www.twitch.tv/squeex/clip/AbnegateRepleteGoosePanicBasket-lz9xe-kCOFYXbq08  2024/02/28    0.0000  NEGATIVE       POSITIVE
-13                   Lamont gets a few shout outs in a radio station                                                         https://clips.twitch.tv/StrangeCharmingHareFUNgineer-ICBSsWy9CyigQmqL  2024/02/28    0.0000  NEGATIVE       NEGATIVE
-14                                  Knut is disappointed with Emily                                                              https://clips.twitch.tv/RelentlessCrazyDogeKAPOW-T2m9vTDyt9QPk8xf  2024/02/28   -0.4767  NEGATIVE       NEGATIVE
-15                                       Mhyochi Elevator Jump Scare                                              https://clips.twitch.tv/ScrumptiousIntelligentDinosaurBlargNaut-qlwzS6HHhfRi65K8  2024/02/28   -0.4939  NEGATIVE       NEGATIVE
-16  League caster is happy the LCK isn't having another 7 hour pause                                                            https://clips.twitch.tv/PoorCheerfulGullSwiftRage-4HKNo2DStX7oYaIr  2024/02/28    0.5719  POSITIVE       POSITIVE
-17                                Kai runs into JOEYKAOTYK in Taiwan                                                          https://clips.twitch.tv/StupidExuberantCheddarDoggo-KTBapecGFX6AWTsp  2024/02/28    0.0000  NEGATIVE       NEGATIVE
-18                            There's more? How wet do you want her.                                          https://clips.twitch.tv/ThoughtfulPhilanthropicPidgeonDancingBanana-D2eU_ZJfnblS2zTZ  2024/02/28    0.0772  NEGATIVE       NEGATIVE
-19                  Wake fact checks to see if emily can roll her rs                                                         https://clips.twitch.tv/ExpensiveOpenAntStinkyCheese-YEbKd9kddCOhhVBH  2024/02/28    0.0000  NEGATIVE       NEGATIVE
-20                                    Disney needs to hire Will Neff                                                       https://clips.twitch.tv/RelievedFilthyHerbsFeelsBadMan-YSlFDUxHfQEU7bjc  2024/02/28    0.0000  NEGATIVE       NEGATIVE
-21                            BonnierRabbit finds the moguls hideout                                                  https://clips.twitch.tv/MotionlessIgnorantPelicanStrawBeary-s3N2HYE_b0g1K5O6  2024/02/28    0.0000  NEGATIVE       POSITIVE
-22                                                 Opening some eggs  https://www.twitch.tv/onigiri/clip/CrepuscularPleasantOysterDoubleRainbow-1OcIgEpdPzWbyIv4?filter=clips&range=24hr&sort=time  2024/02/28    0.0000  NEGATIVE       POSITIVE
-23                                    Lundon bridge is falling down.                                                       https://clips.twitch.tv/PrettySeductiveChoughSmoocherZ-uPJqgG12HwGtQq0v  2024/02/28   -0.1531  NEGATIVE       NEGATIVE
-24                                       mistaken identity in Taiwan                                                           https://clips.twitch.tv/FreezingBovineStarlingUWot-6CeEgEa0KaVU-hyM  2024/02/28   -0.3612  NEGATIVE       NEGATIVE
-25                              Kai thinks Joey said something else.                                                       https://clips.twitch.tv/TawdryEnticingEggplantEagleEye-NRNPg-pjoPSroQCF  2024/02/28    0.0000  NEGATIVE       NEGATIVE
-26                        on stream so long she can feel the cursors                                                              https://clips.twitch.tv/SmoothAmazonianLampMcaT--AzcUaOiVLHbpe73  2024/02/28    0.0000  NEGATIVE       POSITIVE
-27  Emir was worried her cat would hate her for getting him neutered                                                        https://clips.twitch.tv/BlatantSuspiciousLegEleGiggle-vvbwic49iP-PGxFG  2024/02/28   -0.7096  NEGATIVE       NEGATIVE
-28                      A Hellbomb a day keeps the Helldivers at bay                                                               https://clips.twitch.tv/OriginalSmokySageKappa-noQXtoQKdkjpYsvo  2024/02/28    0.0000  NEGATIVE       NEGATIVE
-29                Esfand gets unsuspended at the worst possible time                                                        https://clips.twitch.tv/IgnorantSourCroquettePogChamp-3gekz8y_ulzYFzrs  2024/02/28   -0.6249  NEGATIVE       NEGATIVE
-30  Faze Clan merges with GameSquare, with FaZe Banks as the new CEO                                                                      https://twitter.com/JakeSucky/status/1762611378328912361  2024/02/28    0.0000  NEGATIVE       POSITIVE
-31                                     Ludwig cancels his Dubai trip                                             https://youtube.com/clip/Ugkxc6nDiiEigLVIQxVdLyTwmpo5VrOUoy3T?si=4acPASWJRYYd3yyR  2024/02/28   -0.2263  NEGATIVE       NEGATIVE
+                                                                                                       title                                                                                       url        date  compound   SA_nltk SA_distilibert
+0                                                                              HERE I COME! ZAMASU!!!! nvm..                          https://clips.twitch.tv/AntsyMoldySandstormWOOP-I-0S3YVPsVFAMieP  2024/02/29    0.0000  NEGATIVE       POSITIVE
+1                                                                               Ramsay gets Big Smokes order              https://clips.twitch.tv/ShinyInterestingAniseStoneLightning-YOQsjR8EGBMPIZWO  2024/02/29    0.0000  NEGATIVE       POSITIVE
+2      Browsing twitch streamers with 7-12 viewers are quite fun sometimes. Dude dancing for every follower.                         https://clips.twitch.tv/HotUglyPancakeCclamChamp-L-8gabkPZWXPHeaQ  2024/02/29    0.5563  POSITIVE       POSITIVE
+3                                         Twitch mod orders his clothes at streamers address without consent                     https://clips.twitch.tv/PerfectDepressedJuiceSaltBae-oO43fUdhFSfeNcXM  2024/02/29   -0.1695  NEGATIVE       NEGATIVE
+4                                                                                                 Emily -1RP                      https://clips.twitch.tv/BlushingElegantOcelotYouWHY-ulTnnyYuIwqSpHtn  2024/02/29    0.0000  NEGATIVE       POSITIVE
+5                                                                               Jason shows up at Iron Forge                     https://clips.twitch.tv/ZealousSuccessfulSaladPupper-kUi7P8q0xWwFlXCl  2024/02/29    0.0000  NEGATIVE       POSITIVE
+6                                                                      Turkey has reportedly unbanned Twitch                                    https://twitter.com/Dexerto/status/1763241139262390365  2024/02/29    0.0000  NEGATIVE       NEGATIVE
+7                                                                           Forsen puts it in the wrong hole          https://clips.twitch.tv/BlazingEntertainingPuddingOptimizePrime-_JFkfTBTgrtd8rnU  2024/02/29   -0.4767  NEGATIVE       NEGATIVE
+8                                                                                                      gyatt        https://www.twitch.tv/ariathome/clip/DaintyBashfulCardSoonerLater-Z4oxXOAeFLpIUtSK  2024/02/29    0.0000  NEGATIVE       POSITIVE
+9                                                                          "so think about what that means?"                     https://clips.twitch.tv/AmazonianPiercingDuckDogFace-qZkFoybPFBroIJ3v  2024/02/29    0.0000  NEGATIVE       NEGATIVE
+10                                                           Forsen tries to play multiplayer golf with bajs                       https://clips.twitch.tv/FrigidDiligentAardvarkMau5-b5CtY-E14n-yt9_w  2024/02/29    0.3400  POSITIVE       NEGATIVE
+11                     AGhostyVT - Streamer falls and becomes a ghostyghosty slips on stream (they’re okay!)               https://clips.twitch.tv/HonestSarcasticAardvarkKappaWealth-r6PCyTVYREuA_ShH  2024/02/29    0.0000  NEGATIVE       NEGATIVE
+12  A Certain Los Santos Sheriff Makes A Celebrity Appearance On CohhCarnage's Charity Stream As It Wraps Up                        https://clips.twitch.tv/OilyConfidentPieSmoocherZ-YZy24GGCpZR6U82H  2024/02/29    0.5994  POSITIVE       POSITIVE
+13                                                                        children playing on the playground               https://www.twitch.tv/quqco/clip/AmorphousBadDogePicoMause-hrQVdgDHBWNY2HvG  2024/02/29    0.2023  POSITIVE       POSITIVE
+14                                                                                        Taiwan vice police         https://www.twitch.tv/akaonikou1207/clip/VainCrackyTomatoSaltBae-jFTLQIl8yfnyayli  2024/02/29    0.0000  NEGATIVE       NEGATIVE
+15                                                                                      Limmy finally breaks                  https://clips.twitch.tv/ReliableKitschyTrollSoonerLater-K1PiJgwcJssk1SbF  2024/02/29    0.0000  NEGATIVE       NEGATIVE
+16                                                              Cohhcarnage finally reveals his true nature.              https://clips.twitch.tv/BombasticEnthusiasticGoldfishYouWHY-C6h4aNgmR1B3z6mo  2024/02/29    0.4215  POSITIVE       POSITIVE
+17                                                                                      average ff7r stream                            https://clips.twitch.tv/TastyOriginalLEDWoofer-lpBdH71bxKdTjxKH  2024/02/29    0.0000  NEGATIVE       NEGATIVE
+18                                                  Streamers in Japan took 1d-lsd research chemical on live                    https://kick.com/slightlyhomeless?clip=clip_01HQTCC42F4VS23H0VHY423JRB  2024/02/29    0.0000  NEGATIVE       NEGATIVE
+19                                                                                            Dog lap dance               https://clips.twitch.tv/TenuousAltruisticTardigradeOSkomodo-KLXkZQepSDiL2cQr  2024/02/29    0.0000  NEGATIVE       NEGATIVE
+20                                                  MainManSwe saves his win streak by the skin of his teeth                 https://clips.twitch.tv/IgnorantHilariousHummingbirdBIRB-qrMwV-YIkAe23ZeC  2024/02/29    0.5859  POSITIVE       POSITIVE
+21                                                                 Maybe this is why kick is unban in turkey                            https://kick.com/jobunnny?clip=clip_01HQDH9S78VHVQEQXDXQZ63ABA  2024/02/29    0.0000  NEGATIVE       NEGATIVE
+22                                                                              Kick Streamer Buys Bot Farm                             https://kick.com/kangjoel?clip=clip_01HQT12QANX15FQZDCNKSSJGG1  2024/02/29    0.0000  NEGATIVE       NEGATIVE
+23                                                                             Kion scared of stuff animals                      https://clips.twitch.tv/SuaveSullenPangolinChefFrank-UTX2ekFiNzmBow0-  2024/02/29   -0.4404  NEGATIVE       NEGATIVE
+24                                                                Roll for Sandwich continues to baffle Wake                       https://clips.twitch.tv/HelplessTenderLardMikeHogu-D2WTCG6eODOBCqNq  2024/02/29    0.0000  NEGATIVE       NEGATIVE
+25                                                      jose1ine - kingdom hearts makes you want to do what?                 https://clips.twitch.tv/RelatedCoweringKuduChocolateRain-tOWwC6nD50_2iVct  2024/02/29    0.0772  NEGATIVE       POSITIVE
+26                                                                                     New Meta Just Dropped                           https://kick.com/amouranth?clip=clip_01HQES9HVPG7XSYWP3VWN3766Z  2024/02/29    0.0000  NEGATIVE       NEGATIVE
+27                                                                                           New Twitch Meta               https://clips.twitch.tv/ProductiveInnocentTrollTBTacoRight-82jP-hd9u00CgWCq  2024/02/29    0.0000  NEGATIVE       POSITIVE
+28                                                                                     Squeex gets a new sub              https://clips.twitch.tv/BashfulResilientBeaverPhilosoraptor-IHRKbIjxATiHZJVW  2024/02/29    0.0000  NEGATIVE       NEGATIVE
+29                                                               Streamer Accidentally Send Ball to the Moon                            https://clips.twitch.tv/TiredYummyCatTinyFace-JrvvjL_P47ERL9UW  2024/02/29   -0.3400  NEGATIVE       NEGATIVE
+30                                                                                       "I got sent a hand"  https://clips.twitch.tv/CoyThoughtfulPterodactylCopyThis-rvvD_ahCtwJhLH2S?tt_medium=redt  2024/02/29    0.4939  POSITIVE       NEGATIVE
+31                                                                           Streamers can't work a real job                        https://clips.twitch.tv/WildIronicSageKevinTurtle-nHGMkPEPH2DxbGRz  2024/02/29    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    29
-POSITIVE     3
+NEGATIVE    25
+POSITIVE     7
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    21
-POSITIVE    11
+NEGATIVE    20
+POSITIVE    12
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
