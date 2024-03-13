@@ -1,42 +1,64 @@
 <!-- posts starts -->
-                                                                                               title                                                                                      url        date  compound   SA_nltk SA_distilibert
-0                                              captaindiamondcole perfect impersonation of twitter .   https://clips.twitch.tv/ResoluteDrabOctopusArsonNoSexy-g1MLLWtWkXxZiHNW?tt_medium=redt  2024/03/11    0.5719  POSITIVE       POSITIVE
-1                                                                                         I say Soda                 https://clips.twitch.tv/ManlyTangentialZucchiniPipeHype-kwjIE1EEryYtmK1l  2024/03/11    0.0000  NEGATIVE       NEGATIVE
-2                                                                                     The hells that        https://youtube.com/clip/UgkxE38OC7gKKNfPvWB2SJIQXUKgnBLNIBBJ?si=bGCgpAEtE2yTcSJ8  2024/03/11    0.0000  NEGATIVE       NEGATIVE
-3                                                                ExtraEmily safely crossing the road                https://clips.twitch.tv/AbstruseJollyBasenjiPeoplesChamp-Gc5d0jA7B7fXtIXf  2024/03/11    0.4939  POSITIVE       POSITIVE
-4                                                                   imaqtpie finds Hyoon on Akinator                   https://clips.twitch.tv/TawdryFrailAsparagusBuddhaBar-oF1rQ-4A-xGDIw9V  2024/03/11    0.0000  NEGATIVE       POSITIVE
-5                                                                           Guy gets his ass whooped                        https://clips.twitch.tv/DeadIcyShieldArsonNoSexy-pXK3bXjyv1MZYtLQ  2024/03/11   -0.5423  NEGATIVE       NEGATIVE
-6                                                                                  stranger approves       https://www.twitch.tv/joeykaotyk/clip/BillowingSlickWitchPipeHype-Ply23LU7nkOplnh0  2024/03/11    0.4019  POSITIVE       NEGATIVE
-7                                                                                         will snaps                      https://clips.twitch.tv/ColdDifferentTroutPlanking-t3WNlecepOCLb97Q  2024/03/11    0.0000  NEGATIVE       POSITIVE
-8                                                                                        Wirtual HUH        https://youtube.com/clip/UgkxyD5eqHuazmVzAC677mhSHDdWS13CGtKz?si=0NSpCj-CuYAxARr8  2024/03/11    0.0000  NEGATIVE       POSITIVE
-9                                                                               AI song timing ICANT                             https://clips.twitch.tv/FrigidEasyBaconMau5-FSX17DF9w_UxnYrB  2024/03/11    0.0000  NEGATIVE       NEGATIVE
-10                                                                                   Positions talk                      https://clips.twitch.tv/WanderingPatientSquirrelWow-KfLc1Ibe2B9NwneY  2024/03/11    0.0000  NEGATIVE       POSITIVE
-11                                                                                       CEO RapThis       https://www.twitch.tv/ariathome/clip/YawningAltruisticTaroPRChase-htNtog6bw0tIJXQA  2024/03/11    0.0000  NEGATIVE       POSITIVE
-12                                                                          time to stretch a little  https://www.twitch.tv/elenashinohara/clip/SillySmoothNostrilRaccAttack-rdLHmnmlww9lfRtW  2024/03/11    0.0000  NEGATIVE       NEGATIVE
-13                                                                           This was way to perfect   https://www.twitch.tv/hotshothenry/clip/RoundCautiousSashimiPermaSmug-tIj3iU5p8sFxMAue  2024/03/11    0.5719  POSITIVE       POSITIVE
-14                                                                 forsen watching a vintage footage              https://clips.twitch.tv/ObliviousUnsightlySquirrelPlanking-XDdHvQ9VQqvM8KOb  2024/03/11    0.0000  NEGATIVE       POSITIVE
-15                                                                               Jorkin' it to Ninja               https://clips.twitch.tv/BelovedPopularBubbleteaHassanChop-SzPi0ZISYNs_mnX1  2024/03/11    0.0000  NEGATIVE       POSITIVE
-16                                                                    quin69 is honest about his IQ                  https://clips.twitch.tv/FantasticTrustworthyMageVoteNay-R9lfNPDhfe-4tJ_F  2024/03/11    0.5106  POSITIVE       POSITIVE
-17                                   Streamer takes too long to realise partner is terrified of bugs                          https://clips.twitch.tv/CalmBadOysterBuddhaBar-WO0i4FoOFpanq97r  2024/03/11   -0.6124  NEGATIVE       NEGATIVE
-18                                                    a bit of back and forth with scarra and boxbox                      https://clips.twitch.tv/WanderingSinglePuffinKappa-yCpz6XzU0bmzXnz9  2024/03/11    0.0000  NEGATIVE       POSITIVE
-19                                                 If I could figure out a way to cool my phone down                 https://clips.twitch.tv/RespectfulSassyCarrotCclamChamp-DOGlh3-BOHwLkkAS  2024/03/11    0.3182  POSITIVE       NEGATIVE
-20    Tyler1 ends his 13 game winless streak at 1587 rating after being 1 win a way from 1700 rating                          https://clips.twitch.tv/DullTacitMangoPoooound-iO7Oyes7WaTVZ-6h  2024/03/11    0.5859  POSITIVE       NEGATIVE
-21  Rusty Cage appears to guillotine himself live after hinting at ending his career on social media                            https://youtube.com/clip/UgkxVnNPOes40Eo3A0M9PkbP8nzePD0VBf8I  2024/03/11    0.0000  NEGATIVE       NEGATIVE
-22                                                Remy the rat pulls a bit too hard on Squeex's hair                             https://clips.twitch.tv/WildSlickAyeayeMcaT-iP_r5RDzuktBJIot  2024/03/11   -0.1027  NEGATIVE       NEGATIVE
-23                                                                         xQc watches the AI Oscars                                https://kick.com/xqc?clip=clip_01HRNFMGDG8DTBETF5926Q0MMZ  2024/03/11    0.0000  NEGATIVE       POSITIVE
-24                                                    Squeex has some advice for the smash community                       https://clips.twitch.tv/BlueTawdryGalagoFutureMan-Pp9mKTXSEZ3OfqKm  2024/03/11    0.0000  NEGATIVE       POSITIVE
+                                                                      title                                                                                                                     url        date  compound   SA_nltk SA_distilibert
+0                                      Playboy looking for content creators                                                https://clips.twitch.tv/FaithfulRamshackleTofuPartyTime-vSccm-rCUluyWB6L  2024/03/12    0.0000  NEGATIVE       NEGATIVE
+1                           15 year old likes watching xQc gamble on stream                                                               https://kick.com/xqc?clip=clip_01HRTFM9FK06CDRVQCRWTBEVX2  2024/03/12    0.4215  POSITIVE       POSITIVE
+2                                                                Bean Slips                                              https://clips.twitch.tv/HilariousCoyMarjoramDoubleRainbow-ieGOjtm_w14-ma_E  2024/03/12    0.0000  NEGATIVE       NEGATIVE
+3                           Chat finds Streamer's old Hollywood acting clip                                                    https://kick.com/therealmoisesb?clip=clip_01HRTDJMHJ2PTQ50E1NCX1542Y  2024/03/12    0.0000  NEGATIVE       NEGATIVE
+4                                                 xQc Fails the Light Trick                                                               https://kick.com/xqc?clip=clip_01HRTE8X0BR9P2NQCTK4D8FMPY  2024/03/12   -0.4588  NEGATIVE       NEGATIVE
+5                                                            Meanwhile Wake                                                https://clips.twitch.tv/SpikySwissButterflyStinkyCheese-1GCZoQTiO7tfTCEe  2024/03/12    0.0000  NEGATIVE       POSITIVE
+6                                           Guy fell down construction site                                              https://www.twitch.tv/tazo/clip/AmorphousPoliteCodDogFace-kTI5TFqP93obh3RC  2024/03/12    0.0000  NEGATIVE       NEGATIVE
+7                                     Morgpie's transformative react method                                                          https://clips.twitch.tv/SourToughJuiceWutFace-ZZlGe_U2RqrTmYtd  2024/03/12    0.0000  NEGATIVE       POSITIVE
+8                                                          xQc Crazy Timing                                                 https://clips.twitch.tv/ChillyAssiduousSpindlePipeHype-7P82l2tBvGTvT8vW  2024/03/12   -0.3400  NEGATIVE       NEGATIVE
+9                                                           xQc shoots chat                                                 https://clips.twitch.tv/HonorableTenderAntAMPTropPunch-UY2taGrjHY0DtcRZ  2024/03/12    0.0000  NEGATIVE       NEGATIVE
+10                                           forsen captures the enemy flag                                                      https://clips.twitch.tv/StupidCuteGoshawkMikeHogu-0AUlJiiphUNaWw4D  2024/03/12   -0.5423  NEGATIVE       POSITIVE
+11                                           RyakTV falls through his chair                                           https://www.twitch.tv/ryaktv/clip/SourFilthyJamMrDestructoid-kzujJwo9QQL4yYrn  2024/03/12    0.0000  NEGATIVE       NEGATIVE
+12                                           Cinna on having a new step mom                                                      https://clips.twitch.tv/HorribleBelovedOstrichWow-5XfIWOLtXUELSx25  2024/03/12    0.0000  NEGATIVE       POSITIVE
+13                              xQc talks about double standards of alcohol                                                https://clips.twitch.tv/ConsiderateFairScorpionTheTarFu-XNfP6GVjzSoGI5M3  2024/03/12    0.0000  NEGATIVE       NEGATIVE
+14                                                     xQc sexual assaulted                                              https://clips.twitch.tv/TemperedMiniatureNuggetsDatSheffy-GwshNd-I_VB0fTWh  2024/03/12   -0.5267  NEGATIVE       NEGATIVE
+15            NL/Chiblee get 50,000 more jackbox votes than current viewers                                                    https://clips.twitch.tv/BlueVibrantCheesecakeOpieOP-TCCIgZ8RCIcGHUsa  2024/03/12    0.0000  NEGATIVE       NEGATIVE
+16                        Poki talking about GeorgeNotFound and Wilbur Soot                                                   https://clips.twitch.tv/AbstemiousDrabWolfYouDontSay-l3omCfmtycJwanou  2024/03/12    0.0000  NEGATIVE       NEGATIVE
+17                                                    xQc Thoughts On Books                                                     https://clips.twitch.tv/HyperImportantEggAMPEnergy-KOZXtjePZYzuH4CY  2024/03/12    0.0000  NEGATIVE       POSITIVE
+18                                       XQC's hot take on female rap music                                                      https://clips.twitch.tv/LightCrackyButterflyLitty-Cf6emWR9_sd2qUFB  2024/03/12    0.0000  NEGATIVE       POSITIVE
+19                                                  TwoPuppets - A showman.  https://www.twitch.tv/twopuppets/clip/TriangularBlatantStingrayDoggo-8Qyqu2LfQkEaM1wH?filter=clips&range=30d&sort=time  2024/03/12    0.0000  NEGATIVE       NEGATIVE
+20                                                       Your Average Texan                                                           https://clips.twitch.tv/BoringHyperCakeDoggo-HgGncJ10aABgathw  2024/03/12    0.0000  NEGATIVE       POSITIVE
+21                                               What is a Swedish delicacy                                                      https://clips.twitch.tv/PiercingBigDragonRickroll-WIqfmtYMQr6_j_zO  2024/03/12    0.0000  NEGATIVE       NEGATIVE
+22                                                             Erobb moment                                            https://clips.twitch.tv/SmokyAuspiciousSoymilkChocolateRain-8Y1yMmJL97oYIj5z  2024/03/12    0.0000  NEGATIVE       NEGATIVE
+23                            Break's daughter says hello to chat peepoClap                                          https://clips.twitch.tv/EnthusiasticReliablePancakeTwitchRaid-3AKG3AZlaHWZUMr4  2024/03/12    0.0000  NEGATIVE       POSITIVE
+24                                                              face of OTK                                https://www.twitch.tv/thesushidragon/clip/PreciousHonorableSushiSoBayed-QZA089-9whi9WTZR  2024/03/12    0.0000  NEGATIVE       NEGATIVE
+25                 Adin inadvertently alerted police to Tate brother's plan                                                          https://kick.com/adinross?clip=clip_01HR66A988VZ0522S53PNG2Z3B  2024/03/12    0.0000  NEGATIVE       NEGATIVE
+26                                                          glass fogged up                                         https://www.twitch.tv/zoe_0601/clip/AmusedExcitedPenguinLitFam--RjP7G7f049-tUMB  2024/03/12    0.0000  NEGATIVE       NEGATIVE
+27                   Dan Clancy invites streamers to speak at serious event                                                  https://clips.twitch.tv/PreciousHonorableSushiSoBayed-QZA089-9whi9WTZR  2024/03/12   -0.0772  NEGATIVE       POSITIVE
+28                                Shiphtur runs into the average Yoshimitsu                                                      https://clips.twitch.tv/WildEasyHornetDancingBaby-oRG4qWFzwwV_aeYQ  2024/03/12    0.0000  NEGATIVE       POSITIVE
+29                                  An average performance for Northernlion                                                      https://clips.twitch.tv/FairTemperedCattleRedCoat-vVaHwF9DqAfGiSY1  2024/03/12    0.0000  NEGATIVE       POSITIVE
+30                                                 futuristic mahjong table                                                   https://clips.twitch.tv/GoldenSuaveWitchCoolStoryBro-1y_L4erDIbh35VxI  2024/03/12    0.0000  NEGATIVE       POSITIVE
+31  Adin’s Kick stream is one of the reason Andrew Tate got arrested today.                                                                https://x.com/willsommer/status/1767566609281900882?s=46  2024/03/12   -0.4767  NEGATIVE       NEGATIVE
+32                            GregKnockEmOff gets a monster in his PO Box 🦑                         https://www.twitch.tv/gregknockemoff/clip/HilariousHorribleChimpanzeeBlargNaut-PgSN8jS9K7piYMzm  2024/03/12   -0.6523  NEGATIVE       NEGATIVE
+33                                       Joey inspires future IRL streamers                                                https://clips.twitch.tv/AffluentResilientTapirHotPokket-kuFQd03mb9RmOrzn  2024/03/12    0.4404  POSITIVE       POSITIVE
+34                                       NASA & SpaceX Crew7 back on Earth!                                             https://clips.twitch.tv/HelplessAssiduousStinkbugTwitchRPG-Dw2VSXdSYEaQ5aYl  2024/03/12    0.0000  NEGATIVE       POSITIVE
+35                    Streamer finds himself in an ancient Chinese painting                                                      https://clips.twitch.tv/LivelyFlirtyClipsmomKeepo-sg473SYZPp6zmP2U  2024/03/12    0.0000  NEGATIVE       POSITIVE
+36                                            They sent him fake boobs wtf                                                https://clips.twitch.tv/GleamingHeartlessArugulaPanicVis-cZrjs7cSDtVX21gY  2024/03/12   -0.7845  NEGATIVE       NEGATIVE
+37                                           Most sane Madagascar 3 enjoyer                                       https://clips.twitch.tv/CrispyStupidSashimiKlappa-qTxEbqn59Q0oLQSW?tt_medium=redt  2024/03/12    0.5367  POSITIVE       POSITIVE
+38                                       Jake sniped in the middle of China                                                https://clips.twitch.tv/BrightFaintClintmullinsBudBlast-6543lG2tOVJWwVyM  2024/03/12    0.0000  NEGATIVE       NEGATIVE
+39                                              Dragon's Dogma NPC behavior                                                      https://clips.twitch.tv/SecretiveMoralHyenaLitFam-rJ861gI8_zFxRCrA  2024/03/12    0.0000  NEGATIVE       NEGATIVE
+40                        GeorgeNotFound denies claims of sexual misconduct                                                      https://clips.twitch.tv/FurtiveBitterCrabsHeyGuys-PYXlrPgmjhzl1Wae  2024/03/12   -0.4215  NEGATIVE       POSITIVE
+41                                                   Coco escapes scam taxi                                                      https://clips.twitch.tv/BrainyEmpathicBisonYouWHY-6iH9Icp7_rNKZG6_  2024/03/12   -0.4939  NEGATIVE       POSITIVE
+42                                        Bean peels his baked potatoes....                                                         https://clips.twitch.tv/IcyShakingIguanaMVGame-w4rdxM6pgWbh0aK_  2024/03/12    0.0000  NEGATIVE       POSITIVE
+43                         Bro chat really gifted him this for his birthday                                           https://clips.twitch.tv/HilariousHorribleChimpanzeeBlargNaut-PgSN8jS9K7piYMzm  2024/03/12    0.0000  NEGATIVE       POSITIVE
+44                                                                  RIP ACL                                                  https://clips.twitch.tv/HelpfulElegantPlumberUncleNox-rsDiQjHrhsVcJMiQ  2024/03/12    0.0000  NEGATIVE       NEGATIVE
+45                                      What makes u think that I am horny?                                                https://clips.twitch.tv/AcceptableSmokyLouseArsonNoSexy-ZP8evLpNaB_In9Nj  2024/03/12    0.0000  NEGATIVE       NEGATIVE
+46                                    pornstar learns about interest rates                                                    https://clips.twitch.tv/FlaccidFaintRavenPanicBasket-f5ePjofEkRTX_vkE  2024/03/12    0.4588  POSITIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    18
-POSITIVE     7
+NEGATIVE    43
+POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    14
-NEGATIVE    11
+NEGATIVE    25
+POSITIVE    22
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
