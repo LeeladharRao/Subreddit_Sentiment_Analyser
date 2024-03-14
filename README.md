@@ -7,12 +7,12 @@ which configyred to execute everyday with Github Actions.
 ## Last Run Results
 
 Last Executed on <!-- date_value starts -->
-2024/03/12
+2024/03/13
 <!-- date_value ends -->
 
-According to DistilBERT, yesterday's posts on LSF were <!-- distilibert_per starts -->54<!-- distilibert_per ends -->% <!-- distilibert_value starts -->Negative<!-- distilibert_value ends -->
+According to DistilBERT, yesterday's posts on LSF were <!-- distilibert_per starts -->55<!-- distilibert_per ends -->% <!-- distilibert_value starts -->Negative<!-- distilibert_value ends -->
 
-According to NLTK, yesterday's posts on LSF were <!-- nltk_per starts -->92<!-- nltk_per ends -->% <!-- nltk_value starts -->Negative<!-- nltk_value ends -->
+According to NLTK, yesterday's posts on LSF were <!-- nltk_per starts -->86<!-- nltk_per ends -->% <!-- nltk_value starts -->Negative<!-- nltk_value ends -->
 
 ## Tech
 
