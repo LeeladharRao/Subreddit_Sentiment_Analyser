@@ -1,38 +1,39 @@
 <!-- posts starts -->
-                                                                                                    title                                                                             url        date  compound   SA_nltk SA_distilibert
-0                                                                  funny Lirik DayZ moment in 2024 (real)  https://www.twitch.tv/lirik/clip/DreamyBillowingHerdThunBeast-xD8WuXjGgiB5AIEF  2024/03/16    0.4404  POSITIVE       POSITIVE
-1                                                                          Kentucky Redneck lost to chat.           https://clips.twitch.tv/VenomousManlyCoyoteFUNgineer-ThrA0QUpBmneXAMb  2024/03/16   -0.3182  NEGATIVE       NEGATIVE
-2             Asmon "It bothers me a lot that people keep bringing up the dead rat and blood on the wall"        https://clips.twitch.tv/CrowdedEsteemedEelDoubleRainbow-3AZG2A5Ndj6wzS0I  2024/03/16   -0.7269  NEGATIVE       NEGATIVE
-3                                                                        Forsen calls out the Tekken devs         https://clips.twitch.tv/ShortArtisticPancakeKappaClaus-JAtlnPazjOuFETeJ  2024/03/16    0.0000  NEGATIVE       NEGATIVE
-4                                                       Soda thinks he hears Lirik in a random indie game            https://clips.twitch.tv/HumbleBlueBeaverKappaWealth--MT2e_GHKFD9-xji  2024/03/16    0.0000  NEGATIVE       NEGATIVE
-5                                                                                 Forsen calls hasan fake      https://clips.twitch.tv/LaconicPatientPterodactylRuleFive-pGpZGqNRYohyBmaG  2024/03/16   -0.4767  NEGATIVE       NEGATIVE
-6                                                   Forsen has an interesting take on fighting game devs.      https://clips.twitch.tv/OptimisticManlyOwlResidentSleeper-xjkSd4ntpnPTDwBt  2024/03/16    0.0516  NEGATIVE       POSITIVE
-7                                                                    Forsen receives message from Finland     https://clips.twitch.tv/FriendlyEsteemedLouseDancingBanana-E2snl1n1ocC70Ddg  2024/03/16    0.0000  NEGATIVE       POSITIVE
-8                                                  Lady Takes a Nose Dive at the St. Patrick's Day Parade       https://clips.twitch.tv/IgnorantSplendidSalamanderAliens-bwiGUShlx22p2z7I  2024/03/16    0.0000  NEGATIVE       NEGATIVE
-9                                                                               Caedrel explains Valorant          https://clips.twitch.tv/PrettyScaryLasagnaSoonerLater-AwmjV4cycNR59XwU  2024/03/16    0.0000  NEGATIVE       POSITIVE
-10                                                                      China already replaced their dogs           https://clips.twitch.tv/WanderingEnergeticPastaFloof-zng6U9Dn9Ux73lHt  2024/03/16    0.0000  NEGATIVE       NEGATIVE
-11  Adin's editor confirms Adin reacted to a fan take his own life over discord due to gambling addiction                https://kick.com/somuchplug?clip=clip_01HS3A4VZT3VX5AJEJ1YYJ3SD3  2024/03/16   -0.1027  NEGATIVE       NEGATIVE
-12                                                                               Its hard 2 make you hard      https://clips.twitch.tv/BillowingPluckyOctopusGrammarKing-suT_9kv-xushHiV2  2024/03/16   -0.2023  NEGATIVE       NEGATIVE
-13                                                                   Kai gets a call from Kanye's manager         https://clips.twitch.tv/ScrumptiousRoundPepperRuleFive-q_Z-CNZtbVtNoE9w  2024/03/16    0.0000  NEGATIVE       POSITIVE
-14                                                      It was at this moment Kai Cenat knew he f**ked up      https://clips.twitch.tv/ShakingTalentedArmadilloPicoMause-lpfcFYE9Omq9gk_U  2024/03/16    0.0000  NEGATIVE       POSITIVE
-15                                                                                              kiss miss            https://clips.twitch.tv/ResilientFragileSwallowBIRB-sGUe7A19jx-dp0UY  2024/03/16    0.2960  POSITIVE       NEGATIVE
-16                                                                       Connor jinxes his cyclethon prep    https://clips.twitch.tv/InexpensiveUgliestHedgehogDendiFace-xrSQ-oAnS3NuJdpo  2024/03/16    0.0000  NEGATIVE       POSITIVE
-17                                                                            Destiny reads hate comments                   https://kick.com/destiny?clip=clip_01HS2JH0QHAP8K04EBFP1T60Q7  2024/03/16   -0.5719  NEGATIVE       NEGATIVE
-18                                                                                Rae at the firing range   https://clips.twitch.tv/ExquisiteDepressedBasenjiMoreCowbell-mYHmLhW29eZ_Ud_B  2024/03/16   -0.3400  NEGATIVE       NEGATIVE
-19                                                                       ImperialHal going crazy End game            https://clips.twitch.tv/AbrasiveSnappyPotatoWutFace-Qrv8cfkv30iCuIrK  2024/03/16   -0.3400  NEGATIVE       NEGATIVE
-20                                                                                                 squeck    https://clips.twitch.tv/BlueRamshackleGrasshopperPunchTrees-h3hHcSsp4hlcQijH  2024/03/16    0.0000  NEGATIVE       NEGATIVE
+                                                                                                    title                                                                                    url        date  compound   SA_nltk SA_distilibert
+0                                 Hungrybox clutches up, down 3 stocks vs the rank #1 player in the world                 https://clips.twitch.tv/SmoothFunnyRamenLeeroyJenkins-SfEJLrI7M5cDEW1s  2024/03/17    0.0000  NEGATIVE       NEGATIVE
+1                                                                          Asking the important questions                   https://clips.twitch.tv/PlumpSpoopyRabbitPunchTrees-AgjV4stK71182hD9  2024/03/17    0.2023  POSITIVE       POSITIVE
+2                                                                 z4KR shows some disrespect at the major     https://clips.twitch.tv/ClumsyBlitheEndivePanicVis-yAWwhD4D7lIgGiwl?tt_medium=redt  2024/03/17   -0.4215  NEGATIVE       NEGATIVE
+3                                     forsen makes fan crossover theory about LoTR with real-life history             https://clips.twitch.tv/ConsiderateInventiveGorillaBCouch-I4xmD8js0WCBX2oP  2024/03/17    0.3182  POSITIVE       POSITIVE
+4                                                                              Forsen tries shadow of war             https://clips.twitch.tv/JazzyAgreeablePigeonChocolateRain-Zthz_lIQ7jw_I6iZ  2024/03/17   -0.5994  NEGATIVE       NEGATIVE
+5                                                                        Jinny gets chased by a guard dog                   https://clips.twitch.tv/MoldyLaconicMetalWholeWheat-nikLB3PT6IamPI_Q  2024/03/17    0.0000  NEGATIVE       NEGATIVE
+6   Kick streamer in Jerusalem, Israel facing racism on the street (mention of jungle and monkey sounds).                     https://kick.com/johnnysomali?clip=clip_01HS71PSR51FPPGMJP86SH978Q  2024/03/17   -0.6249  NEGATIVE       NEGATIVE
+7                                                                                         new forsen line                  https://clips.twitch.tv/AstutePeppyRaisinArsonNoSexy-OeFD6z-OL3ZsFL8C  2024/03/17    0.0000  NEGATIVE       POSITIVE
+8                                                              Simply attempts another mario world record                    https://clips.twitch.tv/SpeedyYawningCookieOhMyDog-wdTzoqEn6SfJ4xbE  2024/03/17    0.0000  NEGATIVE       NEGATIVE
+9                                                          Ice forgets real life while playing Plate game                      https://kick.com/iceposeidon?clip=clip_01HS6SNGWTVHDTXF7DKGXR8QD5  2024/03/17    0.2023  POSITIVE       NEGATIVE
+10                                                                                        Lirik on a hunt                  https://clips.twitch.tv/RelievedPopularGorillaAliens-Mfb1xNRyK079FlFm  2024/03/17    0.0000  NEGATIVE       POSITIVE
+11                                                                                           Still Got It         https://clips.twitch.tv/AnimatedHeadstrongFriseeDoubleRainbow-mALTLlmgvLc3JiQS  2024/03/17    0.0000  NEGATIVE       POSITIVE
+12                                                                  Mazu statue in Penghu Islands, Taiwan                   https://clips.twitch.tv/BlitheExuberantHeronPRChase-qC5cWFPS32MrEUQR  2024/03/17    0.0000  NEGATIVE       POSITIVE
+13                                                                                      Forsen TTS Timing                https://clips.twitch.tv/ViscousLovelyLobsterTBTacoLeft-c1ZA0mpfj93roJYQ  2024/03/17    0.0000  NEGATIVE       NEGATIVE
+14                                                         when you try arguing with chat but keep losing          https://clips.twitch.tv/RamshackleGracefulLadiesCharlieBitMe-_dgwohBCaEjs7sgU  2024/03/17   -0.6597  NEGATIVE       NEGATIVE
+15                                                              KYLAR pulls an INSANE CLUTCH in overtime!                   https://clips.twitch.tv/MuddyApatheticTitanDAESuppy-CpMz8WBtlXVY-r8s  2024/03/17   -0.5754  NEGATIVE       POSITIVE
+16                                                           PGL Major Copenhagen 2024 Official Co-Stream                 https://clips.twitch.tv/GleamingAdorableRaccoonFunRun-qiYBJQ25jOyxbjDc  2024/03/17    0.0000  NEGATIVE       POSITIVE
+17                                                                       Streamer takes train in the butt                    https://clips.twitch.tv/ProtectiveBlueManateeKeepo-W1nmpEn4nP4CQ0za  2024/03/17    0.0000  NEGATIVE       NEGATIVE
+18                                                                    Destiny on GeorgeNotFound situation                        https://kick.com/destiny?clip=clip_01HS4E717BBXDQC8SMS6FC9K19?3  2024/03/17    0.0000  NEGATIVE       NEGATIVE
+19                                                                                Aris reads a ban appeal  https://clips.twitch.tv/EasyStormyTermiteDeIlluminati-Co9Fj_djPzNH9SDW?tt_medium=redt  2024/03/17   -0.5574  NEGATIVE       NEGATIVE
+20                                                                   Soda gives advice to small streamers                 https://clips.twitch.tv/GleamingSaltyBadgerWholeWheat-lC407JmTo4_jxgKY  2024/03/17    0.0000  NEGATIVE       POSITIVE
+21                                                             Destiny's mom describes growing up in Cuba                          https://kick.com/destiny?clip=clip_01HS4MWV1DCRC3TNM49Y8BFVWM  2024/03/17    0.1779  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
 NEGATIVE    19
-POSITIVE     2
+POSITIVE     3
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    14
-POSITIVE     7
+NEGATIVE    12
+POSITIVE    10
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
