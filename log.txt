@@ -1,39 +1,46 @@
 <!-- posts starts -->
-                                                                                                    title                                                                                    url        date  compound   SA_nltk SA_distilibert
-0                                 Hungrybox clutches up, down 3 stocks vs the rank #1 player in the world                 https://clips.twitch.tv/SmoothFunnyRamenLeeroyJenkins-SfEJLrI7M5cDEW1s  2024/03/17    0.0000  NEGATIVE       NEGATIVE
-1                                                                          Asking the important questions                   https://clips.twitch.tv/PlumpSpoopyRabbitPunchTrees-AgjV4stK71182hD9  2024/03/17    0.2023  POSITIVE       POSITIVE
-2                                                                 z4KR shows some disrespect at the major     https://clips.twitch.tv/ClumsyBlitheEndivePanicVis-yAWwhD4D7lIgGiwl?tt_medium=redt  2024/03/17   -0.4215  NEGATIVE       NEGATIVE
-3                                     forsen makes fan crossover theory about LoTR with real-life history             https://clips.twitch.tv/ConsiderateInventiveGorillaBCouch-I4xmD8js0WCBX2oP  2024/03/17    0.3182  POSITIVE       POSITIVE
-4                                                                              Forsen tries shadow of war             https://clips.twitch.tv/JazzyAgreeablePigeonChocolateRain-Zthz_lIQ7jw_I6iZ  2024/03/17   -0.5994  NEGATIVE       NEGATIVE
-5                                                                        Jinny gets chased by a guard dog                   https://clips.twitch.tv/MoldyLaconicMetalWholeWheat-nikLB3PT6IamPI_Q  2024/03/17    0.0000  NEGATIVE       NEGATIVE
-6   Kick streamer in Jerusalem, Israel facing racism on the street (mention of jungle and monkey sounds).                     https://kick.com/johnnysomali?clip=clip_01HS71PSR51FPPGMJP86SH978Q  2024/03/17   -0.6249  NEGATIVE       NEGATIVE
-7                                                                                         new forsen line                  https://clips.twitch.tv/AstutePeppyRaisinArsonNoSexy-OeFD6z-OL3ZsFL8C  2024/03/17    0.0000  NEGATIVE       POSITIVE
-8                                                              Simply attempts another mario world record                    https://clips.twitch.tv/SpeedyYawningCookieOhMyDog-wdTzoqEn6SfJ4xbE  2024/03/17    0.0000  NEGATIVE       NEGATIVE
-9                                                          Ice forgets real life while playing Plate game                      https://kick.com/iceposeidon?clip=clip_01HS6SNGWTVHDTXF7DKGXR8QD5  2024/03/17    0.2023  POSITIVE       NEGATIVE
-10                                                                                        Lirik on a hunt                  https://clips.twitch.tv/RelievedPopularGorillaAliens-Mfb1xNRyK079FlFm  2024/03/17    0.0000  NEGATIVE       POSITIVE
-11                                                                                           Still Got It         https://clips.twitch.tv/AnimatedHeadstrongFriseeDoubleRainbow-mALTLlmgvLc3JiQS  2024/03/17    0.0000  NEGATIVE       POSITIVE
-12                                                                  Mazu statue in Penghu Islands, Taiwan                   https://clips.twitch.tv/BlitheExuberantHeronPRChase-qC5cWFPS32MrEUQR  2024/03/17    0.0000  NEGATIVE       POSITIVE
-13                                                                                      Forsen TTS Timing                https://clips.twitch.tv/ViscousLovelyLobsterTBTacoLeft-c1ZA0mpfj93roJYQ  2024/03/17    0.0000  NEGATIVE       NEGATIVE
-14                                                         when you try arguing with chat but keep losing          https://clips.twitch.tv/RamshackleGracefulLadiesCharlieBitMe-_dgwohBCaEjs7sgU  2024/03/17   -0.6597  NEGATIVE       NEGATIVE
-15                                                              KYLAR pulls an INSANE CLUTCH in overtime!                   https://clips.twitch.tv/MuddyApatheticTitanDAESuppy-CpMz8WBtlXVY-r8s  2024/03/17   -0.5754  NEGATIVE       POSITIVE
-16                                                           PGL Major Copenhagen 2024 Official Co-Stream                 https://clips.twitch.tv/GleamingAdorableRaccoonFunRun-qiYBJQ25jOyxbjDc  2024/03/17    0.0000  NEGATIVE       POSITIVE
-17                                                                       Streamer takes train in the butt                    https://clips.twitch.tv/ProtectiveBlueManateeKeepo-W1nmpEn4nP4CQ0za  2024/03/17    0.0000  NEGATIVE       NEGATIVE
-18                                                                    Destiny on GeorgeNotFound situation                        https://kick.com/destiny?clip=clip_01HS4E717BBXDQC8SMS6FC9K19?3  2024/03/17    0.0000  NEGATIVE       NEGATIVE
-19                                                                                Aris reads a ban appeal  https://clips.twitch.tv/EasyStormyTermiteDeIlluminati-Co9Fj_djPzNH9SDW?tt_medium=redt  2024/03/17   -0.5574  NEGATIVE       NEGATIVE
-20                                                                   Soda gives advice to small streamers                 https://clips.twitch.tv/GleamingSaltyBadgerWholeWheat-lC407JmTo4_jxgKY  2024/03/17    0.0000  NEGATIVE       POSITIVE
-21                                                             Destiny's mom describes growing up in Cuba                          https://kick.com/destiny?clip=clip_01HS4MWV1DCRC3TNM49Y8BFVWM  2024/03/17    0.1779  NEGATIVE       POSITIVE
+                                                                   title                                                                                               url        date  compound   SA_nltk SA_distilibert
+0                                                            Harvey Dent                                    https://clips.twitch.tv/BigBeautifulYakDatBoi-OnLFuY5nn1XgVJca  2024/03/18    0.0000  NEGATIVE       POSITIVE
+1                           Erobb forgot to mute the mic before ordering                       https://clips.twitch.tv/InquisitiveGracefulGoshawkFrankerZ-X6Gk5VmZmUlO-KgB  2024/03/18    0.0000  NEGATIVE       NEGATIVE
+2                        Erobb leaves his car running while in the store                           https://clips.twitch.tv/GentleEnjoyableLadiesPicoMause-KV11Ab0radRY24fA  2024/03/18    0.0000  NEGATIVE       NEGATIVE
+3                                                       Erobb on Ramadan                     https://clips.twitch.tv/ProtectiveAgitatedSrirachaHumbleLife-ZWWxpwLGJFE7dWUm  2024/03/18    0.0000  NEGATIVE       NEGATIVE
+4                                            375 pounds Log press JAMMIN                             https://clips.twitch.tv/BreakableShortButterflyDxCat--u5PROtgHuwXgN89  2024/03/18    0.0000  NEGATIVE       NEGATIVE
+5                                       Tyler1 hits 1700 rating in chess                                   https://clips.twitch.tv/EasyGiftedDonkeyTTours-5-y36QMandkmc63k  2024/03/18    0.0000  NEGATIVE       POSITIVE
+6                                                Maya almost kills a mod                          https://clips.twitch.tv/ArtisticCogentPartridgeKreygasm-4BCFros8Z9aHmxhG  2024/03/18   -0.4951  NEGATIVE       NEGATIVE
+7                                                   lirik does the thing                               https://clips.twitch.tv/ShyAmorphousDelicataUnSane-ZhwIMvcho0YvgGNF  2024/03/18    0.0000  NEGATIVE       POSITIVE
+8                                                      Maya Left Hanging                               https://clips.twitch.tv/DeafPlacidCobblerTheRinger-l3XEoDFAzsJGPnPD  2024/03/18    0.0000  NEGATIVE       NEGATIVE
+9                      Kscerato with Double kill Nade in the last second                             https://clips.twitch.tv/ChillyChillyDillCoolStoryBro-XfxdUOHdrmzTw6nR  2024/03/18   -0.6908  NEGATIVE       NEGATIVE
+10                                                      new ramen flavor        https://www.twitch.tv/geezgiselle/clip/NurturingHeartlessYamDoubleRainbow-CL_ae06-_Wdaq53a  2024/03/18    0.0000  NEGATIVE       POSITIVE
+11                                   Robcdee - Random worker Shibuya Rap                         https://clips.twitch.tv/TransparentSingleManateeBatChest-NfFpl3sI6Xh3mZtP  2024/03/18    0.0000  NEGATIVE       NEGATIVE
+12                                                  Chat touches a woman                      https://clips.twitch.tv/HandsomePolishedStrawberryOMGScoots-RGkV27mLCh1T4ZnP  2024/03/18    0.0000  NEGATIVE       POSITIVE
+13                                                the stock guy slips up                             https://clips.twitch.tv/ExcitedPlumpSardineHotPokket-s9XxW08_IE0XL84_  2024/03/18    0.0000  NEGATIVE       NEGATIVE
+14                               least experienced motorcyclist in korea                  https://clips.twitch.tv/TrustworthyStylishBarracudaAMPTropPunch-TbW88ZdyaH8EsCnp  2024/03/18    0.0000  NEGATIVE       NEGATIVE
+15                                                 Selfcheckout speedrun                              https://clips.twitch.tv/IcyCovertEyeballHoneyBadger-o934XGhAH_nJxyCW  2024/03/18    0.0000  NEGATIVE       NEGATIVE
+16                                          Soda has a heartwarming idea                              https://clips.twitch.tv/SmellyHealthyCatDoritosChip-muAFE7bBoHpb5m65  2024/03/18    0.4767  POSITIVE       POSITIVE
+17                                               Lacari gets trolled kek                                https://clips.twitch.tv/NurturingNaiveOstrichDerp-1w9HW9mHOzn40JaL  2024/03/18    0.0000  NEGATIVE       NEGATIVE
+18                                  ALGS Hacker’s message to ImperialHal                                 https://clips.twitch.tv/BraveAlertStarYouDontSay-W-Jusslg-PcQGwHl  2024/03/18    0.0000  NEGATIVE       NEGATIVE
+19                                                      Miz gets slapped                               https://clips.twitch.tv/PoisedSpookyStarlingWoofer-AWjktD3RI3gZym-g  2024/03/18    0.0000  NEGATIVE       NEGATIVE
+20                                                           God is real                              https://clips.twitch.tv/SavageThankfulLaptopSaltBae-JvmRzFs9atJhTGau  2024/03/18    0.2732  POSITIVE       POSITIVE
+21  Adin rages at a player tells him to pull up discord and hang himself                                    https://kick.com/adinross?clip=clip_01HS7PKRS27J19A45AXHYE0ZS1  2024/03/18   -0.7003  NEGATIVE       NEGATIVE
+22                Lacari dies and tries to play it cool for Soda and Vei                                    https://clips.twitch.tv/DirtyCoyBottleHeyGuys-hi9fL6gN0fQ0fFE4  2024/03/18    0.5719  POSITIVE       NEGATIVE
+23                                    Ireland stands with South Korea ✊🍀                              https://clips.twitch.tv/OriginalKnottyAdminTooSpicy-8oG21IZEbRNiRwy0  2024/03/18    0.0000  NEGATIVE       POSITIVE
+24                           Simply pisses everywhere during WR pace run  https://clips.twitch.tv/DiligentScaryTurnipPJSalt-OVf2nXduKlGX_OSC?tt_content=url&tt_medium=redt  2024/03/18   -0.3400  NEGATIVE       NEGATIVE
+25                  TSM_ImperialHal's Dad finds out how hacker did it...                       https://clips.twitch.tv/CreativeObliqueSquirrelSuperVinlin-jrlXxRqzbfMKfac6  2024/03/18    0.0000  NEGATIVE       NEGATIVE
+26        ImperialHal gets hacked after Genburten during ALGS qualifiers                                       https://clips.twitch.tv/DreamyVastEmuFloof-jKEpIsssAfDdw2My  2024/03/18   -0.4019  NEGATIVE       NEGATIVE
+27                             Aris' New Year's Resolution is going well                                https://clips.twitch.tv/BlightedPoliteWaterVoHiYo-7MKLgrTFlzrrkWx0  2024/03/18    0.2732  POSITIVE       POSITIVE
+28                                          Hasans dog attacks over food                                 https://clips.twitch.tv/SwissTenderTortoiseANELE-UeFeawC6NN0vA5BY  2024/03/18   -0.4404  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    19
-POSITIVE     3
+NEGATIVE    25
+POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    12
-POSITIVE    10
+NEGATIVE    20
+POSITIVE     9
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
