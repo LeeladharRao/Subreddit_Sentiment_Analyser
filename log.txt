@@ -1,46 +1,36 @@
 <!-- posts starts -->
-                                                                   title                                                                                               url        date  compound   SA_nltk SA_distilibert
-0                                                            Harvey Dent                                    https://clips.twitch.tv/BigBeautifulYakDatBoi-OnLFuY5nn1XgVJca  2024/03/18    0.0000  NEGATIVE       POSITIVE
-1                           Erobb forgot to mute the mic before ordering                       https://clips.twitch.tv/InquisitiveGracefulGoshawkFrankerZ-X6Gk5VmZmUlO-KgB  2024/03/18    0.0000  NEGATIVE       NEGATIVE
-2                        Erobb leaves his car running while in the store                           https://clips.twitch.tv/GentleEnjoyableLadiesPicoMause-KV11Ab0radRY24fA  2024/03/18    0.0000  NEGATIVE       NEGATIVE
-3                                                       Erobb on Ramadan                     https://clips.twitch.tv/ProtectiveAgitatedSrirachaHumbleLife-ZWWxpwLGJFE7dWUm  2024/03/18    0.0000  NEGATIVE       NEGATIVE
-4                                            375 pounds Log press JAMMIN                             https://clips.twitch.tv/BreakableShortButterflyDxCat--u5PROtgHuwXgN89  2024/03/18    0.0000  NEGATIVE       NEGATIVE
-5                                       Tyler1 hits 1700 rating in chess                                   https://clips.twitch.tv/EasyGiftedDonkeyTTours-5-y36QMandkmc63k  2024/03/18    0.0000  NEGATIVE       POSITIVE
-6                                                Maya almost kills a mod                          https://clips.twitch.tv/ArtisticCogentPartridgeKreygasm-4BCFros8Z9aHmxhG  2024/03/18   -0.4951  NEGATIVE       NEGATIVE
-7                                                   lirik does the thing                               https://clips.twitch.tv/ShyAmorphousDelicataUnSane-ZhwIMvcho0YvgGNF  2024/03/18    0.0000  NEGATIVE       POSITIVE
-8                                                      Maya Left Hanging                               https://clips.twitch.tv/DeafPlacidCobblerTheRinger-l3XEoDFAzsJGPnPD  2024/03/18    0.0000  NEGATIVE       NEGATIVE
-9                      Kscerato with Double kill Nade in the last second                             https://clips.twitch.tv/ChillyChillyDillCoolStoryBro-XfxdUOHdrmzTw6nR  2024/03/18   -0.6908  NEGATIVE       NEGATIVE
-10                                                      new ramen flavor        https://www.twitch.tv/geezgiselle/clip/NurturingHeartlessYamDoubleRainbow-CL_ae06-_Wdaq53a  2024/03/18    0.0000  NEGATIVE       POSITIVE
-11                                   Robcdee - Random worker Shibuya Rap                         https://clips.twitch.tv/TransparentSingleManateeBatChest-NfFpl3sI6Xh3mZtP  2024/03/18    0.0000  NEGATIVE       NEGATIVE
-12                                                  Chat touches a woman                      https://clips.twitch.tv/HandsomePolishedStrawberryOMGScoots-RGkV27mLCh1T4ZnP  2024/03/18    0.0000  NEGATIVE       POSITIVE
-13                                                the stock guy slips up                             https://clips.twitch.tv/ExcitedPlumpSardineHotPokket-s9XxW08_IE0XL84_  2024/03/18    0.0000  NEGATIVE       NEGATIVE
-14                               least experienced motorcyclist in korea                  https://clips.twitch.tv/TrustworthyStylishBarracudaAMPTropPunch-TbW88ZdyaH8EsCnp  2024/03/18    0.0000  NEGATIVE       NEGATIVE
-15                                                 Selfcheckout speedrun                              https://clips.twitch.tv/IcyCovertEyeballHoneyBadger-o934XGhAH_nJxyCW  2024/03/18    0.0000  NEGATIVE       NEGATIVE
-16                                          Soda has a heartwarming idea                              https://clips.twitch.tv/SmellyHealthyCatDoritosChip-muAFE7bBoHpb5m65  2024/03/18    0.4767  POSITIVE       POSITIVE
-17                                               Lacari gets trolled kek                                https://clips.twitch.tv/NurturingNaiveOstrichDerp-1w9HW9mHOzn40JaL  2024/03/18    0.0000  NEGATIVE       NEGATIVE
-18                                  ALGS Hacker’s message to ImperialHal                                 https://clips.twitch.tv/BraveAlertStarYouDontSay-W-Jusslg-PcQGwHl  2024/03/18    0.0000  NEGATIVE       NEGATIVE
-19                                                      Miz gets slapped                               https://clips.twitch.tv/PoisedSpookyStarlingWoofer-AWjktD3RI3gZym-g  2024/03/18    0.0000  NEGATIVE       NEGATIVE
-20                                                           God is real                              https://clips.twitch.tv/SavageThankfulLaptopSaltBae-JvmRzFs9atJhTGau  2024/03/18    0.2732  POSITIVE       POSITIVE
-21  Adin rages at a player tells him to pull up discord and hang himself                                    https://kick.com/adinross?clip=clip_01HS7PKRS27J19A45AXHYE0ZS1  2024/03/18   -0.7003  NEGATIVE       NEGATIVE
-22                Lacari dies and tries to play it cool for Soda and Vei                                    https://clips.twitch.tv/DirtyCoyBottleHeyGuys-hi9fL6gN0fQ0fFE4  2024/03/18    0.5719  POSITIVE       NEGATIVE
-23                                    Ireland stands with South Korea ✊🍀                              https://clips.twitch.tv/OriginalKnottyAdminTooSpicy-8oG21IZEbRNiRwy0  2024/03/18    0.0000  NEGATIVE       POSITIVE
-24                           Simply pisses everywhere during WR pace run  https://clips.twitch.tv/DiligentScaryTurnipPJSalt-OVf2nXduKlGX_OSC?tt_content=url&tt_medium=redt  2024/03/18   -0.3400  NEGATIVE       NEGATIVE
-25                  TSM_ImperialHal's Dad finds out how hacker did it...                       https://clips.twitch.tv/CreativeObliqueSquirrelSuperVinlin-jrlXxRqzbfMKfac6  2024/03/18    0.0000  NEGATIVE       NEGATIVE
-26        ImperialHal gets hacked after Genburten during ALGS qualifiers                                       https://clips.twitch.tv/DreamyVastEmuFloof-jKEpIsssAfDdw2My  2024/03/18   -0.4019  NEGATIVE       NEGATIVE
-27                             Aris' New Year's Resolution is going well                                https://clips.twitch.tv/BlightedPoliteWaterVoHiYo-7MKLgrTFlzrrkWx0  2024/03/18    0.2732  POSITIVE       POSITIVE
-28                                          Hasans dog attacks over food                                 https://clips.twitch.tv/SwissTenderTortoiseANELE-UeFeawC6NN0vA5BY  2024/03/18   -0.4404  NEGATIVE       NEGATIVE
+                                                                           title                                                                                                                         url        date  compound   SA_nltk SA_distilibert
+0                                                    legendary streamsniper save                                                       https://clips.twitch.tv/AnimatedDullCookieSquadGoals-tx9oA2LmDFzr0gCV  2024/03/19    0.4939  POSITIVE       POSITIVE
+1                                       Knut - Knuts not taking your sh*t today!                                                          https://clips.twitch.tv/GeniusBigDolphinChefFrank-8-Zb4lbfWzZyfL5A  2024/03/19    0.0000  NEGATIVE       NEGATIVE
+2                                                       Knut thriving in America                                                        https://clips.twitch.tv/OpenInexpensiveSnakePJSugar-oRLGy5ni6WwfhhFR  2024/03/19    0.0000  NEGATIVE       POSITIVE
+3                          League of Legends pro tries to sell an item in DotA 2                                                        https://clips.twitch.tv/TriangularFrailGarageKlappa-1L4-HnEck1_ZBis5  2024/03/19    0.0000  NEGATIVE       NEGATIVE
+4                                             Pro Siege player goes for the KOBE                                                            https://clips.twitch.tv/SleepyCovertEelJebaited-DD5ZygyTHgjB7kYl  2024/03/19    0.0000  NEGATIVE       POSITIVE
+5                                                               Vedal lost a bet                               https://www.twitch.tv/vedal987/clip/GiantColdbloodedWoodpeckerFreakinStinkin-Kw7pev9it9JN6T9v  2024/03/19   -0.3182  NEGATIVE       NEGATIVE
+6                                                       Caroline asks a question  https://www.twitch.tv/willneff/clip/EmpathicFriendlyDragonflySquadGoals-WEqfVYSQbqJ7StMC?filter=clips&range=24hr&sort=time  2024/03/19    0.0000  NEGATIVE       POSITIVE
+7                                                       NymN fixes his algorithm                                                          https://clips.twitch.tv/TallFancyMelonKappaWealth-YmWClp-g7mGxOY0n  2024/03/19    0.0000  NEGATIVE       NEGATIVE
+8                                                         Copy Paste Food stalls                                                 https://clips.twitch.tv/CreativeTangentialSandwichPraiseIt-8f9ik2_D6Jkp51c_  2024/03/19    0.0000  NEGATIVE       NEGATIVE
+9                         Cyr writes a song to remember the legend of Rajj Patel                                                              https://clips.twitch.tv/BetterSaltyYakMingLee-aqGR49xtyk0CFLI3  2024/03/19    0.0000  NEGATIVE       POSITIVE
+10                                              Wrong way driver in China monkaW                                                           https://clips.twitch.tv/FilthyImportantEndiveWow-Jf8mayjap7VXTXb7  2024/03/19   -0.4767  NEGATIVE       NEGATIVE
+11                                         Destiny reviews his debate peformance                                                               https://kick.com/destiny?clip=clip_01HS9H4S387B455DM0W251R98E  2024/03/19    0.0000  NEGATIVE       POSITIVE
+12                                                          HITMAN at its finest                                                   https://clips.twitch.tv/SlickImportantMangetoutTwitchRPG-2LlNHR1mdZzK4s63  2024/03/19    0.0000  NEGATIVE       POSITIVE
+13                               Robcdee scouts Zoomers in their natural habitat                                                 https://clips.twitch.tv/GenerousConcernedAyeayeDancingBaby--K04OB1JbOWAWCbM  2024/03/19    0.3612  POSITIVE       POSITIVE
+14                                   erobb221 - Erobb gets teleported to 8 mile                                                               https://clips.twitch.tv/BoldPoisedYakRalpherZ-taiF5IjXLrqpuEZv  2024/03/19    0.0000  NEGATIVE       NEGATIVE
+15                                        Streamer tries to open the wrong truck                                                        https://clips.twitch.tv/SmoggyRenownedWoodpeckerWow-y2vo8OXBU2M5vLbq  2024/03/19   -0.4767  NEGATIVE       NEGATIVE
+16       Streamer creates portal technology and breaks the space-time continuum                                                   https://clips.twitch.tv/TriumphantLitigiousSushiBrokeBack-MogJYwYYApVouLcH  2024/03/19    0.2732  POSITIVE       POSITIVE
+17  Erobb scams viewer after telling him he would give him $20 to shave his head                                                 https://clips.twitch.tv/HardAmazonianSandpiperPeoplesChamp-k6TZ9ZJG46Uhmg4n  2024/03/19   -0.5859  NEGATIVE       NEGATIVE
+18                               Neuro-sama is really happy to be back on Twitch                                         https://www.twitch.tv/vedal987/clip/RespectfulSpeedyCarabeefFunRun-f4RtN4VMp5ZIN2yj  2024/03/19    0.6115  POSITIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    25
+NEGATIVE    15
 POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    20
-POSITIVE     9
+POSITIVE    10
+NEGATIVE     9
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
