@@ -1,41 +1,42 @@
 <!-- posts starts -->
-                                                                                    title                                                                                                                  url        date  compound   SA_nltk SA_distilibert
-0                                                                         Cyr quirks out.                                                    https://clips.twitch.tv/RudeLittleGoblinRickroll-0UvXOnjpQ8NHkm0L  2024/03/20    0.0000  NEGATIVE       POSITIVE
-1                                                       Erobb tells the truth to his chat                                       https://clips.twitch.tv/HelpfulVictoriousPterodactylOMGScoots-b3Dzpe7Jf-qeLN8j  2024/03/20    0.3182  POSITIVE       POSITIVE
-2                                             Aris shares his secret puzzle solving strat                                          https://clips.twitch.tv/EnchantingArborealFriesKappaWealth-6MJuwHqtsacHlHLT  2024/03/20    0.5574  POSITIVE       POSITIVE
-3                                                                     forsen raid forsenE                                               https://clips.twitch.tv/CheerfulSlipperyHeronCmonBruh-nne6sGA9FnhGAScP  2024/03/20    0.0000  NEGATIVE       NEGATIVE
-4                                                             Aris picks on a 5 year old.                                              https://clips.twitch.tv/ArbitrarySuaveRamenDoritosChip-MD6CTeb9i3iroOYj  2024/03/20    0.0000  NEGATIVE       POSITIVE
-5                                                                         That was scary?                                                     https://clips.twitch.tv/GiantEsteemedDeerDuDudu-DOVKvCOrU8fjenrc  2024/03/20   -0.4939  NEGATIVE       NEGATIVE
-6                                                     Destiny watches the new Twitch meta                                                        https://kick.com/destiny?clip=clip_01HSES0BBPGFSK07DH221PFMGP  2024/03/20    0.0000  NEGATIVE       POSITIVE
-7                                                                  Just enjoying a glizzy                                                 https://clips.twitch.tv/AgileSplendidJamFeelsBadMan-Y5lxVXH5tMLlsuLW  2024/03/20    0.5267  POSITIVE       POSITIVE
-8                                                             Northernlion is an Optimist                                                    https://clips.twitch.tv/HumbleTubularAntCurseLit-DK-C_N6eUymjarhe  2024/03/20    0.5267  POSITIVE       POSITIVE
-9                                 Streamer Doesn't know how to operate a washing machine                                                    https://clips.twitch.tv/IgnorantWildLorisPogChamp-qOmDEhBgGLa92Mhk  2024/03/20    0.0000  NEGATIVE       NEGATIVE
-10                                                                   Old habbits die hard                                                 https://clips.twitch.tv/HonestCharmingManateeNotATK-NAmKkYwJRNZ4Qn28  2024/03/20   -0.6486  NEGATIVE       NEGATIVE
-11                                                       POV you are throwing a boomerang                                             https://clips.twitch.tv/GleamingDiligentCakeShazBotstix-c9XwFK2irG5bkzFl  2024/03/20    0.0000  NEGATIVE       POSITIVE
-12                                                      Soda on the new WoW battle royale                                                  https://clips.twitch.tv/OptimisticBlueGaurTheTarFu-cDBO6dE9E1ErAF7d  2024/03/20    0.2960  POSITIVE       POSITIVE
-13                                                    Sooflower is enjoying song too much                                                    https://www.youtube.com/clip/UgkxfE3qFMCfyXjx50R3wN-jpe_r-kry564j  2024/03/20    0.5267  POSITIVE       POSITIVE
-14               Streamer animates her own Barbie-esque world that her characters live in  https://www.twitch.tv/julieee22/clip/DepressedExquisiteYakImGlitch-GpUy929RK1Nvme81?filter=clips&range=7d&sort=time  2024/03/20    0.0000  NEGATIVE       POSITIVE
-15                                                      Dicktone goes ape shit on chatter                                           https://clips.twitch.tv/SucculentGoodHerbsAMPEnergyCherry-5uew_tduql4Jezd9  2024/03/20   -0.5574  NEGATIVE       NEGATIVE
-16                                          Streamer finds interesting surprise menu item                                 https://www.twitch.tv/ponchotaco/clip/ApatheticSpicySeahorseTakeNRG-60K2JzHFfOxm_rSq  2024/03/20    0.5859  POSITIVE       POSITIVE
-17                 Not what you want to see when you arrive to your Sky Swing reservation                                               https://clips.twitch.tv/AntsyAssiduousFerretEleGiggle-It1t4UDgNpXTxR5q  2024/03/20   -0.0572  NEGATIVE       NEGATIVE
-18                                                                       Sam won't say it                                 https://clips.twitch.tv/SilkySpoopyNikudonCeilingCat-kQpz2A8eJCchk7BB?tt_medium=redt  2024/03/20    0.0000  NEGATIVE       NEGATIVE
-19  After Platting GTA5, Australian variety streamer Crayator wonders whats next for him.                                            https://clips.twitch.tv/AmorphousCrispyPrariedogGOWSkull-y4uYX5qyuLtLUVwu  2024/03/20    0.0000  NEGATIVE       POSITIVE
-20                                                              Gyatt Gaming feat. Trihex                                              https://clips.twitch.tv/ZealousEnchantingAnteater4Head-LFRULVFmmVEK8M7g  2024/03/20    0.0000  NEGATIVE       POSITIVE
-21                                           Owl's first flight doesn't stick the landing                                                    https://clips.twitch.tv/CleverEagerMallardSSSsss-ivxbnII9EBiW2VDL  2024/03/20    0.0000  NEGATIVE       NEGATIVE
-22                                                          Destiny loses it at a chatter                                                        https://kick.com/destiny?clip=clip_01HSCEQSE1CACA4DDMKS268JFD  2024/03/20   -0.3182  NEGATIVE       NEGATIVE
-23                Guy goes on instagram live during police chase while watching Kai Cenat                                             https://clips.twitch.tv/DifferentNicePoultryKappaWealth-RHOqacSxAdvYvSez  2024/03/20    0.0000  NEGATIVE       NEGATIVE
+                                                                            title                                                                                   url        date  compound   SA_nltk SA_distilibert
+0                                               Asmon on wearing a mask in public                https://clips.twitch.tv/WildEnergeticEggnogRaccAttack-fNdb6QxUMfdqUJFH  2024/03/21    0.0000  NEGATIVE       NEGATIVE
+1                                           Elige blind 3k during triple overtime              https://clips.twitch.tv/CoweringSlickCamelPeteZarollTie-2zkPIOKNJNGE1BO-  2024/03/21   -0.4019  NEGATIVE       NEGATIVE
+2                                                 Andy Milonakis meets Knut's dog                  https://clips.twitch.tv/EnjoyableCaringCookieWTRuck-3Vm67I6klIN2uEPa  2024/03/21    0.0000  NEGATIVE       POSITIVE
+3                                    Northern Lion - Perfectly Normal Party Rules                 https://clips.twitch.tv/ClumsyCoweringCourgetteFloof-bZO8NAMer8c-eaZb  2024/03/21    0.7845  POSITIVE       POSITIVE
+4                                                       Malena has snus on stream             https://clips.twitch.tv/SpeedyCallousAlpacaDoubleRainbow-QLnEOhmory9YjR6_  2024/03/21    0.0000  NEGATIVE       NEGATIVE
+5                                                             zero two in the bar       https://www.twitch.tv/tyongeee/clip/ZealousPluckyTigerTheTarFu-d_rCk2X_DWr3k2LM  2024/03/21    0.0000  NEGATIVE       NEGATIVE
+6    Trainwrecks and YRG talk about people being forced to accept the W community                        https://kick.com/yourrage?clip=clip_01HSGVRBY0M7AD8RQYP6ZHY7ME  2024/03/21   -0.1027  NEGATIVE       NEGATIVE
+7                                       Northernlion on offering nutrition advice             https://clips.twitch.tv/FlaccidWanderingCaribouJKanStyle-yyZWbmxWi747A_OT  2024/03/21    0.0000  NEGATIVE       POSITIVE
+8                              Forsen updates his rules about song requests links                 https://clips.twitch.tv/GiantApatheticCoyoteUncleNox-pWSOUHaiqALrd6NK  2024/03/21    0.0000  NEGATIVE       NEGATIVE
+9                                                                  we are so back  https://clips.twitch.tv/FragileChillyWeaselPicoMause-h_BImwAWX-ljzSme?tt_medium=redt  2024/03/21    0.0000  NEGATIVE       POSITIVE
+10  Trainwrecks says without the W community, the streaming scene would be boring                        https://kick.com/yourrage?clip=clip_01HSGVHVAEGHAHXEZ7FWZRAQ44  2024/03/21   -0.3182  NEGATIVE       NEGATIVE
+11                                                                      Too heavy                  https://clips.twitch.tv/RepleteAmusedYamKappaWealth-ll5F2teKgPnl6aky  2024/03/21    0.0000  NEGATIVE       NEGATIVE
+12                                            Korean doesn't like Japanese filter                https://clips.twitch.tv/GenerousAlluringMushroomSMOrc-8Ssfh911_UVjb6Qb  2024/03/21   -0.2755  NEGATIVE       NEGATIVE
+13                                                      jL breaks the fourth wall               https://clips.twitch.tv/PeppyKnottyWheelStoneLightning-OuV9mnA_diQe7Ofk  2024/03/21    0.0000  NEGATIVE       NEGATIVE
+14                          Jon Ludvig Hammer on changing his name after marriage                     https://clips.twitch.tv/CaringIcyGarageDatSheffy-yrw8ICB4_KmpaStp  2024/03/21    0.0000  NEGATIVE       POSITIVE
+15                                               xQc shows his matching underwear                             https://kick.com/xqc?clip=clip_01HSDSG23J8FTW7QZE8VVP6SVX  2024/03/21    0.0000  NEGATIVE       NEGATIVE
+16              PaymoneyWubby scammed again on a MtG Beta Starter Deck (~$45,000)          https://clips.twitch.tv/TubularDeterminedGuanacoKeyboardCat-3H3SBHYmVzQQNLQD  2024/03/21    0.0000  NEGATIVE       NEGATIVE
+17                                                                         monkaW                  https://clips.twitch.tv/RenownedIronicCheeseVoteNay-a4HgKN4l5NceSMzT  2024/03/21    0.0000  NEGATIVE       POSITIVE
+18                                                            Hasan gets a facial      https://clips.twitch.tv/InterestingCredulousAntelopeDancingBaby-_6VhFYh92ClkyOiz  2024/03/21    0.0000  NEGATIVE       POSITIVE
+19                        Midget Mac helps a contestant in T-Pain's Booty Pageant              https://clips.twitch.tv/AlertAmericanGoldfishSquadGoals-5idJ0BNrjzXdENvs  2024/03/21    0.3818  POSITIVE       POSITIVE
+20                                                          Cyr has lost the Plot                   https://clips.twitch.tv/ShakingTardyPancakePJSugar-A4lWc9gh53FPdRhx  2024/03/21   -0.3182  NEGATIVE       NEGATIVE
+21                              Cyr's parents thought he was gay for Sushi Dragon                   https://clips.twitch.tv/FreezingColdWasabiKreygasm-dk2cYWLbA32Qzpaf  2024/03/21    0.0000  NEGATIVE       NEGATIVE
+22                                                                        Oi bruv        https://clips.twitch.tv/MagnificentCrepuscularCheddarJebaited-ym383GohNYHiV1Rv  2024/03/21    0.0000  NEGATIVE       NEGATIVE
+23                                                  Destiny talks about Elon Musk                         https://kick.com/destiny?clip=clip_01HSCATX5SXJ0WYB6RBPYABC4Z  2024/03/21    0.0000  NEGATIVE       POSITIVE
+24                                                     I want to make love to you                 https://clips.twitch.tv/DifferentModernMinkBuddhaBar-O1CTnM1Kt_2R-u53  2024/03/21    0.6705  POSITIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    17
-POSITIVE     7
+NEGATIVE    22
+POSITIVE     3
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    14
-NEGATIVE    10
+NEGATIVE    15
+POSITIVE    10
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
