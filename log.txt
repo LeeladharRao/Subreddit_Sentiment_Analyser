@@ -1,42 +1,38 @@
 <!-- posts starts -->
-                                                                            title                                                                                   url        date  compound   SA_nltk SA_distilibert
-0                                               Asmon on wearing a mask in public                https://clips.twitch.tv/WildEnergeticEggnogRaccAttack-fNdb6QxUMfdqUJFH  2024/03/21    0.0000  NEGATIVE       NEGATIVE
-1                                           Elige blind 3k during triple overtime              https://clips.twitch.tv/CoweringSlickCamelPeteZarollTie-2zkPIOKNJNGE1BO-  2024/03/21   -0.4019  NEGATIVE       NEGATIVE
-2                                                 Andy Milonakis meets Knut's dog                  https://clips.twitch.tv/EnjoyableCaringCookieWTRuck-3Vm67I6klIN2uEPa  2024/03/21    0.0000  NEGATIVE       POSITIVE
-3                                    Northern Lion - Perfectly Normal Party Rules                 https://clips.twitch.tv/ClumsyCoweringCourgetteFloof-bZO8NAMer8c-eaZb  2024/03/21    0.7845  POSITIVE       POSITIVE
-4                                                       Malena has snus on stream             https://clips.twitch.tv/SpeedyCallousAlpacaDoubleRainbow-QLnEOhmory9YjR6_  2024/03/21    0.0000  NEGATIVE       NEGATIVE
-5                                                             zero two in the bar       https://www.twitch.tv/tyongeee/clip/ZealousPluckyTigerTheTarFu-d_rCk2X_DWr3k2LM  2024/03/21    0.0000  NEGATIVE       NEGATIVE
-6    Trainwrecks and YRG talk about people being forced to accept the W community                        https://kick.com/yourrage?clip=clip_01HSGVRBY0M7AD8RQYP6ZHY7ME  2024/03/21   -0.1027  NEGATIVE       NEGATIVE
-7                                       Northernlion on offering nutrition advice             https://clips.twitch.tv/FlaccidWanderingCaribouJKanStyle-yyZWbmxWi747A_OT  2024/03/21    0.0000  NEGATIVE       POSITIVE
-8                              Forsen updates his rules about song requests links                 https://clips.twitch.tv/GiantApatheticCoyoteUncleNox-pWSOUHaiqALrd6NK  2024/03/21    0.0000  NEGATIVE       NEGATIVE
-9                                                                  we are so back  https://clips.twitch.tv/FragileChillyWeaselPicoMause-h_BImwAWX-ljzSme?tt_medium=redt  2024/03/21    0.0000  NEGATIVE       POSITIVE
-10  Trainwrecks says without the W community, the streaming scene would be boring                        https://kick.com/yourrage?clip=clip_01HSGVHVAEGHAHXEZ7FWZRAQ44  2024/03/21   -0.3182  NEGATIVE       NEGATIVE
-11                                                                      Too heavy                  https://clips.twitch.tv/RepleteAmusedYamKappaWealth-ll5F2teKgPnl6aky  2024/03/21    0.0000  NEGATIVE       NEGATIVE
-12                                            Korean doesn't like Japanese filter                https://clips.twitch.tv/GenerousAlluringMushroomSMOrc-8Ssfh911_UVjb6Qb  2024/03/21   -0.2755  NEGATIVE       NEGATIVE
-13                                                      jL breaks the fourth wall               https://clips.twitch.tv/PeppyKnottyWheelStoneLightning-OuV9mnA_diQe7Ofk  2024/03/21    0.0000  NEGATIVE       NEGATIVE
-14                          Jon Ludvig Hammer on changing his name after marriage                     https://clips.twitch.tv/CaringIcyGarageDatSheffy-yrw8ICB4_KmpaStp  2024/03/21    0.0000  NEGATIVE       POSITIVE
-15                                               xQc shows his matching underwear                             https://kick.com/xqc?clip=clip_01HSDSG23J8FTW7QZE8VVP6SVX  2024/03/21    0.0000  NEGATIVE       NEGATIVE
-16              PaymoneyWubby scammed again on a MtG Beta Starter Deck (~$45,000)          https://clips.twitch.tv/TubularDeterminedGuanacoKeyboardCat-3H3SBHYmVzQQNLQD  2024/03/21    0.0000  NEGATIVE       NEGATIVE
-17                                                                         monkaW                  https://clips.twitch.tv/RenownedIronicCheeseVoteNay-a4HgKN4l5NceSMzT  2024/03/21    0.0000  NEGATIVE       POSITIVE
-18                                                            Hasan gets a facial      https://clips.twitch.tv/InterestingCredulousAntelopeDancingBaby-_6VhFYh92ClkyOiz  2024/03/21    0.0000  NEGATIVE       POSITIVE
-19                        Midget Mac helps a contestant in T-Pain's Booty Pageant              https://clips.twitch.tv/AlertAmericanGoldfishSquadGoals-5idJ0BNrjzXdENvs  2024/03/21    0.3818  POSITIVE       POSITIVE
-20                                                          Cyr has lost the Plot                   https://clips.twitch.tv/ShakingTardyPancakePJSugar-A4lWc9gh53FPdRhx  2024/03/21   -0.3182  NEGATIVE       NEGATIVE
-21                              Cyr's parents thought he was gay for Sushi Dragon                   https://clips.twitch.tv/FreezingColdWasabiKreygasm-dk2cYWLbA32Qzpaf  2024/03/21    0.0000  NEGATIVE       NEGATIVE
-22                                                                        Oi bruv        https://clips.twitch.tv/MagnificentCrepuscularCheddarJebaited-ym383GohNYHiV1Rv  2024/03/21    0.0000  NEGATIVE       NEGATIVE
-23                                                  Destiny talks about Elon Musk                         https://kick.com/destiny?clip=clip_01HSCATX5SXJ0WYB6RBPYABC4Z  2024/03/21    0.0000  NEGATIVE       POSITIVE
-24                                                     I want to make love to you                 https://clips.twitch.tv/DifferentModernMinkBuddhaBar-O1CTnM1Kt_2R-u53  2024/03/21    0.6705  POSITIVE       POSITIVE
+                                                                                                                            title                                                                                 url        date  compound   SA_nltk SA_distilibert
+0                                                                                         When the "voices" get too loud mid game  https://www.twitch.tv/daddydomsyou/clip/ShyAnnoyingDumplingsKippa-GpH095a3gtgTv74D  2024/03/22    0.0000  NEGATIVE       NEGATIVE
+1                                                                            Erobb's Metal Detecting Career Off To A Strong Start       https://clips.twitch.tv/RelentlessAbstemiousPuddingAllenHuhu-H0SAPOfgQ6VVtY4E  2024/03/22    0.5106  POSITIVE       POSITIVE
+2                                                                      Nothernlion reveals the truth about the next solar eclipse        https://clips.twitch.tv/InexpensiveDeterminedPorcupineKippa-fXmP0XpDix2GNek9  2024/03/22    0.3182  POSITIVE       POSITIVE
+3                                                                          Dan Clancy says Miz probably makes more money than him               https://clips.twitch.tv/ClearNeighborlyShallotDatBoi-zRFQJ0remzGwXjpb  2024/03/22    0.0000  NEGATIVE       NEGATIVE
+4                                                                                   Destiny has a normal conversation about money                       https://kick.com/destiny?clip=clip_01HSKSWD9C3T7QBHP0TG3D9G14  2024/03/22    0.0000  NEGATIVE       POSITIVE
+5                                                                                                    Jumping AK kill on CS2 Major         https://clips.twitch.tv/TangibleHonorableRutabagaSmoocherZ-iK3qFOZ5fL-ks2Hk  2024/03/22   -0.6908  NEGATIVE       NEGATIVE
+6                                                                         Two bros become best friends/roommates through Twitch 👊           https://clips.twitch.tv/HonestSteamyEggnogFreakinStinkin-M2TTS-LhD47UbQ4N  2024/03/22    0.6369  POSITIVE       POSITIVE
+7                                                                                               The birthday girl goes for a ride           https://clips.twitch.tv/MiniatureExquisiteGaurCclamChamp-8F50vg57gIMLs4b8  2024/03/22    0.0000  NEGATIVE       POSITIVE
+8                                                                                           MrPol - Car crash in Belfast, Ireland              https://clips.twitch.tv/RefinedAstutePresidentPrimeMe-4a5BDiqoztZWEwqi  2024/03/22   -0.4019  NEGATIVE       NEGATIVE
+9                                                                         Destiny observes Hasan's subreddit's obsession with him                       https://kick.com/destiny?clip=clip_01HSKJVCJ85CCR6H1GW0Z63AVF  2024/03/22   -0.3400  NEGATIVE       POSITIVE
+10                                                                          Lirik decides to do 1 side quest on Dragon's Dogma II                    https://clips.twitch.tv/VainLittleSpindleM4xHeh-2p6rVm53y6djMZ_j  2024/03/22    0.0000  NEGATIVE       POSITIVE
+11                                                                                                                      bad Bobby                      https://clips.twitch.tv/SnappyOnerousMangoYee-6TsN6nyHd60s2Wmo  2024/03/22   -0.5423  NEGATIVE       NEGATIVE
+12                                                                               The Uber driver can't believe what he just heard             https://clips.twitch.tv/PlumpRelievedWoodcockDatSheffy-57eURk5vmNp0GGiK  2024/03/22    0.0000  NEGATIVE       NEGATIVE
+13  Jump King Speedrunner misses wr and first ever sub 4 by not walking 1 pixel to the right on accident, ends stream right after             https://clips.twitch.tv/EndearingVivaciousMelonMingLee-0fH30W3DHWCQGnR2  2024/03/22   -0.6124  NEGATIVE       NEGATIVE
+14                                                                                           Streamers Beer canon gets a headshot                      https://clips.twitch.tv/SillyMoralPoxPraiseIt-uQWZCY2r5dZfLaN8  2024/03/22    0.0000  NEGATIVE       POSITIVE
+15                                                                                                          cat stealing the show                  https://clips.twitch.tv/DreamyCrazySandpiperSMOrc-HhBfcPnMIBEUGjLx  2024/03/22   -0.5719  NEGATIVE       NEGATIVE
+16                                                                                                     xQc listens to his AI song                           https://kick.com/xqc?clip=clip_01HSF9YDFDZHMZ4J2Y7HWEN359  2024/03/22    0.0000  NEGATIVE       POSITIVE
+17                                                            CRISTRAVELS breaks Sam Pepper's laptop after Sam refused to pay him                           https://kick.com/sam?clip=clip_01HSJ0ST1FDEYBFBK3AFTJ9EQE  2024/03/22   -0.3818  NEGATIVE       NEGATIVE
+18                                                                                    Theres a lot going on in Justaminx's stream                    https://clips.twitch.tv/OilyFreezingCodCurseLit-EbS0xaJ43IVM2j3I  2024/03/22    0.0000  NEGATIVE       NEGATIVE
+19                                                                                             Kai rates Hasan as C tier streamer               https://clips.twitch.tv/RefinedManlyQueleaHassanChop-SRCNGSudFviVM515  2024/03/22    0.0000  NEGATIVE       POSITIVE
+20                                                                                                      Never click a Reddit link                  https://clips.twitch.tv/CrackyRoughTruffleTF2John-qO3DTg8iHXhq0jpV  2024/03/22    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    22
+NEGATIVE    18
 POSITIVE     3
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    15
+NEGATIVE    11
 POSITIVE    10
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
