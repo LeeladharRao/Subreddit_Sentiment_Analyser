@@ -1,38 +1,45 @@
 <!-- posts starts -->
-                                                                                                                            title                                                                                 url        date  compound   SA_nltk SA_distilibert
-0                                                                                         When the "voices" get too loud mid game  https://www.twitch.tv/daddydomsyou/clip/ShyAnnoyingDumplingsKippa-GpH095a3gtgTv74D  2024/03/22    0.0000  NEGATIVE       NEGATIVE
-1                                                                            Erobb's Metal Detecting Career Off To A Strong Start       https://clips.twitch.tv/RelentlessAbstemiousPuddingAllenHuhu-H0SAPOfgQ6VVtY4E  2024/03/22    0.5106  POSITIVE       POSITIVE
-2                                                                      Nothernlion reveals the truth about the next solar eclipse        https://clips.twitch.tv/InexpensiveDeterminedPorcupineKippa-fXmP0XpDix2GNek9  2024/03/22    0.3182  POSITIVE       POSITIVE
-3                                                                          Dan Clancy says Miz probably makes more money than him               https://clips.twitch.tv/ClearNeighborlyShallotDatBoi-zRFQJ0remzGwXjpb  2024/03/22    0.0000  NEGATIVE       NEGATIVE
-4                                                                                   Destiny has a normal conversation about money                       https://kick.com/destiny?clip=clip_01HSKSWD9C3T7QBHP0TG3D9G14  2024/03/22    0.0000  NEGATIVE       POSITIVE
-5                                                                                                    Jumping AK kill on CS2 Major         https://clips.twitch.tv/TangibleHonorableRutabagaSmoocherZ-iK3qFOZ5fL-ks2Hk  2024/03/22   -0.6908  NEGATIVE       NEGATIVE
-6                                                                         Two bros become best friends/roommates through Twitch 👊           https://clips.twitch.tv/HonestSteamyEggnogFreakinStinkin-M2TTS-LhD47UbQ4N  2024/03/22    0.6369  POSITIVE       POSITIVE
-7                                                                                               The birthday girl goes for a ride           https://clips.twitch.tv/MiniatureExquisiteGaurCclamChamp-8F50vg57gIMLs4b8  2024/03/22    0.0000  NEGATIVE       POSITIVE
-8                                                                                           MrPol - Car crash in Belfast, Ireland              https://clips.twitch.tv/RefinedAstutePresidentPrimeMe-4a5BDiqoztZWEwqi  2024/03/22   -0.4019  NEGATIVE       NEGATIVE
-9                                                                         Destiny observes Hasan's subreddit's obsession with him                       https://kick.com/destiny?clip=clip_01HSKJVCJ85CCR6H1GW0Z63AVF  2024/03/22   -0.3400  NEGATIVE       POSITIVE
-10                                                                          Lirik decides to do 1 side quest on Dragon's Dogma II                    https://clips.twitch.tv/VainLittleSpindleM4xHeh-2p6rVm53y6djMZ_j  2024/03/22    0.0000  NEGATIVE       POSITIVE
-11                                                                                                                      bad Bobby                      https://clips.twitch.tv/SnappyOnerousMangoYee-6TsN6nyHd60s2Wmo  2024/03/22   -0.5423  NEGATIVE       NEGATIVE
-12                                                                               The Uber driver can't believe what he just heard             https://clips.twitch.tv/PlumpRelievedWoodcockDatSheffy-57eURk5vmNp0GGiK  2024/03/22    0.0000  NEGATIVE       NEGATIVE
-13  Jump King Speedrunner misses wr and first ever sub 4 by not walking 1 pixel to the right on accident, ends stream right after             https://clips.twitch.tv/EndearingVivaciousMelonMingLee-0fH30W3DHWCQGnR2  2024/03/22   -0.6124  NEGATIVE       NEGATIVE
-14                                                                                           Streamers Beer canon gets a headshot                      https://clips.twitch.tv/SillyMoralPoxPraiseIt-uQWZCY2r5dZfLaN8  2024/03/22    0.0000  NEGATIVE       POSITIVE
-15                                                                                                          cat stealing the show                  https://clips.twitch.tv/DreamyCrazySandpiperSMOrc-HhBfcPnMIBEUGjLx  2024/03/22   -0.5719  NEGATIVE       NEGATIVE
-16                                                                                                     xQc listens to his AI song                           https://kick.com/xqc?clip=clip_01HSF9YDFDZHMZ4J2Y7HWEN359  2024/03/22    0.0000  NEGATIVE       POSITIVE
-17                                                            CRISTRAVELS breaks Sam Pepper's laptop after Sam refused to pay him                           https://kick.com/sam?clip=clip_01HSJ0ST1FDEYBFBK3AFTJ9EQE  2024/03/22   -0.3818  NEGATIVE       NEGATIVE
-18                                                                                    Theres a lot going on in Justaminx's stream                    https://clips.twitch.tv/OilyFreezingCodCurseLit-EbS0xaJ43IVM2j3I  2024/03/22    0.0000  NEGATIVE       NEGATIVE
-19                                                                                             Kai rates Hasan as C tier streamer               https://clips.twitch.tv/RefinedManlyQueleaHassanChop-SRCNGSudFviVM515  2024/03/22    0.0000  NEGATIVE       POSITIVE
-20                                                                                                      Never click a Reddit link                  https://clips.twitch.tv/CrackyRoughTruffleTF2John-qO3DTg8iHXhq0jpV  2024/03/22    0.0000  NEGATIVE       NEGATIVE
+                                                                                                               title                                                                                         url        date  compound   SA_nltk SA_distilibert
+0                                                                              Day 1 on Schlatt's new SMP: Spongebob                    https://clips.twitch.tv/RudeMildPassionfruitDancingBaby-pEdjMsaeyCU_jsTo  2024/03/23    0.0000  NEGATIVE       POSITIVE
+1                                                                                  hotdogman is here to save the day                       https://clips.twitch.tv/EnthusiasticCalmBulgogiDxCat-sd_K-HDRBXBc0yml  2024/03/23    0.4939  POSITIVE       POSITIVE
+2                                                                                         Forsen did the unthinkable                      https://clips.twitch.tv/ObeseConfidentEchidnaPogChamp-bT6BNnNzdvHOXGLq  2024/03/23    0.0000  NEGATIVE       POSITIVE
+3                                                                                   Forsen shows how good his aim is                    https://clips.twitch.tv/FrozenLitigiousStingrayPanicVis-QpvZdY9PNWafSYak  2024/03/23    0.4404  POSITIVE       POSITIVE
+4                                                                                Forsen watches a questionable video                          https://clips.twitch.tv/CrazyAwkwardGarageHeyGuys-C68cfQT8jtgIyIFf  2024/03/23   -0.2960  NEGATIVE       NEGATIVE
+5                                                                                          Leffen gracious in defeat                https://clips.twitch.tv/HorribleImportantBulgogiKappaWealth-8Vb-YeO9ogaaVUpJ  2024/03/23    0.1531  NEGATIVE       NEGATIVE
+6                                                                         nero-sama becomes aware, depression ensues                     https://clips.twitch.tv/TawdryBombasticPidgeonFailFish-MVnRogKTgLb2jN7_  2024/03/23   -0.5719  NEGATIVE       NEGATIVE
+7                                                                                              Forsen gets triggered                   https://clips.twitch.tv/AssiduousShakingClipsdadMikeHogu-f4tbQ32svXvggEmf  2024/03/23    0.0000  NEGATIVE       POSITIVE
+8                                                                                            Homie had A Chair error  https://www.twitch.tv/mattski405/clip/PeacefulRamshackleDumplingsFailFish-E8et7eGnrBAyNbQJ  2024/03/23   -0.4019  NEGATIVE       NEGATIVE
+9                                                                                       Mosher gets KTFO at LDB Fest                    https://clips.twitch.tv/TastyInquisitivePeafowlMikeHogu-LosyS79AW3Ng9ZxC  2024/03/23    0.0000  NEGATIVE       POSITIVE
+10                                                                                              First Ogre encounter                      https://clips.twitch.tv/AstuteExquisiteYakHassaanChop-KUCzhtrA4KTYWN2w  2024/03/23    0.0000  NEGATIVE       POSITIVE
+11                                                                                         Auntie is good with birds                  https://clips.twitch.tv/ConcernedCarefulLyrebirdNononoCat-UeUYnGamkg9zn00X  2024/03/23    0.4404  POSITIVE       POSITIVE
+12                                                                    Mouse disconnected at the worst possible time!                  https://clips.twitch.tv/BraveAstuteFiddleheadsSoonerLater-j1rHDLN1F2iGhySb  2024/03/23   -0.6588  NEGATIVE       NEGATIVE
+13                                                          Yoshi P Delay The FFXIV Expansion To Play Elden Ring DLC                        https://clips.twitch.tv/SassyAntsyFiddleheadsPupper-oxco2ynXUW4FrNiC  2024/03/23    0.0258  NEGATIVE       NEGATIVE
+14                                                                                    Trash talking at the CS2 major                    https://clips.twitch.tv/CogentFaintVelociraptorCmonBruh-t2Ss49kPlXG-QSDl  2024/03/23    0.0000  NEGATIVE       NEGATIVE
+15                                                                                                The heros of DD2..         https://clips.twitch.tv/ConsiderateDiligentRhinocerosDancingBanana-gB5VINLcRRZ-S1Nl  2024/03/23    0.3182  POSITIVE       POSITIVE
+16                                                                          Dragon dogma force... I am bad at titles                     https://clips.twitch.tv/InnocentCorrectAntItsBoshyTime-tnGJ2LhCRFzCa3Wr  2024/03/23   -0.5423  NEGATIVE       NEGATIVE
+17                                                                           They call it Dragons Dogma for a reason                  https://clips.twitch.tv/ExcitedRefinedSandpiperHumbleLife-bpXlXG_OzfURbti6  2024/03/23    0.0000  NEGATIVE       NEGATIVE
+18  Twitch is now placing channels running Twitch Sponsorship campaigns at the top of your followed channel sidebar.                                   https://twitter.com/zachbussey/status/1771327142795591909  2024/03/23    0.2023  POSITIVE       NEGATIVE
+19   After years of trying, Trimp_King finally gets the sub 4 minute run in Jump King, once thought to be impossible       https://www.twitch.tv/trimp_king/clip/HungryPrettyCurlewThisIsSparta-siKyqD6ykbdhO6yN  2024/03/23    0.0000  NEGATIVE       POSITIVE
+20                                                           PaymoneyWubby to try new twitch meta with ~4k more subs                           https://clips.twitch.tv/TemperedBoringGullOpieOP-WhrPW5ogwHZJPzia  2024/03/23    0.0000  NEGATIVE       NEGATIVE
+21                                      PaymoneyWubby is bewildered by the e-girl greenscreen double-cam jiggle meta                         https://clips.twitch.tv/ArtsyWiseKimchiHassaanChop-s9wUlnJbj0BG1AFe  2024/03/23    0.0000  NEGATIVE       NEGATIVE
+22                                                                                                  Knut Pulled Over                   https://clips.twitch.tv/ProtectiveUninterestedYogurtMcaT-HOoiIEKFppJxkYEw  2024/03/23    0.0000  NEGATIVE       NEGATIVE
+23                                                                                 Destiny peer pressures his friend                               https://kick.com/destiny?clip=clip_01HSM4WBC0VKAJ573VDG3GC53T  2024/03/23    0.2263  POSITIVE       NEGATIVE
+24                                                        Twitch CEO Dan Clancy reveals why Dr Disrespect was banned                      https://clips.twitch.tv/DeliciousPuzzledTroutSpicyBoy-AXu-G24c_23BC4Dx  2024/03/23   -0.7003  NEGATIVE       NEGATIVE
+25                                                                             DJClancy shows off the new clips feed                             https://clips.twitch.tv/ZanySmellyGerbilM4xHeh-xImtmUsfcy0cBxif  2024/03/23    0.0000  NEGATIVE       NEGATIVE
+26                                                                             New Twitch mobile app demo by the CEO                     https://clips.twitch.tv/ConfidentSaltyAnacondaBabyRage-qsmbZh7JjoPdCbjp  2024/03/23    0.0000  NEGATIVE       NEGATIVE
+27                                             Streamers stop trying and putting effort after they get big contracts                  https://clips.twitch.tv/ImpartialSuspiciousOctopusDogFace-fezhb1nG_RASd8ND  2024/03/23   -0.2960  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    18
-POSITIVE     3
+NEGATIVE    22
+POSITIVE     6
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    11
+NEGATIVE    18
 POSITIVE    10
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
