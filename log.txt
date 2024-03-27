@@ -1,36 +1,34 @@
 <!-- posts starts -->
-                                                                                            title                                                                                                url        date  compound   SA_nltk SA_distilibert
-0                                                                                      Secret bar                                https://clips.twitch.tv/ViscousTubularPineappleYee-Fnna9Jr9nykizasz  2024/03/25    0.0000  NEGATIVE       POSITIVE
-1             Creator of the AI Vtuber Neuro-Sama, publicly apologizes after controversial stream                                            https://twitter.com/Vedal987/status/1772381027534520543  2024/03/25    0.1779  NEGATIVE       NEGATIVE
-2                                                                                          SNIFFA                        https://www.twitch.tv/novaruu/clip/SparklyDeadBadgerWoofer-M58tALeVAHl2kh0b  2024/03/25    0.0000  NEGATIVE       NEGATIVE
-3                                                                    Destiny does not like hummus                                      https://kick.com/destiny?clip=clip_01HSRSMG5VNCAF3QJ2AD522BED  2024/03/25   -0.2755  NEGATIVE       NEGATIVE
-4                                                                    Nemesis does a HUGE outplay.                          https://clips.twitch.tv/StormyTalentedGarbageDoritosChip-VaZsnTF-HQUm286z  2024/03/25    0.4648  POSITIVE       POSITIVE
-5                                                                   Hachubby viewer's room review                              https://clips.twitch.tv/ResilientOriginalQuailWTRuck-n8r7LqaXd5XXyldk  2024/03/25    0.0000  NEGATIVE       NEGATIVE
-6                                                                    Destiny bodies Johnny Somali                                      https://kick.com/destiny?clip=clip_01HSVKQ1QJJ2MRDMEVDY75GCZS  2024/03/25    0.0000  NEGATIVE       NEGATIVE
-7                                                        Knut exposes himself to hide a bald spot                    https://www.twitch.tv/knut/clip/ConsiderateSparklyOpossumKeepo-ZQUkD_dS0JaMRMfh  2024/03/25   -0.2960  NEGATIVE       NEGATIVE
-8                                                                                  Random Rooster                        https://clips.twitch.tv/RelatedRelievedLatteStoneLightning-3PinhhHOQkXCFs_z  2024/03/25    0.0000  NEGATIVE       NEGATIVE
-9                                                                                        baseball           https://www.twitch.tv/tyongeee/clip/BitterReliableDaikonResidentSleeper-DjSuaQS1rQmOglFJ  2024/03/25    0.0000  NEGATIVE       POSITIVE
-10                                                                                    Cum Guzzler                              https://clips.twitch.tv/KindDifficultMarjoramPJSugar-PtdCwcBw56aZcKvW  2024/03/25    0.0000  NEGATIVE       POSITIVE
-11                                                          reaction to Wirtz goal against France                                 https://clips.twitch.tv/BrainyCourteousTigerDoggo-ocYShJndJPPtzUc8  2024/03/25    0.0000  NEGATIVE       POSITIVE
-12                                                                                         AWOOGA                  https://www.twitch.tv/aingchuu/clip/AbnegateColdCrowTBCheesePull-4yrzdbTp6AH5WM1k  2024/03/25    0.0000  NEGATIVE       POSITIVE
-13                     Researchers uncover ‘pornification’ trend among female streamers on Twitch  https://www.psypost.org/researchers-uncover-pornification-trend-among-female-streamers-on-twitch/  2024/03/25    0.0000  NEGATIVE       NEGATIVE
-14                                               Destiny reacts to Hasan's commentary on his life                                      https://kick.com/destiny?clip=clip_01HSQ9T9QKX6FCKAD0H04EJ3Q7  2024/03/25    0.0000  NEGATIVE       POSITIVE
-15                                     Making a hitchhiking sign turns out to be a difficult task                     https://clips.twitch.tv/AdventurousShakingHorseradishRitzMitz-WmrQfWN3aMDxbzD5  2024/03/25   -0.3612  NEGATIVE       NEGATIVE
-16                                                               GeezGiselle describing something                                 https://clips.twitch.tv/SnappyBovineEndiveVoteYea-Vb4XNoAaV9jkjvFH  2024/03/25    0.0000  NEGATIVE       POSITIVE
-17                                                                        Rob gets pooped on KEKW                                  https://clips.twitch.tv/KitschyBusyMelonBabyRage-jt9LFsv84MRpx6lt  2024/03/25   -0.5574  NEGATIVE       NEGATIVE
-18  Jslk and Nicholas express surprise regarding recent GeorgeNotFound assault allegation updates                                        https://kick.com/jstlk?clip=clip_01HSSQ028D9KBXE3H63S55M4SF  2024/03/25   -0.4019  NEGATIVE       POSITIVE
+                                                                           title                                                                                            url        date  compound   SA_nltk SA_distilibert
+0                                            Erobb was the DD driver last night.       https://clips.twitch.tv/ElatedCarefulTardigradeTheRinger-fhB3FtGOwuWQ-M8A?tt_medium=redt  2024/03/26    0.0000  NEGATIVE       NEGATIVE
+1                                                           Sanest DOTA 2 player                       https://clips.twitch.tv/ThankfulLittleMushroomDatSheffy-e6I3vbd3lP5s9-oc  2024/03/26    0.0000  NEGATIVE       POSITIVE
+2                                                Day9 plays HS after a long time                     https://clips.twitch.tv/EphemeralBoredSalmonLeeroyJenkins-iGtXmbu7yWxIvoev  2024/03/26    0.2500  POSITIVE       NEGATIVE
+3                                          xQc questions the nickmercs situation                                      https://kick.com/xqc?clip=clip_01HSWPAR9N7MRTP066TPVR8BE2  2024/03/26    0.0000  NEGATIVE       NEGATIVE
+4                                                    Emi tries to say Hi to Poki                     https://clips.twitch.tv/BraveGlutenFreeDogNerfBlueBlaster-qHBeOAo2e76klf3W  2024/03/26    0.0000  NEGATIVE       NEGATIVE
+5                                                                cat is chilling               https://www.twitch.tv/ninachang1019/clip/SwissRelievedKleeFloof-LdQbV1cWlFAFvzNJ  2024/03/26   -0.0258  NEGATIVE       POSITIVE
+6                                                  Filled with thoughts of what?                       https://clips.twitch.tv/CleverLivelyFerretMrDestructoid-wUzfnQd4x0TRrQSe  2024/03/26    0.0000  NEGATIVE       POSITIVE
+7                                                  Adept made m0xy lose the game                      https://clips.twitch.tv/NeighborlyTrappedDogeShazBotstix-wnfeD0sXRKGB7z5n  2024/03/26   -0.4019  NEGATIVE       NEGATIVE
+8                                               Aris thoughts on dragons dogma 2  https://www.twitch.tv/avoidingthepuddle/clip/UnusualBreakableLardDoritosChip-FfBChQ4nlutc2UfR  2024/03/26    0.0000  NEGATIVE       POSITIVE
+9                                                        don't mess with pigeons                          https://clips.twitch.tv/ObedientElegantCocoaPipeHype-WsmOcr8SBpAQyekp  2024/03/26    0.2755  POSITIVE       POSITIVE
+10                                                             Zoil gets spooked                            https://clips.twitch.tv/HumbleBlueEggplantPanicVis-2STrsK9rf6D5utCf  2024/03/26    0.0000  NEGATIVE       NEGATIVE
+11                                                     Charming Jo and NC.A duet                       https://clips.twitch.tv/SquareRockyHerbsAMPEnergyCherry-m99J1vydK5ECzYkc  2024/03/26    0.5859  POSITIVE       POSITIVE
+12                                                                   DrDocpatine              https://youtube.com/clip/UgkxFiP_tgcKdGx_PqLYKmt2WnSjW2929C9U?si=t7uxu6s1kPIMllyV  2024/03/26    0.0000  NEGATIVE       NEGATIVE
+13                               The sexy dancing on Twitch is getting TOO MUCH!                   https://clips.twitch.tv/KitschyHedonisticStinkbugHumbleLife-46Fu-ukfnYGi5g2J  2024/03/26    0.5707  POSITIVE       NEGATIVE
+14  Kai says the rape accusations against his friend were all proven to be lies.                     https://clips.twitch.tv/ConsiderateDreamySlothKeyboardCat-xpmDuArfTsJtPUNp  2024/03/26   -0.7650  NEGATIVE       NEGATIVE
+15                 When your friend doesn't tell you they're going to be in town                      https://clips.twitch.tv/SnappyGeniusAirGuitarHoneyBadger-DKjFZquAIFyJLjXG  2024/03/26    0.4939  POSITIVE       NEGATIVE
+16                                                     ExtraEmily's Spreadsheet                                  https://clips.twitch.tv/MoldySuperNewtTF2John--FPUsWsyL1zjIzIi  2024/03/26    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    18
-POSITIVE     1
+NEGATIVE    12
+POSITIVE     5
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    10
-POSITIVE     9
+NEGATIVE    11
+POSITIVE     6
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
