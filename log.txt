@@ -1,34 +1,40 @@
 <!-- posts starts -->
-                                                                           title                                                                                            url        date  compound   SA_nltk SA_distilibert
-0                                            Erobb was the DD driver last night.       https://clips.twitch.tv/ElatedCarefulTardigradeTheRinger-fhB3FtGOwuWQ-M8A?tt_medium=redt  2024/03/26    0.0000  NEGATIVE       NEGATIVE
-1                                                           Sanest DOTA 2 player                       https://clips.twitch.tv/ThankfulLittleMushroomDatSheffy-e6I3vbd3lP5s9-oc  2024/03/26    0.0000  NEGATIVE       POSITIVE
-2                                                Day9 plays HS after a long time                     https://clips.twitch.tv/EphemeralBoredSalmonLeeroyJenkins-iGtXmbu7yWxIvoev  2024/03/26    0.2500  POSITIVE       NEGATIVE
-3                                          xQc questions the nickmercs situation                                      https://kick.com/xqc?clip=clip_01HSWPAR9N7MRTP066TPVR8BE2  2024/03/26    0.0000  NEGATIVE       NEGATIVE
-4                                                    Emi tries to say Hi to Poki                     https://clips.twitch.tv/BraveGlutenFreeDogNerfBlueBlaster-qHBeOAo2e76klf3W  2024/03/26    0.0000  NEGATIVE       NEGATIVE
-5                                                                cat is chilling               https://www.twitch.tv/ninachang1019/clip/SwissRelievedKleeFloof-LdQbV1cWlFAFvzNJ  2024/03/26   -0.0258  NEGATIVE       POSITIVE
-6                                                  Filled with thoughts of what?                       https://clips.twitch.tv/CleverLivelyFerretMrDestructoid-wUzfnQd4x0TRrQSe  2024/03/26    0.0000  NEGATIVE       POSITIVE
-7                                                  Adept made m0xy lose the game                      https://clips.twitch.tv/NeighborlyTrappedDogeShazBotstix-wnfeD0sXRKGB7z5n  2024/03/26   -0.4019  NEGATIVE       NEGATIVE
-8                                               Aris thoughts on dragons dogma 2  https://www.twitch.tv/avoidingthepuddle/clip/UnusualBreakableLardDoritosChip-FfBChQ4nlutc2UfR  2024/03/26    0.0000  NEGATIVE       POSITIVE
-9                                                        don't mess with pigeons                          https://clips.twitch.tv/ObedientElegantCocoaPipeHype-WsmOcr8SBpAQyekp  2024/03/26    0.2755  POSITIVE       POSITIVE
-10                                                             Zoil gets spooked                            https://clips.twitch.tv/HumbleBlueEggplantPanicVis-2STrsK9rf6D5utCf  2024/03/26    0.0000  NEGATIVE       NEGATIVE
-11                                                     Charming Jo and NC.A duet                       https://clips.twitch.tv/SquareRockyHerbsAMPEnergyCherry-m99J1vydK5ECzYkc  2024/03/26    0.5859  POSITIVE       POSITIVE
-12                                                                   DrDocpatine              https://youtube.com/clip/UgkxFiP_tgcKdGx_PqLYKmt2WnSjW2929C9U?si=t7uxu6s1kPIMllyV  2024/03/26    0.0000  NEGATIVE       NEGATIVE
-13                               The sexy dancing on Twitch is getting TOO MUCH!                   https://clips.twitch.tv/KitschyHedonisticStinkbugHumbleLife-46Fu-ukfnYGi5g2J  2024/03/26    0.5707  POSITIVE       NEGATIVE
-14  Kai says the rape accusations against his friend were all proven to be lies.                     https://clips.twitch.tv/ConsiderateDreamySlothKeyboardCat-xpmDuArfTsJtPUNp  2024/03/26   -0.7650  NEGATIVE       NEGATIVE
-15                 When your friend doesn't tell you they're going to be in town                      https://clips.twitch.tv/SnappyGeniusAirGuitarHoneyBadger-DKjFZquAIFyJLjXG  2024/03/26    0.4939  POSITIVE       NEGATIVE
-16                                                     ExtraEmily's Spreadsheet                                  https://clips.twitch.tv/MoldySuperNewtTF2John--FPUsWsyL1zjIzIi  2024/03/26    0.0000  NEGATIVE       NEGATIVE
+                                                                                                                                        title                                                                                                               url        date  compound   SA_nltk SA_distilibert
+0                                                                                                               Simply new PB after 10 months                                              https://clips.twitch.tv/FilthyPunchyBaboonSeemsGood-mCnmClvJM8a8lcNM  2024/03/27    0.0000  NEGATIVE       POSITIVE
+1                                                                                                                   xQc wipes the entire team                                                         https://kick.com/xqc?clip=clip_01HSZC3R8V9189TQY8KV5RRY4N  2024/03/27    0.0000  NEGATIVE       NEGATIVE
+2                                                                                                                    Erobb finally had enough                                             https://clips.twitch.tv/DeterminedTacitJayHassanChop-nbldf9lWYY7qMAm2  2024/03/27    0.0000  NEGATIVE       POSITIVE
+3                                                                                                                         xQc speaks Japanese                                            https://clips.twitch.tv/YummyColdMosquitoTBCheesePull-k_l8YE8G9O_9A8_w  2024/03/27    0.0000  NEGATIVE       POSITIVE
+4                                                                                                                  Erobb 221 gets his revenge                                          https://clips.twitch.tv/LitigiousHappyParrotDoritosChip-_36e3mu0f1a9ksSw  2024/03/27   -0.5267  NEGATIVE       NEGATIVE
+5                                                                                                                           Maya and the GOAT                                                https://clips.twitch.tv/EncouragingLightSowRlyTho-NCDdFIkxwkJp-GxO  2024/03/27    0.0000  NEGATIVE       POSITIVE
+6                                                                                                  Maya get's attacked by one of her students                                         https://clips.twitch.tv/PatientSpunkyShrimpDoubleRainbow-YCm54hic1_sf5prj  2024/03/27   -0.4588  NEGATIVE       NEGATIVE
+7                                                                                                              Busan demon becomes a duck mom                                          https://clips.twitch.tv/EnergeticHeartlessCarabeefLitty-QoewrB0ITfuwZkK1  2024/03/27    0.0000  NEGATIVE       NEGATIVE
+8                                                                                                                       Why is 6 afraid of 7?                          https://www.twitch.tv/vedal987/clip/ImpartialFamousChipmunkThisIsSparta-FcTCqpVA78sYzUkr  2024/03/27    0.0000  NEGATIVE       NEGATIVE
+9                                                                                               NL’s perfectly timed response to DanGheesling                                              https://clips.twitch.tv/SpicyHonestElkPhilosoraptor-142yTl9abDumOwwl  2024/03/27    0.6369  POSITIVE       POSITIVE
+10  "Starting on Friday March 29th, content that focuses on intimate body parts for a prolonged period of time will not be allowed." - Twitch                                                      https://twitter.com/TwitchSupport/status/1773045278821564914  2024/03/27    0.0000  NEGATIVE       NEGATIVE
+11                                                                                                                         Zoil names a woman                                         https://clips.twitch.tv/ThoughtfulIncredulousPoultryDerp-mv8yfUlMTnAYqTRB  2024/03/27    0.0000  NEGATIVE       POSITIVE
+12                                                                                                               NL names 100 women in 7 mins                                              https://clips.twitch.tv/RespectfulWimpyOwlHotPokket-oBFXI7QUH1McpeP5  2024/03/27    0.0000  NEGATIVE       POSITIVE
+13                                                                                                                yeo_ul shows big fat behind  https://www.twitch.tv/yeo_ul/clip/ExquisiteLazyMochaNononoCat-C_kU23_ODT9hkmkv?filter=clips&range=24hr&sort=time  2024/03/27    0.0000  NEGATIVE       POSITIVE
+14                                                                                                         Destiny reads Hasan's discord logs                                                     https://kick.com/destiny?clip=clip_01HSYZS6ZWR90BYRMVDE4Y73BR  2024/03/27   -0.4019  NEGATIVE       NEGATIVE
+15                                                                                              Charming Jo assists the cheerleader Lee Dahye                                                   https://clips.twitch.tv/TenderPlumpSparrowMcaT-hqr9c87TMS7npC2q  2024/03/27    0.6908  POSITIVE       POSITIVE
+16                                                                                                             Devs leave a surprise for Aris                                             https://clips.twitch.tv/VivaciousFurryDurianTinyFace-gcb97bciL94lMwyv  2024/03/27    0.2263  POSITIVE       POSITIVE
+17                                                                                                                         xQc 1v5 deagle ace                                            https://clips.twitch.tv/FastKindCormorantItsBoshyTime-011POJzSg9sE5Bsm  2024/03/27    0.0000  NEGATIVE       NEGATIVE
+18                                                                                   Streamer encounters difficulty with the hardest city sim                                            https://clips.twitch.tv/SillyDignifiedPigeonCorgiDerp-GI_1FgZVboK7-Zt7  2024/03/27   -0.3400  NEGATIVE       NEGATIVE
+19                                                                                                                xQc relates to a video game                                                         https://kick.com/xqc?clip=clip_01HSWFEBKM25QKBG1ZRTXFN8NP  2024/03/27    0.0000  NEGATIVE       NEGATIVE
+20                                                                                     QT's Name 100 Women Challenge: Squeex Going Bollywood.                                                https://clips.twitch.tv/AgitatedLazyWalrusOneHand-yntBDoLBRbl86-bg  2024/03/27    0.0772  NEGATIVE       NEGATIVE
+21                                                                                                         Destiny shops for a microphone arm                                                     https://kick.com/destiny?clip=clip_01HSYCPHSPRZW17B9YVY6YKN3D  2024/03/27    0.0000  NEGATIVE       NEGATIVE
+22                                                                                                                        Slime names a woman                                               https://clips.twitch.tv/RichFineCheesecakeJebaited-WmBYZ0MEvkpQXy2g  2024/03/27    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    12
-POSITIVE     5
+NEGATIVE    20
+POSITIVE     3
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    11
-POSITIVE     6
+NEGATIVE    13
+POSITIVE    10
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
