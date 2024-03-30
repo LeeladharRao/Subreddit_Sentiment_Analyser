@@ -1,31 +1,40 @@
 <!-- posts starts -->
-                                                                                                                                                      title                                                                                                                                url        date  compound   SA_nltk SA_distilibert
-0                                                                                         Erobb's science experiment goes exactly how you'd expect it to go                                                              https://clips.twitch.tv/FamousFurryGerbilPanicBasket-pl-TKeprPMABZDE9  2024/03/28    0.0000  NEGATIVE       POSITIVE
-1                                                                                                                                      Erobbs science class                                                       https://clips.twitch.tv/GlutenFreeSpeedyHamburgerPunchTrees-bvmUQGWW4fQkPp-8  2024/03/28    0.0000  NEGATIVE       POSITIVE
-2   Hasan talks about how his friends began reaching out for concern over his life after Destiny and Twitter take his discord messages out of context again                                                       https://clips.twitch.tv/ZealousOriginalCockroachHassaanChop-Sf4quB6AzEfRCYDE  2024/03/28    0.2960  POSITIVE       POSITIVE
-3                                                                                                                         NL talks about growth and grudges                                         https://clips.twitch.tv/ResourcefulHappyRhinocerosSpicyBoy-7SV9RoD_z12qqG0J?tt_medium=redt  2024/03/28    0.3818  POSITIVE       POSITIVE
-4                                                                                 Corinnakopf reveals that xQc had a night terror, when they slept together                                                                  https://kick.com/corinnakopf?clip=clip_01HT3C9JY28BPBX62B0DAH373X  2024/03/28   -0.5267  NEGATIVE       NEGATIVE
-5                                                                                                                                             Mizkif caught                                                         https://clips.twitch.tv/HelplessTrappedStrawberryPoooound-UH0eZb5Pi2CG3qqS  2024/03/28    0.0000  NEGATIVE       POSITIVE
-6                                                                                                                                     Loudest forsen scream                                                           https://clips.twitch.tv/AcceptableElegantBaboonTooSpicy-yLCD-klN7bQ5Va5g  2024/03/28   -0.4019  NEGATIVE       NEGATIVE
-7                                                                                                                                 NL fights back against AI                                                                  https://clips.twitch.tv/CarefulRealTarsierFunRun-6l4XAhVzxzFiYdwG  2024/03/28   -0.4019  NEGATIVE       NEGATIVE
-8                                                                                                                                     Yuggie confuses a guy                                                       https://clips.twitch.tv/SpoopyAbrasiveChimpanzeeHoneyBadger-EwiTvdhfDD2DwAlz  2024/03/28   -0.3182  NEGATIVE       NEGATIVE
-9                                                                                                                 Rob goes upstairs to find a "trapped" cat                                                       https://clips.twitch.tv/PleasantCulturedSmoothieNinjaGrumpy-sEcbpmt_6i7GOTJ3  2024/03/28   -0.5574  NEGATIVE       NEGATIVE
-10                                                                                                                            The Simpsons used to be great                                                                  https://clips.twitch.tv/NaiveSlickSalmonDansGame-Fl2ac01PjClT3dmY  2024/03/28    0.6249  POSITIVE       POSITIVE
-11                                                                                                                                  Dog cause bike accident                                                             https://clips.twitch.tv/RamshackleCleverPepperoniBIRB-YX5ffQH-adCHna_o  2024/03/28   -0.4767  NEGATIVE       NEGATIVE
-12                                                                                                                        T-Pain asking when JFK was alive.                                                                 https://clips.twitch.tv/BoringTameChinchillaKeepo-6tI0E3EG26iuurir  2024/03/28    0.3818  POSITIVE       POSITIVE
-13                                                                 Captain of a Boeing 737 SunExpress pushing back in Manchester gives a wave to the camera  https://www.twitch.tv/airlinerslive/clip/EsteemedInquisitiveGrasshopperTheTarFu-cxe0ukDDJ2gGXjQ3?filter=clips&range=30d&sort=time  2024/03/28    0.0000  NEGATIVE       POSITIVE
+                                                                         title                                                                                                url        date  compound   SA_nltk SA_distilibert
+0                 Twitch Rivals - Apex Legends - Boomrazzle Cheating or Skill?                         https://clips.twitch.tv/PowerfulPolishedIcecreamOMGScoots-3pL2KnoBEtlQZjgQ  2024/03/29   -0.5574  NEGATIVE       NEGATIVE
+1                                                xQc reacts to losing CSGO bet                                          https://kick.com/xqc?clip=clip_01HT63A288YQDQYKFEYXPW170E  2024/03/29   -0.3818  NEGATIVE       NEGATIVE
+2                               PGL Major interrupted after people storm stage                     https://www.twitch.tv/xqc/clip/BreakableAttractiveApeCmonBruh--ok0xanv7vOxkDVT  2024/03/29   -0.2960  NEGATIVE       NEGATIVE
+3                            "Green What is your Problem, Green" but in german                                    https://clips.twitch.tv/ArbitraryPlumpElkDxCat-X7tI7COrH688n4XD  2024/03/29   -0.2144  NEGATIVE       NEGATIVE
+4                          Professional Researcher Doing Professional Research                        https://clips.twitch.tv/SpunkyOptimisticAlmondCoolStoryBro-l2g4DLq2ecAr_G0s  2024/03/29    0.0000  NEGATIVE       POSITIVE
+5                                                      Most normal forsen link                                      https://clips.twitch.tv/CrispyUglyMouseKippa-7ojeaqARUDL6SA5y  2024/03/29    0.0000  NEGATIVE       NEGATIVE
+6                                      Rule Update Regarding Hasan and Destiny  https://www.reddit.com/r/LivestreamFail/comments/1bqvu2i/rule_update_regarding_hasan_and_destiny/  2024/03/29    0.0000  NEGATIVE       POSITIVE
+7                                           Eternal Fire cannot kill w0nderful                                   https://clips.twitch.tv/WimpyExquisiteFlyPupper-jqWUaGd3fhGCdayw  2024/03/29    0.3265  POSITIVE       NEGATIVE
+8                                                      LIRIK looks at the moon                                https://clips.twitch.tv/AntsySecretiveEggnogBCouch-XoKm_2xrud0_PNV0  2024/03/29    0.0000  NEGATIVE       POSITIVE
+9                                           Xantares crazy 3K entry site clear                             https://clips.twitch.tv/GenerousLovelySproutSmoocherZ-LZGuQBtv9v3HmH_G  2024/03/29    0.0516  NEGATIVE       POSITIVE
+10                                                            Would be a shame                                https://clips.twitch.tv/AbrasiveAbstruseClipzKippa-ifxLq3hfFsQjk1x_  2024/03/29   -0.4767  NEGATIVE       NEGATIVE
+11                                                               Just be happy                                  https://clips.twitch.tv/CoyFairRadicchioDansGame-wyzlwKEGouiWvNSc  2024/03/29    0.5719  POSITIVE       POSITIVE
+12                                            Quin's name 100 women goes great                               https://clips.twitch.tv/RelievedShinyPuddingTF2John-l9sCuAur22Lk5BDa  2024/03/29    0.6249  POSITIVE       POSITIVE
+13                                                                october 24th               https://www.twitch.tv/vansamaofficial/clip/UnusualCoyMochaAsianGlow-2lEC92tCBBQ_nM3m  2024/03/29    0.0000  NEGATIVE       POSITIVE
+14  Streamer 'Arab' kidnapped in Haiti allegedly with a ransom of 600,000 USD.                                               https://twitter.com/Lalem/status/1773533772312433026  2024/03/29    0.0000  NEGATIVE       NEGATIVE
+15                                    Speed being homophobic on the Monkey app                       https://youtube.com/clip/UgkxJsI0uGf7F3Iy4OYeuMKVA8mYONaaNpgr?feature=shared  2024/03/29    0.0000  NEGATIVE       NEGATIVE
+16                   You're gunna get your brother to throw WHAT in your face?                             https://clips.twitch.tv/IntelligentDaintyKuduFailFish-dX7pNuCvazVjZAk3  2024/03/29    0.0000  NEGATIVE       NEGATIVE
+17                                  Hasan to drama farmer:"get that bag, king"                https://www.twitch.tv/hasanabi/clip/SucculentDelightfulTrayArgieB8-Oeeo2znAC91t8f2F  2024/03/29    0.0000  NEGATIVE       NEGATIVE
+18                         Shes already got better content than most streamers                               https://clips.twitch.tv/ReliableStylishLampPoooound-ftrTqMWte1ItWNXG  2024/03/29    0.4404  POSITIVE       POSITIVE
+19                                    Aris disappointed with Twitch TOS change     https://www.twitch.tv/avoidingthepuddle/clip/ExquisiteSplendidDolphinBudBlast-sW9y-6DuSMn4e5Y8  2024/03/29   -0.4767  NEGATIVE       NEGATIVE
+20                                                                           A        https://www.twitch.tv/avoidingthepuddle/clip/DistinctSmellyCrabsSquadGoals-wgT3vvLZVVnd0VtG  2024/03/29    0.0000  NEGATIVE       POSITIVE
+21                                    Perfect Nuke in a StarCraft 2 Tournament                  https://youtube.com/clip/Ugkx5nJQzCZkM0mlD3oT3rAAtBqD4fteXgeP?si=4jKXTehay8aAtUDy  2024/03/29    0.5719  POSITIVE       POSITIVE
+22                                              xQc confuses machine gun kelly                                     https://kick.com/adinross?clip=clip_01HT3WMZ28FTDKRGB4D4VQ2WYP  2024/03/29   -0.5719  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    10
-POSITIVE     4
+NEGATIVE    18
+POSITIVE     5
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    8
-NEGATIVE    6
+NEGATIVE    13
+POSITIVE    10
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
