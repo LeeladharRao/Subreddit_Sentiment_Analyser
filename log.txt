@@ -1,39 +1,32 @@
 <!-- posts starts -->
-                                                                                         title                                                                                                                       url        date  compound   SA_nltk SA_distilibert
-0                                                          TFT Streamer hits perfect beat drop                                                           https://clips.twitch.tv/BetterIcyPuddingNomNom-JOw8sQpZ3r3hMNua  2024/03/30    0.3818  POSITIVE       POSITIVE
-1                                                                                W Horse Rider                                                   https://clips.twitch.tv/PopularSuccessfulAmazonBudStar-78UQHNTBeqZ3KFpt  2024/03/30    0.0000  NEGATIVE       POSITIVE
-2   Atow hits a ridiculous ground pinch to force game 7 of the Copenhagen Major Quarter Finals                                           https://clips.twitch.tv/SpinelessDeterminedHummingbirdPanicVis-lMWDKXIxLNNuT0Rm  2024/03/30   -0.3612  NEGATIVE       NEGATIVE
-3                                                              world record without streamers!                                                      https://clips.twitch.tv/SteamyCovertSproutJKanStyle-i0LVAW9K212oDu10  2024/03/30    0.0000  NEGATIVE       POSITIVE
-4                                                 POV: The Hulk beats you up and beats you off                                                               https://clips.twitch.tv/PeppyDeafCiderMcaT-5N3u2nNMMgo93tIn  2024/03/30    0.0000  NEGATIVE       POSITIVE
-5                                                                            Green screen Knut                                                        https://clips.twitch.tv/NiceToughCockroachOhMyDog-fUm5yH0XgSHNJjXk  2024/03/30    0.0000  NEGATIVE       NEGATIVE
-6                                            Forsen asking the real questions during CS2 Major                                               https://clips.twitch.tv/AggressiveScaryTurtleDoubleRainbow-Jm2NfBTBwrvC3aj1  2024/03/30    0.0000  NEGATIVE       POSITIVE
-7                         Soda trolling pikaboo and Xaryu with same messages in wow tournament                                                https://clips.twitch.tv/ThankfulObservantDolphinSmoocherZ-SjhqpG9DOm0g-LrF  2024/03/30    0.5859  POSITIVE       NEGATIVE
-8                                                                     soda incites a civil war                                                      https://clips.twitch.tv/EncouragingFriendlyTigerYee-ATje2Os3WeFobsjM  2024/03/30   -0.5994  NEGATIVE       NEGATIVE
-9                                                  streamer gifted a new microphone by viewers  https://www.twitch.tv/bunchijumpi/clip/MildPeppyAnacondaDancingBanana-S7RmJK58uQQLTLCN?filter=clips&range=24hr&sort=time  2024/03/30    0.0000  NEGATIVE       POSITIVE
-10                                                                         Japanese machinegun                                          https://www.twitch.tv/hutoon/clip/SmallLovelyLampNerfRedBlaster-yy9tUz__J1BJiiEl  2024/03/30    0.0000  NEGATIVE       NEGATIVE
-11                            Soda checks in on Zepla and Asmon during the Plunderstorm tourny                                                  https://clips.twitch.tv/ImportantSuaveElephantPicoMause-Op1aGSClxypK8Y8Z  2024/03/30    0.0000  NEGATIVE       NEGATIVE
-12                                                                         Even kids can do it                                                     https://clips.twitch.tv/RoughPrettySardineBibleThump-kGG9D796ACY_ZdmA  2024/03/30    0.0000  NEGATIVE       POSITIVE
-13                                  Korean Streamer rip her shirt after reaching Partner Plus.                                               https://clips.twitch.tv/IntelligentSpikyMosquitoStrawBeary-7x3ZzmGQPqKEVCv2  2024/03/30    0.2023  POSITIVE       NEGATIVE
-14                                                                     nmplol ends his stream.                                                     https://clips.twitch.tv/CreativeFlirtyHerringTakeNRG-EvpGXrMTiK6rIHsd  2024/03/30    0.0000  NEGATIVE       NEGATIVE
-15                 Ukrainian baj having to hide when putin commits terrorist attacks on Odessa                                          https://clips.twitch.tv/SeductiveLaconicArmadilloNerfRedBlaster-VuKRffDWNqMbyJcJ  2024/03/30   -0.8481  NEGATIVE       NEGATIVE
-16                                                                           xqc -50% in china                                                      https://clips.twitch.tv/StormyPrettyPonyPanicBasket-hbim_hb5k5yECK53  2024/03/30    0.0000  NEGATIVE       POSITIVE
-17              CS2 PGL Major casters didn't realize the bomb was defused until the next round                                    https://clips.twitch.tv/BlatantHardAubergineWholeWheat-WFtaBiOQbMI5OTqQ?tt_medium=redt  2024/03/30    0.6124  POSITIVE       NEGATIVE
-18                                                    Vitaly beating up "pedo" his own justice                                                              https://kick.com/vitaly?clip=clip_01HT6P4NDSWEHP8TC7MH7HF9DY  2024/03/30    0.1027  NEGATIVE       POSITIVE
-19                              Viewer does a magic trick for Austin and Ludwig via voice mail                                                       https://clips.twitch.tv/ElatedHyperSpaghettiAliens-X5JoDvosOcXz9CCb  2024/03/30   -0.0516  NEGATIVE       NEGATIVE
-20                                                                 I don't like that one bit..                                                              https://clips.twitch.tv/SlickPoliteCodKippa-dC3DyyexyDoSmEpY  2024/03/30   -0.2755  NEGATIVE       NEGATIVE
-21                                                      Jinny rejected $300k gamba sponsorship                                  https://www.twitch.tv/jinnytty/clip/TentativeHomelyBadgerNerfRedBlaster-xup70IBKA1jV4J19  2024/03/30   -0.5106  NEGATIVE       NEGATIVE
+                                                                   title                                                                                       url        date  compound   SA_nltk SA_distilibert
+0                              IShowSpeed doing illegal car race 150mph+         https://youtube.com/clip/UgkxWTVEPeyS6VuEcPpzPsi-NzAeQX-FsjbF?si=DoK7T-kGum5FSEBa  2024/03/31   -0.5574  NEGATIVE       NEGATIVE
+1                                      the MAR-io Cart Burst - legendary                         https://clips.twitch.tv/DrabModernWitchPermaSmug-zrARvnnDU0HCX6k4  2024/03/31    0.0000  NEGATIVE       POSITIVE
+2                                       iShowSpeed harassing KFC workers                         https://www.youtube.com/clip/Ugkxcl-ZXJ15768FSN_085hri2RZP-P_MSZ2  2024/03/31   -0.5423  NEGATIVE       NEGATIVE
+3                  An anime girl, an AI, and an IRL Vtuber go to Weebcon  https://clips.twitch.tv/TriumphantAnnoyingPheasantPeanutButterJellyTime-kSUbWAVK-1bdvMOC  2024/03/31    0.0000  NEGATIVE       NEGATIVE
+4   And the winner of the first CS2's major at PGL Copenhagen 2024 is...                https://clips.twitch.tv/EnergeticSolidRhinocerosPastaThat-EW83ccP6sQ5I_Ff7  2024/03/31    0.5859  POSITIVE       POSITIVE
+5            w0nderful teamkills b1t during a retake in the grand finals                        https://clips.twitch.tv/FamousWanderingMinkAliens-YiBuO1l5jCalgLER  2024/03/31    0.4588  POSITIVE       NEGATIVE
+6                      A fan has a message to fl0m during PGL CS2 Finale             https://clips.twitch.tv/IntelligentInterestingWombatKreygasm-gtNovS4tTF9bNoBY  2024/03/31    0.3182  POSITIVE       NEGATIVE
+7            Fresh off his recent unban, Quin69 showcases a new attitude                    https://clips.twitch.tv/HelpfulAmericanPeafowlOhMyDog-D5zXwMsVBkLVQBBu  2024/03/31    0.3182  POSITIVE       POSITIVE
+8                               Busan demon finds her soulmate in Taiwan                   https://clips.twitch.tv/SpunkyUnsightlyGrassPeteZaroll-PshWLsnRUKOlTVbW  2024/03/31    0.5994  POSITIVE       POSITIVE
+9                                                             ARIonaBOAT                 https://clips.twitch.tv/SpicyHandsomeAardvarkFeelsBadMan-Qv5bxhoPpJ6QbD-u  2024/03/31    0.0000  NEGATIVE       POSITIVE
+10                                                  Busan demon wakes up                  https://clips.twitch.tv/CautiousTangibleWitchCeilingCat-OPsIZtWTbfsbk65s  2024/03/31    0.0000  NEGATIVE       NEGATIVE
+11                                           Moonmoon names 100 women WR                  https://clips.twitch.tv/PrettyIntelligentGerbilKreygasm-yfj90pWZjTxKkA91  2024/03/31    0.0000  NEGATIVE       NEGATIVE
+12                                      Hasan stream sniped in Australia  https://www.twitch.tv/hasanabi/clip/PolishedEmpathicWitchStoneLightning-_4sBiYCDWWELwOZk  2024/03/31    0.0000  NEGATIVE       NEGATIVE
+13                                                            Forsen sus                  https://clips.twitch.tv/UnusualScrumptiousSoybeanDuDudu-rrQAB9OJbChkzTNq  2024/03/31    0.0000  NEGATIVE       NEGATIVE
+14                                             Will goes in for the kill                 https://clips.twitch.tv/PeacefulOriginalJayLeeroyJenkins-EN5QMVA1Z7Q603m7  2024/03/31   -0.6908  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    18
-POSITIVE     4
+NEGATIVE    10
+POSITIVE     5
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    13
-POSITIVE     9
+NEGATIVE    9
+POSITIVE    6
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
