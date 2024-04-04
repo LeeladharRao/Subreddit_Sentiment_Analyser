@@ -1,33 +1,35 @@
 <!-- posts starts -->
-                                                                                         title                                                                                                                                 url        date  compound   SA_nltk SA_distilibert
-0                                              The reason why South Korea has a low birth rate                                                                 https://clips.twitch.tv/InterestingSnappyTeaLitFam-wg5_W6-eNui6diWa  2024/04/02   -0.2732  NEGATIVE       NEGATIVE
-1                                                  Twitch Partner "AMOURANTH" has been banned!                                                                         https://twitter.com/StreamerBans/status/1775248201643081891  2024/04/02   -0.5093  NEGATIVE       NEGATIVE
-2                                                           Mathil1 showing his newest cosplay                        https://www.twitch.tv/mathil1/clip/BrainyYawningCatPanicVis-Ha62Tz68e6gNMyYB?filter=clips&range=7d&sort=time  2024/04/02    0.0000  NEGATIVE       POSITIVE
-3                                                                            Lirik meets a fan                                                                       https://clips.twitch.tv/AgreeableOddApeFloof-BMTwD7eTjJRICWj6  2024/04/02    0.3182  POSITIVE       POSITIVE
-4                                                                      Squeex showing his rizz                                                          https://clips.twitch.tv/PoliteEmpathicAubergineCclamChamp-fewRP_loPKDl6L2H  2024/04/02    0.0000  NEGATIVE       NEGATIVE
-5                                                                                Guys? GUYS ?!                                                              https://clips.twitch.tv/DependableArtsySpindleTakeNRG-D2g4ISMAjnKUOfM_  2024/04/02    0.0000  NEGATIVE       POSITIVE
-6                                                     Lirik makes a plan to steal a police car                                                         https://clips.twitch.tv/ReliableAntediluvianTitanPartyTime-8dbusbf95s7ambmS  2024/04/02   -0.4939  NEGATIVE       NEGATIVE
-7                                                  Dirtbike does a wheelie during police chase                                                                  https://clips.twitch.tv/AmusedDeafPrariedogWoofer-bgC7AlLWyaxCZW1L  2024/04/02    0.0000  NEGATIVE       NEGATIVE
-8                                                                       Expectation vs Reality                                                                   https://clips.twitch.tv/CrowdedProudSheepDogFace-B0sLHkOxzUiHmvQS  2024/04/02    0.0000  NEGATIVE       NEGATIVE
-9                                                                                bouncy behind                                                                https://clips.twitch.tv/EphemeralCaringAxeTwitchRPG-hxSm-VufeTxgVpKN  2024/04/02    0.0000  NEGATIVE       POSITIVE
-10                                                                              XQC visits DGG                                                                  https://clips.twitch.tv/ExquisiteFunnyLionCoolCat-IIVwef75v6W-v0sV  2024/04/02    0.0000  NEGATIVE       POSITIVE
-11                                                         When LSF goes back to normal again.                                                               https://clips.twitch.tv/FrigidBrightAyeayeTBTacoLeft-UcZjyzyu7xkqDxbF  2024/04/02    0.0000  NEGATIVE       NEGATIVE
-12                                                                    Kids' toy threatens dogs                                                               https://clips.twitch.tv/FriendlyHonorableElkDAESuppy-fS4zed8I2CxTHsLg  2024/04/02   -0.3818  NEGATIVE       NEGATIVE
-13                            Poke talks about xQc's chat reaction whenever he gets mentionned                                                       https://clips.twitch.tv/DreamyImpossibleStrawberryKappaClaus-ooxbjBqARf-pUmCH  2024/04/02    0.0000  NEGATIVE       NEGATIVE
-14  Aaaand Novaruu already found a loophole so she can keep doing the clear plastic chair meta  https://www.twitch.tv/novaruu/clip/UninterestedEncouragingMallardNerfRedBlaster-amuzTGuNIoaFJk61?filter=clips&range=24hr&sort=time  2024/04/02    0.3818  POSITIVE       NEGATIVE
-15                                                  Northernlion - NL traumatizes his daughter        https://www.twitch.tv/northernlion/clip/CuteYawningEggnogSaltBae-WPhG_hUX_oOzM3wc?tt_medium=mobile_web_share&tt_content=clip  2024/04/02   -0.3400  NEGATIVE       NEGATIVE
+                                                                                           title                                                                                url        date  compound   SA_nltk SA_distilibert
+0          One of the richest players in RavenDawn flexes his 112mil, accidentally gives it away     https://www.twitch.tv/etup/clip/HungryCrackyJackalHoneyBadger-eQGIHvNJXbLaebmo  2024/04/03    0.2500  POSITIVE       NEGATIVE
+1                                                                Norwegians meet Texas fire ants             https://clips.twitch.tv/AbstruseUnsightlyDogShadyLulu-bwX99Bgy1r6en3Cz  2024/04/03   -0.3400  NEGATIVE       POSITIVE
+2                                                                            Wirtual - Noot Noot         https://clips.twitch.tv/OddSuccessfulAlfalfaOptimizePrime-q11fv-b7dkdfFXK0  2024/04/03    0.0000  NEGATIVE       NEGATIVE
+3                                                         Korean streamer experiences earthquake                 https://clips.twitch.tv/SleepyBoredGazelleOneHand-GaMVRAlcNEdAZr1n  2024/04/03    0.0000  NEGATIVE       NEGATIVE
+4                                                                                      "Variety"  https://www.twitch.tv/yurina_jpg/clip/AntsyStylishZucchiniDuDudu-3L4PognsvFkV33k7  2024/04/03    0.0000  NEGATIVE       POSITIVE
+5                   Livstixs' first stream on Kick after getting banned from Twitch goes well...                     https://kick.com/livstixs?clip=clip_01HTHWXVE3BE1QM7G36MQGQ2VW  2024/04/03   -0.4588  NEGATIVE       NEGATIVE
+6                                                Angle of Shibuya tactfully removes rowdy patron             https://clips.twitch.tv/BombasticBloodyEmuGrammarKing-rf-qTatpUtkfN8eZ  2024/04/03    0.0000  NEGATIVE       POSITIVE
+7                                                                    Peter Griffin Goes to Sears   https://clips.twitch.tv/TrustworthyAttractiveCoyotePeoplesChamp-u78X3UmGXLvSyS-K  2024/04/03    0.0000  NEGATIVE       POSITIVE
+8                                                                 Streamer gets saved by "Thicc"           https://clips.twitch.tv/BenevolentAmazonianTigerWutFace-wpTRgGWo5tobexly  2024/04/03    0.4215  POSITIVE       NEGATIVE
+9                            Streamer doing a 24/7 stream woke up to a 7.4 magnitude earthquake.                    https://clips.twitch.tv/ToughCrackyLorisDuDudu-9WdNBYLS3Kls1mxe  2024/04/03    0.0000  NEGATIVE       NEGATIVE
+10                                                                                cat jump fail       https://clips.twitch.tv/AmorphousInnocentDiamondStinkyCheese-NWVZ1MWcMy0Cf0ox  2024/04/03   -0.5423  NEGATIVE       NEGATIVE
+11  Twitch streamer crashes car while using phone and gets banned despite attempts to delete VOD                             https://twitter.com/Dexerto/status/1775131618123928009  2024/04/03   -0.4588  NEGATIVE       NEGATIVE
+12                                                     Lacari having some technical difficulties           https://clips.twitch.tv/ChillyResourcefulPonyBloodTrail-cE-7FAhEtt62_5yT  2024/04/03   -0.2960  NEGATIVE       NEGATIVE
+13             Trains thoughts on Kick streamers thinking they can do and say whatever they want                     https://kick.com/adinross?clip=clip_01HTH8EBS2S1PF15PAFR7XHAP5  2024/04/03    0.0772  NEGATIVE       POSITIVE
+14                                                      xQc and Adin Ross discuss catching pedos                     https://kick.com/adinross?clip=clip_01HTEE313VSEDRCZ0MWQ36R0RN  2024/04/03    0.0000  NEGATIVE       POSITIVE
+15                                                             Moonmoon gets final destinationed             https://clips.twitch.tv/ExuberantSleepyAxePanicBasket-gwTPNm4afVT16Y5W  2024/04/03    0.0000  NEGATIVE       POSITIVE
+16                                                                  Destiny analyzes a car crash                      https://kick.com/destiny?clip=clip_01HTG5ZP4Y6VY901SWDQQBC7WR  2024/04/03   -0.4019  NEGATIVE       POSITIVE
+17                                                         W chasing cop admin does a trick shot                https://clips.twitch.tv/FineTacitCrabsCoolStoryBro-wFdFajx3VWeb-5U4  2024/04/03   -0.0516  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    14
+NEGATIVE    16
 POSITIVE     2
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    11
-POSITIVE     5
+NEGATIVE    9
+POSITIVE    9
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
