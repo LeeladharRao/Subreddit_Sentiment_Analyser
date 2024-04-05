@@ -1,35 +1,40 @@
 <!-- posts starts -->
-                                                                                           title                                                                                url        date  compound   SA_nltk SA_distilibert
-0          One of the richest players in RavenDawn flexes his 112mil, accidentally gives it away     https://www.twitch.tv/etup/clip/HungryCrackyJackalHoneyBadger-eQGIHvNJXbLaebmo  2024/04/03    0.2500  POSITIVE       NEGATIVE
-1                                                                Norwegians meet Texas fire ants             https://clips.twitch.tv/AbstruseUnsightlyDogShadyLulu-bwX99Bgy1r6en3Cz  2024/04/03   -0.3400  NEGATIVE       POSITIVE
-2                                                                            Wirtual - Noot Noot         https://clips.twitch.tv/OddSuccessfulAlfalfaOptimizePrime-q11fv-b7dkdfFXK0  2024/04/03    0.0000  NEGATIVE       NEGATIVE
-3                                                         Korean streamer experiences earthquake                 https://clips.twitch.tv/SleepyBoredGazelleOneHand-GaMVRAlcNEdAZr1n  2024/04/03    0.0000  NEGATIVE       NEGATIVE
-4                                                                                      "Variety"  https://www.twitch.tv/yurina_jpg/clip/AntsyStylishZucchiniDuDudu-3L4PognsvFkV33k7  2024/04/03    0.0000  NEGATIVE       POSITIVE
-5                   Livstixs' first stream on Kick after getting banned from Twitch goes well...                     https://kick.com/livstixs?clip=clip_01HTHWXVE3BE1QM7G36MQGQ2VW  2024/04/03   -0.4588  NEGATIVE       NEGATIVE
-6                                                Angle of Shibuya tactfully removes rowdy patron             https://clips.twitch.tv/BombasticBloodyEmuGrammarKing-rf-qTatpUtkfN8eZ  2024/04/03    0.0000  NEGATIVE       POSITIVE
-7                                                                    Peter Griffin Goes to Sears   https://clips.twitch.tv/TrustworthyAttractiveCoyotePeoplesChamp-u78X3UmGXLvSyS-K  2024/04/03    0.0000  NEGATIVE       POSITIVE
-8                                                                 Streamer gets saved by "Thicc"           https://clips.twitch.tv/BenevolentAmazonianTigerWutFace-wpTRgGWo5tobexly  2024/04/03    0.4215  POSITIVE       NEGATIVE
-9                            Streamer doing a 24/7 stream woke up to a 7.4 magnitude earthquake.                    https://clips.twitch.tv/ToughCrackyLorisDuDudu-9WdNBYLS3Kls1mxe  2024/04/03    0.0000  NEGATIVE       NEGATIVE
-10                                                                                cat jump fail       https://clips.twitch.tv/AmorphousInnocentDiamondStinkyCheese-NWVZ1MWcMy0Cf0ox  2024/04/03   -0.5423  NEGATIVE       NEGATIVE
-11  Twitch streamer crashes car while using phone and gets banned despite attempts to delete VOD                             https://twitter.com/Dexerto/status/1775131618123928009  2024/04/03   -0.4588  NEGATIVE       NEGATIVE
-12                                                     Lacari having some technical difficulties           https://clips.twitch.tv/ChillyResourcefulPonyBloodTrail-cE-7FAhEtt62_5yT  2024/04/03   -0.2960  NEGATIVE       NEGATIVE
-13             Trains thoughts on Kick streamers thinking they can do and say whatever they want                     https://kick.com/adinross?clip=clip_01HTH8EBS2S1PF15PAFR7XHAP5  2024/04/03    0.0772  NEGATIVE       POSITIVE
-14                                                      xQc and Adin Ross discuss catching pedos                     https://kick.com/adinross?clip=clip_01HTEE313VSEDRCZ0MWQ36R0RN  2024/04/03    0.0000  NEGATIVE       POSITIVE
-15                                                             Moonmoon gets final destinationed             https://clips.twitch.tv/ExuberantSleepyAxePanicBasket-gwTPNm4afVT16Y5W  2024/04/03    0.0000  NEGATIVE       POSITIVE
-16                                                                  Destiny analyzes a car crash                      https://kick.com/destiny?clip=clip_01HTG5ZP4Y6VY901SWDQQBC7WR  2024/04/03   -0.4019  NEGATIVE       POSITIVE
-17                                                         W chasing cop admin does a trick shot                https://clips.twitch.tv/FineTacitCrabsCoolStoryBro-wFdFajx3VWeb-5U4  2024/04/03   -0.0516  NEGATIVE       POSITIVE
+                                                                                                                        title                                                                              url        date  compound   SA_nltk SA_distilibert
+0                                                                                                 Stream sniper attacks Erobb          https://clips.twitch.tv/DelightfulSpookyCurlewPipeHype-lE72Ca7J5okETVAW  2024/04/04   -0.4404  NEGATIVE       NEGATIVE
+1                                                                    Tyler1's brother ends 14-hours long 'You Laugh You Lose'                  https://clips.twitch.tv/BoredPlayfulLarkDatBoi-kWSbQr_gBTacYVJh  2024/04/04    0.2263  POSITIVE       NEGATIVE
+2                                Child predator gets pushed into the road after getting caught trying to fuck 15 year-old boy                    https://kick.com/s-santi?clip=clip_01HTNJWGNF72Q23R1QQ139ECV0  2024/04/04   -0.5423  NEGATIVE       NEGATIVE
+3                                                                  Cyr and Peachjars banter during Alveaus fundraising stream        https://clips.twitch.tv/HeadstrongAnnoyingClipsdadRlyTho-a0ZodgB_NpZZYu6g  2024/04/04    0.0000  NEGATIVE       NEGATIVE
+4                                                                                                  FRIENDS: the gritty reboot            https://clips.twitch.tv/GiantSoftPorpoiseMoreCowbell-FI1pVRjxTzx79j_y  2024/04/04    0.5904  POSITIVE       POSITIVE
+5                                                                                               Wake's workout breaks Alinity                   https://clips.twitch.tv/SilkyDeafTrayTebowing-kUQWmoUFhRmPOzYu  2024/04/04    0.0000  NEGATIVE       NEGATIVE
+6                                                                                            Hachu needs help with a question          https://clips.twitch.tv/NaiveBillowingMagpieKappaClaus-jT1psowCXeUSTStu  2024/04/04    0.4019  POSITIVE       NEGATIVE
+7                                           Streamer finds a third Woodland Mansion and is immediately assassinated by a goat      https://clips.twitch.tv/LivelyFuriousPangolinPhilosoraptor-ksQSA_3QFztMdXUH  2024/04/04    0.0000  NEGATIVE       NEGATIVE
+8            Updated Twitch banned streamer policy: Creators can discuss/react to VODs and live streams from suspended users.                        https://twitter.com/zachbussey/status/1775932096600522848  2024/04/04   -0.7269  NEGATIVE       NEGATIVE
+9                                                                                                          button malfunction  https://www.twitch.tv/leelate/clip/PoliteViscousHumanNononoCat-LCkayvS20QrYde6z  2024/04/04    0.0000  NEGATIVE       NEGATIVE
+10                                                                           "If She's Japanese, It Must Be... Amazon Forest"       https://clips.twitch.tv/AgreeableHandsomeArtichokePrimeMe-jKQVQRsJXFwrsM2R  2024/04/04    0.1779  NEGATIVE       NEGATIVE
+11                                                                                             hottest mix tape in the world               https://clips.twitch.tv/TrappedAbrasiveElkPipeHype-0rFdtKXi4cG0ODkQ  2024/04/04    0.0000  NEGATIVE       POSITIVE
+12                                                                                         Chatter asks Reynad about his hair              https://clips.twitch.tv/ToughFilthyKittenFutureMan-QlD9isgTXwegERAr  2024/04/04    0.0000  NEGATIVE       NEGATIVE
+13                                                                                          YourRage gets attacked by a drone                   https://kick.com/yourrage?clip=clip_01HTKKY0MXD6KF4W9RENH8CXKR  2024/04/04   -0.4588  NEGATIVE       NEGATIVE
+14                                                                                            xQc plays a very difficult game                        https://kick.com/xqc?clip=clip_01HTJ7M25V523PJSN48RR473R7  2024/04/04   -0.2006  NEGATIVE       NEGATIVE
+15                                                                             Reynad is not wrong, I have not been to space.             https://clips.twitch.tv/HelplessFlirtySushiPlanking-5ZeIzG4B8ZAsagg-  2024/04/04    0.3724  POSITIVE       POSITIVE
+16                                                                       When you've played too much Hearthstone in your life           https://clips.twitch.tv/HeadstrongEagerBoarHassanChop-anOBxeFW13zUHV4t  2024/04/04    0.3400  POSITIVE       NEGATIVE
+17                                                                            Destiny talks about a vacation with his ex-wife                    https://kick.com/destiny?clip=clip_01HTGXA7DGKAT99DWMTZBP5X68  2024/04/04    0.0000  NEGATIVE       POSITIVE
+18                                                         Chatter asks Reynad if he will play hearthstone soon...wait for it                 https://clips.twitch.tv/CrispyFriendlyHareDoggo-r-p61PV2_e9WxcnK  2024/04/04    0.3400  POSITIVE       NEGATIVE
+19  Child Kick streamer who took food off of a woman's plate takes a joint from a random man on the street and smokes it live     https://clips.twitch.tv/IntelligentAstuteFiddleheadsSoBayed-sHxJnMJz2o0TVRSo  2024/04/04    0.0000  NEGATIVE       POSITIVE
+20                                                                                  Erobb loses $150 Fishing Magnet [1700 lb]    https://www.twitch.tv/erobb221/clip/AliveBrightLasagnaOpieOP-AMQ-9KwM2pXCWulg  2024/04/04   -0.3182  NEGATIVE       NEGATIVE
+21                                                                                                          Garnt close shave                https://clips.twitch.tv/FurryBadChinchillaMVGame-azVB-MvN7wQP4kqN  2024/04/04    0.0000  NEGATIVE       NEGATIVE
+22                                                                      Erobb magnet fishing and gets stuck on a metal dock L        https://clips.twitch.tv/HeadstrongCautiousTrayKappaClaus-n28Ez2_EIq8dR5QO  2024/04/04   -0.2500  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    16
-POSITIVE     2
+NEGATIVE    17
+POSITIVE     6
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    9
-POSITIVE    9
+NEGATIVE    18
+POSITIVE     5
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
