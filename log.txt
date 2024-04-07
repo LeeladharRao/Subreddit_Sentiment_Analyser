@@ -1,43 +1,36 @@
 <!-- posts starts -->
-                                                             title                                                                                           url        date  compound   SA_nltk SA_distilibert
-0           Shroud hits another sick rocket hit in arma reforger..                      https://clips.twitch.tv/HyperUgliestPastaFreakinStinkin-zKa7yUoNdntw5WSV  2024/04/05   -0.5106  NEGATIVE       NEGATIVE
-1                          Pokimane pulls a really hard jenga move                         https://clips.twitch.tv/UnsightlyUninterestedOwlMcaT-A4sBlP_xPzTNekbc  2024/04/05   -0.1761  NEGATIVE       POSITIVE
-2                                The Mission Impossible theme song                           https://clips.twitch.tv/SteamyBlindingSalmonLitFam-aspPnRSx-3YT3_V6  2024/04/05    0.0000  NEGATIVE       POSITIVE
-3                                                Helicopter stunts                https://clips.twitch.tv/CarelessStylishCroquetteMrDestructoid-V2BkHY-ZaeLrhwwl  2024/04/05    0.0000  NEGATIVE       POSITIVE
-4                                  Sponsor lost in under 5 seconds                       https://clips.twitch.tv/CogentFrozenFiddleheadsDogFace-BxaZIQBz6q-gGfbn  2024/04/05   -0.3182  NEGATIVE       NEGATIVE
-5                                     Northernlion respects nature                        https://clips.twitch.tv/CalmAgileCroissantShazBotstix-bh9jfFVVkMYoyrL_  2024/04/05    0.3182  POSITIVE       POSITIVE
-6                                          Cyr enlists to the Army                     https://clips.twitch.tv/SourMagnificentSeahorsePastaThat-qBi8nVGCAuv3DC6P  2024/04/05    0.0000  NEGATIVE       POSITIVE
-7                                  Great service at the muscle bar                            https://clips.twitch.tv/IronicGoldenAlpacaBudStar-ZlQDzohhcQFpSvQV  2024/04/05    0.6249  POSITIVE       POSITIVE
-8                                        sanest shipping on twitch                            https://clips.twitch.tv/PreciousElatedCobraRlyTho-PqV3tFCPS3bpALLu  2024/04/05    0.0000  NEGATIVE       POSITIVE
-9   Mayor Albert LiCata Steaming Live During New Jersey Earthquake  https://www.twitch.tv/mayoralbertlicata/clip/RealBelovedCheetahTBCheesePull-9puMlr7ZL1moPyWY  2024/04/05    0.0000  NEGATIVE       POSITIVE
-10                                   Dota2 Forsen becomes a number                         https://clips.twitch.tv/SuperCloudyRabbitArsonNoSexy-nCFYFZfIbdG5xKxn  2024/04/05    0.0772  NEGATIVE       NEGATIVE
-11            Petite Japanese girl gets slapped by 10 muscle girls                        https://clips.twitch.tv/HardCrunchyWalletDeIlluminati-dzLz6fqqvlrdLf59  2024/04/05    0.0000  NEGATIVE       NEGATIVE
-12                                         PewDiePie brofists chat                           https://clips.twitch.tv/DaintyQuaintInternRickroll-7ff0Z8Cr9ZfsMTNS  2024/04/05    0.0000  NEGATIVE       NEGATIVE
-13                                               Abroad in a Slide                                https://clips.twitch.tv/ClumsyNastyOxDAESuppy-hjNh2sN0MpIyIUxy  2024/04/05    0.0000  NEGATIVE       POSITIVE
-14                                            Liam Gets Nostalgic                      https://clips.twitch.tv/DirtyAmazonianTortoiseHassanChop-6YAUqzgLUdVIlp49  2024/04/05    0.0000  NEGATIVE       POSITIVE
-15                                   xQc can't help but sing along                                     https://kick.com/xqc?clip=clip_01HTKJ287T5PS3SZ10AQY10V0Z  2024/04/05   -0.1603  NEGATIVE       POSITIVE
-16                      Pewdiepie giving us all a bit of nostalgia                            https://clips.twitch.tv/FamousSpikyGrassChefFrank-rqeDXbegmmzfQdhT  2024/04/05    0.3400  POSITIVE       POSITIVE
-17                 Streamer's neighbor living her best life (LOUD)                         https://clips.twitch.tv/FrailPuzzledWeaselStrawBeary-Bv3ZMautlLZpilBT  2024/04/05    0.6369  POSITIVE       POSITIVE
-18                                         Erobb plays Family Feud                                https://clips.twitch.tv/GoodCuriousCoffeeBIRB-GRaS6ZwMGuBbwlKy  2024/04/05   -0.1027  NEGATIVE       POSITIVE
-19                          PewDiePie Is A Jojo Fan, Apparently...                       https://clips.twitch.tv/TenaciousPiercingSproutCoolCat-AZybFGrXpWiBGbns  2024/04/05    0.3182  POSITIVE       POSITIVE
-20                       Shroud being shroud but in ArmA Reforger.                            https://clips.twitch.tv/UgliestFaintTigerTheTarFu-uSbi68DbJk6PCq--  2024/04/05    0.0000  NEGATIVE       NEGATIVE
-21                                   pewdiepie joins the cyclethon                     https://clips.twitch.tv/DeadLitigiousAnacondaNotLikeThis-XQMoR1Gs5YzgARwZ  2024/04/05    0.0000  NEGATIVE       POSITIVE
-22                        The "15 Incident" returns to haunt erobb                    https://clips.twitch.tv/UninterestedThankfulDaikonVoteNay-VjkYoSMNiDPg9L-d  2024/04/05   -0.4019  NEGATIVE       POSITIVE
-23                  Destiny calls out Train for not "naming names"                                 https://kick.com/destiny?clip=clip_01HTNVZAY116Y7B6ZP29ME1P4X  2024/04/05    0.0000  NEGATIVE       NEGATIVE
-24                                              Shroud meets a fan                 https://clips.twitch.tv/SuccessfulBeautifulSpiderHoneyBadger-5MuTFRfJ1_N_1ron  2024/04/05    0.3182  POSITIVE       POSITIVE
-25         Destiny talks about platforms that attract banned users                                 https://kick.com/destiny?clip=clip_01HTNDZ0T7H9PSCGVGK9AMCA1G  2024/04/05   -0.1280  NEGATIVE       POSITIVE
+                                                                       title                                                                                                            url        date  compound   SA_nltk SA_distilibert
+0                                  it's not just the earth|shaking in Taiwan                              https://www.twitch.tv/luckyjing1120/clip/WimpyLazyDaikonDansGame-6uOni-z50B1ApvAp  2024/04/06    0.0000  NEGATIVE       POSITIVE
+1                                                          Who let him cook?                                        https://clips.twitch.tv/TrappedFuriousWeaselHumbleLife-hL1yZhKbA-5bi2Lk  2024/04/06    0.0000  NEGATIVE       NEGATIVE
+2                                  Louie throws junkie thief out of his shop                                                   https://kick.com/louiex?clip=clip_01HTT8KC8FEB7G8VHVZ0ZS6MHD  2024/04/06   -0.5267  NEGATIVE       NEGATIVE
+3                                           Forsen proves the doubters wrong                                        https://clips.twitch.tv/LivelyRichCourgetteKevinTurtle-vBUCnKWIJjiCnGmp  2024/04/06   -0.6597  NEGATIVE       NEGATIVE
+4                                                   DevonJenelle - big chest                                            https://clips.twitch.tv/StupidZealousSharkRuleFive-mnD9n5noB_fu5MTo  2024/04/06    0.0000  NEGATIVE       POSITIVE
+5                                   gamedev came into Aris chat for feedback  https://www.twitch.tv/avoidingthepuddle/clip/TalentedPiliableStrawberryPeanutButterJellyTime-eW3r0YaWJazLTUKp  2024/04/06    0.0000  NEGATIVE       NEGATIVE
+6   AMA with Dan Clancy, CEO of Twitch, on his livestream April 9th, 7pm PST             https://www.reddit.com/r/LivestreamFail/comments/1bxhvci/ama_with_dan_clancy_ceo_of_twitch_on_his/  2024/04/06    0.0000  NEGATIVE       NEGATIVE
+7                                                             Peegu is baked                                             https://clips.twitch.tv/BitterNimbleCookieHeyGuys-fdDuPGoLHVeG4IdW  2024/04/06    0.0000  NEGATIVE       POSITIVE
+8                                                               friendly cat                             https://www.twitch.tv/justketh/clip/PeacefulFreezingShallotUnSane-8tBWwpvlVLvp7TrR  2024/04/06    0.4939  POSITIVE       POSITIVE
+9                                                     one-legged breakdancer                          https://www.twitch.tv/joeykaotyk/clip/EnticingWanderingConsoleVoHiYo-w3l33lhBzkl5s6Zi  2024/04/06    0.0000  NEGATIVE       NEGATIVE
+10                                        Maya gets jumped by a skateboarder                                                https://clips.twitch.tv/CuteDoubtfulJayCoolCat-BG36PyHO5qcc_D0n  2024/04/06    0.0000  NEGATIVE       NEGATIVE
+11           Ruben returns from America, forgets how to drive Norwegian cars                                            https://clips.twitch.tv/ArtsyPoliteFlyRiPepperonis-0oPA3mkSTGhNKN5n  2024/04/06    0.0000  NEGATIVE       NEGATIVE
+12    Robcdee observes a different breed of TikToker outside of the Dog Expo                                      https://clips.twitch.tv/HedonisticBrightMosquitoRuleFive-7nndWIs9mKhSdgKS  2024/04/06    0.0000  NEGATIVE       NEGATIVE
+13                                              3-way brofist from Pewdiepie                                https://clips.twitch.tv/HilariousUninterestedNoodleKeyboardCat-KJmP138qWgfeMcCl  2024/04/06    0.0000  NEGATIVE       NEGATIVE
+14                                                  PewDiePie Falls Off Bike                                     https://clips.twitch.tv/EphemeralEnjoyableLobsterBabyRage-IkkHEmNO9uVwGHHD  2024/04/06    0.0000  NEGATIVE       NEGATIVE
+15                                                 Chris Broad gets personal                                   https://clips.twitch.tv/TenaciousDistinctLettuceDoritosChip-a3e6mWE0xTIFGw8n  2024/04/06    0.0000  NEGATIVE       POSITIVE
+16                                                PewDiePie Has A Close Call                                              https://clips.twitch.tv/CrackyRichKathyPicoMause-qHatNi5EvcXdi3O5  2024/04/06    0.0000  NEGATIVE       POSITIVE
+17   Trimming the Herbs, the hardest level in Mario Maker has been completed                                               https://clips.twitch.tv/HomelyBoldStorkCopyThis-lLlQPt24b1VgXEqd  2024/04/06    0.0000  NEGATIVE       POSITIVE
+18                  Nick finds out the waiters have been watching his stream                                              https://clips.twitch.tv/MistyRenownedPiePoooound-A-T-aj3hVIpoSans  2024/04/06    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    20
-POSITIVE     6
+NEGATIVE    18
+POSITIVE     1
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    19
-NEGATIVE     7
+NEGATIVE    12
+POSITIVE     7
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
