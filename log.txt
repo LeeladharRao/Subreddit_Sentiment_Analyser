@@ -1,41 +1,36 @@
 <!-- posts starts -->
-                                                                                            title                                                                                                url        date  compound   SA_nltk SA_distilibert
-0                                             Destiny talks about a hypothetical Adin Ross debate                                      https://kick.com/destiny?clip=clip_01HTZH5PNX2RGRZTKM9N2J5H2K  2024/04/08    0.0000  NEGATIVE       POSITIVE
-1                                                     Livestreamer gets attacked by her passenger                                  https://www.youtube.com/clip/UgkxIocefPj8WFK9wE90LjDig70RbFe58qQs  2024/04/08   -0.4588  NEGATIVE       NEGATIVE
-2                                                                  LIRIK feels the heat of battle                        https://clips.twitch.tv/RelievedGentleDotterelRiPepperonis-HGfNkbaIjs5WBN9C  2024/04/08   -0.3818  NEGATIVE       POSITIVE
-3                                                                                  Lirik calls it                                   https://clips.twitch.tv/SnappyHealthyKaleBCouch-xH0jeB0cHGqvCohb  2024/04/08    0.0000  NEGATIVE       POSITIVE
-4                                                                        Some people like Mondays                        https://clips.twitch.tv/EncouragingCreativeShallotSpicyBoy-hgv-2ZAEgNtesQZa  2024/04/08    0.3612  POSITIVE       NEGATIVE
-5                                                         Doc speaks out about lost sponsorships.                                  https://www.youtube.com/clip/UgkxoZmcSkk2grug3EsZtIXhFKoJyEhQZX8F  2024/04/08   -0.3182  NEGATIVE       NEGATIVE
-6                                             View of the Eclipse's shadow on Earth from the ISS.                            https://clips.twitch.tv/FreezingPeppyGoldfishTwitchRPG-WYMz1NYINH9XQXVk  2024/04/08    0.0000  NEGATIVE       POSITIVE
-7                                                          The full eclipse process in 60 seconds                          https://clips.twitch.tv/RelatedGeniusGoblinPhilosoraptor-SLZj-hPFWVsa4TlI  2024/04/08    0.0000  NEGATIVE       POSITIVE
-8                                                           NL on looking directly at the eclipse                             https://clips.twitch.tv/BlitheHilariousWombatJebaited-4K9AQg85S6HMVQzx  2024/04/08    0.0000  NEGATIVE       POSITIVE
-9                                                                          Solar Eclipse in Texas                           https://clips.twitch.tv/HumbleCrackyPeafowlThisIsSparta-MPIjFz0LzqDh_-7-  2024/04/08    0.0000  NEGATIVE       POSITIVE
-10                                                                                  Total Eclipse                                 https://clips.twitch.tv/FlaccidPopularCocoaSSSsss-AZWbmt96hYW86zuP  2024/04/08    0.0000  NEGATIVE       POSITIVE
-11  ohnepixel has a realization while yapping about counter strike and watching the solar eclipse                                   https://clips.twitch.tv/UglyNimbleParrotHeyGuys-N2R4TQ8pR89IyS4R  2024/04/08   -0.1280  NEGATIVE       NEGATIVE
-12                                                                                   CYR Ascends                                   https://clips.twitch.tv/SavoryDreamyTroutOSsloth-5BSkkAB7ncrXnCwu  2024/04/08    0.0000  NEGATIVE       POSITIVE
-13                                                                            Scarra drinks water                           https://clips.twitch.tv/IncredulousAbstruseFloofDBstyle-9BMxVPNf6ql6I02W  2024/04/08    0.0000  NEGATIVE       POSITIVE
-14                                                        Forsen prepares for a blind playthrough  https://www.reddit.com/r/LivestreamFail/comments/1bz36th/forsen_prepares_for_a_blind_playthrough/  2024/04/08   -0.4019  NEGATIVE       NEGATIVE
-15                                                Nick and CYR place the platform onto the magnet                       https://clips.twitch.tv/AltruisticCredulousBobaPeoplesChamp-oa6BPz3aqfBdun0A  2024/04/08    0.0000  NEGATIVE       POSITIVE
-16                                                                            Running in the 90's                  https://www.twitch.tv/leelate/clip/CutePiliableGoatDancingBanana-nczm4e4fzNhHMDrL  2024/04/08    0.0000  NEGATIVE       NEGATIVE
-17                                                                       Jinny holds a slow loris                        https://clips.twitch.tv/BombasticImpartialRaisinRaccAttack-kDCzyJg2shAhiF6H  2024/04/08    0.0000  NEGATIVE       NEGATIVE
-18                                                                just a random dank happi dance                                   https://clips.twitch.tv/PlainCovertCheddarOSfrog-mZRa5I8LgCidsi43  2024/04/08    0.0000  NEGATIVE       NEGATIVE
-19                                                  And people complain about the hot tub meta...                https://www.twitch.tv/kaicenat/clip/PuzzledBoredLeopardGingerPower-f17vcpJ-jYo8AhFk  2024/04/08   -0.3612  NEGATIVE       NEGATIVE
-20                                                                 xQc gives advice to the police                                          https://kick.com/xqc?clip=clip_01HTVAEJEB0AYMKVDB5XW8BSDQ  2024/04/08    0.0000  NEGATIVE       POSITIVE
-21                                                                          Hitch on a new level!                          https://clips.twitch.tv/ColorfulBlightedOpossumPastaThat-j0aijM0Nfcs8evhT  2024/04/08    0.0000  NEGATIVE       NEGATIVE
-22                                                   Streamer cries after Cody finishes his story                              https://clips.twitch.tv/AlluringDeliciousBorkBudStar-BDEJLnLoSCkKi9o-  2024/04/08   -0.4019  NEGATIVE       NEGATIVE
-23                                              Minavae - Lemon VS streamer girl (magnetic dance)                              https://clips.twitch.tv/StrongSparklingTomatoHeyGuys-V0mNJYHE_F2uYA-M  2024/04/08    0.0000  NEGATIVE       POSITIVE
+                                                                                               title                                                                                                              url        date  compound   SA_nltk SA_distilibert
+0                                                         A bee invading personal space of streamer!                                               https://clips.twitch.tv/TardyPoliteOrangeMikeHogu-mx62o2h2Axr-fvHd  2024/04/09    0.0000  NEGATIVE       NEGATIVE
+1                                                                   LIRIK pulls off a crazy 360 kill                                         https://clips.twitch.tv/AmorphousTenuousPenguinBudBlast-_UmI_fw3WWkbsw6S  2024/04/09   -0.7964  NEGATIVE       POSITIVE
+2                                                                        Summit fixes his headphones                                     https://clips.twitch.tv/HelplessTransparentQuailGrammarKing-TNonfqIuAKg3_VK7  2024/04/09    0.0000  NEGATIVE       NEGATIVE
+3                                                                          Jericho finds a gamer gun                                     https://clips.twitch.tv/ConfidentFineFinchCharlietheUnicorn-_E4Jka1r09f6Q82b  2024/04/09   -0.3400  NEGATIVE       NEGATIVE
+4                                    Shibuya angle physically agresses a local trying to haul a taxi                                            https://clips.twitch.tv/ShyBenevolentMosquitoCoolCat-hVix51NAwuFZT4Rt  2024/04/09    0.0000  NEGATIVE       NEGATIVE
+5                                                                             NL discovers AI Hentai                                             https://clips.twitch.tv/ClumsyFlirtyDogeGingerPower-BlyYw9x2vS8Kzq-3  2024/04/09    0.0000  NEGATIVE       NEGATIVE
+6                                    FrostPrime secures the lead in BaerTaffy’s Balatro Invitational                                                https://clips.twitch.tv/CrackyCharmingLegTakeNRG-T0umbOINTOsUzdGo  2024/04/09    0.3182  POSITIVE       POSITIVE
+7                                                    Korean Auntie asks boy if he wants to touch it                                         https://clips.twitch.tv/NastyOutstandingDaikonWholeWheat-6i-HhMccmOOZy7Tm  2024/04/09    0.0000  NEGATIVE       POSITIVE
+8   Forsen is unlucky (He's been playing the game for 1 hour 30 and hasn't played past round 1 once)                                          https://clips.twitch.tv/InexpensiveTemperedMageWutFace-HHMwOBRrcnEKD2Hz  2024/04/09   -0.0608  NEGATIVE       NEGATIVE
+9                                                                       bedroom is finally cat-proof                                     https://www.twitch.tv/beddle/clip/RacyStormyPenguinTebowing-t-U2Idia19d6qm_B  2024/04/09    0.0000  NEGATIVE       POSITIVE
+10                                                                               thai metallica kids                                        https://clips.twitch.tv/JoyousFastHyenaCharlietheUnicorn-g7F6tsKB8Uu6OMqx  2024/04/09    0.0000  NEGATIVE       POSITIVE
+11                                                                             Monkey hitches a ride                                     https://clips.twitch.tv/AdventurousHelpfulWerewolfFutureMan-Subvv7hFcYFG3u2j  2024/04/09    0.0000  NEGATIVE       NEGATIVE
+12                                                                                   yeo_ul best pov  https://www.twitch.tv/yeo_ul/clip/AmorphousTenderWhaleLitFam-5AB4kFXqkidPQW1w?filter=clips&range=24hr&sort=time  2024/04/09    0.6369  POSITIVE       POSITIVE
+13                                                                            how to go super saiyan                                                  https://clips.twitch.tv/StrangeDeafPigeonKAPOW-yfpvTtMoxV6eOpV5  2024/04/09    0.5994  POSITIVE       POSITIVE
+14                                                                             X-Files in a nutshell                                                 https://clips.twitch.tv/SlickShortBeaverDxAbomb-T_A0UoqqWMTAKQW0  2024/04/09    0.0000  NEGATIVE       NEGATIVE
+15                                                                     Abroad in Japan falls of bike                                                 https://clips.twitch.tv/SpikyAnimatedCookieMau5-ZH81FN3698T_SHUq  2024/04/09    0.0000  NEGATIVE       NEGATIVE
+16                                                      Natsuki doesn't fill Connor with confidence.                                           https://clips.twitch.tv/CrowdedBovineOtterNotLikeThis-xlHLuGxXFUcyV8-s  2024/04/09    0.5106  POSITIVE       NEGATIVE
+17                                            Natsuki makes his debut on the cyclethon - strongstyle                                           https://clips.twitch.tv/DelightfulGrossSwordCorgiDerp-Tt7i9tt0xW3MqjoL  2024/04/09    0.0000  NEGATIVE       POSITIVE
+18                                                               Chiblee debuts his pirate character                                        https://clips.twitch.tv/OptimisticSucculentOysterOneHand-zzsBN-GYeeJalLdp  2024/04/09    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    23
-POSITIVE     1
+NEGATIVE    15
+POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    13
-NEGATIVE    11
+NEGATIVE    10
+POSITIVE     9
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
