@@ -1,47 +1,38 @@
 <!-- posts starts -->
-                                                                                                 title                                                                                                         url        date  compound   SA_nltk SA_distilibert
-0                                                                              Day9 hit with a Classic                               https://clips.twitch.tv/HelplessColorfulAnacondaRiPepperonis-Lrqx5BsIGxf8CqlL  2024/04/10    0.0000  NEGATIVE       POSITIVE
-1                                                                   Day9 explains a delicious delicacy                                            https://clips.twitch.tv/OriginalWildGaurCoolCat-u703woHfMOBDDpED  2024/04/10    0.5719  POSITIVE       POSITIVE
-2                                                                          When you watch too much WWE                                               https://clips.twitch.tv/LazyWildPotBlargNaut-ZhR1QFVzCZPR5QuW  2024/04/10    0.0000  NEGATIVE       NEGATIVE
-3                                                                          P*ssy Ping Pong in Thailand  https://www.twitch.tv/wbp712/clip/ObeseStormyHareTheTarFu-B88NOFVkmsu5xfBz?filter=clips&range=7d&sort=time  2024/04/10    0.0000  NEGATIVE       POSITIVE
-4                               Kpop singer sings one of her songs live on stream (Kyoungseo - 120bpm)                                           https://www.youtube.com/clip/UgkxbrnXj_JEChzF4NF0YYadBV6CzcJA7GrY  2024/04/10    0.0000  NEGATIVE       POSITIVE
-5                                                            Bald Man Embraces Modern Gaming Discourse                                  https://clips.twitch.tv/BloodyAdventurousManateeBuddhaBar-w1W7IcZpWivFWbnd  2024/04/10    0.0000  NEGATIVE       POSITIVE
-6                                                         Maya talks about her stalker of three years.                                 https://clips.twitch.tv/BluePopularGalagoCharlietheUnicorn-8Dkzyu2wm2MlU-GD  2024/04/10    0.0000  NEGATIVE       POSITIVE
-7                                                                 New Twitch E Girl Jumping Jacks Meta                                     https://clips.twitch.tv/BlueConsideratePepperoniVoHiYo-QQza9LqdKG0pD8aK  2024/04/10    0.0000  NEGATIVE       NEGATIVE
-8                                            Behaired streamer's wife struggles with an English idiom.                                       https://clips.twitch.tv/CuriousObedientStorkImGlitch-6ijkTn8CV0UUPUg_  2024/04/10   -0.3612  NEGATIVE       NEGATIVE
-9                                                                               xQc shows off his body                                                   https://kick.com/xqc?clip=clip_01HV3KMXTTA2VKQRCGVK67491Y  2024/04/10    0.0000  NEGATIVE       NEGATIVE
-10                                         Streamer shows off impressive minature greenhouse they made                        https://www.twitch.tv/razzle_riley/clip/DiligentObliqueCakeRickroll-IODdnDiRI12zmhqZ  2024/04/10    0.5106  POSITIVE       POSITIVE
-11                              AustinShow discovers somebody is selling his merch without his consent                                      https://clips.twitch.tv/MagnificentCorrectWoodcockWow-N8_SyhmF0G47DDRx  2024/04/10   -0.1695  NEGATIVE       NEGATIVE
-12                              Streamer catches impressive live performance at Kiss Bridge in Vietnam                             https://www.twitch.tv/berryoi/clip/ThirstyVibrantMinkShadyLulu-FzbFiMBYIe9Rj9ia  2024/04/10    0.7269  POSITIVE       POSITIVE
-13                                                         Duke dennis with a strong take on kai cenat                                   https://clips.twitch.tv/EntertainingRoughHabaneroSoBayed-hs14hz4GROV0-VSZ  2024/04/10    0.5106  POSITIVE       POSITIVE
-14                                                              Fauna's experience with Sea of Thieves                                           https://www.youtube.com/clip/UgkxnhHYooEATYNOJLhOhXYdFKTGw9_SZC8s  2024/04/10   -0.5106  NEGATIVE       POSITIVE
-15                                                                                 new breed of egirl                                                https://clips.twitch.tv/KathishFrailSangWOOP-_vEV2iLerFpXNfdZ  2024/04/10    0.0000  NEGATIVE       POSITIVE
-16                                                                           Yuki plays for chat again                                     https://clips.twitch.tv/SpinelessRoughGarbageDatSheffy-gY2HU-l4lZH6MpxJ  2024/04/10    0.2500  POSITIVE       NEGATIVE
-17                                                                 Heosu gets stream sniped by a bird.                               https://www.twitch.tv/exbc/clip/SillyTrappedGiraffeBrokeBack-HuniFnI38L5xNwF-  2024/04/10    0.0000  NEGATIVE       NEGATIVE
-18                                                            xQc calls out Train for not naming names                                                   https://kick.com/xqc?clip=clip_01HV2PPYNDPRQ4ZGHFZXRRWYAJ  2024/04/10    0.0000  NEGATIVE       NEGATIVE
-19  Coach Billy Nosh wins the Backyard Baseball World Series with the [actual] worst players this time                                   https://clips.twitch.tv/HorribleLovelyDinosaurBigBrother-3cpQ_fNtOL5dtXqu  2024/04/10   -0.1027  NEGATIVE       NEGATIVE
-20                                                                               Grown man bullies kid                                    https://clips.twitch.tv/CrispyEsteemedKeyboardFutureMan-uQ6v8_fXelHLfXLD  2024/04/10    0.0000  NEGATIVE       POSITIVE
-21                                         xQc defends Jynxzi against Train's view botting accusations                                                   https://kick.com/xqc?clip=clip_01HV2PVBSDXG18G5S6VSZR3EZD  2024/04/10   -0.3182  NEGATIVE       NEGATIVE
-22                                                    absurd production value on premiertwo livestream                                   https://clips.twitch.tv/AnimatedGrossDelicataNinjaGrumpy-LlDH9VQ9qg-cy59T  2024/04/10    0.3400  POSITIVE       NEGATIVE
-23                                                 Pobelter watches an ad for his favorite mobile game                                              https://clips.twitch.tv/LazyThankfulFlySSSsss-wBx_BYeB_83MZVNY  2024/04/10    0.4588  POSITIVE       NEGATIVE
-24                                                                                   Angle of Shanghai                                          https://clips.twitch.tv/RockySneakyDragonflyDoggo-dzm_B9wPoi_Bw-Z9  2024/04/10    0.0000  NEGATIVE       POSITIVE
-25                             Streamer ends stream after scamming viewer who jumped in lake for money                                  https://clips.twitch.tv/SeductiveJollyWoodpeckerThunBeast-iPRCVuqzu7dpRy86  2024/04/10    0.0000  NEGATIVE       NEGATIVE
-26                                                            Scarra has never played ping pong before                                 https://clips.twitch.tv/ElegantHyperClintmullinsRaccAttack-nu-1Kz3p0u_W-qUN  2024/04/10   -0.2584  NEGATIVE       POSITIVE
-27                                                                   Emily Wang knows what Toast likes                                    https://clips.twitch.tv/PowerfulTenaciousEggnogBudBlast-c3BMivE3FVWCBeee  2024/04/10    0.4215  POSITIVE       POSITIVE
-28                                                                   Aris Gets Some Loadscreen Advice.                                          https://clips.twitch.tv/BrainyShyCheddarPermaSmug-Js8unp2IzqYDX56D  2024/04/10    0.0000  NEGATIVE       NEGATIVE
-29                                                                     Serbian commenter rates CDawgVA                                  https://clips.twitch.tv/AggressiveAgitatedGalagoPermaSmug-jyVwsShL7BRbjCyZ  2024/04/10    0.0000  NEGATIVE       POSITIVE
+                                                        title                                                                                        url        date  compound   SA_nltk SA_distilibert
+0                 OTK Next Top Streamer skips audition videos                        https://clips.twitch.tv/PlausibleBlazingPeafowlWow-uQZnHaWN7hXmwQvx  2024/04/11    0.2023  POSITIVE       NEGATIVE
+1                                I don't think you are ready.                   https://clips.twitch.tv/ObservantFaithfulTigerBrainSlug-y1IBdYJAan-mBIIA  2024/04/11    0.3612  POSITIVE       NEGATIVE
+2                      Day9 teaches chat how to become GOATED          https://clips.twitch.tv/CrunchyPhilanthropicAnacondaRiPepperonis-sxUY7FjzUTXwYLdR  2024/04/11    0.0000  NEGATIVE       NEGATIVE
+3                                                 Monkey Cock                   https://clips.twitch.tv/TentativeCarelessRhinocerosMau5-odU0wBI21O5_CH2z  2024/04/11   -0.1531  NEGATIVE       NEGATIVE
+4                                         The party gets wild                      https://clips.twitch.tv/RoughDignifiedParrotCopyThis-SN18sz8NGWMKwEkX  2024/04/11    0.4019  POSITIVE       POSITIVE
+5         Buddha's Twitch gets Hacked while he's live on Kick                    https://clips.twitch.tv/DelightfulLazyRavenKevinTurtle-zsbCEbK8tmHBRBJF  2024/04/11   -0.4019  NEGATIVE       NEGATIVE
+6                                    Soda "brand risk" Poppin                    https://clips.twitch.tv/PopularMiniatureLampBibleThump-LfkKqnCIchgowyKc  2024/04/11   -0.2732  NEGATIVE       NEGATIVE
+7                                                Classic Soda                        https://clips.twitch.tv/BoringPlumpDeerDancingBaby-PCx9l_TQL2pwDzaA  2024/04/11    0.0000  NEGATIVE       POSITIVE
+8   PhiDX promotes to Tekken 8 max rank God of Destr- oh wait                          https://clips.twitch.tv/MoistRockyMagpieBabyRage-5bnObs-HRq-I2FNX  2024/04/11    0.5423  POSITIVE       NEGATIVE
+9      Sweet_Anita presents an award at the BAFTA game awards                        https://clips.twitch.tv/CrackyFaintPuppyStrawBeary-9K70wNYKBw2PdW2N  2024/04/11    0.7579  POSITIVE       POSITIVE
+10                                  Alinity asks the question                  https://clips.twitch.tv/ImpartialPlausibleEndiveKreygasm-Fqhvep58Pwx4iAs8  2024/04/11    0.0000  NEGATIVE       POSITIVE
+11                                Why we need more woke games                      https://clips.twitch.tv/RenownedUglyAnacondaFailFish-7O6wzrCSUn_eVDGg  2024/04/11    0.0000  NEGATIVE       NEGATIVE
+12                          Knut - Knut’s first cavity search                 https://clips.twitch.tv/TriangularRelatedRavenDoritosChip-5Ummo6eyt0h6q51u  2024/04/11    0.0000  NEGATIVE       POSITIVE
+13          streamer dodged a child running out onto the road  https://www.twitch.tv/geezgiselle/clip/HeadstrongAttractiveKleePicoMause--YPhvMMX8YLMSQ09  2024/04/11    0.0000  NEGATIVE       NEGATIVE
+14                   xQc shares Adin Ross's new contact photo                                  https://kick.com/xqc?clip=clip_01HV5XGN2NS6QJ9AWKE8TPZ410  2024/04/11    0.2960  POSITIVE       NEGATIVE
+15                                        xQc gets bamboozled                                  https://kick.com/xqc?clip=clip_01HV5T05X8VGDJ981Q7RZMGNHN  2024/04/11   -0.3612  NEGATIVE       NEGATIVE
+16                                  Destiny has perfect tempo                              https://kick.com/destiny?clip=clip_01HV5BZKQBP33WNYF7WAYFDQJG  2024/04/11    0.5719  POSITIVE       POSITIVE
+17                                                 Based dono                 https://clips.twitch.tv/FlaccidTenaciousNostrilSquadGoals-Dg8sI2QXOYCFGOrH  2024/04/11    0.0000  NEGATIVE       POSITIVE
+18                               xQc Channels His Inner Erobb                                  https://kick.com/xqc?clip=clip_01HV5QV9SN74EK37WTRK0GK1RS  2024/04/11    0.0000  NEGATIVE       NEGATIVE
+19                                       15K dono for charity                         https://clips.twitch.tv/TenuousAmazingCurlewDxCat--yGUUo7HrlurfehQ  2024/04/11    0.4215  POSITIVE       NEGATIVE
+20                         Aris discovers what JOI stands for                          https://clips.twitch.tv/PunchyTardyButterMingLee-rBdjU2bxq_CwUMOa  2024/04/11    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    22
+NEGATIVE    13
 POSITIVE     8
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    16
-NEGATIVE    14
+NEGATIVE    13
+POSITIVE     8
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
