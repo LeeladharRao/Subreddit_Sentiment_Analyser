@@ -1,38 +1,33 @@
 <!-- posts starts -->
-                                                        title                                                                                        url        date  compound   SA_nltk SA_distilibert
-0                 OTK Next Top Streamer skips audition videos                        https://clips.twitch.tv/PlausibleBlazingPeafowlWow-uQZnHaWN7hXmwQvx  2024/04/11    0.2023  POSITIVE       NEGATIVE
-1                                I don't think you are ready.                   https://clips.twitch.tv/ObservantFaithfulTigerBrainSlug-y1IBdYJAan-mBIIA  2024/04/11    0.3612  POSITIVE       NEGATIVE
-2                      Day9 teaches chat how to become GOATED          https://clips.twitch.tv/CrunchyPhilanthropicAnacondaRiPepperonis-sxUY7FjzUTXwYLdR  2024/04/11    0.0000  NEGATIVE       NEGATIVE
-3                                                 Monkey Cock                   https://clips.twitch.tv/TentativeCarelessRhinocerosMau5-odU0wBI21O5_CH2z  2024/04/11   -0.1531  NEGATIVE       NEGATIVE
-4                                         The party gets wild                      https://clips.twitch.tv/RoughDignifiedParrotCopyThis-SN18sz8NGWMKwEkX  2024/04/11    0.4019  POSITIVE       POSITIVE
-5         Buddha's Twitch gets Hacked while he's live on Kick                    https://clips.twitch.tv/DelightfulLazyRavenKevinTurtle-zsbCEbK8tmHBRBJF  2024/04/11   -0.4019  NEGATIVE       NEGATIVE
-6                                    Soda "brand risk" Poppin                    https://clips.twitch.tv/PopularMiniatureLampBibleThump-LfkKqnCIchgowyKc  2024/04/11   -0.2732  NEGATIVE       NEGATIVE
-7                                                Classic Soda                        https://clips.twitch.tv/BoringPlumpDeerDancingBaby-PCx9l_TQL2pwDzaA  2024/04/11    0.0000  NEGATIVE       POSITIVE
-8   PhiDX promotes to Tekken 8 max rank God of Destr- oh wait                          https://clips.twitch.tv/MoistRockyMagpieBabyRage-5bnObs-HRq-I2FNX  2024/04/11    0.5423  POSITIVE       NEGATIVE
-9      Sweet_Anita presents an award at the BAFTA game awards                        https://clips.twitch.tv/CrackyFaintPuppyStrawBeary-9K70wNYKBw2PdW2N  2024/04/11    0.7579  POSITIVE       POSITIVE
-10                                  Alinity asks the question                  https://clips.twitch.tv/ImpartialPlausibleEndiveKreygasm-Fqhvep58Pwx4iAs8  2024/04/11    0.0000  NEGATIVE       POSITIVE
-11                                Why we need more woke games                      https://clips.twitch.tv/RenownedUglyAnacondaFailFish-7O6wzrCSUn_eVDGg  2024/04/11    0.0000  NEGATIVE       NEGATIVE
-12                          Knut - Knut’s first cavity search                 https://clips.twitch.tv/TriangularRelatedRavenDoritosChip-5Ummo6eyt0h6q51u  2024/04/11    0.0000  NEGATIVE       POSITIVE
-13          streamer dodged a child running out onto the road  https://www.twitch.tv/geezgiselle/clip/HeadstrongAttractiveKleePicoMause--YPhvMMX8YLMSQ09  2024/04/11    0.0000  NEGATIVE       NEGATIVE
-14                   xQc shares Adin Ross's new contact photo                                  https://kick.com/xqc?clip=clip_01HV5XGN2NS6QJ9AWKE8TPZ410  2024/04/11    0.2960  POSITIVE       NEGATIVE
-15                                        xQc gets bamboozled                                  https://kick.com/xqc?clip=clip_01HV5T05X8VGDJ981Q7RZMGNHN  2024/04/11   -0.3612  NEGATIVE       NEGATIVE
-16                                  Destiny has perfect tempo                              https://kick.com/destiny?clip=clip_01HV5BZKQBP33WNYF7WAYFDQJG  2024/04/11    0.5719  POSITIVE       POSITIVE
-17                                                 Based dono                 https://clips.twitch.tv/FlaccidTenaciousNostrilSquadGoals-Dg8sI2QXOYCFGOrH  2024/04/11    0.0000  NEGATIVE       POSITIVE
-18                               xQc Channels His Inner Erobb                                  https://kick.com/xqc?clip=clip_01HV5QV9SN74EK37WTRK0GK1RS  2024/04/11    0.0000  NEGATIVE       NEGATIVE
-19                                       15K dono for charity                         https://clips.twitch.tv/TenuousAmazingCurlewDxCat--yGUUo7HrlurfehQ  2024/04/11    0.4215  POSITIVE       NEGATIVE
-20                         Aris discovers what JOI stands for                          https://clips.twitch.tv/PunchyTardyButterMingLee-rBdjU2bxq_CwUMOa  2024/04/11    0.0000  NEGATIVE       POSITIVE
+                                                                                                                                                         title                                                                                                                     url        date  compound   SA_nltk SA_distilibert
+0   The Spanish streamer, Silithur, who plays Elden Ring in Morse code with a single button, has finished the game, defeating all the bosses with Remembrance.                                                  https://clips.twitch.tv/CrispyImportantFriesAMPEnergy-qoSlWKhAB3tPMsSW  2024/04/12   -0.1531  NEGATIVE       POSITIVE
+1                                                                                                                                         Alinity opens a gift                                                     https://clips.twitch.tv/SincereBelovedPeachMingLee-IKckbI-MPtm3-eVZ  2024/04/12    0.4404  POSITIVE       POSITIVE
+2                                                                                                                              Destiny clarifies his sexuality                                                           https://kick.com/destiny?clip=clip_01HV7NBAPZT3JXN3CQHTCN5CJC  2024/04/12    0.2263  POSITIVE       POSITIVE
+3                                                                                                                             Nick learns how to play PingPong                                                         https://clips.twitch.tv/LightGoodCrabsDansGame-43IGA89oExhKA3P8  2024/04/12    0.3400  POSITIVE       POSITIVE
+4                                                                                                                                        Destiny cooks a guest                                                           https://kick.com/destiny?clip=clip_01HV96BG0ZXJDH0YVRX62SPFMR  2024/04/12    0.0000  NEGATIVE       POSITIVE
+5                                                                                                                              Can someone explain nymn to me?                                                 https://clips.twitch.tv/ImportantClumsyWalletCorgiDerp-SWbmx3EsA2tgm8J0  2024/04/12    0.0000  NEGATIVE       NEGATIVE
+6                                                                                                                Busan hobbit gets mad and scares a pedestrian                                                     https://clips.twitch.tv/ThirstyPeacefulBaconMVGame-uW5Ip_AtleeK40ix  2024/04/12   -0.6808  NEGATIVE       NEGATIVE
+7                                                                                                                Knut stream sniped in traffic on the Autobahn                                              https://clips.twitch.tv/InquisitiveTenderTarsierFUNgineer-rcgORAVgV-qVOKEJ  2024/04/12    0.0000  NEGATIVE       NEGATIVE
+8                                                                                                                              NL wants to bring back bullying                                                        https://clips.twitch.tv/BrainyBumblingJayWoofer-raLfd1ny4emGGexD  2024/04/12   -0.5994  NEGATIVE       NEGATIVE
+9                                                                                                                                                  awesome day                          https://www.twitch.tv/avoidingthepuddle/clip/ResilientCarefulWaterSuperVinlin-mFywszvDmGv6ib4x  2024/04/12    0.6249  POSITIVE       POSITIVE
+10                                                                                                                                  the cutest state of Squeex                                        https://www.twitch.tv/squeex/clip/WrongSleepyFiddleheadsBudStar-tM2EYF6-Lf0p_xIH  2024/04/12    0.5859  POSITIVE       POSITIVE
+11                                                                                        Old man pretends to mistakenly brush his hand against streamer's leg                                                  https://clips.twitch.tv/ToughDepressedSashimiUncleNox-5e84MpjYf73XmbsZ  2024/04/12    0.1531  NEGATIVE       NEGATIVE
+12                                                                                                                                                   very oily  https://www.twitch.tv/yoon_froggy/clip/ExquisiteEasyPoultryImGlitch-7WRGDJut5CoI7pSc?filter=clips&range=24hr&sort=time  2024/04/12    0.0000  NEGATIVE       NEGATIVE
+13                                                                                                              Connor finds Asmongolds house on the cyclethon                                                 https://clips.twitch.tv/CloudyVibrantSashimiBloodTrail-IKePZG5JA6yl-Pxt  2024/04/12    0.0000  NEGATIVE       POSITIVE
+14                                                                                                   Kid gets distracted by drone and almost crashes into Pete                                          https://clips.twitch.tv/DarlingAssiduousStrawberryArsonNoSexy-h-GG-KJwK3lN812j  2024/04/12   -0.3400  NEGATIVE       NEGATIVE
+15                                                                                                                                xQc responds to Jynxzi drama                                                          https://kick.com/adinross?clip=clip_01HV7RN0N0ZKZ9298Z4VRGM7YT  2024/04/12    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    13
-POSITIVE     8
+NEGATIVE    11
+POSITIVE     5
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    13
-POSITIVE     8
+POSITIVE    9
+NEGATIVE    7
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
