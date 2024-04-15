@@ -1,33 +1,41 @@
 <!-- posts starts -->
-                                                        title                                                                                                          url        date  compound   SA_nltk SA_distilibert
-0                                         Drag race crash wtf                                   https://clips.twitch.tv/CrowdedSteamyAppleAMPEnergyCherry-wYPime54GjYg_num  2024/04/13   -0.8126  NEGATIVE       NEGATIVE
-1                          Tyler 1 at Thailand water festival                                    https://clips.twitch.tv/RacyBenevolentApeResidentSleeper-5GlQsPnAEKKmYWBt  2024/04/13    0.4939  POSITIVE       POSITIVE
-2                          New Mario and Luigi DLC side quest                                       https://clips.twitch.tv/SourStylishMagpieStinkyCheese-grKUnXWNtYLQHA0C  2024/04/13    0.0000  NEGATIVE       POSITIVE
-3                            GeoGuesser player has a weakness                                      https://clips.twitch.tv/SmellyAmazonianSpindleTebowing-gzjSE66eBNA74Ovy  2024/04/13   -0.4215  NEGATIVE       NEGATIVE
-4                               Leveling up in a Nintendo RPG                                       https://clips.twitch.tv/HomelyDullMangetoutKappaClaus-aBWeSayKPUySSWei  2024/04/13    0.0000  NEGATIVE       POSITIVE
-5                                       Britt Shows Baby Ogre                                               https://clips.twitch.tv/PoliteSleepyCatWoofer-JzAVYsLmxX_zCeQ8  2024/04/13    0.0000  NEGATIVE       POSITIVE
-6                                Vintage Device Monitor Punch                                 https://clips.twitch.tv/IncredulousDoubtfulKumquatDendiFace-lCDZUl3R-mW8zGEM  2024/04/13    0.0000  NEGATIVE       POSITIVE
-7                     Cs2 pro randomly spinning in semi final                                          https://clips.twitch.tv/QuaintBashfulSoybeanDuDudu-Hgggt6HdTF9sJlNG  2024/04/13    0.0000  NEGATIVE       NEGATIVE
-8                    Korean streamer rip her shirt in Public   https://clips.twitch.tv/FairRepleteEchidnaMrDestructoid-iMfA9H_6KWRCO56s?tt_content=url&tt_medium=clips_api  2024/04/13    0.0000  NEGATIVE       NEGATIVE
-9                             CS PRO uses crowd as wall hacks                                       https://clips.twitch.tv/BlindingKitschyShieldCopyThis-io0LDs3SmWBzUnQd  2024/04/13    0.0000  NEGATIVE       NEGATIVE
-10             Flawless Victory from Aris (Buckshot Roulette)                                       https://clips.twitch.tv/AntsyDaintyGarbageTBTacoRight-n6USUrdvEw7Yp1OH  2024/04/13    0.5106  POSITIVE       POSITIVE
-11                       Abney gets Yoshi Valley world record                                    https://clips.twitch.tv/HelplessEsteemedGoldfishPanicVis-qVIW7x8QyUClofL2  2024/04/13    0.0000  NEGATIVE       POSITIVE
-12         Hitch completes South Korea's Grand Slam Bike Tour                             https://clips.twitch.tv/SparklyBumblingHummingbirdDancingBanana-yBT9q5yYBLFCOzQ5  2024/04/13    0.1027  NEGATIVE       POSITIVE
-13                                          MoonMoon Loses It                                       https://clips.twitch.tv/AssiduousBloodyCougarRitzMitz-ibn5ao5V2FiruCLV  2024/04/13   -0.3182  NEGATIVE       NEGATIVE
-14  Erobb confidently shows off how his haircut is holding up                                      https://clips.twitch.tv/DaintyBillowingRingSoonerLater-x3PktTW3QE3KE-_E  2024/04/13    0.4767  POSITIVE       POSITIVE
-15          Adin and xQc run into Squeex at Slap Boxing event                                               https://kick.com/adinross?clip=clip_01HVAKPMMQX0E09NWZ7TR9KR1C  2024/04/13    0.1531  NEGATIVE       NEGATIVE
+                                                                                                                 title                                                                                                            url        date  compound   SA_nltk SA_distilibert
+0                                                                                            summit1g - The new Alt-F4                                            https://clips.twitch.tv/JollyTenuousDovePunchTrees-KXdf0gtkeVPcKgaa  2024/04/14    0.0000  NEGATIVE       NEGATIVE
+1                                                                                                        Forsen reacts                                               https://clips.twitch.tv/LittleSlickTaroPraiseIt-I3P00sGiFI9KBs-R  2024/04/14    0.0000  NEGATIVE       NEGATIVE
+2                                                                                  Before the realization kicked in...                                                 https://clips.twitch.tv/CredulousZanyCurryWow-LmL1HxmnD5jtbvrY  2024/04/14    0.0000  NEGATIVE       POSITIVE
+3                                                                             Dota team celebrate their tournament win                                          https://clips.twitch.tv/ApatheticYawningSharkTakeNRG-f1zM3rPquamePCMr  2024/04/14    0.8176  POSITIVE       POSITIVE
+4                                                                                        One must imagine Forsen happy                                                https://clips.twitch.tv/GlutenFreeKindAxeFloof-4jD0SoMLk9-HttXL  2024/04/14    0.5719  POSITIVE       POSITIVE
+5                                                                           GeoGuessr EMEA champion is extremely happy                                             https://clips.twitch.tv/KnottyQuaintClintRalpherZ-Irmcf4NXJZCo3EbT  2024/04/14    0.8357  POSITIVE       POSITIVE
+6                                          Commentator (Rainbolt) only one to get correct location in GeoGuessr finals                                       https://clips.twitch.tv/RudeTransparentPigeonBigBrother-4Ehbtai4pdfNMw7K  2024/04/14    0.0000  NEGATIVE       NEGATIVE
+7                                                                                  Streamer accidentally joined a meta                                            https://clips.twitch.tv/GentlePlumpWasabiChefFrank-Qu0-90691BtLHy7-  2024/04/14   -0.3400  NEGATIVE       NEGATIVE
+8                                                                                          Are you ashamed of me, mum?                                             https://clips.twitch.tv/FunnyCrackyFlamingoOpieOP-BtDCPdjWi_dM4qZW  2024/04/14   -0.4767  NEGATIVE       NEGATIVE
+9                                                                                Cameraman caught slipping (Geoguessr)                                         https://clips.twitch.tv/TallLachrymosePhoneRaccAttack-qFNigy8MG0fLoqYe  2024/04/14    0.0000  NEGATIVE       NEGATIVE
+10                         A new type of Wheelie bin that automatically wheels itself out for collection on rainy days                                          https://clips.twitch.tv/CleverIntelligentRuffMingLee-dfT_n7M6kGSY2IvL  2024/04/14   -0.0772  NEGATIVE       NEGATIVE
+11  Single mother Otsuka Ray brings Reika-chan, her 3 year old child, on the stream, who also has her own Live3D model                              https://youtube.com/clip/Ugkx4bQACIsEh1pVZYbnOwEOFcawCFBFuL_B?si=aVLOVVNIXiN8IBfm  2024/04/14    0.0000  NEGATIVE       POSITIVE
+12                                                                                           Crossing the finish line!                                            https://clips.twitch.tv/GoodRepleteAlfalfaEagleEye-bykYvvrhTmPoKhQY  2024/04/14    0.0000  NEGATIVE       POSITIVE
+13                                                                                      Tokyo Tower Triumphant Arrival                                           https://clips.twitch.tv/SwissWanderingMangetoutMcaT-2LDSLQWQUT9aJUUx  2024/04/14    0.5267  POSITIVE       POSITIVE
+14                                                                                                    We dance in full                                                  https://clips.twitch.tv/BrightHyperYakAliens-fgolhZ8bKxuKmCCU  2024/04/14    0.0000  NEGATIVE       POSITIVE
+15                                                                        Faker's Insane Quadra Kill to save the game.                                                   https://clips.twitch.tv/BoxyPlumpBoarNomNom-0VhKGr7rbUl8NX4c  2024/04/14   -0.6369  NEGATIVE       NEGATIVE
+16                                                                         Connor Raises 1 MILLION DOLLARS for Charity                                  https://clips.twitch.tv/CrunchyTransparentJellyfishFutureMan-GTIBfZzfrC739uZO  2024/04/14    0.4215  POSITIVE       POSITIVE
+17                                                                                       TheSushiDragon's still got it                                              https://clips.twitch.tv/MoistRockyDinosaurTTours-glwRF3LodtaNNc50  2024/04/14    0.0000  NEGATIVE       POSITIVE
+18                                                                                                   Cheering on Monke                                                https://clips.twitch.tv/WealthyWildBobaSaltBae-kYUbqRTHDjm2dTuT  2024/04/14    0.5106  POSITIVE       POSITIVE
+19                                                                                             Connor hits 800,000 USD                                          https://clips.twitch.tv/GleamingBetterLionKappaPride-exCNXiCLAV_0fpqB  2024/04/14    0.0000  NEGATIVE       POSITIVE
+20                                                                                     Pro skater shreds the skatepark                                             https://clips.twitch.tv/NaiveBlueAlmondWholeWheat-rPMmMH66Mxx4V8zV  2024/04/14    0.0000  NEGATIVE       NEGATIVE
+21                                                                          Busan Demon Found Sleeping Beside the Road                                                   https://clips.twitch.tv/EvilSillyBeanNotATK-1V3a83r4pshCQbOz  2024/04/14    0.0000  NEGATIVE       NEGATIVE
+22                                                          Kai Cenat reacts to being mentioned in Drake's diss track!                                       https://clips.twitch.tv/TransparentPopularFennelPRChase-GnRiasyksYEbzSAn  2024/04/14    0.0000  NEGATIVE       NEGATIVE
+23                                                                                         How excited is too excited?  https://clips.twitch.tv/BloodyGrossPistachioOptimizePrime-NrgZhlmXXqOGPDmz?tt_content=url&tt_medium=clips_api  2024/04/14    0.5859  POSITIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    13
-POSITIVE     3
+NEGATIVE    17
+POSITIVE     7
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    9
-NEGATIVE    7
+NEGATIVE    12
+POSITIVE    12
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
