@@ -1,33 +1,36 @@
 <!-- posts starts -->
-                                                                          title                                                                                      url        date  compound   SA_nltk SA_distilibert
-0                                                        Jinny watches the edit              https://clips.twitch.tv/AlluringComfortableMooseBibleThump-G0ESb7uglKNtgcMB  2024/04/16    0.0000  NEGATIVE       POSITIVE
-1                     Erobb copyright strikes all the videos from a fan channel                          https://clips.twitch.tv/KawaiiKathishSowTTours-ncE0VwlG_ZLfAmQ3  2024/04/16   -0.0516  NEGATIVE       NEGATIVE
-2   in just 2 months, Myth has gone from Bronze to Emerald in League of Legends                            https://youtube.com/clip/UgkxLue4CQvTyr9iJEJB9_5EiKIm0yZ2Idui  2024/04/16    0.0000  NEGATIVE       POSITIVE
-3                                                   War... War never changes...         https://clips.twitch.tv/KnottyPlausiblePassionfruitCoolStoryBob-JL5lsfKK8-F4jhnU  2024/04/16   -0.5994  NEGATIVE       NEGATIVE
-4                                         NL encounters the fastest monster yet               https://clips.twitch.tv/DifficultMotionlessPigeonRickroll-D80TLOfBvOlRIl8g  2024/04/16    0.0000  NEGATIVE       POSITIVE
-5                                                   NL plays ball with the boys                    https://clips.twitch.tv/PlausibleTallBeaverBCWarrior-wkwRcEojWazPQvoB  2024/04/16    0.2500  POSITIVE       POSITIVE
-6                          man with a split personality shittalks his alter ego         https://clips.twitch.tv/EnjoyableTenaciousNeanderthalKappaClaus-E7FanKGwKbFD4BQl  2024/04/16    0.0000  NEGATIVE       NEGATIVE
-7                                                            Lirik calls for it                https://clips.twitch.tv/PoliteBrainyDiamondDoubleRainbow-Xk0yU0jFfQdU8R7d  2024/04/16    0.0000  NEGATIVE       POSITIVE
-8                                                                   Her Airless  https://www.twitch.tv/hachubby/clip/UgliestPricklyCaribouOptimizePrime-1I0ENkB80S0zjLic  2024/04/16    0.0000  NEGATIVE       NEGATIVE
-9                         6.9 magnitude earthquake shakes streamers entire room                  https://clips.twitch.tv/LittleSteamyWoodcockBloodTrail-fsEBCImA07MEhcxS  2024/04/16    0.0000  NEGATIVE       POSITIVE
-10                                        Cutest baby squirrel being bottle fed               https://clips.twitch.tv/MagnificentAlivePotFreakinStinkin-O6aV1FaOwiV8CMG9  2024/04/16    0.5859  POSITIVE       POSITIVE
-11                                                             The Melina video                   https://clips.twitch.tv/KathishObedientDelicataLitFam-_m_U9_NvSNPE0EZC  2024/04/16    0.0000  NEGATIVE       NEGATIVE
-12                                xQc tries to teach Train how to play monopoly                                https://kick.com/xqc?clip=clip_01HVJHQF56V5VBQ3KST378Q3RZ  2024/04/16    0.3400  POSITIVE       NEGATIVE
-13                          Poki is finally able to get her point across to Miz                 https://clips.twitch.tv/DistinctSmellyJaguarNinjaGrumpy-KKZrCKZ-evbBIjxj  2024/04/16    0.0000  NEGATIVE       POSITIVE
-14                                                       Treflip mid boss fight          https://www.twitch.tv/speng_ai/clip/SourBombasticSangChefFrank-Q1XbFfZr3TL1C5sY  2024/04/16   -0.3818  NEGATIVE       NEGATIVE
-15                                           Erobb gets hustled by his gardener                 https://clips.twitch.tv/AmazonianTriangularMartenOpieOP-mpzDwd0XtFXzyFiI  2024/04/16    0.0000  NEGATIVE       NEGATIVE
+                                                             title                                                                                                                  url        date  compound   SA_nltk SA_distilibert
+0                                    xQc and Train go head to head                                                            https://kick.com/xqc?clip=clip_01HVP34NH3D0V96CQFJ92F40XX  2024/04/17    0.0000  NEGATIVE       POSITIVE
+1                                       Aris cant believe his eyes                             https://www.twitch.tv/avoidingthepuddle/clip/SullenSaltyWaspKappaWealth-JAfSdj05LDljgcwJ  2024/04/17    0.0000  NEGATIVE       POSITIVE
+2                     Streamer gets trolled by a random guy in CS2                                                    https://clips.twitch.tv/NaiveFaithfulEmuMikeHogu-9gHui1Xn5MuNectW  2024/04/17    0.0000  NEGATIVE       NEGATIVE
+3                                                 Training montage                                                   https://clips.twitch.tv/SeductiveGeniusInternUWot-y1okP24mTdNBH1bJ  2024/04/17    0.0000  NEGATIVE       POSITIVE
+4                                          forsen is very confused                               https://clips.twitch.tv/WealthyFuriousTermiteSwiftRage-x9zJXmqp4--E3kC3?tt_medium=redt  2024/04/17   -0.3804  NEGATIVE       NEGATIVE
+5   Squeex calls twitch chat unhinged and immediately got hit back                                               https://clips.twitch.tv/SlickObliqueHamburgerCmonBruh-USHqh5yIZ24i0xSe  2024/04/17    0.0000  NEGATIVE       NEGATIVE
+6                                 How Forsen requests his haircuts                                       https://clips.twitch.tv/MagnificentVictoriousMarrowSquadGoals-IuxxvB-lu0VG8Nhw  2024/04/17    0.0000  NEGATIVE       NEGATIVE
+7                                    NL on zoomer gambling addicts                                               https://clips.twitch.tv/CallousWanderingCurlewPRChase-W5Oc6Ja8V2HSHnPK  2024/04/17    0.0000  NEGATIVE       NEGATIVE
+8                                           The girl with the list                                           https://clips.twitch.tv/IntelligentCloudyInternTwitchRaid-pl4HQzIepyb2XC4i  2024/04/17    0.0000  NEGATIVE       POSITIVE
+9                     disappointed tourist turns around and leaves                                 https://www.twitch.tv/irissiri129/clip/BoredPatientCarrotKappaPride-14dBTMRPLRj_rsQM  2024/04/17   -0.4767  NEGATIVE       NEGATIVE
+10                        NL's gas leak has finally been confirmed                                                     https://clips.twitch.tv/HomelyCoyDeerStrawBeary-3xnQZ4Biuwr4g7V3  2024/04/17   -0.3400  NEGATIVE       NEGATIVE
+11                             Streamer gets chased by an Elephant                                                      https://kick.com/shakomako?clip=clip_01HVNEGFMY707EYWQPEK2PFDVE  2024/04/17    0.0000  NEGATIVE       NEGATIVE
+12                                               berry0314 Samsara  https://www.twitch.tv/beatberry_314/clip/BadFunnySpaghettiRalpherZ-IOalMMLuOKLebCOE?filter=clips&range=7d&sort=time  2024/04/17    0.0000  NEGATIVE       NEGATIVE
+13                                      it was, in fact, not fine                                              https://clips.twitch.tv/ArtisticAmorphousTrufflePrimeMe-BTvEvpVmpo8SjjeO  2024/04/17   -0.1511  NEGATIVE       NEGATIVE
+14                                              Train rages at xQc                                                            https://kick.com/xqc?clip=clip_01HVNFRT2C84QCMF4K41J32VY6  2024/04/17   -0.4767  NEGATIVE       NEGATIVE
+15           Ceremor meets a real Russian NPC in Arma Reforger WCS                                                   https://clips.twitch.tv/SullenInspiringTeaTakeNRG-XkKE-vl_RO3Lz4F-  2024/04/17    0.0000  NEGATIVE       POSITIVE
+16                               Phin calmly explains dropshipping                                                      https://clips.twitch.tv/OddSparklingChowderWow-u9zPQNxVtObi7Wdj  2024/04/17    0.3182  POSITIVE       NEGATIVE
+17                                        Pokimane is an UWU girl?                                           https://clips.twitch.tv/ProtectiveLightPrariedogChefFrank-RWFG4LqSw9fzkCMI  2024/04/17    0.0000  NEGATIVE       NEGATIVE
+18                Wonton Don ends his co-stream with Jake in style                                               https://clips.twitch.tv/ObliviousOpenCaribouOMGScoots-hfhymUTV_42yKr4F  2024/04/17    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    13
-POSITIVE     3
+NEGATIVE    18
+POSITIVE     1
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    8
-NEGATIVE    8
+NEGATIVE    13
+POSITIVE     6
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
