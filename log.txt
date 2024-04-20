@@ -1,37 +1,34 @@
 <!-- posts starts -->
-                                                                            title                                                                              url        date  compound   SA_nltk SA_distilibert
-0                                                     Will and Caroline dance off        https://clips.twitch.tv/TastyHappyMallardNerfBlueBlaster-6Iu_zvQwb4a93LWB  2024/04/18    0.0000  NEGATIVE       POSITIVE
-1                                             Tyer1 and Macaiyla's child was born                          https://twitter.com/macaiyla/status/1781049949167239446  2024/04/18    0.0000  NEGATIVE       POSITIVE
-2                                                 OTK Top Streamer Gets creampied        https://clips.twitch.tv/PlacidMiniatureTildeCharlieBitMe-7OX237A8EkzcXpPD  2024/04/18    0.2023  POSITIVE       NEGATIVE
-3                                                           Goats attack Pokimane                https://clips.twitch.tv/GlutenFreeSoftCurryKeepo-UV-ZUlFZ1KLCtumx  2024/04/18   -0.4767  NEGATIVE       NEGATIVE
-4                                                                 Forsen's Chance             https://clips.twitch.tv/SparklingSwissMoonAMPEnergy-RArvqffVRYqQZ-LE  2024/04/18    0.2500  POSITIVE       POSITIVE
-5                             Poki is finally able to get her point across to Miz         https://clips.twitch.tv/DarkFurtiveWoodpeckerPunchTrees-MKKsgx1JBRmeJO4V  2024/04/18    0.0000  NEGATIVE       POSITIVE
-6                                                            Dono imitates forsen           https://clips.twitch.tv/DifficultHomelySeahorseVoHiYo-knhZo5PwvOjatDcq  2024/04/18    0.0000  NEGATIVE       POSITIVE
-7                                               Poke experiences new nade physics            https://clips.twitch.tv/GloriousAnimatedHawkPraiseIt-XKeLjhKstsxniCGh  2024/04/18    0.0000  NEGATIVE       NEGATIVE
-8                                                     Train rages at a CoD player                        https://kick.com/xqc?clip=clip_01HVQTWQX58MYDZ7Q2ZQV64ECX  2024/04/18   -0.4767  NEGATIVE       NEGATIVE
-9                   Lirik's change of heart after spending some time in the alpha                    https://clips.twitch.tv/FrigidShortCrabSMOrc-pzkKr7Zi7zWYbRsL  2024/04/18    0.0000  NEGATIVE       POSITIVE
-10                                          Soda finds out about IShowSpeeds cats  https://www.twitch.tv/nmplol/clip/FrigidExcitedManateePipeHype-C1k4x2FeV-iarf_6  2024/04/18    0.0000  NEGATIVE       POSITIVE
-11                                                          robcdee - sees a girl   https://clips.twitch.tv/QuaintConsiderateArugulaLeeroyJenkins-NHjUTcqfvtT6HVcf  2024/04/18    0.0000  NEGATIVE       POSITIVE
-12  Soda and Poki learn NMP's position on the leaked 2021 Twitch earning rankings            https://clips.twitch.tv/DeterminedVibrantSnailWoofer-sZy1BxTJ3ZADals2  2024/04/18   -0.3182  NEGATIVE       NEGATIVE
-13                                                               Knut almost dies          https://clips.twitch.tv/ThirstySpunkyArtichokeFrankerZ-LoxfDe9KItsjD1h1  2024/04/18    0.0000  NEGATIVE       NEGATIVE
-14                                                       transparent meta is back             https://clips.twitch.tv/NastyThoughtfulBeefFailFish-1EG6WUsKCZpMYnYC  2024/04/18    0.0000  NEGATIVE       NEGATIVE
-15                                          Sodapoppin has a question for Destiny              https://clips.twitch.tv/ClumsyAffluentLatteDxAbomb-2jfVLcyv-wsaZT3Z  2024/04/18    0.0000  NEGATIVE       NEGATIVE
-16                                                   Alinity learning how to swim  https://www.twitch.tv/alinity/clip/ZanyKathishCucumberFailFish-Fm6qZhDvXMOEPta9  2024/04/18    0.0000  NEGATIVE       POSITIVE
-17                                                                     Cinna ults            https://clips.twitch.tv/FurtiveTentativeTaroPlanking-qsMoSV2cDnILV9zZ  2024/04/18    0.0000  NEGATIVE       POSITIVE
-18                                                                This is wild...           https://clips.twitch.tv/AdventurousLivelyKoupreyKippa-f_81d_bOD25GkF2r  2024/04/18    0.0000  NEGATIVE       POSITIVE
-19                                                    Soda on his average chatter      https://clips.twitch.tv/TransparentAgreeableReindeerUnSane-GJEqtuGN4metwEb8  2024/04/18    0.0000  NEGATIVE       NEGATIVE
+                                                                                                       title                                                                                                                 url        date  compound   SA_nltk SA_distilibert
+0                                                                              Tomato loses it over chatters                                                 https://clips.twitch.tv/SpicyJoyousPeanutBrokeBack-Q1d25pJbN8UAjI_L  2024/04/19   -0.3182  NEGATIVE       NEGATIVE
+1                                                                 Asmongold asks why is Destiny still banned                                                  https://clips.twitch.tv/FancyRockyDinosaurTakeNRG-agfqwXHxMJPZC129  2024/04/19   -0.4588  NEGATIVE       NEGATIVE
+2          ExtraEmily encounters a mysterious conveyor belt system in her quest to grab her AirTagged ballon                                            https://clips.twitch.tv/EndearingWrongOrangeBleedPurple-cttdvjYvu30XFI9L  2024/04/19    0.0000  NEGATIVE       NEGATIVE
+3   Jeff's PISSED at Nintendo cuz he had to explain his 3 y/o how an online game feature is permanently gone                                               https://clips.twitch.tv/BrainySpineyCougarRaccAttack-ybdC2hWteyWZQpmk  2024/04/19   -0.7125  NEGATIVE       NEGATIVE
+4                                           xQc, Train and Adin bring back the original Call of Duty lobbies                                                           https://kick.com/xqc?clip=clip_01HVTH83W6ZTT7X034RTMFQDGR  2024/04/19    0.3182  POSITIVE       POSITIVE
+5                                                                                 xQc shows off his treasure                                                           https://kick.com/xqc?clip=clip_01HVQA7GW7B9NR2TVK6WFB3Z8P  2024/04/19    0.2960  POSITIVE       POSITIVE
+6                                                               Adin Ross begging to get unbanned on Twitch                                                       https://kick.com/adinross?clip=clip_01HVSY82QVCGSJDFM08SABVX82  2024/04/19    0.0000  NEGATIVE       NEGATIVE
+7                                                                                          ♂ right version ♂                                             https://clips.twitch.tv/FrailResilientMarjoramPlanking-CCu00Okk8T3rZJ6w  2024/04/19    0.0000  NEGATIVE       POSITIVE
+8                                                                       Nick's mom doesn't approve of malena                             https://www.twitch.tv/nmplol/clip/ArborealCalmEelNotATK-Ma3tahgCDD5m1Y48?tt_medium=redt  2024/04/19    0.0000  NEGATIVE       NEGATIVE
+9                                                                     practical demonstration of Hooke's law                          https://www.twitch.tv/happycatmimi/clip/EsteemedAmorphousParrotBigBrother-f-twcTbBMwWFascc  2024/04/19    0.1027  NEGATIVE       POSITIVE
+10                                                                             Meanwhile Dan Clancy in Japan                                         https://clips.twitch.tv/ScrumptiousGoodWatercressBuddhaBar-Hk28KqFT-zYQYf1y  2024/04/19    0.0000  NEGATIVE       POSITIVE
+11                                                                          Tracy exposes Rob's pickled nuts                                                    https://clips.twitch.tv/HyperClumsyPieBrainSlug-vWASwPrGTi6UzQFF  2024/04/19   -0.4215  NEGATIVE       NEGATIVE
+12                                                                         djClancy goes to karaoke in Japan                                        https://clips.twitch.tv/BetterAcceptableFiddleheadsTheThing-IjxwkgTw6pHSkY1k  2024/04/19    0.0000  NEGATIVE       POSITIVE
+13                    High speed emergency landing of a TUI Boeing 787 at Manchester Airport, to a full stop  https://www.twitch.tv/airlinerslive/clip/SuperShortTrollThunBeast-tyhttL3DnijxIkLJ?filter=clips&range=7d&sort=time  2024/04/19   -0.5859  NEGATIVE       NEGATIVE
+14                                                                                   Train lashes out at xQc                                                      https://kick.com/adinross?clip=clip_01HVTC3YMDDWTZ9AQCHDEM3CVR  2024/04/19    0.0000  NEGATIVE       NEGATIVE
+15  boxbox tells a story of asking his mom to skip school because none of the big league streamers were live                                                 https://clips.twitch.tv/ScarySavageLapwingPraiseIt-BkS1aQSBFAFetneA  2024/04/19    0.0000  NEGATIVE       NEGATIVE
+16                                                                 Scarra brings out the best from LilyPichu                                    https://clips.twitch.tv/TransparentPolishedNightingaleTheRinger-TbIZlVxdmW0ZchgD  2024/04/19    0.6369  POSITIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    18
-POSITIVE     2
+NEGATIVE    14
+POSITIVE     3
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    11
-NEGATIVE     9
+NEGATIVE    10
+POSITIVE     7
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
