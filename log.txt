@@ -1,34 +1,32 @@
 <!-- posts starts -->
-                                                                                                       title                                                                                                                 url        date  compound   SA_nltk SA_distilibert
-0                                                                              Tomato loses it over chatters                                                 https://clips.twitch.tv/SpicyJoyousPeanutBrokeBack-Q1d25pJbN8UAjI_L  2024/04/19   -0.3182  NEGATIVE       NEGATIVE
-1                                                                 Asmongold asks why is Destiny still banned                                                  https://clips.twitch.tv/FancyRockyDinosaurTakeNRG-agfqwXHxMJPZC129  2024/04/19   -0.4588  NEGATIVE       NEGATIVE
-2          ExtraEmily encounters a mysterious conveyor belt system in her quest to grab her AirTagged ballon                                            https://clips.twitch.tv/EndearingWrongOrangeBleedPurple-cttdvjYvu30XFI9L  2024/04/19    0.0000  NEGATIVE       NEGATIVE
-3   Jeff's PISSED at Nintendo cuz he had to explain his 3 y/o how an online game feature is permanently gone                                               https://clips.twitch.tv/BrainySpineyCougarRaccAttack-ybdC2hWteyWZQpmk  2024/04/19   -0.7125  NEGATIVE       NEGATIVE
-4                                           xQc, Train and Adin bring back the original Call of Duty lobbies                                                           https://kick.com/xqc?clip=clip_01HVTH83W6ZTT7X034RTMFQDGR  2024/04/19    0.3182  POSITIVE       POSITIVE
-5                                                                                 xQc shows off his treasure                                                           https://kick.com/xqc?clip=clip_01HVQA7GW7B9NR2TVK6WFB3Z8P  2024/04/19    0.2960  POSITIVE       POSITIVE
-6                                                               Adin Ross begging to get unbanned on Twitch                                                       https://kick.com/adinross?clip=clip_01HVSY82QVCGSJDFM08SABVX82  2024/04/19    0.0000  NEGATIVE       NEGATIVE
-7                                                                                          ♂ right version ♂                                             https://clips.twitch.tv/FrailResilientMarjoramPlanking-CCu00Okk8T3rZJ6w  2024/04/19    0.0000  NEGATIVE       POSITIVE
-8                                                                       Nick's mom doesn't approve of malena                             https://www.twitch.tv/nmplol/clip/ArborealCalmEelNotATK-Ma3tahgCDD5m1Y48?tt_medium=redt  2024/04/19    0.0000  NEGATIVE       NEGATIVE
-9                                                                     practical demonstration of Hooke's law                          https://www.twitch.tv/happycatmimi/clip/EsteemedAmorphousParrotBigBrother-f-twcTbBMwWFascc  2024/04/19    0.1027  NEGATIVE       POSITIVE
-10                                                                             Meanwhile Dan Clancy in Japan                                         https://clips.twitch.tv/ScrumptiousGoodWatercressBuddhaBar-Hk28KqFT-zYQYf1y  2024/04/19    0.0000  NEGATIVE       POSITIVE
-11                                                                          Tracy exposes Rob's pickled nuts                                                    https://clips.twitch.tv/HyperClumsyPieBrainSlug-vWASwPrGTi6UzQFF  2024/04/19   -0.4215  NEGATIVE       NEGATIVE
-12                                                                         djClancy goes to karaoke in Japan                                        https://clips.twitch.tv/BetterAcceptableFiddleheadsTheThing-IjxwkgTw6pHSkY1k  2024/04/19    0.0000  NEGATIVE       POSITIVE
-13                    High speed emergency landing of a TUI Boeing 787 at Manchester Airport, to a full stop  https://www.twitch.tv/airlinerslive/clip/SuperShortTrollThunBeast-tyhttL3DnijxIkLJ?filter=clips&range=7d&sort=time  2024/04/19   -0.5859  NEGATIVE       NEGATIVE
-14                                                                                   Train lashes out at xQc                                                      https://kick.com/adinross?clip=clip_01HVTC3YMDDWTZ9AQCHDEM3CVR  2024/04/19    0.0000  NEGATIVE       NEGATIVE
-15  boxbox tells a story of asking his mom to skip school because none of the big league streamers were live                                                 https://clips.twitch.tv/ScarySavageLapwingPraiseIt-BkS1aQSBFAFetneA  2024/04/19    0.0000  NEGATIVE       NEGATIVE
-16                                                                 Scarra brings out the best from LilyPichu                                    https://clips.twitch.tv/TransparentPolishedNightingaleTheRinger-TbIZlVxdmW0ZchgD  2024/04/19    0.6369  POSITIVE       POSITIVE
+                                                                             title                                                                                                                     url        date  compound   SA_nltk SA_distilibert
+0                                                      The Rennfaire is Going Well                                                  https://clips.twitch.tv/UglyBlushingScorpionBrainSlug-7788BOHr58bX_Sgm  2024/04/20    0.2732  POSITIVE       POSITIVE
+1                                    Doubling down on this is fucking WILD bro....                                           https://clips.twitch.tv/VivaciousAbrasivePartridgeHassanChop-_V7lyZ5X_VZCt2Sf  2024/04/20    0.0000  NEGATIVE       NEGATIVE
+2                                                            Malena getting cooked                                                      https://clips.twitch.tv/HotSuperHerbsAMPTropPunch-ht7DDDUkNOtuP3Dy  2024/04/20    0.0000  NEGATIVE       POSITIVE
+3                                                       ninibae best yoga streamer  https://www.twitch.tv/ninibae/clip/SpeedyDiligentMouseLeeroyJenkins-VQISORrfU_V6FBWp?filter=clips&range=24hr&sort=time  2024/04/20    0.6369  POSITIVE       POSITIVE
+4                                              Twitch CEO met streamers from Korea                                                       https://clips.twitch.tv/AntsySwissWitchBrokeBack-7lyQbrldNLTz0_L2  2024/04/20    0.0000  NEGATIVE       POSITIVE
+5          Maimai__Twitch Almost Takes Out Twitch CEO Dan Clancy With Bowling Ball                                                https://clips.twitch.tv/FuriousSarcasticCoyoteDendiFace-fVSPuoEdJ5o7F2hB  2024/04/20    0.0000  NEGATIVE       NEGATIVE
+6                  DSKoopa discovers an inventory problem at his video game store!                                                      https://clips.twitch.tv/ShinyQuaintKoalaOMGScoots-DR6yYH7NuPtt3oSQ  2024/04/20   -0.4574  NEGATIVE       NEGATIVE
+7                                               Liam checks a viewers chat history                                                           https://clips.twitch.tv/BusyFitYakinikuFloof-hpTeNslnh9IAoRPG  2024/04/20    0.0000  NEGATIVE       NEGATIVE
+8                                                      Erobb relives his Halo days                                                 https://clips.twitch.tv/SteamyFairAmazonNerfRedBlaster-GX_4uRHuO566hBqV  2024/04/20    0.0000  NEGATIVE       POSITIVE
+9                                                               Fuslie is the best                                                    https://clips.twitch.tv/GrossPlacidSalsifyChefFrank-w7wnVJ-KeqSgBCK_  2024/04/20    0.6369  POSITIVE       POSITIVE
+10                                             Fuslie and Janet share a brain cell                                                   https://clips.twitch.tv/BlushingGiftedMuleStrawBeary-v3-zmQIqt8z02Gyq  2024/04/20    0.2960  POSITIVE       POSITIVE
+11                                                       Mizkif almost kills Janet                                                       https://clips.twitch.tv/SavoryGloriousKleeLitFam-tJqdKodH8k-rUWH8  2024/04/20   -0.4951  NEGATIVE       NEGATIVE
+12                                         Fuslie the real ruthless business woman                                                   https://clips.twitch.tv/MoralSpineySandwichFUNgineer-g68gS4Y5sd1VLAKm  2024/04/20    0.0000  NEGATIVE       NEGATIVE
+13  Regarding Asmongold Post: Dan Clancy ignores direct requests to unban Destiny.                                       https://youtube.com/clip/UgkxWRExToeqLs40n-OgYTGn0EuZubWiQAlL?si=u0qdhZNe4rbKVvv9  2024/04/20   -0.2732  NEGATIVE       NEGATIVE
+14                                      Saiyler's father reaches 1800 elo in chess                                                   https://clips.twitch.tv/PoliteTawdryFlamingoTheThing-0acgwH8gT1Rm2P_Q  2024/04/20    0.0516  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    14
-POSITIVE     3
+NEGATIVE    11
+POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    10
-POSITIVE     7
+POSITIVE    8
+NEGATIVE    7
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
