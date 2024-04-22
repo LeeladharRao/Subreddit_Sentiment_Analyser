@@ -1,32 +1,34 @@
 <!-- posts starts -->
-                                                                             title                                                                                                                     url        date  compound   SA_nltk SA_distilibert
-0                                                      The Rennfaire is Going Well                                                  https://clips.twitch.tv/UglyBlushingScorpionBrainSlug-7788BOHr58bX_Sgm  2024/04/20    0.2732  POSITIVE       POSITIVE
-1                                    Doubling down on this is fucking WILD bro....                                           https://clips.twitch.tv/VivaciousAbrasivePartridgeHassanChop-_V7lyZ5X_VZCt2Sf  2024/04/20    0.0000  NEGATIVE       NEGATIVE
-2                                                            Malena getting cooked                                                      https://clips.twitch.tv/HotSuperHerbsAMPTropPunch-ht7DDDUkNOtuP3Dy  2024/04/20    0.0000  NEGATIVE       POSITIVE
-3                                                       ninibae best yoga streamer  https://www.twitch.tv/ninibae/clip/SpeedyDiligentMouseLeeroyJenkins-VQISORrfU_V6FBWp?filter=clips&range=24hr&sort=time  2024/04/20    0.6369  POSITIVE       POSITIVE
-4                                              Twitch CEO met streamers from Korea                                                       https://clips.twitch.tv/AntsySwissWitchBrokeBack-7lyQbrldNLTz0_L2  2024/04/20    0.0000  NEGATIVE       POSITIVE
-5          Maimai__Twitch Almost Takes Out Twitch CEO Dan Clancy With Bowling Ball                                                https://clips.twitch.tv/FuriousSarcasticCoyoteDendiFace-fVSPuoEdJ5o7F2hB  2024/04/20    0.0000  NEGATIVE       NEGATIVE
-6                  DSKoopa discovers an inventory problem at his video game store!                                                      https://clips.twitch.tv/ShinyQuaintKoalaOMGScoots-DR6yYH7NuPtt3oSQ  2024/04/20   -0.4574  NEGATIVE       NEGATIVE
-7                                               Liam checks a viewers chat history                                                           https://clips.twitch.tv/BusyFitYakinikuFloof-hpTeNslnh9IAoRPG  2024/04/20    0.0000  NEGATIVE       NEGATIVE
-8                                                      Erobb relives his Halo days                                                 https://clips.twitch.tv/SteamyFairAmazonNerfRedBlaster-GX_4uRHuO566hBqV  2024/04/20    0.0000  NEGATIVE       POSITIVE
-9                                                               Fuslie is the best                                                    https://clips.twitch.tv/GrossPlacidSalsifyChefFrank-w7wnVJ-KeqSgBCK_  2024/04/20    0.6369  POSITIVE       POSITIVE
-10                                             Fuslie and Janet share a brain cell                                                   https://clips.twitch.tv/BlushingGiftedMuleStrawBeary-v3-zmQIqt8z02Gyq  2024/04/20    0.2960  POSITIVE       POSITIVE
-11                                                       Mizkif almost kills Janet                                                       https://clips.twitch.tv/SavoryGloriousKleeLitFam-tJqdKodH8k-rUWH8  2024/04/20   -0.4951  NEGATIVE       NEGATIVE
-12                                         Fuslie the real ruthless business woman                                                   https://clips.twitch.tv/MoralSpineySandwichFUNgineer-g68gS4Y5sd1VLAKm  2024/04/20    0.0000  NEGATIVE       NEGATIVE
-13  Regarding Asmongold Post: Dan Clancy ignores direct requests to unban Destiny.                                       https://youtube.com/clip/UgkxWRExToeqLs40n-OgYTGn0EuZubWiQAlL?si=u0qdhZNe4rbKVvv9  2024/04/20   -0.2732  NEGATIVE       NEGATIVE
-14                                      Saiyler's father reaches 1800 elo in chess                                                   https://clips.twitch.tv/PoliteTawdryFlamingoTheThing-0acgwH8gT1Rm2P_Q  2024/04/20    0.0516  NEGATIVE       POSITIVE
+                                                                                                  title                                                                                                               url        date  compound   SA_nltk SA_distilibert
+0                                                                              Emily graceful as a swan                                            https://clips.twitch.tv/OilyColdbloodedPhonePastaThat-L2iDtkuTlb_piFZ1  2024/04/21    0.4588  POSITIVE       POSITIVE
+1                                                                             EsfandTV Becomes a Vtuber                                           https://clips.twitch.tv/ObservantCarelessHornetDxAbomb-eNr8HvQmEURnNhrf  2024/04/21    0.0000  NEGATIVE       POSITIVE
+2                                                                         Forsen the GOAT is back AGAIN                                          https://clips.twitch.tv/TrustworthyViscousKathyFailFish-XpYI8BuBr49H3fjv  2024/04/21    0.0000  NEGATIVE       POSITIVE
+3                                                                         Water was recognized in China                              https://www.twitch.tv/waterlynn/clip/SucculentBadChimpanzeePlanking-F5s5psuF0bLS7WWw  2024/04/21    0.0000  NEGATIVE       POSITIVE
+4                                                                                The new Goat of League                                                    https://clips.twitch.tv/CalmPeppyDiscBudBlast-YPQ42KMqJMAhyTvw  2024/04/21    0.0000  NEGATIVE       POSITIVE
+5                                                                Hachu attacks an innocent Japanese man                                             https://clips.twitch.tv/OpenGrotesqueShrimpHotPokket-MZkKbQSG7Xgw8WUw  2024/04/21   -0.1280  NEGATIVE       NEGATIVE
+6                                                                                        avg forsen baj                                                    https://clips.twitch.tv/CrazySparklyBobaDxCat-6fKQX_r5mWbxkndv  2024/04/21    0.0000  NEGATIVE       NEGATIVE
+7                                             Japanese streamer asked Twitch CEO if his son was a weeb?                                           https://clips.twitch.tv/SplendidAmazingMinkFeelsBadMan-uXvzQjWf-FOyAI28  2024/04/21    0.0000  NEGATIVE       NEGATIVE
+8                                                       Cornwood rescues Max & Siobhan from a car crash                                               https://clips.twitch.tv/WrongHelplessFinchTebowing-F7rvSzMsioX3MIZA  2024/04/21   -0.1027  NEGATIVE       POSITIVE
+9                                                                        Rob's former profession leaked                                                 https://clips.twitch.tv/FuriousPunchyStarPRChase-maLnSpXNoqKT0H5K  2024/04/21   -0.3182  NEGATIVE       NEGATIVE
+10                                                                   You were basically begging for it                                       https://clips.twitch.tv/ProtectiveDistinctDinosaurHotPokket-_7cAdjy_d-8RM4kQ  2024/04/21    0.0000  NEGATIVE       NEGATIVE
+11                                                                  Destiny watches a CarolineKwan clip                                                     https://kick.com/destiny?clip=clip_01HVZENCP3QE2J0HKG0998GWTH  2024/04/21    0.0000  NEGATIVE       POSITIVE
+12                                                           Caroline found out something new about Cyr                                             https://clips.twitch.tv/DreamyTentativeYakiniku4Head-3Z1y6zMOfPggz8nY  2024/04/21    0.0000  NEGATIVE       POSITIVE
+13                                                 Streamer Gets Repeatedly Spat In The Face In Shibuya                           https://www.twitch.tv/cashmeow/clip/LachrymoseCharmingOrcaCoolStoryBro-5Wh48n3lQmXr2bWs  2024/04/21    0.0000  NEGATIVE       NEGATIVE
+14  Twitch CEO Says No To TwitchCon In Asia Because No English and People Won't Travel There like NA/EU  https://www.twitch.tv/djclancy/clip/CleanGracefulWaterChefFrank-yn5BWK86VKbRJek3?filter=clips&range=7d&sort=time  2024/04/21   -0.6715  NEGATIVE       NEGATIVE
+15                                                                 Julia not a fan of women's rights...                                             https://clips.twitch.tv/VenomousAlertAlpacaFutureMan-UvfNDu7pQsuS7qSn  2024/04/21   -0.2411  NEGATIVE       NEGATIVE
+16                                                                             Summit confirms the kill                                                     https://clips.twitch.tv/ChillyQuaintDiscMau5-ZsxDD5PtNHP9m1MP  2024/04/21   -0.6908  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    11
-POSITIVE     4
+NEGATIVE    16
+POSITIVE     1
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    8
-NEGATIVE    7
+POSITIVE    9
+NEGATIVE    8
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
