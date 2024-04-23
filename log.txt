@@ -1,34 +1,40 @@
 <!-- posts starts -->
-                                                                                                  title                                                                                                               url        date  compound   SA_nltk SA_distilibert
-0                                                                              Emily graceful as a swan                                            https://clips.twitch.tv/OilyColdbloodedPhonePastaThat-L2iDtkuTlb_piFZ1  2024/04/21    0.4588  POSITIVE       POSITIVE
-1                                                                             EsfandTV Becomes a Vtuber                                           https://clips.twitch.tv/ObservantCarelessHornetDxAbomb-eNr8HvQmEURnNhrf  2024/04/21    0.0000  NEGATIVE       POSITIVE
-2                                                                         Forsen the GOAT is back AGAIN                                          https://clips.twitch.tv/TrustworthyViscousKathyFailFish-XpYI8BuBr49H3fjv  2024/04/21    0.0000  NEGATIVE       POSITIVE
-3                                                                         Water was recognized in China                              https://www.twitch.tv/waterlynn/clip/SucculentBadChimpanzeePlanking-F5s5psuF0bLS7WWw  2024/04/21    0.0000  NEGATIVE       POSITIVE
-4                                                                                The new Goat of League                                                    https://clips.twitch.tv/CalmPeppyDiscBudBlast-YPQ42KMqJMAhyTvw  2024/04/21    0.0000  NEGATIVE       POSITIVE
-5                                                                Hachu attacks an innocent Japanese man                                             https://clips.twitch.tv/OpenGrotesqueShrimpHotPokket-MZkKbQSG7Xgw8WUw  2024/04/21   -0.1280  NEGATIVE       NEGATIVE
-6                                                                                        avg forsen baj                                                    https://clips.twitch.tv/CrazySparklyBobaDxCat-6fKQX_r5mWbxkndv  2024/04/21    0.0000  NEGATIVE       NEGATIVE
-7                                             Japanese streamer asked Twitch CEO if his son was a weeb?                                           https://clips.twitch.tv/SplendidAmazingMinkFeelsBadMan-uXvzQjWf-FOyAI28  2024/04/21    0.0000  NEGATIVE       NEGATIVE
-8                                                       Cornwood rescues Max & Siobhan from a car crash                                               https://clips.twitch.tv/WrongHelplessFinchTebowing-F7rvSzMsioX3MIZA  2024/04/21   -0.1027  NEGATIVE       POSITIVE
-9                                                                        Rob's former profession leaked                                                 https://clips.twitch.tv/FuriousPunchyStarPRChase-maLnSpXNoqKT0H5K  2024/04/21   -0.3182  NEGATIVE       NEGATIVE
-10                                                                   You were basically begging for it                                       https://clips.twitch.tv/ProtectiveDistinctDinosaurHotPokket-_7cAdjy_d-8RM4kQ  2024/04/21    0.0000  NEGATIVE       NEGATIVE
-11                                                                  Destiny watches a CarolineKwan clip                                                     https://kick.com/destiny?clip=clip_01HVZENCP3QE2J0HKG0998GWTH  2024/04/21    0.0000  NEGATIVE       POSITIVE
-12                                                           Caroline found out something new about Cyr                                             https://clips.twitch.tv/DreamyTentativeYakiniku4Head-3Z1y6zMOfPggz8nY  2024/04/21    0.0000  NEGATIVE       POSITIVE
-13                                                 Streamer Gets Repeatedly Spat In The Face In Shibuya                           https://www.twitch.tv/cashmeow/clip/LachrymoseCharmingOrcaCoolStoryBro-5Wh48n3lQmXr2bWs  2024/04/21    0.0000  NEGATIVE       NEGATIVE
-14  Twitch CEO Says No To TwitchCon In Asia Because No English and People Won't Travel There like NA/EU  https://www.twitch.tv/djclancy/clip/CleanGracefulWaterChefFrank-yn5BWK86VKbRJek3?filter=clips&range=7d&sort=time  2024/04/21   -0.6715  NEGATIVE       NEGATIVE
-15                                                                 Julia not a fan of women's rights...                                             https://clips.twitch.tv/VenomousAlertAlpacaFutureMan-UvfNDu7pQsuS7qSn  2024/04/21   -0.2411  NEGATIVE       NEGATIVE
-16                                                                             Summit confirms the kill                                                     https://clips.twitch.tv/ChillyQuaintDiscMau5-ZsxDD5PtNHP9m1MP  2024/04/21   -0.6908  NEGATIVE       POSITIVE
+                                                                                                                          title                                                                                   url        date  compound   SA_nltk SA_distilibert
+0                                                                                                 Tomato-Gotta blast that thing  https://clips.twitch.tv/CuriousSmilingCheeseEagleEye-wAGt4tlXL8TFBvhL?tt_medium=redt  2024/04/22    0.0000  NEGATIVE       POSITIVE
+1                                                                                                             Literal Baby Legs                https://clips.twitch.tv/SolidKitschyKeyboardNononoCat-fLnLAn_F5WnkK3RU  2024/04/22    0.0000  NEGATIVE       NEGATIVE
+2                                                                                vedal987 - Streamer almost steps on a landmine               https://clips.twitch.tv/CrunchyFuriousEggplantEagleEye-S0gmOFLvggYpb-JN  2024/04/22    0.0000  NEGATIVE       NEGATIVE
+3                                                                                                  C9 Forsen to join T1 for MSI                    https://clips.twitch.tv/InventiveDaintyOryxYouWHY-kVLEiASKRFYw19q8  2024/04/22    0.2960  POSITIVE       POSITIVE
+4                                                                                                   xQc clarifies his sexuality                             https://kick.com/xqc?clip=clip_01HW2XARE8XCF3MFYP0R9FDHDC  2024/04/22    0.2263  POSITIVE       POSITIVE
+5                                                                                      Day 2 and forsen is understanding League                       https://clips.twitch.tv/PluckyWrongMouseWTRuck-gVaTkv2ceH4Rs-dq  2024/04/22    0.0000  NEGATIVE       POSITIVE
+6                                                                                                Japanese idol reacts to Forsen           https://www.twitch.tv/hachubby/clip/IcyBlatantAxeOMGScoots-H513zd9uWI9OCrbU  2024/04/22    0.0000  NEGATIVE       POSITIVE
+7   Pirate Software announce full-time salary and benefits for moderators & staff (medical, dental, vision, and life insurance)                         https://twitter.com/PirateSoftware/status/1782220193818984816  2024/04/22    0.5574  POSITIVE       NEGATIVE
+8                                                                               Ashley221 messes up order at Chinese restaurant                   https://clips.twitch.tv/FamousSlickFriseeSwiftRage-7rjPhWkwegvH7_PM  2024/04/22    0.0000  NEGATIVE       NEGATIVE
+9                                                                                                 NL on 2x speed video watching                https://clips.twitch.tv/BraveCogentDugongTBCheesePull-zuyv9OtCjdo_kLdW  2024/04/22    0.0000  NEGATIVE       NEGATIVE
+10                                                                                                    This is how skynet starts               https://clips.twitch.tv/DarkSmoothMelonNerfBlueBlaster-FWFcRyNOKylklcnB  2024/04/22    0.0000  NEGATIVE       POSITIVE
+11                                                                                                              Korean candy ad                 https://clips.twitch.tv/DoubtfulFreezingMallardKappa-ksD0sAW37KDvoKXU  2024/04/22    0.0000  NEGATIVE       NEGATIVE
+12                                                                                                             Lirik and timing              https://clips.twitch.tv/ColdbloodedHandsomeCheeseDuDudu-XtKMenLgAqdrnDLc  2024/04/22    0.0000  NEGATIVE       POSITIVE
+13                                                                                                                  No Don't!!!                     https://clips.twitch.tv/FuriousBelovedAmazonUWot-dPFzgnYWNXTKrrGz  2024/04/22   -0.4724  NEGATIVE       NEGATIVE
+14                                                                                                   Nick deepthroats a churro.                  https://clips.twitch.tv/OilyExpensiveDinosaurOpieOP-A8j91hXzTmzwLsPk  2024/04/22    0.0000  NEGATIVE       NEGATIVE
+15                                                                            Destiny FAILS to predict what is about to be said                         https://kick.com/destiny?clip=clip_01HW3D2GTEZQGB07MX75RYQNR0  2024/04/22   -0.5473  NEGATIVE       NEGATIVE
+16                                                                        Dan Gheesling makes an appearance in the Fallout show                  https://clips.twitch.tv/BoredSucculentSnoodOSkomodo-NqQ6vr4B0zS1kgO3  2024/04/22    0.0000  NEGATIVE       POSITIVE
+17                                                                    streamer shows twitch CEO how to farm subs using cleavage                   https://clips.twitch.tv/SuperVibrantMeerkatHeyGirl-zRUFSeCyvwVUPj_A  2024/04/22    0.0000  NEGATIVE       NEGATIVE
+18                                                                                                  Amaz roommate arrested....?                      https://clips.twitch.tv/ShinyCalmRaccoonTF2John-c3AdrWbky06eJG8N  2024/04/22    0.0000  NEGATIVE       NEGATIVE
+19                                                                              Imaqtpie opens up about his financial situation            https://clips.twitch.tv/SavageWrongDiamondResidentSleeper-nuIbBqlloDRXgHKV  2024/04/22    0.0000  NEGATIVE       POSITIVE
+20                                                                                            Sick boats at the Busan boat show               https://clips.twitch.tv/SourGlamorousCockroachBatChest-0p3vDrv2cmcWEtvH  2024/04/22   -0.5106  NEGATIVE       NEGATIVE
+21                                                  xQc leaves the lobby with Adin's crew after they continue to use the F slur                             https://kick.com/xqc?clip=clip_01HW2F5DX4EYDZ9GPKG4MQT7GB  2024/04/22    0.0258  NEGATIVE       NEGATIVE
+22                                                                                          Star citizen is going great for cyr                   https://clips.twitch.tv/ToughFuriousMonkeyUncleNox-VoKgWy7w5mFKC4XV  2024/04/22    0.6249  POSITIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    16
-POSITIVE     1
+NEGATIVE    19
+POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    9
-NEGATIVE    8
+NEGATIVE    13
+POSITIVE    10
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
