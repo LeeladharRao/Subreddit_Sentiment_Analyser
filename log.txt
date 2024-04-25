@@ -1,31 +1,32 @@
 <!-- posts starts -->
-                                                                             title                                                                              url        date  compound   SA_nltk SA_distilibert
-0                               Destiny destroys Sneako by asking him one question                    https://kick.com/destiny?clip=clip_01HW6JTJ2NK35EXC8BMEZTHDC6  2024/04/23   -0.5574  NEGATIVE       NEGATIVE
-1                                                             Pat becomes an Oreo.    https://clips.twitch.tv/TransparentThirstySalamanderSpicyBoy-84no9NhpYPpJTnvJ  2024/04/23    0.0000  NEGATIVE       NEGATIVE
-2                                                                 Forsen ganks bot                https://clips.twitch.tv/TallUglyKoupreyOMGScoots-sds6LCOmWN4XLI-d  2024/04/23    0.0000  NEGATIVE       NEGATIVE
-3                                                Destiny's thoughts on Red Pillers                    https://kick.com/destiny?clip=clip_01HW3WS5W6RM277G9SX2Q2X928  2024/04/23    0.0000  NEGATIVE       POSITIVE
-4                                                                 forsen ganks mid  https://clips.twitch.tv/AffluentWrongGrasshopperNerfRedBlaster-A0l20G5u2AQq51BG  2024/04/23    0.0000  NEGATIVE       NEGATIVE
-5                                               Lirik enjoys his time with Pax Dei        https://clips.twitch.tv/GoodEndearingPassionfruitPMSTwin-QfRLYDPKlscgqt-4  2024/04/23    0.5106  POSITIVE       POSITIVE
-6                                                        XQC suggesting a strategy           https://clips.twitch.tv/RelatedFrailNigiriDoritosChip-skI94sD8AD574N9y  2024/04/23    0.0000  NEGATIVE       POSITIVE
-7                                Erobb reveals the craziest thing he did for money               https://clips.twitch.tv/AthleticCrackyLobsterMau5-ZtJ2YiZrL0Fj4IpF  2024/04/23   -0.0516  NEGATIVE       NEGATIVE
-8                                                                   RIPBOZO indeed       https://www.twitch.tv/vedal987/clip/YummyPlainBillPRChase-aljxsBOd83BJexO3  2024/04/23    0.0000  NEGATIVE       POSITIVE
-9                                                           Zoil girlfriend reveal             https://clips.twitch.tv/SourMushyMeerkatKappaWealth-VMrJBN51erbNJplb  2024/04/23    0.0000  NEGATIVE       POSITIVE
-10  Adin Ross freind Cheesur React to the video of xqc and start saying HateSpeech                    https://kick.com/cheesur?clip=clip_01HW3PB004KMT1JEH19WPEB1GT  2024/04/23    0.0000  NEGATIVE       NEGATIVE
-11                                                 E-Date stream goes wrong fast..                 https://kick.com/zookeeperz?clip=clip_01HW4HMWFE3NMJ4XXTTKN3T8KK  2024/04/23   -0.4767  NEGATIVE       NEGATIVE
-12                             Asmongold figures out whats wrong with the internet         https://clips.twitch.tv/WonderfulFlirtyAlfalfaShadyLulu-gy5gQ1eaNf15O7Rx  2024/04/23   -0.4767  NEGATIVE       NEGATIVE
-13                                                 What does a league player like?        https://clips.twitch.tv/ElatedColdbloodedMagpiePastaThat--mi0j7Dj5WS34diQ  2024/04/23    0.3612  POSITIVE       POSITIVE
+                                                                                                  title                                                                                                                     url        date  compound   SA_nltk SA_distilibert
+0                                                               xQc flexes on Sneako at an awkward time                                                             https://kick.com/xqc?clip=clip_01HW6JWV6QQT1MCH22V8C21Q3B?2  2024/04/24   -0.1531  NEGATIVE       NEGATIVE
+1                                                                          Classic Fallout 3 Experience                                               https://clips.twitch.tv/SuspiciousShyInternOptimizePrime-QF4Q5BBeLs0AM4za  2024/04/24    0.0000  NEGATIVE       POSITIVE
+2                                                                                   Todd would be proud                                               https://clips.twitch.tv/DepressedEphemeralKittenGOWSkull-kKHlqeSd0gqLPfeb  2024/04/24    0.4767  POSITIVE       POSITIVE
+3                                                              Northernlion feeding the audience a meal                                                    https://clips.twitch.tv/TangibleFilthyOrcaOMGScoots-b3WP-DgDuDuH-CBA  2024/04/24    0.0000  NEGATIVE       POSITIVE
+4                                                                                  Pokemon is for nerds                                                   https://clips.twitch.tv/EncouragingPiercingGoblinWow-VBrrQvtcifPw2MZs  2024/04/24    0.0000  NEGATIVE       POSITIVE
+5                                                                                  casters get personal                                                    https://clips.twitch.tv/GoodPerfectBananaHumbleLife-xYLlSJ1Othl49bOL  2024/04/24    0.0000  NEGATIVE       POSITIVE
+6                                                                    ExtraEmily gets caught trespassing  https://www.twitch.tv/extraemily/clip/PerfectFragileShingleSpicyBoy-J6aDCm6Kt4sHpqPE?filter=clips&range=24hr&sort=time  2024/04/24    0.0000  NEGATIVE       NEGATIVE
+7                                                                                     Destiny powers up                                                           https://kick.com/destiny?clip=clip_01HW8C7FZZCW4TFZ6QN4SZXW5G  2024/04/24    0.0000  NEGATIVE       POSITIVE
+8                                        How it must feel to talk to someone who is chronically online.                                                    https://clips.twitch.tv/SilkyPrettiestGerbilWutFace-tpEqibqtxN_xSnf3  2024/04/24    0.0000  NEGATIVE       NEGATIVE
+9                                                                                 jebait salt and shake                                                https://clips.twitch.tv/HelplessBlindingOcelotKappaRoss-8V5nbe_wDSc3yqnq  2024/04/24   -0.1779  NEGATIVE       POSITIVE
+10                                                             artistic way to ruin your streaming room                                               https://clips.twitch.tv/TenuousMiniatureAsparagusHeyGuys-sJqHaamSE4yBfqN1  2024/04/24   -0.5859  NEGATIVE       NEGATIVE
+11  YourRage doesn't understand why Sneako still tries to debate Destiny after losing every single time                                                          https://kick.com/yourrage?clip=clip_01HW7X3SHVKFRKE37Q8CR2YBKN  2024/04/24   -0.3818  NEGATIVE       NEGATIVE
+12                            Destiny Asked Pokimane to Call His Son After Seeing Her Cameo in Free Guy                                                        https://kick.com/bridgespod?clip=clip_01HW792MESD50MY2GW3AYMQPRZ  2024/04/24    0.5106  POSITIVE       NEGATIVE
+13                                                                        Pobelter watches a TFT stream                                                  https://clips.twitch.tv/ElegantDepressedPlumberWoofer-rZ9MvHSgkILErrnx  2024/04/24    0.0000  NEGATIVE       POSITIVE
+14                                       Destiny plays a WarioWare clone based on memes from his stream                                                           https://kick.com/destiny?clip=clip_01HW6S56MM78CBNP0SQAXTPP9F  2024/04/24    0.2500  POSITIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
 NEGATIVE    12
-POSITIVE     2
+POSITIVE     3
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    8
-POSITIVE    6
+POSITIVE    8
+NEGATIVE    7
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
