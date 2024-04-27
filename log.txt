@@ -1,32 +1,34 @@
 <!-- posts starts -->
-                                                                                                  title                                                                                                                     url        date  compound   SA_nltk SA_distilibert
-0                                                               xQc flexes on Sneako at an awkward time                                                             https://kick.com/xqc?clip=clip_01HW6JWV6QQT1MCH22V8C21Q3B?2  2024/04/24   -0.1531  NEGATIVE       NEGATIVE
-1                                                                          Classic Fallout 3 Experience                                               https://clips.twitch.tv/SuspiciousShyInternOptimizePrime-QF4Q5BBeLs0AM4za  2024/04/24    0.0000  NEGATIVE       POSITIVE
-2                                                                                   Todd would be proud                                               https://clips.twitch.tv/DepressedEphemeralKittenGOWSkull-kKHlqeSd0gqLPfeb  2024/04/24    0.4767  POSITIVE       POSITIVE
-3                                                              Northernlion feeding the audience a meal                                                    https://clips.twitch.tv/TangibleFilthyOrcaOMGScoots-b3WP-DgDuDuH-CBA  2024/04/24    0.0000  NEGATIVE       POSITIVE
-4                                                                                  Pokemon is for nerds                                                   https://clips.twitch.tv/EncouragingPiercingGoblinWow-VBrrQvtcifPw2MZs  2024/04/24    0.0000  NEGATIVE       POSITIVE
-5                                                                                  casters get personal                                                    https://clips.twitch.tv/GoodPerfectBananaHumbleLife-xYLlSJ1Othl49bOL  2024/04/24    0.0000  NEGATIVE       POSITIVE
-6                                                                    ExtraEmily gets caught trespassing  https://www.twitch.tv/extraemily/clip/PerfectFragileShingleSpicyBoy-J6aDCm6Kt4sHpqPE?filter=clips&range=24hr&sort=time  2024/04/24    0.0000  NEGATIVE       NEGATIVE
-7                                                                                     Destiny powers up                                                           https://kick.com/destiny?clip=clip_01HW8C7FZZCW4TFZ6QN4SZXW5G  2024/04/24    0.0000  NEGATIVE       POSITIVE
-8                                        How it must feel to talk to someone who is chronically online.                                                    https://clips.twitch.tv/SilkyPrettiestGerbilWutFace-tpEqibqtxN_xSnf3  2024/04/24    0.0000  NEGATIVE       NEGATIVE
-9                                                                                 jebait salt and shake                                                https://clips.twitch.tv/HelplessBlindingOcelotKappaRoss-8V5nbe_wDSc3yqnq  2024/04/24   -0.1779  NEGATIVE       POSITIVE
-10                                                             artistic way to ruin your streaming room                                               https://clips.twitch.tv/TenuousMiniatureAsparagusHeyGuys-sJqHaamSE4yBfqN1  2024/04/24   -0.5859  NEGATIVE       NEGATIVE
-11  YourRage doesn't understand why Sneako still tries to debate Destiny after losing every single time                                                          https://kick.com/yourrage?clip=clip_01HW7X3SHVKFRKE37Q8CR2YBKN  2024/04/24   -0.3818  NEGATIVE       NEGATIVE
-12                            Destiny Asked Pokimane to Call His Son After Seeing Her Cameo in Free Guy                                                        https://kick.com/bridgespod?clip=clip_01HW792MESD50MY2GW3AYMQPRZ  2024/04/24    0.5106  POSITIVE       NEGATIVE
-13                                                                        Pobelter watches a TFT stream                                                  https://clips.twitch.tv/ElegantDepressedPlumberWoofer-rZ9MvHSgkILErrnx  2024/04/24    0.0000  NEGATIVE       POSITIVE
-14                                       Destiny plays a WarioWare clone based on memes from his stream                                                           https://kick.com/destiny?clip=clip_01HW6S56MM78CBNP0SQAXTPP9F  2024/04/24    0.2500  POSITIVE       NEGATIVE
+                                                                                                 title                                                                                       url        date  compound   SA_nltk SA_distilibert
+0   Pro TFT streamer in tournament is so confident in his win he starts playing another game entirely.                       https://clips.twitch.tv/LivelyBoldDinosaurPlanking-36O0v2XCDJk0S3_x  2024/04/26    0.8663  POSITIVE       POSITIVE
+1                                                 BruceDropEmOff announces he is moving back to Twitch                      https://kick.com/brucedropemoff?clip=clip_01HWE4R0CD2WKDPAYHRX7D60VQ  2024/04/26    0.0000  NEGATIVE       NEGATIVE
+2                                                                         Soda watches a vrchat stream                  https://clips.twitch.tv/TemperedRelievedChickenKreygasm-jH23e1qmmkM1eDWR  2024/04/26    0.0000  NEGATIVE       NEGATIVE
+3                            how to destroy millenium falcon with Double-bladed lightsaber (gracelyra)                   https://clips.twitch.tv/TacitHeartlessSkunkDancingBaby-CrZMc2er15ELrv6T  2024/04/26   -0.5423  NEGATIVE       NEGATIVE
+4                                        Faze need to save due to game bug at match point (4v3 retake)                 https://clips.twitch.tv/PricklyBreakableChimpanzeeMVGame-ij8HJdOE4JkNssaS  2024/04/26    0.4939  POSITIVE       NEGATIVE
+5                                                                                         Bethesda aim   https://www.twitch.tv/avoidingthepuddle/clip/RealWonderfulCardTooSpicy-0fiW2KW2bifKf-Ke  2024/04/26    0.0000  NEGATIVE       POSITIVE
+6                                                        Nina and peppahs ghost haunting forsen's room                          https://clips.twitch.tv/KawaiiScaryJackalNotATK-PIAh0Vey-mnoJVRa  2024/04/26   -0.5267  NEGATIVE       NEGATIVE
+7                                                                     NymN plays random streamer bingo              https://clips.twitch.tv/EnthusiasticPoisedVampireBibleThump-Ry7mvP7huLfC6wCz  2024/04/26    0.2500  POSITIVE       NEGATIVE
+8                                                              Reviewing pizza with Sodapoppins friend              https://clips.twitch.tv/TolerantBlushingChinchillaJKanStyle-hJOp0L0x6tHEHeK9  2024/04/26    0.4939  POSITIVE       NEGATIVE
+9                                                                                      DONO = DIE LULE  https://clips.twitch.tv/AntediluvianMoistAmazonBrainSlug-nBS4ljAtH3j64Iny?tt_medium=redt  2024/04/26   -0.5994  NEGATIVE       NEGATIVE
+10                                                                        The pro-gamer soap technique                https://clips.twitch.tv/TolerantTemperedBearPeteZarollTie-IYKhiBjEvcEWovwm  2024/04/26    0.0000  NEGATIVE       NEGATIVE
+11                                                                          Relaxing ferris wheel ride               https://clips.twitch.tv/FragileTransparentCourgetteWutFace-wx9QpG3U-EWmCwHk  2024/04/26    0.4939  POSITIVE       POSITIVE
+12                                            Train accuses Destiny's friend Dan of being manipulative                                 https://kick.com/xqc?clip=clip_01HWC8AMEPSKATV921ZPSHTTKA  2024/04/26    0.2023  POSITIVE       NEGATIVE
+13                                                             Random lady hands puppy to IRL Streamer                      https://clips.twitch.tv/TrappedMildIguanaPeteZaroll-FohsY050YBHZqvEV  2024/04/26    0.0000  NEGATIVE       NEGATIVE
+14                                                                          BlizzCon 2024 is cancelled                               https://twitter.com/Blizzard_Ent/status/1783542697602461739  2024/04/26   -0.2500  NEGATIVE       NEGATIVE
+15                                                                                     Cat Yoinks Meat                  https://clips.twitch.tv/CrowdedSpinelessPresidentM4xHeh-hC0if82uV-LOPZue  2024/04/26    0.0000  NEGATIVE       NEGATIVE
+16                                   xQc is interrupted while discussing Asmongold and Kaceytron drama                                 https://kick.com/xqc?clip=clip_01HWBJ4HCP5JKXKKS4AG6R1E0P  2024/04/26   -0.2960  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    12
-POSITIVE     3
+NEGATIVE    11
+POSITIVE     6
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    8
-NEGATIVE    7
+NEGATIVE    14
+POSITIVE     3
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
