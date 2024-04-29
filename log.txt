@@ -1,35 +1,30 @@
 <!-- posts starts -->
-                                                                            title                                                                                                                         url        date  compound   SA_nltk SA_distilibert
-0                                              Janet asks the important questions                                                     https://clips.twitch.tv/AmazonianJollyAppleBleedPurple-5a0aVvLgZcuv4JfN  2024/04/27    0.2023  POSITIVE       POSITIVE
-1                                                            Chat can't afford it                                                    https://clips.twitch.tv/RespectfulSmilingBottleDAESuppy-hCicMpPzFjWmutn_  2024/04/27    0.0000  NEGATIVE       NEGATIVE
-2                                                                    little jumps  https://www.twitch.tv/josie5297/clip/ObservantSmoggyTruffleThisIsSparta-T_YjMI3MjmVg2AeJ?filter=clips&range=24hr&sort=time  2024/04/27    0.0000  NEGATIVE       POSITIVE
-3                                                             Tigger, are you ok?                                                           https://clips.twitch.tv/SpookyHyperCatBigBrother-2V3tFfnZDUl5KktK  2024/04/27    0.2960  POSITIVE       POSITIVE
-4                                                         True Firebender at Work                                                       https://clips.twitch.tv/SavageCleverCheetahBrokeBack-hndA2a4epfOaDIq1  2024/04/27    0.4215  POSITIVE       POSITIVE
-5                                                             Welcome to the Show                                                         https://clips.twitch.tv/ZanyTallStorkOptimizePrime-kuUQKQNc9b0ec89M  2024/04/27    0.4588  POSITIVE       POSITIVE
-6   FaZe Kalei Gets a Call While Live Informing Her She Has Been Kicked from FaZe                                                       https://clips.twitch.tv/BelovedGrotesqueOtterOhMyDog-iqivHvi3VeLU_SLq  2024/04/27    0.0000  NEGATIVE       NEGATIVE
-7                                         This might be the worst 1v1 of all time                                               https://clips.twitch.tv/TentativeAthleticArtichokeWholeWheat-RneE0lZ0Yv2K7QDH  2024/04/27   -0.6249  NEGATIVE       NEGATIVE
-8         Forsen proves empirically that brain rot sets in after 4 days of league                                                     https://clips.twitch.tv/HonorableFairTrayChocolateRain-_JJRAt5CJpUjFZ1-  2024/04/27    0.0000  NEGATIVE       NEGATIVE
-9                                                            Lirik heard the news                                               https://clips.twitch.tv/OptimisticAttractiveFishCharlieBitMe-FgtsxLsiUjr5Ko_a  2024/04/27    0.0000  NEGATIVE       POSITIVE
-10                                             Rachel Dolezal streaming on Twitch                                                     https://clips.twitch.tv/TubularAmusedSharkRiPepperonis-HV8klY8onKKJJX8v  2024/04/27    0.0000  NEGATIVE       NEGATIVE
-11                                                                  Infinite beer                                                      https://clips.twitch.tv/TenderGentleBunnyRiPepperonis-lfvjkBABaHsfMczF  2024/04/27    0.0000  NEGATIVE       POSITIVE
-12           Japanese crouch down so streamer can watch other streamer, EVO Japan                                                         https://clips.twitch.tv/InspiringCrypticWormMVGame-K9wRZUzeTD884Dkc  2024/04/27    0.0000  NEGATIVE       POSITIVE
-13                                                 Moonmoon takes a physics class                                                        https://clips.twitch.tv/GoodCorrectButterHassanChop-h2vFpIE698hz9FVt  2024/04/27    0.0000  NEGATIVE       POSITIVE
-14                            Dota pro playing a LAN tourney while fighting a fly                                              https://clips.twitch.tv/InexpensiveComfortableLaptopBlargNaut-53yq4P58OswqMQ1y  2024/04/27   -0.1779  NEGATIVE       NEGATIVE
-15                                                        Liam New Haircut Reveal                                                          https://clips.twitch.tv/ZanyInterestingCrabPupper-npfZTFpm3KYgSs8a  2024/04/27    0.0000  NEGATIVE       POSITIVE
-16                                                   Ron learns his mod is a girl                                                          https://clips.twitch.tv/RichTrappedShallotVoteYea-YOAIfnyH-X_MODZK  2024/04/27    0.0000  NEGATIVE       POSITIVE
-17                    xQc talks about why he enjoyed hanging out with W community                                                                 https://kick.com/xqc?clip=clip_01HWDVYF44K47E9NPBSA3XT21C?1  2024/04/27    0.5106  POSITIVE       POSITIVE
+                                                                              title                                                                             url        date  compound   SA_nltk SA_distilibert
+0                                                    N3on f's around and finds out                       https://kick.com/n3on?clip=clip_01HWKJ2MQ6CM0D1H05KRP7EJ1P  2024/04/28    0.0000  NEGATIVE       POSITIVE
+1                                               Austin reflects on his many talents     https://clips.twitch.tv/MiniatureProtectiveReindeerGivePLZ-03hHJ2KCjZHjFgRU  2024/04/28    0.4588  POSITIVE       POSITIVE
+2                                            Mizkif on recruiting Faze Kalei to OTK  https://clips.twitch.tv/HonorableBombasticWolverineYouDontSay-fZanrpGxGP3YuATq  2024/04/28    0.0000  NEGATIVE       NEGATIVE
+3                      forsen coming up with excuses that science can't comprehend.             https://clips.twitch.tv/SassyPolishedPizzaPipeHype-w8DL0VyQgNE0eVpM  2024/04/28    0.0000  NEGATIVE       NEGATIVE
+4              All Evo Japan Channels were banned During mid-Tournaments and Finals                     https://twitter.com/StreamerBans/status/1784521947902009399  2024/04/28   -0.4588  NEGATIVE       NEGATIVE
+5                                              EVO Japan stream gets banned mid set               https://clips.twitch.tv/TallObliqueDuckSeemsGood-aLrjuTVnvb0Xzec9  2024/04/28   -0.4588  NEGATIVE       NEGATIVE
+6                         Fat american didn't want to be on camera. MISSION FAILED!     https://clips.twitch.tv/PerfectGrotesqueFennelPeoplesChamp-pxe4KFMEkSHKy3dU  2024/04/28   -0.6754  NEGATIVE       NEGATIVE
+7                                            rare complimentary user in Liam's chat    https://www.twitch.tv/liam/clip/FastKnottySwordTBCheesePull-Q9ss1NF4jksNL13H  2024/04/28    0.4404  POSITIVE       POSITIVE
+8                                    Jinny visits one of Nepal's largest waterfall.             https://clips.twitch.tv/HilariousPeppyTireBabyRage-ODXGDxjTZFfGf3l3  2024/04/28    0.0000  NEGATIVE       POSITIVE
+9                               Buddha calls out xQc for running twitch ads nonstop                https://clips.twitch.tv/KnottyEagerMilkTheTarFu-RY-1tYAFD4YjrBFo  2024/04/28    0.0000  NEGATIVE       NEGATIVE
+10                                       Alex Stein confronts Destiny live on stage                   https://kick.com/destiny?clip=clip_01HWHDQHB7SGBDQGY6SRWZMSYB  2024/04/28   -0.2263  NEGATIVE       POSITIVE
+11  Someone made a Tekken 8 bot spamming one input in ranked and it gets plugged on           https://clips.twitch.tv/LuckyBlazingBatteryAllenHuhu-IbCu4ytNss99s4Rz  2024/04/28   -0.4767  NEGATIVE       NEGATIVE
+12                                                   Poki names her favourite woman     https://clips.twitch.tv/ResilientGoldenAdminStoneLightning-z6-fCRn7lHX69_EO  2024/04/28    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    13
-POSITIVE     5
+NEGATIVE    11
+POSITIVE     2
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    12
-NEGATIVE     6
+NEGATIVE    7
+POSITIVE    6
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
