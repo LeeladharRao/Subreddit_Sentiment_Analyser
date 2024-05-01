@@ -1,40 +1,40 @@
 <!-- posts starts -->
-                                                               title                                                                                          url        date  compound   SA_nltk SA_distilibert
-0                                      Streamer visits Beverly Hills                         https://clips.twitch.tv/NeighborlyGiftedKleeSoBayed-y8pQ6JjwnBFc4SnK  2024/04/29    0.0000  NEGATIVE       POSITIVE
-1   Pobelter has an existential despairge realization about imaqtpie                   https://clips.twitch.tv/JollyDifficultPassionfruitPJSugar-8UmJ8wzvrve0XiS7  2024/04/29    0.0000  NEGATIVE       POSITIVE
-2                  CohhCarnage speaking to devs like they're his kid  https://clips.twitch.tv/TrappedInventiveTardigradeSmoocherZ-SVFtckr7VfZKS9al?tt_medium=redt  2024/04/29    0.3612  POSITIVE       POSITIVE
-3                  PaymoneyWubby - WUBBY PULLS POWER 9 - MOX EMERALD                    https://clips.twitch.tv/DeterminedEmpathicShrimpOSkomodo-k749VIiTF0s2p71P  2024/04/29    0.0000  NEGATIVE       NEGATIVE
-4                                         Summit admires the scenery                       https://clips.twitch.tv/ArtisticTenuousWerewolfPupper-8DEdxKiNNz0amb1Z  2024/04/29    0.3612  POSITIVE       POSITIVE
-5                            Summit1g gives Star Citizen another try                       https://clips.twitch.tv/AdorableSparklingMallardDxCat-mABYDFuVHacq39_H  2024/04/29    0.0000  NEGATIVE       POSITIVE
-6                          Cookiestealer559 gets banned in NL's chat                       https://clips.twitch.tv/SpineyAcceptableWolfJKanStyle-AgcS80mJSid0zdvZ  2024/04/29   -0.4588  NEGATIVE       NEGATIVE
-7                                        NL gets SHOT live on stream      https://www.twitch.tv/northernlion/clip/MagnificentSmellyPlumberWTRuck-9InDDmGW1WvvQwio  2024/04/29    0.0000  NEGATIVE       NEGATIVE
-8                                      Destiny goes off at a chatter                                https://kick.com/destiny?clip=clip_01HWNRPXG5TAJZAQHTKW1BT1DJ  2024/04/29    0.0000  NEGATIVE       POSITIVE
-9                                                    xQc gets scared                                    https://kick.com/xqc?clip=clip_01HWKF8FVA8KF8BV65M0F1SD0A  2024/04/29   -0.4404  NEGATIVE       NEGATIVE
-10                                                Kadeemsen Prevails                     https://clips.twitch.tv/TrappedColorfulPelicanSwiftRage-NW-YN4XdDru3sZZa  2024/04/29    0.0000  NEGATIVE       POSITIVE
-11                  xQc eplains again why he cheated (bike incident)                                    https://kick.com/xqc?clip=clip_01HWNK6QM1VKBGPK88QE6J0YVC  2024/04/29   -0.5106  NEGATIVE       NEGATIVE
-12                                 NL viewer needs convincing to sub                      https://clips.twitch.tv/SmallExcitedSoybeanSuperVinlin-f3MLQbNy_ZR6fkXP  2024/04/29    0.4019  POSITIVE       NEGATIVE
-13                                    gaming chair AD at the concert              https://www.twitch.tv/joeykaotyk/clip/TacitDignifiedCardDuDudu-iz_MGUma0CVANXTY  2024/04/29    0.0000  NEGATIVE       NEGATIVE
-14                Denims offer 30k to make content creator disappear                        https://clips.twitch.tv/EmpathicSpinelessGaurBudStar-rItmsp0-OBQUXMDJ  2024/04/29   -0.2263  NEGATIVE       NEGATIVE
-15                                             ♂relaxing mediashare♂                         https://clips.twitch.tv/SingleLivelyNigiriPartyTime-iq-a5_qYmtnxyMpV  2024/04/29    0.0000  NEGATIVE       NEGATIVE
-16                                              short Chinese lesson            https://www.twitch.tv/geezgiselle/clip/SwissImpartialTubersKeepo-uW-2dCtQ9BQ9WKju  2024/04/29    0.0000  NEGATIVE       NEGATIVE
-17                                   Guy takes his bird for a walk
-                        https://clips.twitch.tv/JollyFrozenJamStoneLightning-YVNw5Do8RWRXwDQa  2024/04/29    0.0000  NEGATIVE       POSITIVE
-18                                Limmy takes his eyes off the prize                             https://clips.twitch.tv/TastyGeniusBisonGivePLZ-LRv_KX26-d2YEXtx  2024/04/29    0.5106  POSITIVE       POSITIVE
-19                                               LIRIK - Pizza Scare                         https://clips.twitch.tv/GiftedDeliciousSquirrelMcaT-lJIrAIBa3wfY40-_  2024/04/29   -0.4939  NEGATIVE       NEGATIVE
-20                              Forsen watches Dhar Mann Baj edition            https://clips.twitch.tv/IgnorantArborealCaterpillarLeeroyJenkins-rcBL31oUXFo8XnC1  2024/04/29    0.0000  NEGATIVE       POSITIVE
-21                          streamer is clueless on OTV’s past drama                           https://clips.twitch.tv/TubularScaryHeronTheTarFu-6k8gcK-6Vr7tFHPS  2024/04/29   -0.3612  NEGATIVE       NEGATIVE
+                                                                                                            title                                                                                   url        date  compound   SA_nltk SA_distilibert
+0                                                          Erobb plays the wrong "carnival song" for his daughter                 https://clips.twitch.tv/BoxySparklingEchidnaPoooound-8MIpIRDWinF1MLAG  2024/04/30   -0.2732  NEGATIVE       NEGATIVE
+1   Our humble hero 3ddy (the Tekken 8 bot who only presses one button in Ranked) shows no mercy for his opponent                 https://clips.twitch.tv/WonderfulKathishSwanCmonBruh-5Qks9Xlq0UdrGD6j  2024/04/30    0.5994  POSITIVE       POSITIVE
+2                                                                               Luality leaves chat with dialogue                        https://clips.twitch.tv/RudeFineWombatBudStar-NqYRDJB68wqqNjSg  2024/04/30    0.0000  NEGATIVE       NEGATIVE
+3                                                                                          Mister Kadeem loses it                 https://clips.twitch.tv/BoldCourageousFlamingoTTours-tor8xZg-rVQbKgfQ  2024/04/30   -0.3182  NEGATIVE       NEGATIVE
+4                                                                                     Alinity clarifies something               https://clips.twitch.tv/WrongTenuousFennelRiPepperonis-541u_EMmqtv0xZMU  2024/04/30    0.2263  POSITIVE       POSITIVE
+5                                                                                                          Quin!?                  https://clips.twitch.tv/BelovedObliqueDonutPanicVis-7OKFAYN717cKBVo2  2024/04/30    0.0000  NEGATIVE       POSITIVE
+6                                                              Asmon tells Denims what he Thinks about her "Joke"                  https://clips.twitch.tv/ElatedTolerantKimchiWutFace-c-qZTCagX44BbVDx  2024/04/30    0.0000  NEGATIVE       NEGATIVE
+7                                                                                          Kendrick calls out Miz             https://clips.twitch.tv/EnchantingNimbleMarrowHassanChop-QWfa3z9qcmL8XSTK  2024/04/30    0.0000  NEGATIVE       POSITIVE
+8                                                        Future sampled Pokelawls without permission.  EZ Lawsuit               https://clips.twitch.tv/AntediluvianSnappySlothWutFace-uQins7Z4QGedCJcA  2024/04/30   -0.2468  NEGATIVE       NEGATIVE
+9                                                                            Twitch added a new discovery feature                                 https://twitter.com/Twitch/status/1785353811185520852  2024/04/30    0.0000  NEGATIVE       POSITIVE
+10                                                                        Lirik with the Next level Pepega moment                    https://clips.twitch.tv/TardyNimbleHamburgerKeepo-W678TArO6yUPbbdT  2024/04/30    0.0000  NEGATIVE       POSITIVE
+11                                                                                unflappable owner of three cats             https://www.twitch.tv/beddle/clip/OilyEasyWhaleAMPEnergy-lKpqMInkRvk6lpOA  2024/04/30    0.0000  NEGATIVE       POSITIVE
+12                                                         CodeMiko's Kickstarter gets funded in under 10 minutes          https://clips.twitch.tv/SleepyAdventurousCrocodileTwitchRPG-Mn96LJZuUc2OVSfj  2024/04/30    0.0000  NEGATIVE       NEGATIVE
+13                                        Wowge, Jinny finally gets a nice view of the himalayan massif in Nepal.                https://clips.twitch.tv/FitBenevolentLapwingShadyLulu-xvXuBj4ppLWXpLq_  2024/04/30    0.4215  POSITIVE       POSITIVE
+14                                                        LilyPichu improvising a song for her good friend Yvonne          https://youtube.com/clip/UgkxCBVKSunzDQ5F0lMfrn3Wu63Yci7abaD5?feature=shared  2024/04/30    0.7269  POSITIVE       POSITIVE
+15                                                                                                pvman = gg = ff                   https://clips.twitch.tv/SmallRoundMacaroniRuleFive-XrVzsMNoGGJMM3kv  2024/04/30    0.6124  POSITIVE       NEGATIVE
+16                                                                                            Jinny gets attacked                    https://clips.twitch.tv/BelovedHonestButterDatBoi-UPVZRDqq4vKBaAE8  2024/04/30   -0.4588  NEGATIVE       NEGATIVE
+17           Dreamhack Australia has issued a statement regarding several Kick streamers that disrupted the event                             https://twitter.com/zachbussey/status/1785115068801122716  2024/04/30    0.0000  NEGATIVE       NEGATIVE
+18                                                                                   Asmongold on his $30k bounty              https://clips.twitch.tv/ManlyTrustworthyKittenOMGScoots-Xudyw5KDvwPruoz4  2024/04/30    0.0000  NEGATIVE       NEGATIVE
+19                                                                 Imaqtpie also had a realization about Pobelter          https://clips.twitch.tv/TrustworthyAdventurousKoalaCmonBruh-eRUDkyFYdRcZPdCC  2024/04/30    0.0000  NEGATIVE       POSITIVE
+20                                                                                   Hasan is rendered speechless          https://www.twitch.tv/hasanabi/clip/CuriousSuaveWhaleBCouch-83HQdhPRDLxuj6Y5  2024/04/30    0.0000  NEGATIVE       NEGATIVE
+21                                                                xQc and Jesse play a competitive game of trivia  https://clips.twitch.tv/LightStrangeDugongPunchTrees-Jah8iw_cTTmY6llw?tt_medium=redt  2024/04/30    0.4767  POSITIVE       POSITIVE
+22                                                                                 Is Will Neff right about Goku?                https://clips.twitch.tv/DelightfulZealousGrouseAliens-iOuU0O6tHemhjs0U  2024/04/30    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    18
-POSITIVE     4
+NEGATIVE    17
+POSITIVE     6
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
 NEGATIVE    12
-POSITIVE    10
+POSITIVE    11
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
