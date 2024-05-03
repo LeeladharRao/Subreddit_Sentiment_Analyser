@@ -1,28 +1,33 @@
 <!-- posts starts -->
-                                                                                         title                                                                              url        date  compound   SA_nltk SA_distilibert
-0                                                Senny gets a surprise guest during his stream               https://clips.twitch.tv/ShinySmallStorkCclamChamp-cTe4aHbiV_COPFtu  2024/05/01    0.2732  POSITIVE       POSITIVE
-1                                                         Simply gets 1:37:19 SM64 120 Star PB                  https://clips.twitch.tv/PlainAbnegateUdonSMOrc-KX4hvuPNhxiDs2U8  2024/05/01    0.0000  NEGATIVE       NEGATIVE
-2                  Esfand gives based advice to all the offended blue-haired basement dwellers        https://clips.twitch.tv/DeliciousFaithfulPlumPanicBasket-BTJXtJ5pSguQJLSB  2024/05/01   -0.3182  NEGATIVE       POSITIVE
-3                                                 that's why food delivery is so fast in China   https://www.twitch.tv/geezgiselle/clip/StormyLightJuiceNotATK-BauL9TYXGObf8wSH  2024/05/01    0.0000  NEGATIVE       NEGATIVE
-4                                                  Squeex jumps on the smartest twitch viewers         https://clips.twitch.tv/WealthyColorfulKumquatJKanStyle-ukKeKh3zTsgWYkD1  2024/05/01    0.6124  POSITIVE       POSITIVE
-5                                                                            Kid gets jebaited          https://clips.twitch.tv/AbstemiousDrabSalmonJonCarnage-PZVWEsga9BSvWCj4  2024/05/01    0.0000  NEGATIVE       NEGATIVE
-6   Jessie loses viewer 1v1 to washed ex pro 10 years past his prime and instantly ends stream             https://clips.twitch.tv/MotionlessScrumptiousPoxWow-MdDNyZ6v6Oqsk_gx  2024/05/01   -0.3182  NEGATIVE       NEGATIVE
-7                                Adin Ross reacts to Playboi Carti dissing him over the stream                   https://kick.com/adinross?clip=clip_01HWRSAVS0HT6B5ZKE21584RXY  2024/05/01    0.0000  NEGATIVE       NEGATIVE
-8                                                                                    Canceled               https://clips.twitch.tv/PlainLivelyWolverineTTours-OUYMUXdaIEbHlSbE  2024/05/01    0.0000  NEGATIVE       NEGATIVE
-9                                                                        Aris has a revelation  https://clips.twitch.tv/RamshackleDifficultGoldfishArsonNoSexy-cX-wRsQAV1ms-eE4  2024/05/01    0.0000  NEGATIVE       POSITIVE
-10                                               xQc shows how much his Steam Account is worth         https://clips.twitch.tv/DistinctBlitheGoshawkYouDontSay-LDWueq7_LvYPjQ49  2024/05/01    0.2263  POSITIVE       POSITIVE
+                                                                      title                                                                           url        date  compound   SA_nltk SA_distilibert
+0                                      Forsen gets perfect farm under tower        https://clips.twitch.tv/ZanyLitigiousPorcupineHeyGirl-qHgqlXSaVBZY7rEB  2024/05/02    0.5719  POSITIVE       POSITIVE
+1                                                  Streamer loses a contest       https://clips.twitch.tv/CrunchyDarlingWebPeteZarollTie-8_P5o76v9WTzOjb4  2024/05/02   -0.3182  NEGATIVE       NEGATIVE
+2                                               Poke tries a new VR headset         https://clips.twitch.tv/PoisedCarelessMartenPlanking-u2VYuxTb73pOiaEk  2024/05/02    0.0000  NEGATIVE       NEGATIVE
+3                                                     ENCE crazy end to BO3            https://clips.twitch.tv/AntsyClumsyWeaselRalpherZ-Y2KbuBmLDy_CnGJS  2024/05/02   -0.3400  NEGATIVE       POSITIVE
+4                                  Preparations going well for Camp Knut 2        https://clips.twitch.tv/TolerantAssiduousLionKappaRoss-3YFEo9ZKP-Z7sCfN  2024/05/02    0.2732  POSITIVE       POSITIVE
+5   Northernlion on Pokemon fans' reaction to him not knowing Luxray's type       https://clips.twitch.tv/JazzyScrumptiousKoalaTwitchRPG-Erl2pvM7kp0Sfyzg  2024/05/02    0.0000  NEGATIVE       NEGATIVE
+6                                                  explosion in the streets            https://clips.twitch.tv/BadEvilBurritoDoritosChip-YACFDHoJkwuveX7I  2024/05/02    0.0000  NEGATIVE       POSITIVE
+7                                 dafran hits people kayaking with his boat            https://clips.twitch.tv/AwkwardSuaveSwallowPJSalt-U7kmq3_7SpjofQYJ  2024/05/02    0.0000  NEGATIVE       NEGATIVE
+8                                Liam found an interesting Diablo IV stream  https://www.twitch.tv/liam/clip/SpotlessOpenStingrayTriHard-QFwTf76Y4m4SzsjC  2024/05/02    0.4019  POSITIVE       POSITIVE
+9                 Awkwards_Travel bakes croissants using solar oven on boat    https://clips.twitch.tv/CourteousHandsomeStrawberryUnSane-eoZKcZPAiDWoW8DP  2024/05/02    0.0000  NEGATIVE       NEGATIVE
+10                                                         Kaceytron Banned                   https://twitter.com/StreamerBans/status/1785928373774017012  2024/05/02   -0.4588  NEGATIVE       NEGATIVE
+11                                     Destiny talks about Train being edgy               https://kick.com/destiny?clip=clip_01HWVP2286FYX23QC5ASQ0GQMM?2  2024/05/02    0.0000  NEGATIVE       POSITIVE
+12                                    Aris discusses his weight loss goals       https://clips.twitch.tv/TemperedBoxyPheasantFeelsBadMan-6MJskqn4r9dHK4NI  2024/05/02   -0.3182  NEGATIVE       POSITIVE
+13                                        Destiny talks Lunchables with Dan                 https://kick.com/destiny?clip=clip_01HWV8C5J66E65BSDM6H8TFP8Y  2024/05/02    0.0000  NEGATIVE       POSITIVE
+14                  Destiny and Dan talk about the reckless driving on Kick                 https://kick.com/destiny?clip=clip_01HWVA2064D3ADS90102DGHJ6F  2024/05/02   -0.4019  NEGATIVE       POSITIVE
+15             Imaqtpie asking the important questions about Stardew Valley       https://clips.twitch.tv/PlayfulCovertSalsifyBigBrother-r3N41LYnegF1GJZO  2024/05/02    0.2023  POSITIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    8
-POSITIVE    3
+NEGATIVE    12
+POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    6
-POSITIVE    5
+POSITIVE    10
+NEGATIVE     6
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
