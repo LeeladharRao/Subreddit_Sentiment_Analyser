@@ -1,33 +1,34 @@
 <!-- posts starts -->
-                                                                      title                                                                           url        date  compound   SA_nltk SA_distilibert
-0                                      Forsen gets perfect farm under tower        https://clips.twitch.tv/ZanyLitigiousPorcupineHeyGirl-qHgqlXSaVBZY7rEB  2024/05/02    0.5719  POSITIVE       POSITIVE
-1                                                  Streamer loses a contest       https://clips.twitch.tv/CrunchyDarlingWebPeteZarollTie-8_P5o76v9WTzOjb4  2024/05/02   -0.3182  NEGATIVE       NEGATIVE
-2                                               Poke tries a new VR headset         https://clips.twitch.tv/PoisedCarelessMartenPlanking-u2VYuxTb73pOiaEk  2024/05/02    0.0000  NEGATIVE       NEGATIVE
-3                                                     ENCE crazy end to BO3            https://clips.twitch.tv/AntsyClumsyWeaselRalpherZ-Y2KbuBmLDy_CnGJS  2024/05/02   -0.3400  NEGATIVE       POSITIVE
-4                                  Preparations going well for Camp Knut 2        https://clips.twitch.tv/TolerantAssiduousLionKappaRoss-3YFEo9ZKP-Z7sCfN  2024/05/02    0.2732  POSITIVE       POSITIVE
-5   Northernlion on Pokemon fans' reaction to him not knowing Luxray's type       https://clips.twitch.tv/JazzyScrumptiousKoalaTwitchRPG-Erl2pvM7kp0Sfyzg  2024/05/02    0.0000  NEGATIVE       NEGATIVE
-6                                                  explosion in the streets            https://clips.twitch.tv/BadEvilBurritoDoritosChip-YACFDHoJkwuveX7I  2024/05/02    0.0000  NEGATIVE       POSITIVE
-7                                 dafran hits people kayaking with his boat            https://clips.twitch.tv/AwkwardSuaveSwallowPJSalt-U7kmq3_7SpjofQYJ  2024/05/02    0.0000  NEGATIVE       NEGATIVE
-8                                Liam found an interesting Diablo IV stream  https://www.twitch.tv/liam/clip/SpotlessOpenStingrayTriHard-QFwTf76Y4m4SzsjC  2024/05/02    0.4019  POSITIVE       POSITIVE
-9                 Awkwards_Travel bakes croissants using solar oven on boat    https://clips.twitch.tv/CourteousHandsomeStrawberryUnSane-eoZKcZPAiDWoW8DP  2024/05/02    0.0000  NEGATIVE       NEGATIVE
-10                                                         Kaceytron Banned                   https://twitter.com/StreamerBans/status/1785928373774017012  2024/05/02   -0.4588  NEGATIVE       NEGATIVE
-11                                     Destiny talks about Train being edgy               https://kick.com/destiny?clip=clip_01HWVP2286FYX23QC5ASQ0GQMM?2  2024/05/02    0.0000  NEGATIVE       POSITIVE
-12                                    Aris discusses his weight loss goals       https://clips.twitch.tv/TemperedBoxyPheasantFeelsBadMan-6MJskqn4r9dHK4NI  2024/05/02   -0.3182  NEGATIVE       POSITIVE
-13                                        Destiny talks Lunchables with Dan                 https://kick.com/destiny?clip=clip_01HWV8C5J66E65BSDM6H8TFP8Y  2024/05/02    0.0000  NEGATIVE       POSITIVE
-14                  Destiny and Dan talk about the reckless driving on Kick                 https://kick.com/destiny?clip=clip_01HWVA2064D3ADS90102DGHJ6F  2024/05/02   -0.4019  NEGATIVE       POSITIVE
-15             Imaqtpie asking the important questions about Stardew Valley       https://clips.twitch.tv/PlayfulCovertSalsifyBigBrother-r3N41LYnegF1GJZO  2024/05/02    0.2023  POSITIVE       POSITIVE
+                                                                     title                                                                                  url        date  compound   SA_nltk SA_distilibert
+0                                        Wolfsbanee goes down an escalator  https://clips.twitch.tv/FaithfulSpeedyDragonfruitCharlietheUnicorn-zbHbTv4h5k75dXqA  2024/05/03    0.0000  NEGATIVE       NEGATIVE
+1                  Tyler1 gets banned in forsens chat for game complaining                 https://clips.twitch.tv/PerfectViscousSnakeTheTarFu-NtfuQURw5Br3Xl11  2024/05/03   -0.5859  NEGATIVE       NEGATIVE
+2                                      xQc tries to play a game with Train                            https://kick.com/xqc?clip=clip_01HWYK32MXJPX9JQ9275N6YFY1  2024/05/03    0.3400  POSITIVE       NEGATIVE
+3                       Forsen back at it again with insane Veigar outplay            https://clips.twitch.tv/CorrectClumsySalmonLeeroyJenkins-SuG28wT1AVBJp0hJ  2024/05/03   -0.4019  NEGATIVE       NEGATIVE
+4   Pirate Software's reaction to the Helldivers 2 PSN account requirement                    https://www.youtube.com/clip/Ugkxld41_qoX14-N1mzEoqNGwKdGEMUzCI_r  2024/05/03    0.0000  NEGATIVE       NEGATIVE
+5                             Forsen respectfully thanks teammate for help                        https://clips.twitch.tv/RockyLuckyOkapiKAPOW-PZd01JDpfhJPnCrQ  2024/05/03    0.8074  POSITIVE       POSITIVE
+6                                      Chiblee gets destroyed by democracy                      https://clips.twitch.tv/EagerSpikyAnacondaUWot-663MFBJG42HX91At  2024/05/03   -0.4939  NEGATIVE       NEGATIVE
+7                                   The Threat does NOT like Stellar Blade                   https://clips.twitch.tv/MiniatureIcyArtichokeMcaT-TaAU6hfNgv0sMj8a  2024/05/03   -0.6715  NEGATIVE       NEGATIVE
+8                                  Dr. K can make anything sound beautiful              https://clips.twitch.tv/CourageousYawningHawkJKanStyle-bEI_hpVYrzRGC0Ok  2024/05/03    0.5994  POSITIVE       POSITIVE
+9                               Forsen thoughts on Kendrick and drake beef                     https://clips.twitch.tv/SpookyWiseRavenOSkomodo-sFjZldxi3pjHI21a  2024/05/03    0.0000  NEGATIVE       POSITIVE
+10                                                      Kaceytron Unbanned                          https://twitter.com/StreamerBans/status/1786385111899894176  2024/05/03    0.0000  NEGATIVE       NEGATIVE
+11                    Streamer almost crashes a Tesla (First post deleted)         https://clips.twitch.tv/AmericanColdbloodedSnakeHoneyBadger-aqBo77IAFa01Easq  2024/05/03    0.0000  NEGATIVE       NEGATIVE
+12                                    Chess commentator goes off the rails            https://clips.twitch.tv/BlindingSparklingCheddarMikeHogu-bC7jSUM5hwL4Xi1X  2024/05/03    0.0000  NEGATIVE       NEGATIVE
+13                                                    such a good question               https://clips.twitch.tv/SleepyCallousDelicataFrankerZ-K_gyH1RN0FYA5M1b  2024/05/03    0.4404  POSITIVE       POSITIVE
+14                                            Qojqva don't trust this wave             https://clips.twitch.tv/SmoothTameSalamanderHassaanChop-0fRQ_5xkNPD498EO  2024/05/03   -0.4023  NEGATIVE       NEGATIVE
+15                             Doublelift puts NA power gap in perspective                  https://clips.twitch.tv/DrabSeductiveBobaChefFrank-xFBkqB8eQFLS04oG  2024/05/03    0.0000  NEGATIVE       NEGATIVE
+16         Lirik checks Sketch's POV of him getting killed in a tournament            https://clips.twitch.tv/BillowingThankfulSnakeStrawBeary--ZVhELovQydHPROa  2024/05/03   -0.6705  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    12
+NEGATIVE    13
 POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    10
-NEGATIVE     6
+NEGATIVE    13
+POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
