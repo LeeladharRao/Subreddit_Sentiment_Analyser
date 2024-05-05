@@ -1,34 +1,35 @@
 <!-- posts starts -->
-                                                                     title                                                                                  url        date  compound   SA_nltk SA_distilibert
-0                                        Wolfsbanee goes down an escalator  https://clips.twitch.tv/FaithfulSpeedyDragonfruitCharlietheUnicorn-zbHbTv4h5k75dXqA  2024/05/03    0.0000  NEGATIVE       NEGATIVE
-1                  Tyler1 gets banned in forsens chat for game complaining                 https://clips.twitch.tv/PerfectViscousSnakeTheTarFu-NtfuQURw5Br3Xl11  2024/05/03   -0.5859  NEGATIVE       NEGATIVE
-2                                      xQc tries to play a game with Train                            https://kick.com/xqc?clip=clip_01HWYK32MXJPX9JQ9275N6YFY1  2024/05/03    0.3400  POSITIVE       NEGATIVE
-3                       Forsen back at it again with insane Veigar outplay            https://clips.twitch.tv/CorrectClumsySalmonLeeroyJenkins-SuG28wT1AVBJp0hJ  2024/05/03   -0.4019  NEGATIVE       NEGATIVE
-4   Pirate Software's reaction to the Helldivers 2 PSN account requirement                    https://www.youtube.com/clip/Ugkxld41_qoX14-N1mzEoqNGwKdGEMUzCI_r  2024/05/03    0.0000  NEGATIVE       NEGATIVE
-5                             Forsen respectfully thanks teammate for help                        https://clips.twitch.tv/RockyLuckyOkapiKAPOW-PZd01JDpfhJPnCrQ  2024/05/03    0.8074  POSITIVE       POSITIVE
-6                                      Chiblee gets destroyed by democracy                      https://clips.twitch.tv/EagerSpikyAnacondaUWot-663MFBJG42HX91At  2024/05/03   -0.4939  NEGATIVE       NEGATIVE
-7                                   The Threat does NOT like Stellar Blade                   https://clips.twitch.tv/MiniatureIcyArtichokeMcaT-TaAU6hfNgv0sMj8a  2024/05/03   -0.6715  NEGATIVE       NEGATIVE
-8                                  Dr. K can make anything sound beautiful              https://clips.twitch.tv/CourageousYawningHawkJKanStyle-bEI_hpVYrzRGC0Ok  2024/05/03    0.5994  POSITIVE       POSITIVE
-9                               Forsen thoughts on Kendrick and drake beef                     https://clips.twitch.tv/SpookyWiseRavenOSkomodo-sFjZldxi3pjHI21a  2024/05/03    0.0000  NEGATIVE       POSITIVE
-10                                                      Kaceytron Unbanned                          https://twitter.com/StreamerBans/status/1786385111899894176  2024/05/03    0.0000  NEGATIVE       NEGATIVE
-11                    Streamer almost crashes a Tesla (First post deleted)         https://clips.twitch.tv/AmericanColdbloodedSnakeHoneyBadger-aqBo77IAFa01Easq  2024/05/03    0.0000  NEGATIVE       NEGATIVE
-12                                    Chess commentator goes off the rails            https://clips.twitch.tv/BlindingSparklingCheddarMikeHogu-bC7jSUM5hwL4Xi1X  2024/05/03    0.0000  NEGATIVE       NEGATIVE
-13                                                    such a good question               https://clips.twitch.tv/SleepyCallousDelicataFrankerZ-K_gyH1RN0FYA5M1b  2024/05/03    0.4404  POSITIVE       POSITIVE
-14                                            Qojqva don't trust this wave             https://clips.twitch.tv/SmoothTameSalamanderHassaanChop-0fRQ_5xkNPD498EO  2024/05/03   -0.4023  NEGATIVE       NEGATIVE
-15                             Doublelift puts NA power gap in perspective                  https://clips.twitch.tv/DrabSeductiveBobaChefFrank-xFBkqB8eQFLS04oG  2024/05/03    0.0000  NEGATIVE       NEGATIVE
-16         Lirik checks Sketch's POV of him getting killed in a tournament            https://clips.twitch.tv/BillowingThankfulSnakeStrawBeary--ZVhELovQydHPROa  2024/05/03   -0.6705  NEGATIVE       NEGATIVE
+                                                              title                                                                                url        date  compound   SA_nltk SA_distilibert
+0                            xQc thoughts on drake vs kendrick beef          https://clips.twitch.tv/RepleteIronicNarwhalRiPepperonis-uADHa-zgaCVLDmI-  2024/05/04    0.0000  NEGATIVE       POSITIVE
+1                                           the wolves are released         https://clips.twitch.tv/DeterminedFurtiveSpiderHumbleLife-78RjmxA7GUvkKv1u  2024/05/04    0.0000  NEGATIVE       POSITIVE
+2                                 the wolves have arrived to alveus                  https://clips.twitch.tv/FunnyMoralFinchDendiFace-hirUiOqanYMZAtwc  2024/05/04    0.0000  NEGATIVE       POSITIVE
+3                             Simply gets 1:37:12 SM64 120 Star PB           https://clips.twitch.tv/LittleInquisitiveOstrichBudBlast-UMnDze3lSTyVBBNb  2024/05/04    0.0000  NEGATIVE       NEGATIVE
+4                        Maya shows Nick how quiet it is in the den                  https://clips.twitch.tv/DeadZanyRaccoonShadyLulu-568eypaXSGeuU1PO  2024/05/04    0.0000  NEGATIVE       NEGATIVE
+5                              zoil tries to get on a carnival ride             https://clips.twitch.tv/BillowingDarkSeahorseEagleEye-9eCmuHtODNQx2M8Q  2024/05/04    0.0000  NEGATIVE       NEGATIVE
+6                                       Lirik remembers this spot.                 https://clips.twitch.tv/SquarePoliteGiraffeRedCoat-EW-BoDvz0nvec5ew  2024/05/04    0.0000  NEGATIVE       POSITIVE
+7    Founder who Created the Name 'Faze' gets Kicked from Faze Clan  https://youtube.com/clip/UgkxDvaNBpPDHXJRmUW6fQVF6IZafkw1HVQh?si=nphTdNPZVbw6agDh  2024/05/04    0.2500  POSITIVE       NEGATIVE
+8                  Forsen watches the greatest FPS game of all time                    https://clips.twitch.tv/EagerVibrantYogurtMcaT-6gbpUG93qWiriFYz  2024/05/04    0.6369  POSITIVE       POSITIVE
+9                   Northernlion on childless adults watching Bluey        https://clips.twitch.tv/PrettiestSparklingGoblinCeilingCat-ybWkuy6OMvfdEJDh  2024/05/04    0.0000  NEGATIVE       NEGATIVE
+10    Wirtual shows Swedish player how to make a jump on Deep Dip 2          https://clips.twitch.tv/SullenConsideratePlumKeyboardCat-VzvYeBQJYN0TjgM3  2024/05/04    0.0000  NEGATIVE       POSITIVE
+11                      xQc gives his take on Kendrick's disstrack                           https://kick.com/xqc?clip=clip_01HX0Y7XD3Q65F6B10YA2BYZE0  2024/05/04    0.0000  NEGATIVE       POSITIVE
+12                                           Sips_ is Fallout Santa                https://clips.twitch.tv/EsteemedArborealGarageDerp-n6DX4pH874dIZfpX  2024/05/04    0.0000  NEGATIVE       NEGATIVE
+13  Trackmania pro receives emotional support after failing a jump.               https://clips.twitch.tv/OptimisticSquareRatCmonBruh-MtcXShjpp3PHt_Ex  2024/05/04    0.0000  NEGATIVE       POSITIVE
+14                                                        evil aris                https://clips.twitch.tv/LazyRespectfulHeronPMSTwin-iyQ_3SmsrH9AS4M9  2024/05/04   -0.6597  NEGATIVE       NEGATIVE
+15                             "Identity theft is not a joke, Jim!"             https://clips.twitch.tv/CaringAbnegatePlumberFailFish-DbB84C-VH3HbkISg  2024/05/04   -0.2914  NEGATIVE       NEGATIVE
+16                          Atrioc contends with a figure of speech                https://clips.twitch.tv/EagerExcitedCoffeePoooound-klhBKo1lv4h3Pg81  2024/05/04    0.0000  NEGATIVE       NEGATIVE
+17                                      Rob visits a Vtuber concert         https://clips.twitch.tv/ResilientClearEggplantPanicBasket-iq_HTnK_NH_Sf79K  2024/05/04   -0.5574  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    13
-POSITIVE     4
+NEGATIVE    16
+POSITIVE     2
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    13
-POSITIVE     4
+POSITIVE    9
+NEGATIVE    9
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
