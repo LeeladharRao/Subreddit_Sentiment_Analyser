@@ -1,35 +1,27 @@
 <!-- posts starts -->
-                                                              title                                                                                url        date  compound   SA_nltk SA_distilibert
-0                            xQc thoughts on drake vs kendrick beef          https://clips.twitch.tv/RepleteIronicNarwhalRiPepperonis-uADHa-zgaCVLDmI-  2024/05/04    0.0000  NEGATIVE       POSITIVE
-1                                           the wolves are released         https://clips.twitch.tv/DeterminedFurtiveSpiderHumbleLife-78RjmxA7GUvkKv1u  2024/05/04    0.0000  NEGATIVE       POSITIVE
-2                                 the wolves have arrived to alveus                  https://clips.twitch.tv/FunnyMoralFinchDendiFace-hirUiOqanYMZAtwc  2024/05/04    0.0000  NEGATIVE       POSITIVE
-3                             Simply gets 1:37:12 SM64 120 Star PB           https://clips.twitch.tv/LittleInquisitiveOstrichBudBlast-UMnDze3lSTyVBBNb  2024/05/04    0.0000  NEGATIVE       NEGATIVE
-4                        Maya shows Nick how quiet it is in the den                  https://clips.twitch.tv/DeadZanyRaccoonShadyLulu-568eypaXSGeuU1PO  2024/05/04    0.0000  NEGATIVE       NEGATIVE
-5                              zoil tries to get on a carnival ride             https://clips.twitch.tv/BillowingDarkSeahorseEagleEye-9eCmuHtODNQx2M8Q  2024/05/04    0.0000  NEGATIVE       NEGATIVE
-6                                       Lirik remembers this spot.                 https://clips.twitch.tv/SquarePoliteGiraffeRedCoat-EW-BoDvz0nvec5ew  2024/05/04    0.0000  NEGATIVE       POSITIVE
-7    Founder who Created the Name 'Faze' gets Kicked from Faze Clan  https://youtube.com/clip/UgkxDvaNBpPDHXJRmUW6fQVF6IZafkw1HVQh?si=nphTdNPZVbw6agDh  2024/05/04    0.2500  POSITIVE       NEGATIVE
-8                  Forsen watches the greatest FPS game of all time                    https://clips.twitch.tv/EagerVibrantYogurtMcaT-6gbpUG93qWiriFYz  2024/05/04    0.6369  POSITIVE       POSITIVE
-9                   Northernlion on childless adults watching Bluey        https://clips.twitch.tv/PrettiestSparklingGoblinCeilingCat-ybWkuy6OMvfdEJDh  2024/05/04    0.0000  NEGATIVE       NEGATIVE
-10    Wirtual shows Swedish player how to make a jump on Deep Dip 2          https://clips.twitch.tv/SullenConsideratePlumKeyboardCat-VzvYeBQJYN0TjgM3  2024/05/04    0.0000  NEGATIVE       POSITIVE
-11                      xQc gives his take on Kendrick's disstrack                           https://kick.com/xqc?clip=clip_01HX0Y7XD3Q65F6B10YA2BYZE0  2024/05/04    0.0000  NEGATIVE       POSITIVE
-12                                           Sips_ is Fallout Santa                https://clips.twitch.tv/EsteemedArborealGarageDerp-n6DX4pH874dIZfpX  2024/05/04    0.0000  NEGATIVE       NEGATIVE
-13  Trackmania pro receives emotional support after failing a jump.               https://clips.twitch.tv/OptimisticSquareRatCmonBruh-MtcXShjpp3PHt_Ex  2024/05/04    0.0000  NEGATIVE       POSITIVE
-14                                                        evil aris                https://clips.twitch.tv/LazyRespectfulHeronPMSTwin-iyQ_3SmsrH9AS4M9  2024/05/04   -0.6597  NEGATIVE       NEGATIVE
-15                             "Identity theft is not a joke, Jim!"             https://clips.twitch.tv/CaringAbnegatePlumberFailFish-DbB84C-VH3HbkISg  2024/05/04   -0.2914  NEGATIVE       NEGATIVE
-16                          Atrioc contends with a figure of speech                https://clips.twitch.tv/EagerExcitedCoffeePoooound-klhBKo1lv4h3Pg81  2024/05/04    0.0000  NEGATIVE       NEGATIVE
-17                                      Rob visits a Vtuber concert         https://clips.twitch.tv/ResilientClearEggplantPanicBasket-iq_HTnK_NH_Sf79K  2024/05/04   -0.5574  NEGATIVE       POSITIVE
+                                                                               title                                                                           url        date  compound   SA_nltk SA_distilibert
+0  Random guy knocks out old child predator man on vitaly stream and starts bleeding                  https://kick.com/vitaly?clip=clip_01HX5JSAJEVB5FADXSVSQYB0D7  2024/05/05    0.0000  NEGATIVE       NEGATIVE
+1                                                       Forsen helps secure the kill        https://clips.twitch.tv/BrightCorrectGerbilTwitchRaid-3-Vmja2ToNEtaqeo  2024/05/05   -0.1779  NEGATIVE       POSITIVE
+2                                                Forsen's team has a perfect level 1       https://clips.twitch.tv/MistyReliableAlmondArsonNoSexy-x7A36pUDv3xRgQQW  2024/05/05    0.5719  POSITIVE       POSITIVE
+3                                               Sykkuno back on Twitch after 2 years    https://clips.twitch.tv/ImpartialDiligentBatteryDendiFace-fE5eymGyE3ShZ9oc  2024/05/05    0.0000  NEGATIVE       NEGATIVE
+4                                                 Clean Twisted Fate ulti by Bronsen       https://clips.twitch.tv/AffluentWiseCocoaChocolateRain-avUUAOzJyCV-QVq3  2024/05/05    0.4019  POSITIVE       POSITIVE
+5                                              LIRIK plays as Hasan in Puppet Master         https://clips.twitch.tv/CogentAbstruseTitanCorgiDerp-I7_ldHr8T2KeIKJy  2024/05/05    0.2500  POSITIVE       POSITIVE
+6                                                                       tit smacking  https://clips.twitch.tv/BumblingCourageousDillMrDestructoid-JnRXBTqmKLjmbh_X  2024/05/05    0.0000  NEGATIVE       NEGATIVE
+7                                                   Overwatch custom games are crazy           https://clips.twitch.tv/AbrasiveVibrantDootPMSTwin-SpQme5opLFlpnhq-  2024/05/05   -0.3400  NEGATIVE       NEGATIVE
+8                             xQc on why he and Train were targeted for doing gamba                      https://kick.com/xqc?clip=clip_01HX4CFQ3372N9DNG9G048ZD5X  2024/05/05    0.0000  NEGATIVE       NEGATIVE
+9                                              Huge Drake fan finally realises AWARE           https://clips.twitch.tv/ThirstyHeartlessApeTriHard-uR_Lc0JSdJAWVYtu  2024/05/05    0.5574  POSITIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    16
-POSITIVE     2
+NEGATIVE    6
+POSITIVE    4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    9
-NEGATIVE    9
+NEGATIVE    5
+POSITIVE    5
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
