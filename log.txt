@@ -1,27 +1,37 @@
 <!-- posts starts -->
-                                                                               title                                                                           url        date  compound   SA_nltk SA_distilibert
-0  Random guy knocks out old child predator man on vitaly stream and starts bleeding                  https://kick.com/vitaly?clip=clip_01HX5JSAJEVB5FADXSVSQYB0D7  2024/05/05    0.0000  NEGATIVE       NEGATIVE
-1                                                       Forsen helps secure the kill        https://clips.twitch.tv/BrightCorrectGerbilTwitchRaid-3-Vmja2ToNEtaqeo  2024/05/05   -0.1779  NEGATIVE       POSITIVE
-2                                                Forsen's team has a perfect level 1       https://clips.twitch.tv/MistyReliableAlmondArsonNoSexy-x7A36pUDv3xRgQQW  2024/05/05    0.5719  POSITIVE       POSITIVE
-3                                               Sykkuno back on Twitch after 2 years    https://clips.twitch.tv/ImpartialDiligentBatteryDendiFace-fE5eymGyE3ShZ9oc  2024/05/05    0.0000  NEGATIVE       NEGATIVE
-4                                                 Clean Twisted Fate ulti by Bronsen       https://clips.twitch.tv/AffluentWiseCocoaChocolateRain-avUUAOzJyCV-QVq3  2024/05/05    0.4019  POSITIVE       POSITIVE
-5                                              LIRIK plays as Hasan in Puppet Master         https://clips.twitch.tv/CogentAbstruseTitanCorgiDerp-I7_ldHr8T2KeIKJy  2024/05/05    0.2500  POSITIVE       POSITIVE
-6                                                                       tit smacking  https://clips.twitch.tv/BumblingCourageousDillMrDestructoid-JnRXBTqmKLjmbh_X  2024/05/05    0.0000  NEGATIVE       NEGATIVE
-7                                                   Overwatch custom games are crazy           https://clips.twitch.tv/AbrasiveVibrantDootPMSTwin-SpQme5opLFlpnhq-  2024/05/05   -0.3400  NEGATIVE       NEGATIVE
-8                             xQc on why he and Train were targeted for doing gamba                      https://kick.com/xqc?clip=clip_01HX4CFQ3372N9DNG9G048ZD5X  2024/05/05    0.0000  NEGATIVE       NEGATIVE
-9                                              Huge Drake fan finally realises AWARE           https://clips.twitch.tv/ThirstyHeartlessApeTriHard-uR_Lc0JSdJAWVYtu  2024/05/05    0.5574  POSITIVE       POSITIVE
+                                                                   title                                                                                      url        date  compound   SA_nltk SA_distilibert
+0                                                   Shroud loses his job                        https://clips.twitch.tv/WittyStupidDaikonHeyGuys-FL1QJKC98YvVsqkO  2024/05/06   -0.3182  NEGATIVE       NEGATIVE
+1              the first thing Neuro does upon being allowed to have fun                     https://clips.twitch.tv/WrongMoldyStarlingAllenHuhu-e6vEDk4p062N6GS1  2024/05/06    0.5106  POSITIVE       POSITIVE
+2                                Destiny changes his opinion on an issue                            https://kick.com/destiny?clip=clip_01HX7ZGFS3A15XCAWNY5Z3X9TS  2024/05/06    0.0000  NEGATIVE       NEGATIVE
+3                      Destiny talks about the Drake/Kendrick Lamar beef                            https://kick.com/destiny?clip=clip_01HX7VYS896A8FEAHQRR70WA1E  2024/05/06    0.0000  NEGATIVE       POSITIVE
+4                                                                 forsen          https://clips.twitch.tv/MotionlessNeighborlyMarjoramJonCarnage-KcXsVpJrLWRAZ2MD  2024/05/06    0.0000  NEGATIVE       POSITIVE
+5                             Knut finds out if his USA VISA is approved       https://www.twitch.tv/knut/clip/SarcasticHeadstrongSproutTheThing-FwrPqPYf7ilmc0pe  2024/05/06    0.4215  POSITIVE       NEGATIVE
+6                             counter strike still suffers from cheaters             https://www.twitch.tv/squeex/clip/HardRepleteMulePeteZaroll-Sl4vZqUfpfbqBGDl  2024/05/06   -0.7579  NEGATIVE       NEGATIVE
+7                                             Forsen insane dragon steal                     https://clips.twitch.tv/RudeViscousPandaSoonerLater-YrEQMl4I6ODVzQC7  2024/05/06   -0.7096  NEGATIVE       NEGATIVE
+8                                 NL has been following the Drake tweets                 https://clips.twitch.tv/FamousDeterminedSproutShadyLulu-kdpgUOzGOCyMTIle  2024/05/06    0.0000  NEGATIVE       NEGATIVE
+9                                                        JiDion unbanned                                   https://twitter.com/Dexerto/status/1787526362464444553  2024/05/06    0.0000  NEGATIVE       NEGATIVE
+10                                          streamer watches competitors                   https://clips.twitch.tv/BlazingPlacidLettuceAllenHuhu-sCduQn3adxEaFqkZ  2024/05/06    0.0000  NEGATIVE       POSITIVE
+11                         xQc caught linking a video in Forsen's stream                https://clips.twitch.tv/PoisedPowerfulHyenaDancingBanana-zR3ci46-FVLRISp-  2024/05/06    0.0000  NEGATIVE       NEGATIVE
+12                                    forsen 10 year partner anniversary                https://clips.twitch.tv/OptimisticVictoriousBaboonSSSsss-8zNAT1D3LDM3RN5G  2024/05/06    0.0000  NEGATIVE       POSITIVE
+13                                      Cute happy wolves playing around                https://clips.twitch.tv/CrispyAdventurousStapleDatSheffy-6FU0wObjc-_0goBG  2024/05/06    0.8176  POSITIVE       POSITIVE
+14                              Aris begins to suspect that he is stoned  https://www.twitch.tv/avoidingthepuddle/clip/PoliteOddChickpeaRuleFive-zIvKOaU_BWeDLRm2  2024/05/06   -0.2960  NEGATIVE       NEGATIVE
+15                      Newest FaZe member and his tweet to an ex member                 https://clips.twitch.tv/TangentialZanyPrariedogImGlitch-FynaNFU0nMHwLyYt  2024/05/06    0.0000  NEGATIVE       NEGATIVE
+16                                     Road Rage Battle Caught On Camera                       https://clips.twitch.tv/ImpartialCallousMomMVGame-xkxqJEp41z0Eb1ol  2024/05/06   -0.7351  NEGATIVE       POSITIVE
+17  Lil Pump and Vitaly spray paint alleged child predator while rapping                             https://kick.com/vitaly?clip=clip_01HX0WCZXRM2MAR35AZTG48G20  2024/05/06    0.0000  NEGATIVE       NEGATIVE
+18                                   Andrew Tate asks Destiny a question                            https://kick.com/destiny?clip=clip_01HX5RXS07HE3ZP1G7SQP1M1QD  2024/05/06    0.0000  NEGATIVE       POSITIVE
+19                                     Pobelter plays Siblings or Dating            https://clips.twitch.tv/RelentlessScaryHerdCharlietheUnicorn-wMjkko5_d9COEg5W  2024/05/06    0.2500  POSITIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    6
-POSITIVE    4
+NEGATIVE    16
+POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    5
-POSITIVE    5
+NEGATIVE    11
+POSITIVE     9
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
