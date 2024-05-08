@@ -1,37 +1,38 @@
 <!-- posts starts -->
-                                                                   title                                                                                      url        date  compound   SA_nltk SA_distilibert
-0                                                   Shroud loses his job                        https://clips.twitch.tv/WittyStupidDaikonHeyGuys-FL1QJKC98YvVsqkO  2024/05/06   -0.3182  NEGATIVE       NEGATIVE
-1              the first thing Neuro does upon being allowed to have fun                     https://clips.twitch.tv/WrongMoldyStarlingAllenHuhu-e6vEDk4p062N6GS1  2024/05/06    0.5106  POSITIVE       POSITIVE
-2                                Destiny changes his opinion on an issue                            https://kick.com/destiny?clip=clip_01HX7ZGFS3A15XCAWNY5Z3X9TS  2024/05/06    0.0000  NEGATIVE       NEGATIVE
-3                      Destiny talks about the Drake/Kendrick Lamar beef                            https://kick.com/destiny?clip=clip_01HX7VYS896A8FEAHQRR70WA1E  2024/05/06    0.0000  NEGATIVE       POSITIVE
-4                                                                 forsen          https://clips.twitch.tv/MotionlessNeighborlyMarjoramJonCarnage-KcXsVpJrLWRAZ2MD  2024/05/06    0.0000  NEGATIVE       POSITIVE
-5                             Knut finds out if his USA VISA is approved       https://www.twitch.tv/knut/clip/SarcasticHeadstrongSproutTheThing-FwrPqPYf7ilmc0pe  2024/05/06    0.4215  POSITIVE       NEGATIVE
-6                             counter strike still suffers from cheaters             https://www.twitch.tv/squeex/clip/HardRepleteMulePeteZaroll-Sl4vZqUfpfbqBGDl  2024/05/06   -0.7579  NEGATIVE       NEGATIVE
-7                                             Forsen insane dragon steal                     https://clips.twitch.tv/RudeViscousPandaSoonerLater-YrEQMl4I6ODVzQC7  2024/05/06   -0.7096  NEGATIVE       NEGATIVE
-8                                 NL has been following the Drake tweets                 https://clips.twitch.tv/FamousDeterminedSproutShadyLulu-kdpgUOzGOCyMTIle  2024/05/06    0.0000  NEGATIVE       NEGATIVE
-9                                                        JiDion unbanned                                   https://twitter.com/Dexerto/status/1787526362464444553  2024/05/06    0.0000  NEGATIVE       NEGATIVE
-10                                          streamer watches competitors                   https://clips.twitch.tv/BlazingPlacidLettuceAllenHuhu-sCduQn3adxEaFqkZ  2024/05/06    0.0000  NEGATIVE       POSITIVE
-11                         xQc caught linking a video in Forsen's stream                https://clips.twitch.tv/PoisedPowerfulHyenaDancingBanana-zR3ci46-FVLRISp-  2024/05/06    0.0000  NEGATIVE       NEGATIVE
-12                                    forsen 10 year partner anniversary                https://clips.twitch.tv/OptimisticVictoriousBaboonSSSsss-8zNAT1D3LDM3RN5G  2024/05/06    0.0000  NEGATIVE       POSITIVE
-13                                      Cute happy wolves playing around                https://clips.twitch.tv/CrispyAdventurousStapleDatSheffy-6FU0wObjc-_0goBG  2024/05/06    0.8176  POSITIVE       POSITIVE
-14                              Aris begins to suspect that he is stoned  https://www.twitch.tv/avoidingthepuddle/clip/PoliteOddChickpeaRuleFive-zIvKOaU_BWeDLRm2  2024/05/06   -0.2960  NEGATIVE       NEGATIVE
-15                      Newest FaZe member and his tweet to an ex member                 https://clips.twitch.tv/TangentialZanyPrariedogImGlitch-FynaNFU0nMHwLyYt  2024/05/06    0.0000  NEGATIVE       NEGATIVE
-16                                     Road Rage Battle Caught On Camera                       https://clips.twitch.tv/ImpartialCallousMomMVGame-xkxqJEp41z0Eb1ol  2024/05/06   -0.7351  NEGATIVE       POSITIVE
-17  Lil Pump and Vitaly spray paint alleged child predator while rapping                             https://kick.com/vitaly?clip=clip_01HX0WCZXRM2MAR35AZTG48G20  2024/05/06    0.0000  NEGATIVE       NEGATIVE
-18                                   Andrew Tate asks Destiny a question                            https://kick.com/destiny?clip=clip_01HX5RXS07HE3ZP1G7SQP1M1QD  2024/05/06    0.0000  NEGATIVE       POSITIVE
-19                                     Pobelter plays Siblings or Dating            https://clips.twitch.tv/RelentlessScaryHerdCharlietheUnicorn-wMjkko5_d9COEg5W  2024/05/06    0.2500  POSITIVE       POSITIVE
+                                                          title                                                                             url        date  compound   SA_nltk SA_distilibert
+0                                  Shroud won't test that again    https://clips.twitch.tv/FlirtyAgreeableGarageFreakinStinkin-q8rTOcAR6xcweW7l  2024/05/07    0.0000  NEGATIVE       POSITIVE
+1                                Destiny on NL and his audience                   https://kick.com/destiny?clip=clip_01HXAFX5Z6479WB6BFK5JGV3Y7  2024/05/07    0.0000  NEGATIVE       POSITIVE
+2                        Destiny talks about Tyler1 best talent                   https://kick.com/destiny?clip=clip_01HXAFZJ4VHPQZM0XJJCHMKT9X  2024/05/07    0.7906  POSITIVE       POSITIVE
+3                                The trick is not to pick it up             https://clips.twitch.tv/FuriousFragileBananaMVGame-PaI3D8WFGzeh0OqQ  2024/05/07   -0.0516  NEGATIVE       NEGATIVE
+4                                        NL finds a funny chair           https://clips.twitch.tv/CharmingBreakableBorkVoteNay-QMqHDKfJD5Bno0aq  2024/05/07    0.4404  POSITIVE       POSITIVE
+5                                     A Different Kind of Beast         https://clips.twitch.tv/ImportantSourWaffleTBTacoRight-X_h5hwif2Lj3wuRa  2024/05/07    0.0000  NEGATIVE       POSITIVE
+6        Destiny on white folks covering Drake vs Kendrick beef                   https://kick.com/destiny?clip=clip_01HXAATG38D5DHMTJMRKTEX1X5  2024/05/07    0.0000  NEGATIVE       POSITIVE
+7                                                 Stalingradsen  https://clips.twitch.tv/ObliqueProtectiveDaikonNerfRedBlaster-2XI3dgeX0vegcoXJ  2024/05/07    0.0000  NEGATIVE       NEGATIVE
+8                             Alinity plays Siblings or Dating               https://clips.twitch.tv/MoralGlamorousWormVoteYea-ZtQMv0uUbsXqccy8  2024/05/07    0.2500  POSITIVE       POSITIVE
+9       xQc defends Drake's weird relationship with 14-year-old           https://clips.twitch.tv/CheerfulMistyBobaSoonerLater-_IjKnR9Vb7E7Kh71  2024/05/07   -0.1779  NEGATIVE       POSITIVE
+10                                  XQCs Take on Accountability            https://clips.twitch.tv/SpineyBetterDillNotLikeThis-hD2yPx7GYfAFu0Pz  2024/05/07    0.0000  NEGATIVE       POSITIVE
+11         Raxx stops his Elden Ring playtrough because of chat       https://clips.twitch.tv/TenderPricklyAdminNerfRedBlaster-6176OCOql3s_hMfV  2024/05/07   -0.1531  NEGATIVE       NEGATIVE
+12                            Jinnytty - Gorilla hot tub stream      https://clips.twitch.tv/AbstruseHelpfulAsparagusSmoocherZ--YOKO3XD737UjI7E  2024/05/07    0.0000  NEGATIVE       NEGATIVE
+13    Seagull Reaches Gold After His 7th Day of League Grinding                    https://clips.twitch.tv/CarelessGoodKuduWow-FRQDCdXAEd67Aw7f  2024/05/07    0.0516  NEGATIVE       POSITIVE
+14  Wirtual's genius strategy to gain advantage over opponents.        https://clips.twitch.tv/BetterTangibleSnailThisIsSparta--3_1XyZ6iewFZ-xi  2024/05/07    0.6597  POSITIVE       POSITIVE
+15                Summit gets first bounty kill in Star Citizen        https://clips.twitch.tv/AntediluvianCreativeHornetDxCat-mI9evs0zd1mH-yYL  2024/05/07   -0.6908  NEGATIVE       POSITIVE
+16                                    Kato Steals Erobb's Steak         https://clips.twitch.tv/PeacefulSlickCroquetteTheTarFu-v4C9XWnF7fDEGg9N  2024/05/07   -0.5106  NEGATIVE       NEGATIVE
+17                  Erobb makes an actual good steak for dinner       https://clips.twitch.tv/OutstandingTacitWaspItsBoshyTime-oktAIo23M5zl6rfy  2024/05/07    0.4404  POSITIVE       POSITIVE
+18                                   Erobb realizes he's stupid               https://clips.twitch.tv/JoyousFamousBatDendiFace-3KSfRqJB5SJ2Cas4  2024/05/07   -0.5267  NEGATIVE       NEGATIVE
+19                             tyler1 reaches 1900 rapid rating   https://clips.twitch.tv/RefinedCooperativeIguanaThisIsSparta-XcsFn9YbSFodpC59  2024/05/07    0.0516  NEGATIVE       POSITIVE
+20                              Erobb teaches American football             https://clips.twitch.tv/SpunkyPoisedSmoothieKlappa-wZOJ3X4NHoLpbDOK  2024/05/07    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
 NEGATIVE    16
-POSITIVE     4
+POSITIVE     5
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    11
-POSITIVE     9
+POSITIVE    15
+NEGATIVE     6
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
