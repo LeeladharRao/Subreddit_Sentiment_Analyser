@@ -1,38 +1,36 @@
 <!-- posts starts -->
-                                                          title                                                                             url        date  compound   SA_nltk SA_distilibert
-0                                  Shroud won't test that again    https://clips.twitch.tv/FlirtyAgreeableGarageFreakinStinkin-q8rTOcAR6xcweW7l  2024/05/07    0.0000  NEGATIVE       POSITIVE
-1                                Destiny on NL and his audience                   https://kick.com/destiny?clip=clip_01HXAFX5Z6479WB6BFK5JGV3Y7  2024/05/07    0.0000  NEGATIVE       POSITIVE
-2                        Destiny talks about Tyler1 best talent                   https://kick.com/destiny?clip=clip_01HXAFZJ4VHPQZM0XJJCHMKT9X  2024/05/07    0.7906  POSITIVE       POSITIVE
-3                                The trick is not to pick it up             https://clips.twitch.tv/FuriousFragileBananaMVGame-PaI3D8WFGzeh0OqQ  2024/05/07   -0.0516  NEGATIVE       NEGATIVE
-4                                        NL finds a funny chair           https://clips.twitch.tv/CharmingBreakableBorkVoteNay-QMqHDKfJD5Bno0aq  2024/05/07    0.4404  POSITIVE       POSITIVE
-5                                     A Different Kind of Beast         https://clips.twitch.tv/ImportantSourWaffleTBTacoRight-X_h5hwif2Lj3wuRa  2024/05/07    0.0000  NEGATIVE       POSITIVE
-6        Destiny on white folks covering Drake vs Kendrick beef                   https://kick.com/destiny?clip=clip_01HXAATG38D5DHMTJMRKTEX1X5  2024/05/07    0.0000  NEGATIVE       POSITIVE
-7                                                 Stalingradsen  https://clips.twitch.tv/ObliqueProtectiveDaikonNerfRedBlaster-2XI3dgeX0vegcoXJ  2024/05/07    0.0000  NEGATIVE       NEGATIVE
-8                             Alinity plays Siblings or Dating               https://clips.twitch.tv/MoralGlamorousWormVoteYea-ZtQMv0uUbsXqccy8  2024/05/07    0.2500  POSITIVE       POSITIVE
-9       xQc defends Drake's weird relationship with 14-year-old           https://clips.twitch.tv/CheerfulMistyBobaSoonerLater-_IjKnR9Vb7E7Kh71  2024/05/07   -0.1779  NEGATIVE       POSITIVE
-10                                  XQCs Take on Accountability            https://clips.twitch.tv/SpineyBetterDillNotLikeThis-hD2yPx7GYfAFu0Pz  2024/05/07    0.0000  NEGATIVE       POSITIVE
-11         Raxx stops his Elden Ring playtrough because of chat       https://clips.twitch.tv/TenderPricklyAdminNerfRedBlaster-6176OCOql3s_hMfV  2024/05/07   -0.1531  NEGATIVE       NEGATIVE
-12                            Jinnytty - Gorilla hot tub stream      https://clips.twitch.tv/AbstruseHelpfulAsparagusSmoocherZ--YOKO3XD737UjI7E  2024/05/07    0.0000  NEGATIVE       NEGATIVE
-13    Seagull Reaches Gold After His 7th Day of League Grinding                    https://clips.twitch.tv/CarelessGoodKuduWow-FRQDCdXAEd67Aw7f  2024/05/07    0.0516  NEGATIVE       POSITIVE
-14  Wirtual's genius strategy to gain advantage over opponents.        https://clips.twitch.tv/BetterTangibleSnailThisIsSparta--3_1XyZ6iewFZ-xi  2024/05/07    0.6597  POSITIVE       POSITIVE
-15                Summit gets first bounty kill in Star Citizen        https://clips.twitch.tv/AntediluvianCreativeHornetDxCat-mI9evs0zd1mH-yYL  2024/05/07   -0.6908  NEGATIVE       POSITIVE
-16                                    Kato Steals Erobb's Steak         https://clips.twitch.tv/PeacefulSlickCroquetteTheTarFu-v4C9XWnF7fDEGg9N  2024/05/07   -0.5106  NEGATIVE       NEGATIVE
-17                  Erobb makes an actual good steak for dinner       https://clips.twitch.tv/OutstandingTacitWaspItsBoshyTime-oktAIo23M5zl6rfy  2024/05/07    0.4404  POSITIVE       POSITIVE
-18                                   Erobb realizes he's stupid               https://clips.twitch.tv/JoyousFamousBatDendiFace-3KSfRqJB5SJ2Cas4  2024/05/07   -0.5267  NEGATIVE       NEGATIVE
-19                             tyler1 reaches 1900 rapid rating   https://clips.twitch.tv/RefinedCooperativeIguanaThisIsSparta-XcsFn9YbSFodpC59  2024/05/07    0.0516  NEGATIVE       POSITIVE
-20                              Erobb teaches American football             https://clips.twitch.tv/SpunkyPoisedSmoothieKlappa-wZOJ3X4NHoLpbDOK  2024/05/07    0.0000  NEGATIVE       POSITIVE
+                                                                                                                   title                                                                                        url        date  compound   SA_nltk SA_distilibert
+0                                                                        Kitboga Switches from Stun to Kill with Scammer                     https://clips.twitch.tv/InexpensiveVastKangarooWoofer-bQsy-7djnqmKNiKg  2024/05/08   -0.6908  NEGATIVE       NEGATIVE
+1                                                                                                    xQc - Placement omE                    https://clips.twitch.tv/FurtiveHungryWatermelonOneHand-9nrulUNxlO3Z52DR  2024/05/08    0.0000  NEGATIVE       NEGATIVE
+2                                                       Forsen finds a new legendary excuse on why he's so bad at league                         https://clips.twitch.tv/RoundUnusualGuanacoRlyTho-V-2frfQi3pwa2A2d  2024/05/08   -0.6359  NEGATIVE       NEGATIVE
+3                                                                                        Forsen reflects on his gameplay                   https://clips.twitch.tv/SparklyBlightedTeaDoubleRainbow-E423tlCqSNYJx7Ae  2024/05/08    0.0000  NEGATIVE       POSITIVE
+4            Anna Cramling the creator of cow says that she will challenge tyler1 to a chess game when he gets 2k rating                        https://clips.twitch.tv/SwissDoubtfulMonitorUnSane-dMunPjpEhoEO0ALi  2024/05/08    0.0772  NEGATIVE       NEGATIVE
+5                                                                      Karrigan (Faze) revenge (4v2) vs NAVI winning set                      https://clips.twitch.tv/ImpossiblePrettyNewtSpicyBoy-pA1fLLeiroIN9w_M  2024/05/08    0.0000  NEGATIVE       NEGATIVE
+6                                                                                           Aris loves modern videogames  https://www.twitch.tv/avoidingthepuddle/clip/PoisedGracefulSalsifyPJSalt-RH7Py0Jg8W6PgT_L  2024/05/08    0.5719  POSITIVE       POSITIVE
+7                                                Forsen insane Fiddlesticks 1v5 engage into pentakill in grandmaster elo                           https://clips.twitch.tv/TiredPerfectEggEagleEye-VtqJTuD0zO_JSBIJ  2024/05/08   -0.0772  NEGATIVE       POSITIVE
+8                                          Forsen has a realisation after hearing Drututt’s experience with Iron players                         https://clips.twitch.tv/SilkyCuteClipsmomPanicVis-vVsPIgaAA_v3n7jm  2024/05/08    0.0000  NEGATIVE       POSITIVE
+9                                                                                                   The Latvian... HUH??                    https://clips.twitch.tv/FunnyRamshackleHippoPeteZaroll-qHz3KJP3A5zCLoVL  2024/05/08    0.0000  NEGATIVE       NEGATIVE
+10                                                                                                    just a sips moment                        https://clips.twitch.tv/PunchySlipperyGrassSoBayed-8Ly8f4Lpp8RbW28p  2024/05/08    0.0000  NEGATIVE       POSITIVE
+11  Youtube Reuse Policy Update - Say goodbye to XQC, Asmon and the rest of the reactors in the YT Partner program eh ?                           https://www.youtube.com/clip/Ugkxl7C4LRSLW2Bx42Wx7tkRJ8_85KraM1Uh  2024/05/08    0.0000  NEGATIVE       NEGATIVE
+12                                                                Kick partner Vitaly lighting someone on fire on stream                               https://kick.com/vitaly?clip=clip_01HXBAEGJY5S28XRZ9VWS09FDD  2024/05/08   -0.3400  NEGATIVE       POSITIVE
+13                                                                                 Destiny doesn't understand pedophiles                              https://kick.com/destiny?clip=clip_01HXB6PEBN4C411K9JMSRJ7WK3  2024/05/08    0.0000  NEGATIVE       NEGATIVE
+14                                                           Destiny defends Drake's weird relationship with 14-year-old                              https://kick.com/destiny?clip=clip_01HXB7H3DZ5N3Y3Z5FJDHHPH4B  2024/05/08   -0.1779  NEGATIVE       POSITIVE
+15                                                                               Innocent Korean girls first time in LA                      https://clips.twitch.tv/ArtisticCharmingCiderBatChest-pUYyTjZvuAOnenN9  2024/05/08    0.3400  POSITIVE       POSITIVE
+16                                                                                              Chiblee's balls are fine            https://clips.twitch.tv/HelplessCulturedDragonfruitPanicBasket-M7TRIv3ZAzD4kgX3  2024/05/08    0.2023  POSITIVE       POSITIVE
+17                            Vitaly & Bradley Martin expose Herschel Weingrod (writer of Space Jam) as a child predator                               https://kick.com/vitaly?clip=clip_01HXB00BNJM03SRKDP421PRGJT  2024/05/08   -0.1531  NEGATIVE       NEGATIVE
+18                                                                                                        Perfect Timing                        https://clips.twitch.tv/OptimisticPoliteKiwiVoHiYo-gPEpDL5km9xF7vtA  2024/05/08    0.5719  POSITIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    16
-POSITIVE     5
+NEGATIVE    15
+POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    15
-NEGATIVE     6
+POSITIVE    10
+NEGATIVE     9
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
