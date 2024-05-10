@@ -1,36 +1,46 @@
 <!-- posts starts -->
-                                                                                                                   title                                                                                        url        date  compound   SA_nltk SA_distilibert
-0                                                                        Kitboga Switches from Stun to Kill with Scammer                     https://clips.twitch.tv/InexpensiveVastKangarooWoofer-bQsy-7djnqmKNiKg  2024/05/08   -0.6908  NEGATIVE       NEGATIVE
-1                                                                                                    xQc - Placement omE                    https://clips.twitch.tv/FurtiveHungryWatermelonOneHand-9nrulUNxlO3Z52DR  2024/05/08    0.0000  NEGATIVE       NEGATIVE
-2                                                       Forsen finds a new legendary excuse on why he's so bad at league                         https://clips.twitch.tv/RoundUnusualGuanacoRlyTho-V-2frfQi3pwa2A2d  2024/05/08   -0.6359  NEGATIVE       NEGATIVE
-3                                                                                        Forsen reflects on his gameplay                   https://clips.twitch.tv/SparklyBlightedTeaDoubleRainbow-E423tlCqSNYJx7Ae  2024/05/08    0.0000  NEGATIVE       POSITIVE
-4            Anna Cramling the creator of cow says that she will challenge tyler1 to a chess game when he gets 2k rating                        https://clips.twitch.tv/SwissDoubtfulMonitorUnSane-dMunPjpEhoEO0ALi  2024/05/08    0.0772  NEGATIVE       NEGATIVE
-5                                                                      Karrigan (Faze) revenge (4v2) vs NAVI winning set                      https://clips.twitch.tv/ImpossiblePrettyNewtSpicyBoy-pA1fLLeiroIN9w_M  2024/05/08    0.0000  NEGATIVE       NEGATIVE
-6                                                                                           Aris loves modern videogames  https://www.twitch.tv/avoidingthepuddle/clip/PoisedGracefulSalsifyPJSalt-RH7Py0Jg8W6PgT_L  2024/05/08    0.5719  POSITIVE       POSITIVE
-7                                                Forsen insane Fiddlesticks 1v5 engage into pentakill in grandmaster elo                           https://clips.twitch.tv/TiredPerfectEggEagleEye-VtqJTuD0zO_JSBIJ  2024/05/08   -0.0772  NEGATIVE       POSITIVE
-8                                          Forsen has a realisation after hearing Drututt’s experience with Iron players                         https://clips.twitch.tv/SilkyCuteClipsmomPanicVis-vVsPIgaAA_v3n7jm  2024/05/08    0.0000  NEGATIVE       POSITIVE
-9                                                                                                   The Latvian... HUH??                    https://clips.twitch.tv/FunnyRamshackleHippoPeteZaroll-qHz3KJP3A5zCLoVL  2024/05/08    0.0000  NEGATIVE       NEGATIVE
-10                                                                                                    just a sips moment                        https://clips.twitch.tv/PunchySlipperyGrassSoBayed-8Ly8f4Lpp8RbW28p  2024/05/08    0.0000  NEGATIVE       POSITIVE
-11  Youtube Reuse Policy Update - Say goodbye to XQC, Asmon and the rest of the reactors in the YT Partner program eh ?                           https://www.youtube.com/clip/Ugkxl7C4LRSLW2Bx42Wx7tkRJ8_85KraM1Uh  2024/05/08    0.0000  NEGATIVE       NEGATIVE
-12                                                                Kick partner Vitaly lighting someone on fire on stream                               https://kick.com/vitaly?clip=clip_01HXBAEGJY5S28XRZ9VWS09FDD  2024/05/08   -0.3400  NEGATIVE       POSITIVE
-13                                                                                 Destiny doesn't understand pedophiles                              https://kick.com/destiny?clip=clip_01HXB6PEBN4C411K9JMSRJ7WK3  2024/05/08    0.0000  NEGATIVE       NEGATIVE
-14                                                           Destiny defends Drake's weird relationship with 14-year-old                              https://kick.com/destiny?clip=clip_01HXB7H3DZ5N3Y3Z5FJDHHPH4B  2024/05/08   -0.1779  NEGATIVE       POSITIVE
-15                                                                               Innocent Korean girls first time in LA                      https://clips.twitch.tv/ArtisticCharmingCiderBatChest-pUYyTjZvuAOnenN9  2024/05/08    0.3400  POSITIVE       POSITIVE
-16                                                                                              Chiblee's balls are fine            https://clips.twitch.tv/HelplessCulturedDragonfruitPanicBasket-M7TRIv3ZAzD4kgX3  2024/05/08    0.2023  POSITIVE       POSITIVE
-17                            Vitaly & Bradley Martin expose Herschel Weingrod (writer of Space Jam) as a child predator                               https://kick.com/vitaly?clip=clip_01HXB00BNJM03SRKDP421PRGJT  2024/05/08   -0.1531  NEGATIVE       NEGATIVE
-18                                                                                                        Perfect Timing                        https://clips.twitch.tv/OptimisticPoliteKiwiVoHiYo-gPEpDL5km9xF7vtA  2024/05/08    0.5719  POSITIVE       POSITIVE
+                                                                                                             title                                                                                url        date  compound   SA_nltk SA_distilibert
+0                                                                                    Doublelift loses to Emiru 2v2             https://clips.twitch.tv/ScaryBlitheCaribouFeelsBadMan-XwHIM_55rAPPdp9v  2024/05/09   -0.3182  NEGATIVE       NEGATIVE
+1                                                             Lydia Violet gets attacked by sea gulls in Australia                    https://clips.twitch.tv/StrongCourteousDeerWow-S1Rd1jrBR9imMszp  2024/05/09   -0.4588  NEGATIVE       NEGATIVE
+2                                                           Tyler calls Doublelift to wish him good luck (spoiler)        https://clips.twitch.tv/EnticingScrumptiousPrariedogWoofer-a0T1stlfza6dRrAe  2024/05/09    0.8225  POSITIVE       POSITIVE
+3                                                       League got every streamer squinting eyes and confused face           https://clips.twitch.tv/AntediluvianSmoggyMooseKreygasm-3U2TSK0PxPnZM8oe  2024/05/09   -0.3182  NEGATIVE       NEGATIVE
+4                                                                             Sketch gives a pre-tourney monolouge       https://clips.twitch.tv/ScrumptiousTsundereShallotTheRinger-AkCMZsAWR-RC8ZOw  2024/05/09    0.0000  NEGATIVE       NEGATIVE
+5                                                                                  A Skech utopia world in League                   https://clips.twitch.tv/GentleAstuteLeopardANELE-gbps-crDCCckELm_  2024/05/09    0.0000  NEGATIVE       POSITIVE
+6                                                                                        Meet BabyTyler1, Saiyler.                https://clips.twitch.tv/PopularPatientCocoaHeyGirl-_uXMPh-qpTItHbk3  2024/05/09    0.0000  NEGATIVE       POSITIVE
+7                     Tyler1 watching two Iron players flaming each other while the Rank 1 NA Pobelter is laughing        https://clips.twitch.tv/TangentialAthleticAxeDancingBanana-xo47poNvEyvbDT_N  2024/05/09    0.4939  POSITIVE       NEGATIVE
+8                                    Tyler1 watching Rank 1 NA in League coaching an Iron4 player in a tournament                https://clips.twitch.tv/ElegantHungrySlothBrainSlug-cJyd6phSyisPCBQv  2024/05/09    0.0000  NEGATIVE       NEGATIVE
+9                     "Just press them all 4Head" Advanced strats in AT&T League Tournament ft imaqtpie's laughter  https://clips.twitch.tv/SucculentIncredulousAlbatrossArsonNoSexy-vnRzdvISKU6dNjLs  2024/05/09    0.6369  POSITIVE       POSITIVE
+10  Tyler1 laughing at Doublelift for try harding against Silvers in a tournament and his chat calling him a G-O-D              https://clips.twitch.tv/ObliqueHandsomeMangoGOWSkull-11BrStWbiJPAOTOD  2024/05/09    0.4939  POSITIVE       NEGATIVE
+11                                                              Boxbox destroying first time League player HutchMF            https://clips.twitch.tv/SlickStormyBarracudaTwitchRaid-X4WtCdrPe5Q8gcj9  2024/05/09   -0.5574  NEGATIVE       NEGATIVE
+12                                                                                    Scuffed tectone roasting miz    https://clips.twitch.tv/EmpathicEnthusiasticClipsdadHumbleLife-D4KYLeZ1I0HWFwIE  2024/05/09    0.0000  NEGATIVE       NEGATIVE
+13                                                     Wirtual reaches the half point of Deep Dip 2 after 67 hours             https://clips.twitch.tv/ClumsyLivelyMacaroniChefFrank-5IKrdfbHXLw8nl9s  2024/05/09    0.0516  NEGATIVE       NEGATIVE
+14                                                                                                    Forsen flees       https://clips.twitch.tv/AnimatedEmpathicAlfalfaItsBoshyTime-rGP5-KQAcBwHk7Gi  2024/05/09   -0.1779  NEGATIVE       NEGATIVE
+15                                                          Destiny comments xQc's handling of the adept situation                      https://kick.com/destiny?clip=clip_01HXDT9GZBPKDZ5P0K60TVNKHH  2024/05/09    0.0000  NEGATIVE       POSITIVE
+16                                                                    Northernlion has trouble with some geography            https://clips.twitch.tv/TentativeBadCarabeefBloodTrail-06omtINhYQ8H7D-y  2024/05/09   -0.4019  NEGATIVE       NEGATIVE
+17                                                                                              Forsen gets ganked           https://clips.twitch.tv/UninterestedRudePidgeonMikeHogu--6XuLpL9TRkzVZ7g  2024/05/09    0.0000  NEGATIVE       NEGATIVE
+18                                                                               ninibae - she is doing it - ICANT      https://clips.twitch.tv/EncouragingUgliestBubbleteaHotPokket-upPP6pr6QvCXtjVa  2024/05/09    0.0000  NEGATIVE       NEGATIVE
+19                                                                               Aris gets sad news from a chatter              https://clips.twitch.tv/HungryBlushingGarbageVoteNay-IV0Y53LGASA-a4iX  2024/05/09   -0.4767  NEGATIVE       NEGATIVE
+20                                                                                           NL gets a new sponsor                  https://clips.twitch.tv/SleepyPluckyPoxBuddhaBar-x3-tStwH3aeiF4wZ  2024/05/09    0.0000  NEGATIVE       POSITIVE
+21                                                        League of Legends superstar walking the streets of China             https://clips.twitch.tv/HelplessLitigiousRuffBudBlast-Y0Vo0TssiI7z6ZXV  2024/05/09    0.0000  NEGATIVE       POSITIVE
+22                                                                    Tatiantel2's ruthless Exarch kill with MAMA!           https://clips.twitch.tv/PiliablePatientButterflyOSsloth-zCdZEzYAGuH7o45U  2024/05/09   -0.7177  NEGATIVE       NEGATIVE
+23                                                                                                       NMP ZESTY                https://clips.twitch.tv/HardAstuteWhaleTBTacoRight-QE_Z2C_DY1mElikr  2024/05/09    0.0000  NEGATIVE       POSITIVE
+24                                                                                       NymN got sniped in league             https://clips.twitch.tv/FamousBeautifulGoblinPipeHype-56h3u5vfza3CglFQ  2024/05/09    0.0000  NEGATIVE       NEGATIVE
+25                                                                                       Sanest Trackmania players              https://clips.twitch.tv/FrozenBeautifulBasenjiSSSsss-_1PRMWcCMj_MKkcG  2024/05/09    0.0000  NEGATIVE       POSITIVE
+26                                                                                           vitaly destroys drone                       https://kick.com/vitaly?clip=clip_01HXDMX50HZAEAX9P3RT1R8K86  2024/05/09   -0.5574  NEGATIVE       NEGATIVE
+27                                                                     Aris gives a standing ovation to Crab Souls           https://clips.twitch.tv/TallTriangularDragonflyGOWSkull-VpdbWYRBnbGNoFwM  2024/05/09    0.0000  NEGATIVE       POSITIVE
+28                                                                                           How Beetles are Sexed            https://clips.twitch.tv/SleepyCautiousTardigradeRlyTho-T_Un96jrKEUMol-_  2024/05/09    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    15
+NEGATIVE    25
 POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
+NEGATIVE    19
 POSITIVE    10
-NEGATIVE     9
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
