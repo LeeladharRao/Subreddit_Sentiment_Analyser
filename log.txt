@@ -1,34 +1,39 @@
 <!-- posts starts -->
-                                                                                                         title                                                                                url        date  compound   SA_nltk SA_distilibert
-0                                                                             Aris gets scared by a pizza oven           https://clips.twitch.tv/CalmBenevolentAardvarkEleGiggle-lSSt95QRHcumQ1Qr  2024/05/10   -0.4404  NEGATIVE       NEGATIVE
-1                                                             Vitaly is confronted by police about his content                       https://kick.com/vitaly?clip=clip_01HXHK70KJYA8RS4VXNKM18E2C  2024/05/10   -0.2023  NEGATIVE       NEGATIVE
-2                                                                     Soda has some things to say after 7 days    https://clips.twitch.tv/CourageousAlluringGazelleLeeroyJenkins-vZQk_9MMjqjTrVi7  2024/05/10    0.0000  NEGATIVE       NEGATIVE
-3                                                                                          Yuggie opens a door              https://clips.twitch.tv/TransparentSourTildeCopyThis-NdJXt0LRlojcFrHw  2024/05/10    0.0000  NEGATIVE       POSITIVE
-4                                                        Faze Temper explains why he Stole the Faze YT Channel             https://clips.twitch.tv/DullObliqueNostrilMoreCowbell-66rog8LdvHU3mlPV  2024/05/10   -0.4215  NEGATIVE       NEGATIVE
-5                                                                forsen finds his homie in the summoner's rift               https://clips.twitch.tv/HungryFastCucumberBrainSlug-d_65CFRqs-z2oSQV  2024/05/10    0.0000  NEGATIVE       NEGATIVE
-6                                                                                Destiny talks about Kaceytron                      https://kick.com/destiny?clip=clip_01HXH1JE77EB5BMPS20ZG2F2GW  2024/05/10    0.0000  NEGATIVE       POSITIVE
-7                                                                          Tyler1 receives a pleasant surprise         https://clips.twitch.tv/SeductiveBreakableSwanShazBotstix-7WVEOoi1-0eqFRR_  2024/05/10    0.6597  POSITIVE       POSITIVE
-8                                                                                    forsen dives his opponent    https://clips.twitch.tv/TangibleBenevolentTortoiseRiPepperonis-nbAGNj9aIFdUSw5p  2024/05/10    0.0000  NEGATIVE       NEGATIVE
-9                                                                        Forsen executes a flawless tower dive          https://clips.twitch.tv/WonderfulDeterminedEchidnaM4xHeh--qpTs-EUCWmg799V  2024/05/10    0.5106  POSITIVE       POSITIVE
-10                                                                                   Sips - Termination Suplex                 https://clips.twitch.tv/RoughSpikyGrasshopperWOOP-aCA_LgsohLS3qT1j  2024/05/10    0.0000  NEGATIVE       NEGATIVE
-11                                                                            Based take on "Art Appreciators"                  https://clips.twitch.tv/WanderingWildSamosaDxCat-P60uw0QNKLTCGfZi  2024/05/10    0.3612  POSITIVE       POSITIVE
-12                                                                                    Cinna has a content idea           https://clips.twitch.tv/ManlyShakingRadicchioBigBrother-eK7s74HW-u0jurwx  2024/05/10    0.0000  NEGATIVE       POSITIVE
-13                                                                   Destiny describes his bullying experience                      https://kick.com/destiny?clip=clip_01HXDRBW0Z1G081Y361KSKX8SF  2024/05/10   -0.5994  NEGATIVE       NEGATIVE
-14                                                                  xQc talks about his preferences in females                          https://kick.com/xqc?clip=clip_01HXEQ3A25FPSDMA6AWC8AQ9XQ  2024/05/10    0.0000  NEGATIVE       POSITIVE
-15                                                             Jasontheween gets his head bit by an attack dog                   https://clips.twitch.tv/VivaciousWittySheepWOOP-1wN4sgzcVxadBHLk  2024/05/10   -0.4767  NEGATIVE       NEGATIVE
-16  Livestreamer with weird elbow piercing uses illicit substances in backseat then runs over pedestrian in LA  https://youtube.com/clip/UgkxIQ28YBuWP_IP7-Hpf5KhO-x8GQwioJQ1?si=rYGWTrMy066LvUp-  2024/05/10   -0.1779  NEGATIVE       NEGATIVE
+                                                                                       title                                                                                                                         url        date  compound   SA_nltk SA_distilibert
+0                                                    Destiny explains his issues with Ludwig                                                               https://kick.com/destiny?clip=clip_01HXN12HJMKPQFT8XER0WPYYKP  2024/05/11    0.0000  NEGATIVE       POSITIVE
+1                                            Seagull reads Marvel Rivals' terms & conditions                                                   https://clips.twitch.tv/GlamorousAbnegateSnakeCclamChamp-U61r_hKvibae2KRN  2024/05/11    0.4215  POSITIVE       POSITIVE
+2                                                                      Forsens insane escape                                                            https://clips.twitch.tv/FlirtyOpenMouseTheThing-pZHkXsrIESAzQPNx  2024/05/11   -0.2500  NEGATIVE       POSITIVE
+3                                                                        That was depressing                                          https://www.twitch.tv/tomato/clip/SparklyBlindingLampAMPTropPunch-sE6PeZEEgcN9dkHO  2024/05/11   -0.3818  NEGATIVE       NEGATIVE
+4   Norwegian college boys lost in woods afterdark. Everything goes wrong and all is scuffed                                                        https://clips.twitch.tv/PoorEnticingConsoleDansGame-JT7-4hfmD1plkW6n  2024/05/11   -0.6597  NEGATIVE       NEGATIVE
+5                                                    xQc loses it after losing in Mario Kart                                                       https://clips.twitch.tv/BashfulStylishWrenKappaPride-DAPWsePT8Pqz-6rk  2024/05/11   -0.5994  NEGATIVE       NEGATIVE
+6                                                          Forsen doesn't need to be careful                                                           https://clips.twitch.tv/BlueSuperKoalaBigBrother-Pm-ncPMfvJBxtTVe  2024/05/11    0.1531  NEGATIVE       POSITIVE
+7                                         Forsen finds the perfect engage, securing the game                                                    https://clips.twitch.tv/CrepuscularSourNigiriYouDontSay-Hxu3u3Z9eHiHcKw7  2024/05/11    0.8126  POSITIVE       POSITIVE
+8                                             Cinna shows nmp how she cleans her windshield      https://www.twitch.tv/cinna/clip/TransparentGenerousRadicchioWutFace-Mi2usa4UJ-UOAGVo?filter=clips&range=24hr&sort=time  2024/05/11    0.0000  NEGATIVE       POSITIVE
+9                                               xQc disagrees with Destiny's roast of Ludwig                                                          https://clips.twitch.tv/EsteemedRacySwallowKlappa-nGq3FCbpKJyvmQSO  2024/05/11   -0.3182  NEGATIVE       NEGATIVE
+10                 Frogan says Ludwig has a "c-word ass take" on not doing a charity stream.                                                       https://clips.twitch.tv/IgnorantTrappedNostrilVoHiYo-ixb-5Tf_Q-eFJQot  2024/05/11   -0.7033  NEGATIVE       NEGATIVE
+11                                                              ESL production strikes again                                                       https://clips.twitch.tv/EvilCovertBulgogiHoneyBadger-WJMxFd8n-VRb37A7  2024/05/11   -0.3612  NEGATIVE       POSITIVE
+12                                                    goonergooch accusing nmplol of botting                                                           https://kick.com/goonergooch?clip=clip_01HXKBFV02K9Y4D7999WTMJS75  2024/05/11   -0.1779  NEGATIVE       NEGATIVE
+13                                               summit tucks into bed on a luxury spaceship                                                     https://clips.twitch.tv/HardImpossibleShingleBrainSlug-j2ywcurIzsPXCrrA  2024/05/11    0.0000  NEGATIVE       POSITIVE
+14                                                                        Modeling on Twitch                                               https://clips.twitch.tv/ProtectiveProtectivePidgeonThunBeast--3t9-Z_fmveAaGoq  2024/05/11    0.0000  NEGATIVE       NEGATIVE
+15                                                                    XQc talks about Ludwig                                                        https://clips.twitch.tv/ElegantNiceChamoisSwiftRage-tHOsEoyg3_dUWEGJ  2024/05/11    0.0000  NEGATIVE       POSITIVE
+16                                          Destiny starts Twitter beef with Ludwig: Lud POV                                           https://youtube.com/clip/Ugkxra8xMHRwQqudM82XFwsE9LvzM8sDEz65?si=Z1Vxevr9RG5MAz0x  2024/05/11    0.0000  NEGATIVE       NEGATIVE
+17                                   ExfilCamper gets banned live on Arena Breakout Infinite  https://www.twitch.tv/exfilcamper/clip/SparklingDelightfulSowYouDontSay-DXH8LoLmcDrUjgVT?filter=clips&range=24hr&sort=time  2024/05/11   -0.4588  NEGATIVE       NEGATIVE
+18                                       Kai defeats the first Elden Ring boss after 5 hours                                                        https://clips.twitch.tv/SolidKitschyOstrichUncleNox-N0n5mBN114zGLie6  2024/05/11   -0.3182  NEGATIVE       NEGATIVE
+19                                                   streamer dodges a bullet (TW: Gunshots)                                                          https://clips.twitch.tv/TallBlushingSparrowNotATK-xwS1fYgPKv28mrN2  2024/05/11    0.0000  NEGATIVE       NEGATIVE
+20                                 Kai gets hit with the Elden Ring Experience after 5 hours                                                      https://clips.twitch.tv/AgitatedPluckyNuggetsKreygasm-cB-IOXvLaSExTSKA  2024/05/11    0.0000  NEGATIVE       NEGATIVE
+21                            Soda hates that league players can't take accountability[FAIL]                                                   https://clips.twitch.tv/ProtectiveLaconicRatPeoplesChamp-UKozxUbKjyOEucui  2024/05/11   -0.4404  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    14
-POSITIVE     3
+NEGATIVE    20
+POSITIVE     2
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    10
-POSITIVE     7
+NEGATIVE    13
+POSITIVE     9
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
