@@ -1,39 +1,43 @@
 <!-- posts starts -->
-                                                                                       title                                                                                                                         url        date  compound   SA_nltk SA_distilibert
-0                                                    Destiny explains his issues with Ludwig                                                               https://kick.com/destiny?clip=clip_01HXN12HJMKPQFT8XER0WPYYKP  2024/05/11    0.0000  NEGATIVE       POSITIVE
-1                                            Seagull reads Marvel Rivals' terms & conditions                                                   https://clips.twitch.tv/GlamorousAbnegateSnakeCclamChamp-U61r_hKvibae2KRN  2024/05/11    0.4215  POSITIVE       POSITIVE
-2                                                                      Forsens insane escape                                                            https://clips.twitch.tv/FlirtyOpenMouseTheThing-pZHkXsrIESAzQPNx  2024/05/11   -0.2500  NEGATIVE       POSITIVE
-3                                                                        That was depressing                                          https://www.twitch.tv/tomato/clip/SparklyBlindingLampAMPTropPunch-sE6PeZEEgcN9dkHO  2024/05/11   -0.3818  NEGATIVE       NEGATIVE
-4   Norwegian college boys lost in woods afterdark. Everything goes wrong and all is scuffed                                                        https://clips.twitch.tv/PoorEnticingConsoleDansGame-JT7-4hfmD1plkW6n  2024/05/11   -0.6597  NEGATIVE       NEGATIVE
-5                                                    xQc loses it after losing in Mario Kart                                                       https://clips.twitch.tv/BashfulStylishWrenKappaPride-DAPWsePT8Pqz-6rk  2024/05/11   -0.5994  NEGATIVE       NEGATIVE
-6                                                          Forsen doesn't need to be careful                                                           https://clips.twitch.tv/BlueSuperKoalaBigBrother-Pm-ncPMfvJBxtTVe  2024/05/11    0.1531  NEGATIVE       POSITIVE
-7                                         Forsen finds the perfect engage, securing the game                                                    https://clips.twitch.tv/CrepuscularSourNigiriYouDontSay-Hxu3u3Z9eHiHcKw7  2024/05/11    0.8126  POSITIVE       POSITIVE
-8                                             Cinna shows nmp how she cleans her windshield      https://www.twitch.tv/cinna/clip/TransparentGenerousRadicchioWutFace-Mi2usa4UJ-UOAGVo?filter=clips&range=24hr&sort=time  2024/05/11    0.0000  NEGATIVE       POSITIVE
-9                                               xQc disagrees with Destiny's roast of Ludwig                                                          https://clips.twitch.tv/EsteemedRacySwallowKlappa-nGq3FCbpKJyvmQSO  2024/05/11   -0.3182  NEGATIVE       NEGATIVE
-10                 Frogan says Ludwig has a "c-word ass take" on not doing a charity stream.                                                       https://clips.twitch.tv/IgnorantTrappedNostrilVoHiYo-ixb-5Tf_Q-eFJQot  2024/05/11   -0.7033  NEGATIVE       NEGATIVE
-11                                                              ESL production strikes again                                                       https://clips.twitch.tv/EvilCovertBulgogiHoneyBadger-WJMxFd8n-VRb37A7  2024/05/11   -0.3612  NEGATIVE       POSITIVE
-12                                                    goonergooch accusing nmplol of botting                                                           https://kick.com/goonergooch?clip=clip_01HXKBFV02K9Y4D7999WTMJS75  2024/05/11   -0.1779  NEGATIVE       NEGATIVE
-13                                               summit tucks into bed on a luxury spaceship                                                     https://clips.twitch.tv/HardImpossibleShingleBrainSlug-j2ywcurIzsPXCrrA  2024/05/11    0.0000  NEGATIVE       POSITIVE
-14                                                                        Modeling on Twitch                                               https://clips.twitch.tv/ProtectiveProtectivePidgeonThunBeast--3t9-Z_fmveAaGoq  2024/05/11    0.0000  NEGATIVE       NEGATIVE
-15                                                                    XQc talks about Ludwig                                                        https://clips.twitch.tv/ElegantNiceChamoisSwiftRage-tHOsEoyg3_dUWEGJ  2024/05/11    0.0000  NEGATIVE       POSITIVE
-16                                          Destiny starts Twitter beef with Ludwig: Lud POV                                           https://youtube.com/clip/Ugkxra8xMHRwQqudM82XFwsE9LvzM8sDEz65?si=Z1Vxevr9RG5MAz0x  2024/05/11    0.0000  NEGATIVE       NEGATIVE
-17                                   ExfilCamper gets banned live on Arena Breakout Infinite  https://www.twitch.tv/exfilcamper/clip/SparklingDelightfulSowYouDontSay-DXH8LoLmcDrUjgVT?filter=clips&range=24hr&sort=time  2024/05/11   -0.4588  NEGATIVE       NEGATIVE
-18                                       Kai defeats the first Elden Ring boss after 5 hours                                                        https://clips.twitch.tv/SolidKitschyOstrichUncleNox-N0n5mBN114zGLie6  2024/05/11   -0.3182  NEGATIVE       NEGATIVE
-19                                                   streamer dodges a bullet (TW: Gunshots)                                                          https://clips.twitch.tv/TallBlushingSparrowNotATK-xwS1fYgPKv28mrN2  2024/05/11    0.0000  NEGATIVE       NEGATIVE
-20                                 Kai gets hit with the Elden Ring Experience after 5 hours                                                      https://clips.twitch.tv/AgitatedPluckyNuggetsKreygasm-cB-IOXvLaSExTSKA  2024/05/11    0.0000  NEGATIVE       NEGATIVE
-21                            Soda hates that league players can't take accountability[FAIL]                                                   https://clips.twitch.tv/ProtectiveLaconicRatPeoplesChamp-UKozxUbKjyOEucui  2024/05/11   -0.4404  NEGATIVE       NEGATIVE
+                                                                                                                      title                                                                                       url        date  compound   SA_nltk SA_distilibert
+0                                                                                                               chat sniffa                        https://clips.twitch.tv/CogentZanyCurlewTwitchRPG-iV1iYP5tU5uOUOk9  2024/05/12    0.0000  NEGATIVE       NEGATIVE
+1                                                                                                Kai celebrates a bit early                    https://clips.twitch.tv/GoldenLivelySpaghettiTinyFace-p3zC7PePfD_n3Cj3  2024/05/12    0.5719  POSITIVE       POSITIVE
+2                                                                                       Elajjaz expresses his true feelings                        https://clips.twitch.tv/CulturedMuddyPelicanKippa-RfZFlYYaPRz9eFVl  2024/05/12    0.4215  POSITIVE       POSITIVE
+3                                                                                           Frogan reads racism patch notes  https://www.twitch.tv/frogan/clip/EncouragingDignifiedWoodpeckerRedCoat-y49fwPveK2xcoxOn  2024/05/12   -0.6249  NEGATIVE       NEGATIVE
+4                                                                                  Chatter ask about a special kind of visa                https://clips.twitch.tv/FragileProductiveMoonAMPTropPunch-mrRCl8FlEN2MTtGv  2024/05/12    0.4019  POSITIVE       NEGATIVE
+5                                                                                     Summit1g trying to learn interdiction                https://clips.twitch.tv/NiceEnchantingOpossumDeIlluminati-ZSJq9Op8ibyPYLMY  2024/05/12    0.0000  NEGATIVE       NEGATIVE
+6                                                                                                     Generating new excuse                         https://clips.twitch.tv/QuaintLightDogeSwiftRage-a5BbTZSVkzh-Qakn  2024/05/12    0.0772  NEGATIVE       NEGATIVE
+7                                                                Neuro-Sama slowly kills her creator with unhinged rambling                      https://clips.twitch.tv/SucculentEmpathicDogeUnSane-NehdKLBPpwyIOiZ2  2024/05/12   -0.5423  NEGATIVE       NEGATIVE
+8                                                                                             Streamer is as blind as a bat                    https://clips.twitch.tv/GorgeousArborealSnoodSpicyBoy-JkGRLwida5hi3vcY  2024/05/12   -0.4019  NEGATIVE       NEGATIVE
+9                                                                             Wirtual changes car skin for his youngest fan                https://clips.twitch.tv/ArtisticAverageFungusItsBoshyTime-3cvZywMN_RmgrRBF  2024/05/12    0.3182  POSITIVE       POSITIVE
+10                                                                                                  CS caster does not miss                   https://clips.twitch.tv/UnusualConsiderateNigiriWTRuck-Vd4O49KQYwUaEvCH  2024/05/12    0.1139  NEGATIVE       POSITIVE
+11                                                                                                 Streamer asks for what??        https://clips.twitch.tv/TriangularProductivePicklesStoneLightning-WF2ml2zrEJLrL8Yj  2024/05/12    0.0000  NEGATIVE       NEGATIVE
+12                                                                                            Just a cute hedgehog chilling           https://clips.twitch.tv/ProductiveBraveNightingaleCoolStoryBro-JnSCJGncQEUZJjmq  2024/05/12    0.4404  POSITIVE       POSITIVE
+13                                                                                                                 forsenCD                  https://clips.twitch.tv/ObliviousConfidentPlumShadyLulu-9RVNCU9WM3wstoVK  2024/05/12    0.0000  NEGATIVE       NEGATIVE
+14                                                  imaqtpie taunts his chat as he effortlessly beats their favorite game.              https://clips.twitch.tv/ExpensiveAggressivePigStoneLightning-GZg49EGdqX9uzL0w  2024/05/12    0.4588  POSITIVE       POSITIVE
+15                                                                          Dota 2 team BetBoom recklessly leak prep papers                https://clips.twitch.tv/CourageousExquisiteTeaFeelsBadMan-PCUNeKJYbhNg7Tf6  2024/05/12   -0.3400  NEGATIVE       NEGATIVE
+16                                                                                        Frogan tells us what's not racist                        https://clips.twitch.tv/StupidSwissMilkKappaClaus-z0Nl82yTFi3WkeCs  2024/05/12    0.4973  POSITIVE       POSITIVE
+17                                                                           Sneaky and Meteos save Doublelift from himself                       https://clips.twitch.tv/CaringViscousChickenOSfrog-7XfR4DU4ZvVU6k_h  2024/05/12    0.3182  POSITIVE       NEGATIVE
+18                                                                       ExtraEmily memorizes and recites 1009 digits of pi                     https://clips.twitch.tv/SmellyElatedMallardChefFrank-rT7fsV-GMz0UT_fL  2024/05/12    0.0000  NEGATIVE       NEGATIVE
+19                                                                                    ExtraEmily Memorizes 843 Digits Of Pi                 https://clips.twitch.tv/DignifiedSpinelessDogeKappaClaus-0gjf2BpsBCLwnAcg  2024/05/12    0.0000  NEGATIVE       NEGATIVE
+20                                                                  Ludwig mad that Destiny didn't swallow his cheesy balls                             https://kick.com/destiny?clip=clip_01HXNBFCX8R0R5B5Y8Q7EQT94G  2024/05/12   -0.4939  NEGATIVE       NEGATIVE
+21                                                                                          XQC holds a donator accountable                  https://clips.twitch.tv/DreamyDreamyKoupreyCoolStoryBob-lc5DTf-zj84Mu05-  2024/05/12    0.0000  NEGATIVE       POSITIVE
+22                                                                                               Soda really likes Cerberus                    https://clips.twitch.tv/AltruisticDeafChimpanzeeDoggo-nbKsCyjL-7Gw7jNw  2024/05/12    0.4754  POSITIVE       NEGATIVE
+23  "People like her [Caroline Kwan] are the strongest argument you can make for internment camps [...] we want her in one"                             https://kick.com/destiny?clip=clip_01HXN2KY4QABH4X5YXG165DRX0  2024/05/12    0.4939  POSITIVE       POSITIVE
+24                                                                                                      Emily tells a story                          https://clips.twitch.tv/FunSpunkyPuppySmoocherZ-1rMeHigeIBD3fzCY  2024/05/12    0.0000  NEGATIVE       POSITIVE
+25                                                         Destiny: "Ludwig doesn't know anything outside of smashing kids"                             https://kick.com/destiny?clip=clip_01HXN1D2KB6AWJKBY7Y12VZBTQ  2024/05/12    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    20
-POSITIVE     2
+NEGATIVE    16
+POSITIVE    10
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    13
-POSITIVE     9
+NEGATIVE    16
+POSITIVE    10
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
