@@ -1,36 +1,40 @@
 <!-- posts starts -->
-                                                     title                                                                                                                 url        date  compound   SA_nltk SA_distilibert
-0                                    Squeex on white guilt                                           https://clips.twitch.tv/HealthyEncouragingJaguarJebaited-mGk_M6EQ79mRxAkz  2024/05/13   -0.2732  NEGATIVE       NEGATIVE
-1     Destiny's cohost gives a wrong number to their guest                                   https://youtube.com/clip/UgkxZJ_tuqQOSwTagLs3NzuPkyqCVfAh8mf1?si=hvcIpZnWhEsAH6K5  2024/05/13   -0.4215  NEGATIVE       NEGATIVE
-2                      Forsen gets triggered by a question                                         https://clips.twitch.tv/BelovedTsunderePineappleTBTacoLeft-uRt9Ukixpzm7_O0K  2024/05/13    0.0000  NEGATIVE       NEGATIVE
-3                                               2 bots top                                      https://clips.twitch.tv/ClumsyPhilanthropicTermiteSuperVinlin-RxXlUNN065LFx88Q  2024/05/13    0.2023  POSITIVE       POSITIVE
-4                     Tatiantel downs the Maven on R SSFHC                             https://www.twitch.tv/tatiantel2/clip/MoralBitterBubbleteaRiPepperonis-B8UffAAQxPHeACfJ  2024/05/13    0.0000  NEGATIVE       NEGATIVE
-5                   Maya's opinion on Kendrick-Drake drama                                        https://clips.twitch.tv/RamshacklePolishedCougarArsonNoSexy-uJNqTN7uxC3W6-Tp  2024/05/13    0.0000  NEGATIVE       POSITIVE
-6                     Forsen is yet to understand the game                                         https://clips.twitch.tv/DignifiedCarelessCoffeeKevinTurtle-asTIaPZKxYt2_Fa5  2024/05/13    0.0000  NEGATIVE       NEGATIVE
-7              Sodapoppin enters Forsen chat's mind palace                                                    https://clips.twitch.tv/AwkwardAntsyBearRedCoat-wMgdaq910boLK04a  2024/05/13    0.0000  NEGATIVE       POSITIVE
-8                          Triplets have the same reaction                                         https://clips.twitch.tv/DeterminedEnergeticEagleTBTacoLeft-NPBAzQWaN2tOHX0G  2024/05/13    0.0000  NEGATIVE       NEGATIVE
-9     Northernlion points out the hypocrisy of Twitch chat                                                https://clips.twitch.tv/UglyUgliestAnteaterBatChest-tCbXwAlTvTk_6dIP  2024/05/13    0.0000  NEGATIVE       NEGATIVE
-10      Insane attempt at ending a 90 minute pro Dota game                                                     https://clips.twitch.tv/SourFaintStorkPipeHype-HiwuCVpU3HFqpYq3  2024/05/13   -0.4019  NEGATIVE       NEGATIVE
-11                             asian girls talk about size                                     https://www.twitch.tv/jinnytty/clip/AverageCharmingPanPoooound-iwZsVmJl4UPT2WA2  2024/05/13    0.0000  NEGATIVE       POSITIVE
-12                                   Poor owl gets bullied                                                https://clips.twitch.tv/LuckyWittyPelicanBibleThump-hII1MAvxivmeIMtR  2024/05/13   -0.8020  NEGATIVE       NEGATIVE
-13  Gamers, the most adorably awkward humans on the planet                                                      https://clips.twitch.tv/PunchyUglyMangoLitFam--2mecSiiiffDqg9D  2024/05/13    0.3642  POSITIVE       NEGATIVE
-14                         Summit Flexing his NA Education                                                    https://clips.twitch.tv/SpicyDirtyUdonChefFrank-VJDFLjlw0BYhF7U7  2024/05/13    0.0000  NEGATIVE       POSITIVE
-15                              XQC is not a fan of racism                                         https://clips.twitch.tv/TallPlausibleHabaneroMrDestructoid-_m3OfltfNSBkS-1H  2024/05/13    0.3252  POSITIVE       POSITIVE
-16                       xQc reacts to the cheeseball clip                                                 https://clips.twitch.tv/FunnyCooperativeMetalDxCat--P5BX_4IZXAm1p5W  2024/05/13    0.0000  NEGATIVE       NEGATIVE
-17   Hasan sides with his mod Frogan over insulting Ludwig  https://www.twitch.tv/hasanabi/clip/TsundereBeautifulTrayBCouch-OqilQaa1S3RLdpPs?filter=clips&range=24hr&sort=time  2024/05/13   -0.4939  NEGATIVE       NEGATIVE
-18                        KristoferYee talks about Pokémon                                                https://clips.twitch.tv/ArborealRichCroquetteOpieOP-TNrtVIFVJOqSfbE0  2024/05/13    0.0000  NEGATIVE       POSITIVE
+                                                                     title                                                                                                                     url        date  compound   SA_nltk SA_distilibert
+0                    Turkey Tom asks Destiny why he talked about Will Neff                                                           https://kick.com/destiny?clip=clip_01HXWQG66CG2XBHB663R910JPW  2024/05/14    0.0000  NEGATIVE       NEGATIVE
+1                                              aris inspects a plasma mine                                         https://clips.twitch.tv/AveragePeacefulKeyboardResidentSleeper-hETUAbLa5qsiekpI  2024/05/14    0.0000  NEGATIVE       POSITIVE
+2               Ubisoft knocks streamer off the tower to show him some ads                                                       https://clips.twitch.tv/GoodTubularSheepGOWSkull-WJYQ-8fUIbdz-4oI  2024/05/14    0.0000  NEGATIVE       NEGATIVE
+3                                             Norwegian struggles to count                                   https://www.twitch.tv/wirtual/clip/AcceptableAnimatedGoshawkFailFish-ndKYnWf9ic6UwAbw  2024/05/14   -0.3612  NEGATIVE       NEGATIVE
+4           DJ Akademiks on the recent news (sued for rape and defamation)                                                    https://clips.twitch.tv/RefinedSoftWoodpeckerPJSalt-vP7OnTA8kxnqEVFl  2024/05/14   -0.6908  NEGATIVE       NEGATIVE
+5                                               Forsen goes in for the 1v1                                           https://clips.twitch.tv/EnthusiasticHeartlessPeafowlOSkomodo-e8Z6sxtJxijWe3kz  2024/05/14    0.0000  NEGATIVE       POSITIVE
+6                                                    Lirik returns to PUBG                                                        https://clips.twitch.tv/TemperedFineGullBudStar-legwjax7jZeZg9GX  2024/05/14    0.0000  NEGATIVE       NEGATIVE
+7                            Forsen gets some gameplay feedback from Neuro                                            https://clips.twitch.tv/SincereDependableHeronDoubleRainbow-zFVUOEloGakJuD9W  2024/05/14    0.0000  NEGATIVE       POSITIVE
+8                                                    $600 Million Game BTW                                                   https://clips.twitch.tv/NaiveSincereOilDancingBanana-uEdTn0cDv_8RgvG7  2024/05/14    0.0000  NEGATIVE       NEGATIVE
+9                                          Johnatan Blow tries Animal Well  https://www.twitch.tv/j_blow/clip/TawdryImpartialLeopardArsonNoSexy-I5mbk1Q3dgMlJPsB?filter=clips&range=24hr&sort=time  2024/05/14    0.2732  POSITIVE       POSITIVE
+10                        17 yr old #1 Osu player goes full crackhead mode                                                     https://clips.twitch.tv/EvilObliqueSalmonHotPokket-Qpbr1gVcN6n6yNbn  2024/05/14    0.0000  NEGATIVE       NEGATIVE
+11                                                        Diving in Greece                                                https://clips.twitch.tv/BloodySuaveAlmondStoneLightning-9Owtf9igHtU7zVr_  2024/05/14    0.0772  NEGATIVE       POSITIVE
+12                                                    G2 fan attacks Sjoks                                                         https://clips.twitch.tv/OilyRealVanillaOSsloth-XjGBc2ah3tf01GBG  2024/05/14   -0.1531  NEGATIVE       NEGATIVE
+13                                               Caedrel finds mate in one                                                     https://clips.twitch.tv/TallSteamyStinkbugEagleEye-DMwCXjzHxjC_vQwQ  2024/05/14    0.0000  NEGATIVE       POSITIVE
+14  XQC doesn't mind poor people dying if they lose their job to AI yikess                                                               https://kick.com/xqc?clip=clip_01HXTY36N3EWNWM2H1A2DQ9XSR  2024/05/14   -0.0377  NEGATIVE       NEGATIVE
+15                           xQc gives his take on artificial intelligence                                                               https://kick.com/xqc?clip=clip_01HXTY191CJ4H859VF0JHYWPWZ  2024/05/14    0.4767  POSITIVE       POSITIVE
+16                                       xQc learns about "reverse racism"                                                               https://kick.com/xqc?clip=clip_01HXTVCZJXGPPG016YN1J4N3B4  2024/05/14   -0.6249  NEGATIVE       POSITIVE
+17                                  Toast warns Scarra about his teammates                                                  https://clips.twitch.tv/QuaintKnottyAirGuitarFrankerZ-aHxnO_3KpX2I5eZP  2024/05/14   -0.1027  NEGATIVE       NEGATIVE
+18                        Asmon wonders why people make excuses for Frogan                                               https://clips.twitch.tv/ExpensiveRenownedGrasshopperWOOP-34C_6WFdyyyiB-VM  2024/05/14    0.0000  NEGATIVE       NEGATIVE
+19                                               New York subway life hack                                               https://clips.twitch.tv/OptimisticRenownedPhoneNononoCat-knIWkkGdCVixvP-a  2024/05/14    0.0000  NEGATIVE       NEGATIVE
+20    Asmons take on Hasan saying you can't be racist towards white people                                                      https://clips.twitch.tv/TastyArborealGrouseRlyTho-7Rb3wruwKAft02lI  2024/05/14    0.4973  POSITIVE       POSITIVE
+21            Random guys leg falls off trying to kickflip on skate stream                                   https://www.twitch.tv/rickyglaser/clip/ResilientDoubtfulShieldUnSane-0XgQLAbhFfIh-uRM  2024/05/14    0.0000  NEGATIVE       NEGATIVE
+22            Shroud gets Disrespectful In Twitch Rivals Rainbow 6 Tourney                                                      https://clips.twitch.tv/AthleticHonorablePigKeepo-CtULk8Gtsjke6hq1  2024/05/14    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    16
+NEGATIVE    20
 POSITIVE     3
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    12
-POSITIVE     7
+NEGATIVE    14
+POSITIVE     9
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
