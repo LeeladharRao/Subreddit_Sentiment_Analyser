@@ -1,32 +1,37 @@
 <!-- posts starts -->
-                                                           title                                                                           url        date  compound   SA_nltk SA_distilibert
-0                      xQc defends Destiny's usage of the N word   https://clips.twitch.tv/CarelessCourteousCoffeeGingerPower-_yhD-AWHKHAYtfes  2024/05/15    0.0000  NEGATIVE       NEGATIVE
-1                     Wholesome viewer gives jschlatt a nickname     https://clips.twitch.tv/BlushingPoisedStinkbugHassanChop-1Hs_gAXLEFF-lhTv  2024/05/15    0.0000  NEGATIVE       POSITIVE
-2            Magnus Carlsen rages after losing chess.com classic       https://clips.twitch.tv/SucculentFancyOstrichAMPEnergy-vjTKBAXUez-wAe4g  2024/05/15   -0.6908  NEGATIVE       NEGATIVE
-3     Twitch will now allow Twerking/Shaking Butt emotes again.                      https://twitter.com/zachbussey/status/1790829342181724612  2024/05/15    0.2263  POSITIVE       POSITIVE
-4                             forsen gives his take on the drama  https://clips.twitch.tv/TrappedSuspiciousPizzaChocolateRain-Gpq7nrNsET1S4Ebs  2024/05/15    0.0000  NEGATIVE       POSITIVE
-5         Maya teaches her goat how to use it’s new punching bag     https://clips.twitch.tv/ImpossibleUgliestPotatoTwitchRPG-nvyF94e2QQqZWV_D  2024/05/15    0.0000  NEGATIVE       POSITIVE
-6                                            Maya Takes a Tumble       https://clips.twitch.tv/TastyFreezingOcelotKeyboardCat-QNIyh5qtxP8t4VaY  2024/05/15    0.0000  NEGATIVE       NEGATIVE
-7                                    Local NPC waves at tourist.             https://clips.twitch.tv/AlluringDarkBottleYouWHY-D-_K-J1CGmwrGVDf  2024/05/15    0.0000  NEGATIVE       POSITIVE
-8                         Northernlion hates Magic the Gathering       https://clips.twitch.tv/ZanyEnthusiasticBobaSquadGoals-PPHNO1gGbBJXqt19  2024/05/15   -0.4404  NEGATIVE       NEGATIVE
-9                                     hardworking chinese filter       https://clips.twitch.tv/SullenCreativeReindeerPraiseIt-TZRgHSW_4nLPjgk2  2024/05/15    0.0000  NEGATIVE       NEGATIVE
-10                                             Massive fish tank    https://clips.twitch.tv/TenuousFilthyManateePhilosoraptor-gnUD08H-xoFMZwXc  2024/05/15    0.0000  NEGATIVE       NEGATIVE
-11  MOHG Finally defeated after 7 hrs of fighting him for 2 days      https://clips.twitch.tv/HonorableSmellyCobraArsonNoSexy-aJ6wIo11fHHMNVK9  2024/05/15   -0.6808  NEGATIVE       NEGATIVE
-12   Sips_ tests out his new and improved raider slaughter house                  https://clips.twitch.tv/RudeCuteManateeWOOP-Akt6bxKrcxGFohxL  2024/05/15    0.4767  POSITIVE       NEGATIVE
-13                     After 100 hours, Kai finally gets serious              https://clips.twitch.tv/SpunkyTenuousGaurM4xHeh-wj7eCGoxOX4xc0UZ  2024/05/15   -0.0772  NEGATIVE       POSITIVE
-14                                              Erobb admits it               https://clips.twitch.tv/FinePerfectCasetteFloof-BFTk4mwRMWjehUJL  2024/05/15    0.2960  POSITIVE       POSITIVE
+                                                                   title                                                                                url        date  compound   SA_nltk SA_distilibert
+0                                           Interesting take from Ludwig  https://youtube.com/clip/Ugkxcgfd5CN-lUY67quT4tPxczWguBa8OLzO?si=U-Kvkz-Vi4qAQZKJ  2024/05/16    0.4019  POSITIVE       POSITIVE
+1                        Sips_ gets an incredible "bargain" in Fallout 4              https://clips.twitch.tv/VainCarefulMooseThisIsSparta-3ciALKhLUYM9fvzm  2024/05/16    0.0000  NEGATIVE       POSITIVE
+2                                                  Normal Artosis stream                 https://clips.twitch.tv/TenderJollyCroissantKappa-YM2MbQO85Mlt4cKy  2024/05/16    0.0000  NEGATIVE       NEGATIVE
+3                                   Asmongold's take on SeanDaBlack Clip          https://clips.twitch.tv/DullDeterminedCourgetteTwitchRPG-KreLeweptNEi6Pmy  2024/05/16    0.0000  NEGATIVE       POSITIVE
+4                                  God tries to smite Alinity and fails.             https://clips.twitch.tv/CarelessPerfectWallabySoBayed-7VsYkCSWmEjceqpi  2024/05/16   -0.1779  NEGATIVE       NEGATIVE
+5                                              Cute capybara wears a hat     https://clips.twitch.tv/IgnorantPlayfulAardvarkStoneLightning-epp4M74tfD0F4pTK  2024/05/16    0.4588  POSITIVE       POSITIVE
+6                                             xQc's take on N-word usage                          https://kick.com/xqc?clip=clip_01HXZV9AET0YD78KGRMT10BH0P  2024/05/16    0.0000  NEGATIVE       NEGATIVE
+7                                                 Cyr Rp'ing With An AI!         https://clips.twitch.tv/WonderfulCrunchyAardvarkSeemsGood-OnUgdznf4ny-6RgM  2024/05/16    0.0000  NEGATIVE       POSITIVE
+8                     Forsen finds Video He was searching for whole year           https://clips.twitch.tv/SparklyStrongSwallowFeelsBadMan-4X-PXWEl1ECVluTm  2024/05/16    0.0000  NEGATIVE       NEGATIVE
+9               Lacari unlocks the home screen of his favorite character           https://clips.twitch.tv/PiercingOutstandingQuailRedCoat-UDK-4CsNnkXBPSwD  2024/05/16    0.4588  POSITIVE       POSITIVE
+10                                        Cute capybara gets a belly rub           https://clips.twitch.tv/JazzyProductivePoultryAllenHuhu-giWTYZXD3L_6bH8Q  2024/05/16    0.4588  POSITIVE       POSITIVE
+11                            Quin makes a playable game (using chatgpt)   https://clips.twitch.tv/ArborealDistinctScallionResidentSleeper-QhVzLuASjqlcNNy0  2024/05/16    0.0000  NEGATIVE       POSITIVE
+12                     SeanDaBlack says he never wished harm on Destiny.            https://clips.twitch.tv/RoundPrettiestSlothDoritosChip-hEZOd3mfFrRTMGap  2024/05/16    0.4310  POSITIVE       POSITIVE
+13       Kai Finds out there's a Phase 2 Malenia After Celebrating early       https://www.twitch.tv/kaicenat/clip/AgileNaiveMouseTebowing-PKgG2Gi0P69G64LZ  2024/05/16    0.5719  POSITIVE       POSITIVE
+14         Kai Lost it after 130 hrs, 1438 deaths, and 11 hrs on Malenia         https://clips.twitch.tv/FastEasyWatermelonAMPEnergyCherry-5DvTlONfI2t9UREI  2024/05/16   -0.3182  NEGATIVE       NEGATIVE
+15  SeanDaBlack says someone needs to kill Destiny for saying the n word           https://clips.twitch.tv/ObliqueCrazyCourgetteKappaClaus-cyIOXXx5OP2AnLy_  2024/05/16   -0.6908  NEGATIVE       NEGATIVE
+16                                             xQc calls out Andrew Tate                          https://kick.com/xqc?clip=clip_01HXZS9FMQTBQ3Z6QXV3JH9GH5  2024/05/16    0.0000  NEGATIVE       POSITIVE
+17                              xQc makes a point about double standards                          https://kick.com/xqc?clip=clip_01HXZQ6G1QD2NP6XH0XKXFBJAK  2024/05/16    0.0000  NEGATIVE       POSITIVE
+18                                           Kai at 152 tries of Malenia           https://clips.twitch.tv/VictoriousAnnoyingOtterFailFish-5B2l1jMheSNYlkPc  2024/05/16    0.0000  NEGATIVE       NEGATIVE
+19               mike from pa challenges destiny to a fight at twitchcon     https://clips.twitch.tv/CarefulSpunkyPorcupineResidentSleeper-cc16Grmq0K-96cCK  2024/05/16   -0.3182  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    12
-POSITIVE     3
+NEGATIVE    14
+POSITIVE     6
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    8
-POSITIVE    7
+POSITIVE    13
+NEGATIVE     7
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
