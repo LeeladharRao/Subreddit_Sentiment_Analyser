@@ -1,32 +1,37 @@
 <!-- posts starts -->
-                                                              title                                                                               url        date  compound   SA_nltk SA_distilibert
-0                                                         line spin      https://clips.twitch.tv/SarcasticVictoriousConsoleAllenHuhu-kEhEya7_PCdJ6gXW  2024/05/17    0.0000  NEGATIVE       POSITIVE
-1               Kai Cenat's opinion on Elden ring upon finishing it          https://clips.twitch.tv/DeterminedCuriousHabaneroNotATK-lApD2uHgRSjmY7Z-  2024/05/17    0.0000  NEGATIVE       POSITIVE
-2   Kai Cenat finally beats Elden Ring after a 166 hours livestream              https://clips.twitch.tv/FuriousPolishedMetalBudStar-U5zx69XH7mqyaFmu  2024/05/17    0.0000  NEGATIVE       POSITIVE
-3                                                 Pedro Pedro Pedro            https://clips.twitch.tv/ScrumptiousCheerfulApple4Head-9L7YNewcasytdL_v  2024/05/17    0.0000  NEGATIVE       POSITIVE
-4         Hasan on why Johnny Somali is racist against the Japanese            https://clips.twitch.tv/FriendlyEntertainingMochaUWot-5b_QBVG6U7xtH3w5  2024/05/17   -0.6124  NEGATIVE       NEGATIVE
-5                                     Forsen with his best joke yet       https://clips.twitch.tv/VivaciousIgnorantWalrusNinjaGrumpy-mmgd9-_OpQBIluc-  2024/05/17    0.7506  POSITIVE       POSITIVE
-6                                Northernlion kills a man on stream      https://clips.twitch.tv/AcceptableHelplessHorseRiPepperonis-TGCjYK5nZOzS8sYB  2024/05/17   -0.5423  NEGATIVE       NEGATIVE
-7                           common reaction to sub-only twitch VODs             https://clips.twitch.tv/AthleticPuzzledGnatBuddhaBar--Q3lF855V5bc6ltS  2024/05/17    0.0000  NEGATIVE       NEGATIVE
-8                                   Capybara makes very cute sounds          https://clips.twitch.tv/CloudyObservantMartenCeilingCat-paOHicpBf1xQJebm  2024/05/17    0.5095  POSITIVE       POSITIVE
-9                 IShowSpeed meets Heize after her live performance                     https://youtube.com/clip/Ugkxd_QoLjwCcMQAE3zrpDt8_YtJ2whs_qH9  2024/05/17    0.0000  NEGATIVE       POSITIVE
-10                                              Caps the kingslayer                  https://clips.twitch.tv/FrigidAthleticClipzUWot-CLNvJUQoTRzO16-G  2024/05/17    0.0000  NEGATIVE       POSITIVE
-11                                            MMORPG - Sneak Facial  https://www.twitch.tv/mmorpg/clip/UninterestedRelatedYakDogFace-OqqcGYGthk-V0NvY  2024/05/17    0.0000  NEGATIVE       NEGATIVE
-12                     Whippy's house catches on fire during stream                  https://clips.twitch.tv/CrackyLovelyDolphinWOOP-ucwnGKb4HxqGGi9q  2024/05/17   -0.3400  NEGATIVE       POSITIVE
-13        Kai Cenat beats Malenia after 432 deaths and 30 IRL hours         https://clips.twitch.tv/TubularFastPepperoniPeoplesChamp-CvGjd-fGWF28OCfD  2024/05/17    0.0000  NEGATIVE       NEGATIVE
-14                                           path of pain complete                https://clips.twitch.tv/BumblingSillyLapwingWoofer-929w6y8u4tOFJVmQ  2024/05/17   -0.5106  NEGATIVE       NEGATIVE
+                                                                                                                          title                                                                                                               url        date  compound   SA_nltk SA_distilibert
+0                                                                                                      Taking Corn the long way                                            https://clips.twitch.tv/OriginalChillyKuduNinjaGrumpy-m6iEGsyKtKPk24wC  2024/05/18    0.0000  NEGATIVE       NEGATIVE
+1                            Part-Time F1 driver Max Verstappen racing in the iRacing Nurburgring 24hr after getting pole today                              https://www.twitch.tv/teamredline/clip/FunnyFrigidPorpoiseBCWarrior-9wl4SdUiOhssDVkq  2024/05/18    0.0000  NEGATIVE       NEGATIVE
+2                                                                                                    Forsen does not understand                                             https://clips.twitch.tv/BillowingCautiousPastaLitFam-xLBS6aaNyRzitRFN  2024/05/18    0.0000  NEGATIVE       NEGATIVE
+3                                                                                            Forsen banned on League of legends                                          https://clips.twitch.tv/AltruisticSarcasticQuailSoBayed-tILOIIYjtsqjwx37  2024/05/18   -0.4588  NEGATIVE       NEGATIVE
+4                                                                                                            He's got the moves                                                        https://clips.twitch.tv/DrabTallPhoneUWot-aOLIEzKVfNcee-2S  2024/05/18    0.0000  NEGATIVE       POSITIVE
+5                                                                                               Riot God is listening to Forsen                                       https://clips.twitch.tv/AmericanProductiveSkirretAsianGlow-I1sZgk_ip-yISKzH  2024/05/18   -0.3612  NEGATIVE       POSITIVE
+6                                                                                                        neuro has a suggestion                                      https://clips.twitch.tv/NurturingRichSwallowAMPEnergyCherry-nc01HsQlZvJBm18x  2024/05/18    0.0000  NEGATIVE       POSITIVE
+7                                                                                                 Britt's thoughts on Peppa Pig                                         https://clips.twitch.tv/JollyWiseFiddleheadsItsBoshyTime-sgD7Bz3q-pJSEV-B  2024/05/18    0.0000  NEGATIVE       POSITIVE
+8                                                                                   Shroud with a crazy nade in pubg tournament                                                  https://clips.twitch.tv/FlirtyOddDogeHumbleLife-X4jslZE4CdWn5yXa  2024/05/18   -0.3400  NEGATIVE       NEGATIVE
+9                                                                                                 Stream sniped by the police 👀                                            https://clips.twitch.tv/AntsyInspiringPuppyCclamChamp-HrTQd0bFAzHBRdz_  2024/05/18    0.0000  NEGATIVE       NEGATIVE
+10                                                                          Disabled streamer destroys his opponents in league                                             https://clips.twitch.tv/TolerantCaringCrowShazBotstix-XDbbpn13P3TSmwVJ  2024/05/18   -0.5574  NEGATIVE       NEGATIVE
+11                                                                 7/11 clerk reveals the one thing keeping them from happiness                                                 https://clips.twitch.tv/HeadstrongRoundWrenDxCat-BljEEkBwhe9V7Dxq  2024/05/18    0.5574  POSITIVE       POSITIVE
+12                                                                             Overwatch Custom servers never fail to surprise   https://www.twitch.tv/dorozea/clip/KawaiiRockyWaffleChefFrank-s1J1TKQM0kYJrva9?filter=clips&range=24hr&sort=time  2024/05/18    0.2584  POSITIVE       POSITIVE
+13                                                                                                  not everything is photoshop                                 https://www.twitch.tv/jinnytty/clip/ResoluteTardyBeefGrammarKing-DYhM12BlxC2awt5c  2024/05/18    0.0000  NEGATIVE       NEGATIVE
+14                                                                                                Wirtual hits a huge milestone                                        https://clips.twitch.tv/CrunchyCorrectMinkNerfBlueBlaster-vJXpYi-kwBKzb_nI  2024/05/18    0.3182  POSITIVE       POSITIVE
+15                                                                                                 How to detect a smart person                                               https://clips.twitch.tv/ScaryRealClipsdadPastaThat-T8mHCoXGtiWedPeW  2024/05/18    0.4019  POSITIVE       POSITIVE
+16  Guild Wars 2 player clears the hardest encounter in game and instantly uninstalls to play the objectively better game (WoW)                                         https://clips.twitch.tv/AdorableLachrymoseCurlewPlanking-itY-GqDy_j188FEg  2024/05/18    0.2500  POSITIVE       POSITIVE
+17                                                                                                      Daph knows some bridges                                            https://clips.twitch.tv/CourageousCheerfulHareDBstyle-OPzME_SrcVHKsLCW  2024/05/18    0.0000  NEGATIVE       POSITIVE
+18                                                                                             robcdee - The Apple was sleeping                                                      https://clips.twitch.tv/BoringSweetMinkBIRB-SFYW2A9GOzJsC2hq  2024/05/18    0.0000  NEGATIVE       NEGATIVE
+19                                                                                 17yo lied about her age to be on dating show                                            https://clips.twitch.tv/BoringBlazingChickpeaPanicVis-AYX0WcS38jArgD5r  2024/05/18   -0.3818  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    13
-POSITIVE     2
+NEGATIVE    15
+POSITIVE     5
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    9
-NEGATIVE    6
+NEGATIVE    10
+POSITIVE    10
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
