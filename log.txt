@@ -1,37 +1,36 @@
 <!-- posts starts -->
-                                                                                                                          title                                                                                                               url        date  compound   SA_nltk SA_distilibert
-0                                                                                                      Taking Corn the long way                                            https://clips.twitch.tv/OriginalChillyKuduNinjaGrumpy-m6iEGsyKtKPk24wC  2024/05/18    0.0000  NEGATIVE       NEGATIVE
-1                            Part-Time F1 driver Max Verstappen racing in the iRacing Nurburgring 24hr after getting pole today                              https://www.twitch.tv/teamredline/clip/FunnyFrigidPorpoiseBCWarrior-9wl4SdUiOhssDVkq  2024/05/18    0.0000  NEGATIVE       NEGATIVE
-2                                                                                                    Forsen does not understand                                             https://clips.twitch.tv/BillowingCautiousPastaLitFam-xLBS6aaNyRzitRFN  2024/05/18    0.0000  NEGATIVE       NEGATIVE
-3                                                                                            Forsen banned on League of legends                                          https://clips.twitch.tv/AltruisticSarcasticQuailSoBayed-tILOIIYjtsqjwx37  2024/05/18   -0.4588  NEGATIVE       NEGATIVE
-4                                                                                                            He's got the moves                                                        https://clips.twitch.tv/DrabTallPhoneUWot-aOLIEzKVfNcee-2S  2024/05/18    0.0000  NEGATIVE       POSITIVE
-5                                                                                               Riot God is listening to Forsen                                       https://clips.twitch.tv/AmericanProductiveSkirretAsianGlow-I1sZgk_ip-yISKzH  2024/05/18   -0.3612  NEGATIVE       POSITIVE
-6                                                                                                        neuro has a suggestion                                      https://clips.twitch.tv/NurturingRichSwallowAMPEnergyCherry-nc01HsQlZvJBm18x  2024/05/18    0.0000  NEGATIVE       POSITIVE
-7                                                                                                 Britt's thoughts on Peppa Pig                                         https://clips.twitch.tv/JollyWiseFiddleheadsItsBoshyTime-sgD7Bz3q-pJSEV-B  2024/05/18    0.0000  NEGATIVE       POSITIVE
-8                                                                                   Shroud with a crazy nade in pubg tournament                                                  https://clips.twitch.tv/FlirtyOddDogeHumbleLife-X4jslZE4CdWn5yXa  2024/05/18   -0.3400  NEGATIVE       NEGATIVE
-9                                                                                                 Stream sniped by the police 👀                                            https://clips.twitch.tv/AntsyInspiringPuppyCclamChamp-HrTQd0bFAzHBRdz_  2024/05/18    0.0000  NEGATIVE       NEGATIVE
-10                                                                          Disabled streamer destroys his opponents in league                                             https://clips.twitch.tv/TolerantCaringCrowShazBotstix-XDbbpn13P3TSmwVJ  2024/05/18   -0.5574  NEGATIVE       NEGATIVE
-11                                                                 7/11 clerk reveals the one thing keeping them from happiness                                                 https://clips.twitch.tv/HeadstrongRoundWrenDxCat-BljEEkBwhe9V7Dxq  2024/05/18    0.5574  POSITIVE       POSITIVE
-12                                                                             Overwatch Custom servers never fail to surprise   https://www.twitch.tv/dorozea/clip/KawaiiRockyWaffleChefFrank-s1J1TKQM0kYJrva9?filter=clips&range=24hr&sort=time  2024/05/18    0.2584  POSITIVE       POSITIVE
-13                                                                                                  not everything is photoshop                                 https://www.twitch.tv/jinnytty/clip/ResoluteTardyBeefGrammarKing-DYhM12BlxC2awt5c  2024/05/18    0.0000  NEGATIVE       NEGATIVE
-14                                                                                                Wirtual hits a huge milestone                                        https://clips.twitch.tv/CrunchyCorrectMinkNerfBlueBlaster-vJXpYi-kwBKzb_nI  2024/05/18    0.3182  POSITIVE       POSITIVE
-15                                                                                                 How to detect a smart person                                               https://clips.twitch.tv/ScaryRealClipsdadPastaThat-T8mHCoXGtiWedPeW  2024/05/18    0.4019  POSITIVE       POSITIVE
-16  Guild Wars 2 player clears the hardest encounter in game and instantly uninstalls to play the objectively better game (WoW)                                         https://clips.twitch.tv/AdorableLachrymoseCurlewPlanking-itY-GqDy_j188FEg  2024/05/18    0.2500  POSITIVE       POSITIVE
-17                                                                                                      Daph knows some bridges                                            https://clips.twitch.tv/CourageousCheerfulHareDBstyle-OPzME_SrcVHKsLCW  2024/05/18    0.0000  NEGATIVE       POSITIVE
-18                                                                                             robcdee - The Apple was sleeping                                                      https://clips.twitch.tv/BoringSweetMinkBIRB-SFYW2A9GOzJsC2hq  2024/05/18    0.0000  NEGATIVE       NEGATIVE
-19                                                                                 17yo lied about her age to be on dating show                                            https://clips.twitch.tv/BoringBlazingChickpeaPanicVis-AYX0WcS38jArgD5r  2024/05/18   -0.3818  NEGATIVE       NEGATIVE
+                                                                           title                                                                                url        date  compound   SA_nltk SA_distilibert
+0                      Mizkif - Mizkif learns a hard truth, doesn't take it well                https://clips.twitch.tv/InquisitiveClumsyWheelWOOP-uRF-RiuLkTOdaqJc  2024/05/19    0.0222  NEGATIVE       NEGATIVE
+1   Tectone calls Frogan Jabba the Hutt and says she causes issues for no reason          https://clips.twitch.tv/EnergeticSavageCurlewNinjaGrumpy-xV5s0WrsckOghl7G  2024/05/19   -0.2960  NEGATIVE       NEGATIVE
+2                                      Destiny clarifies that he's cool with OTK                      https://kick.com/destiny?clip=clip_01HY9AMSVT6ATQ60BZ7WS9CP1R  2024/05/19    0.4939  POSITIVE       POSITIVE
+3                                                    Forsen jg career going well                https://clips.twitch.tv/NiceCrispySushiDoritosChip-I4mPC7iZTYvVBOFj  2024/05/19    0.2732  POSITIVE       POSITIVE
+4               Streamer touches (and eats??) grass for the first time in months               https://clips.twitch.tv/ApatheticPluckyMartenPJSalt-W1JWmNUqNdtuBolH  2024/05/19    0.0000  NEGATIVE       POSITIVE
+5                                       Hbox takes the set and calmly celebrates                  https://clips.twitch.tv/CaringKindCheetahMingLee-3wudhMcHrHs-Tq_W  2024/05/19    0.7184  POSITIVE       POSITIVE
+6                                                              Rob devours crepe                   https://clips.twitch.tv/LuckyCulturedWalrusWOOP-9k4kflPZp67d6txk  2024/05/19   -0.5574  NEGATIVE       NEGATIVE
+7                                                 Wubby gets bullied by a parrot          https://clips.twitch.tv/StylishHilariousElephantRuleFive-6RDPJTtrx6zY2MlV  2024/05/19   -0.6249  NEGATIVE       NEGATIVE
+8                                                      Rare interview circa 1940                https://clips.twitch.tv/LazyLuckyBottleNotLikeThis-vWRwoNdVVnq8SzJk  2024/05/19    0.0000  NEGATIVE       POSITIVE
+9                            matthew_forever - The definition of a ride or die..                        https://clips.twitch.tv/SillyEvilEelOpieOP-xzdOsBTPthOuiB-5  2024/05/19    0.0000  NEGATIVE       POSITIVE
+10                                         Hachu learns about Austin's nightlife                   https://clips.twitch.tv/SpicyFlirtyQueleaNotATK-wdTtChSs59DvhHEQ  2024/05/19    0.0000  NEGATIVE       POSITIVE
+11                                                        Bad timing for pausing  https://youtube.com/clip/UgkxrYxMw9diV4_F-0HwGixhIwjwvG56xTvk?si=NIbKJhPfANbhGyjy  2024/05/19   -0.5423  NEGATIVE       NEGATIVE
+12                                                            Meteor in Portugal            https://clips.twitch.tv/ConfidentSuccessfulReindeerYee-2ZySiFZPy3ZbkyXh  2024/05/19    0.0000  NEGATIVE       POSITIVE
+13                                                            Shootout at a Prom              https://clips.twitch.tv/PeacefulIgnorantEmuPicoMause-vN2JXuPBsOCpDoMM  2024/05/19    0.0000  NEGATIVE       NEGATIVE
+14                     Squeex and Chiblee's captain takes his job very seriously               https://clips.twitch.tv/CoyClearDogeResidentSleeper-qpDTq046JWNBo2s7  2024/05/19   -0.2484  NEGATIVE       POSITIVE
+15                                              Destiny Reacts to a Frogan Tweet                      https://kick.com/destiny?clip=clip_01HY7BPJEK5NZF2CKJVP4777JP  2024/05/19    0.0000  NEGATIVE       NEGATIVE
+16                                   Shroud having a blast playing Star Citizen!                https://clips.twitch.tv/PiliablePlacidTroutPrimeMe-oyu7xUvYc4BK-upj  2024/05/19    0.2714  POSITIVE       POSITIVE
+17                                             Shroud's thoughts on Star Citizen                 https://clips.twitch.tv/ZanySpineyLEDCoolStoryBro-mcSVEBEF6FKfSTWq  2024/05/19    0.0000  NEGATIVE       POSITIVE
+18                                       ExEm calls non subs poor *accidentally*           https://clips.twitch.tv/AgreeableCredulousGoblinPrimeMe-83XD7AXlojI3xqVL  2024/05/19   -0.4767  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
 NEGATIVE    15
-POSITIVE     5
+POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    10
-POSITIVE    10
+POSITIVE    11
+NEGATIVE     8
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
