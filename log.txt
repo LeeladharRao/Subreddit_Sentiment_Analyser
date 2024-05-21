@@ -1,36 +1,28 @@
 <!-- posts starts -->
-                                                                           title                                                                                url        date  compound   SA_nltk SA_distilibert
-0                      Mizkif - Mizkif learns a hard truth, doesn't take it well                https://clips.twitch.tv/InquisitiveClumsyWheelWOOP-uRF-RiuLkTOdaqJc  2024/05/19    0.0222  NEGATIVE       NEGATIVE
-1   Tectone calls Frogan Jabba the Hutt and says she causes issues for no reason          https://clips.twitch.tv/EnergeticSavageCurlewNinjaGrumpy-xV5s0WrsckOghl7G  2024/05/19   -0.2960  NEGATIVE       NEGATIVE
-2                                      Destiny clarifies that he's cool with OTK                      https://kick.com/destiny?clip=clip_01HY9AMSVT6ATQ60BZ7WS9CP1R  2024/05/19    0.4939  POSITIVE       POSITIVE
-3                                                    Forsen jg career going well                https://clips.twitch.tv/NiceCrispySushiDoritosChip-I4mPC7iZTYvVBOFj  2024/05/19    0.2732  POSITIVE       POSITIVE
-4               Streamer touches (and eats??) grass for the first time in months               https://clips.twitch.tv/ApatheticPluckyMartenPJSalt-W1JWmNUqNdtuBolH  2024/05/19    0.0000  NEGATIVE       POSITIVE
-5                                       Hbox takes the set and calmly celebrates                  https://clips.twitch.tv/CaringKindCheetahMingLee-3wudhMcHrHs-Tq_W  2024/05/19    0.7184  POSITIVE       POSITIVE
-6                                                              Rob devours crepe                   https://clips.twitch.tv/LuckyCulturedWalrusWOOP-9k4kflPZp67d6txk  2024/05/19   -0.5574  NEGATIVE       NEGATIVE
-7                                                 Wubby gets bullied by a parrot          https://clips.twitch.tv/StylishHilariousElephantRuleFive-6RDPJTtrx6zY2MlV  2024/05/19   -0.6249  NEGATIVE       NEGATIVE
-8                                                      Rare interview circa 1940                https://clips.twitch.tv/LazyLuckyBottleNotLikeThis-vWRwoNdVVnq8SzJk  2024/05/19    0.0000  NEGATIVE       POSITIVE
-9                            matthew_forever - The definition of a ride or die..                        https://clips.twitch.tv/SillyEvilEelOpieOP-xzdOsBTPthOuiB-5  2024/05/19    0.0000  NEGATIVE       POSITIVE
-10                                         Hachu learns about Austin's nightlife                   https://clips.twitch.tv/SpicyFlirtyQueleaNotATK-wdTtChSs59DvhHEQ  2024/05/19    0.0000  NEGATIVE       POSITIVE
-11                                                        Bad timing for pausing  https://youtube.com/clip/UgkxrYxMw9diV4_F-0HwGixhIwjwvG56xTvk?si=NIbKJhPfANbhGyjy  2024/05/19   -0.5423  NEGATIVE       NEGATIVE
-12                                                            Meteor in Portugal            https://clips.twitch.tv/ConfidentSuccessfulReindeerYee-2ZySiFZPy3ZbkyXh  2024/05/19    0.0000  NEGATIVE       POSITIVE
-13                                                            Shootout at a Prom              https://clips.twitch.tv/PeacefulIgnorantEmuPicoMause-vN2JXuPBsOCpDoMM  2024/05/19    0.0000  NEGATIVE       NEGATIVE
-14                     Squeex and Chiblee's captain takes his job very seriously               https://clips.twitch.tv/CoyClearDogeResidentSleeper-qpDTq046JWNBo2s7  2024/05/19   -0.2484  NEGATIVE       POSITIVE
-15                                              Destiny Reacts to a Frogan Tweet                      https://kick.com/destiny?clip=clip_01HY7BPJEK5NZF2CKJVP4777JP  2024/05/19    0.0000  NEGATIVE       NEGATIVE
-16                                   Shroud having a blast playing Star Citizen!                https://clips.twitch.tv/PiliablePlacidTroutPrimeMe-oyu7xUvYc4BK-upj  2024/05/19    0.2714  POSITIVE       POSITIVE
-17                                             Shroud's thoughts on Star Citizen                 https://clips.twitch.tv/ZanySpineyLEDCoolStoryBro-mcSVEBEF6FKfSTWq  2024/05/19    0.0000  NEGATIVE       POSITIVE
-18                                       ExEm calls non subs poor *accidentally*           https://clips.twitch.tv/AgreeableCredulousGoblinPrimeMe-83XD7AXlojI3xqVL  2024/05/19   -0.4767  NEGATIVE       NEGATIVE
+                                                                                                             title                                                                            url        date  compound   SA_nltk SA_distilibert
+0                                                                                                 Mods, im chicken           https://clips.twitch.tv/KawaiiDreamyCoffeeHotPokket-zHmwy6esS6vl7O1Q  2024/05/20    0.0000  NEGATIVE       NEGATIVE
+1                                                                                      the sanest person on a diet              https://clips.twitch.tv/CarefulWittyNostril4Head-T53iL2T6KWEknRXW  2024/05/20    0.0000  NEGATIVE       POSITIVE
+2                                                                                                7tv ruined twitch                 https://clips.twitch.tv/FastCuteLaptopPJSugar-ak7I9ztdHenpX7kC  2024/05/20   -0.4767  NEGATIVE       NEGATIVE
+3                                     Adin Ross goes on homophobic rant and tells viewer to take his life *Repost*              https://kick.com/lospollostv?clip=clip_01HYAE09SWZA747G1TXKPTK5Y7  2024/05/20   -0.3400  NEGATIVE       NEGATIVE
+4                                                                                                   Larry is jelly              https://clips.twitch.tv/MistySmokyPepperoniSMOrc-PFMz0iAPBQJttLdK  2024/05/20    0.0000  NEGATIVE       NEGATIVE
+5                                                                            X thinks Hasan has become radicalized                      https://kick.com/xqc?clip=clip_01HYAQV0H7KPHVB9S1G0ZNB8G6  2024/05/20    0.0000  NEGATIVE       NEGATIVE
+6                                                                                        Certified Survivor Moment  https://clips.twitch.tv/EnthusiasticPeppySardinePeoplesChamp-waYL17vCCsUq5v3E  2024/05/20    0.3612  POSITIVE       POSITIVE
+7                                                                   EXBC spreading their love of tacos to Busan SK                  https://clips.twitch.tv/SpunkyColdTitanDxCat-38fV58M1jFo7W0tz  2024/05/20    0.6369  POSITIVE       POSITIVE
+8                                                                           Coney celebrates after winning his set     https://clips.twitch.tv/DependableCourteousKangarooWoofer--NqM2WGZT4EADjUm  2024/05/20    0.7964  POSITIVE       POSITIVE
+9                           xQc - "random" dog appears in xqc's room and makes x go into hiding his face pepelaugh             https://clips.twitch.tv/CulturedAntsyBottlePupper-R91faQ_4qX2Z3MWk  2024/05/20   -0.2960  NEGATIVE       NEGATIVE
+10  Forsen's league brainrot is reaching terminal levels..... not even minions are safe from the legendary excuser      https://clips.twitch.tv/SlipperyRelievedGazelleEleGiggle-JctxOgMXqnGFJAhD  2024/05/20    0.5719  POSITIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    15
-POSITIVE     4
+NEGATIVE    7
+POSITIVE    4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    11
-NEGATIVE     8
+NEGATIVE    7
+POSITIVE    4
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
