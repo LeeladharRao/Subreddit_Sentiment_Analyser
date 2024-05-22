@@ -1,28 +1,40 @@
 <!-- posts starts -->
-                                                                                                             title                                                                            url        date  compound   SA_nltk SA_distilibert
-0                                                                                                 Mods, im chicken           https://clips.twitch.tv/KawaiiDreamyCoffeeHotPokket-zHmwy6esS6vl7O1Q  2024/05/20    0.0000  NEGATIVE       NEGATIVE
-1                                                                                      the sanest person on a diet              https://clips.twitch.tv/CarefulWittyNostril4Head-T53iL2T6KWEknRXW  2024/05/20    0.0000  NEGATIVE       POSITIVE
-2                                                                                                7tv ruined twitch                 https://clips.twitch.tv/FastCuteLaptopPJSugar-ak7I9ztdHenpX7kC  2024/05/20   -0.4767  NEGATIVE       NEGATIVE
-3                                     Adin Ross goes on homophobic rant and tells viewer to take his life *Repost*              https://kick.com/lospollostv?clip=clip_01HYAE09SWZA747G1TXKPTK5Y7  2024/05/20   -0.3400  NEGATIVE       NEGATIVE
-4                                                                                                   Larry is jelly              https://clips.twitch.tv/MistySmokyPepperoniSMOrc-PFMz0iAPBQJttLdK  2024/05/20    0.0000  NEGATIVE       NEGATIVE
-5                                                                            X thinks Hasan has become radicalized                      https://kick.com/xqc?clip=clip_01HYAQV0H7KPHVB9S1G0ZNB8G6  2024/05/20    0.0000  NEGATIVE       NEGATIVE
-6                                                                                        Certified Survivor Moment  https://clips.twitch.tv/EnthusiasticPeppySardinePeoplesChamp-waYL17vCCsUq5v3E  2024/05/20    0.3612  POSITIVE       POSITIVE
-7                                                                   EXBC spreading their love of tacos to Busan SK                  https://clips.twitch.tv/SpunkyColdTitanDxCat-38fV58M1jFo7W0tz  2024/05/20    0.6369  POSITIVE       POSITIVE
-8                                                                           Coney celebrates after winning his set     https://clips.twitch.tv/DependableCourteousKangarooWoofer--NqM2WGZT4EADjUm  2024/05/20    0.7964  POSITIVE       POSITIVE
-9                           xQc - "random" dog appears in xqc's room and makes x go into hiding his face pepelaugh             https://clips.twitch.tv/CulturedAntsyBottlePupper-R91faQ_4qX2Z3MWk  2024/05/20   -0.2960  NEGATIVE       NEGATIVE
-10  Forsen's league brainrot is reaching terminal levels..... not even minions are safe from the legendary excuser      https://clips.twitch.tv/SlipperyRelievedGazelleEleGiggle-JctxOgMXqnGFJAhD  2024/05/20    0.5719  POSITIVE       NEGATIVE
+                                                                                                           title                                                                                                                                    url        date  compound   SA_nltk SA_distilibert
+0                                                    Forsen throws his teammate into dragon pit then runs in 1v2                                                     https://clips.twitch.tv/ExpensiveAuspiciousSpaghettiLeeroyJenkins-DmU53X0SVRyU20se  2024/05/21    0.0000  NEGATIVE       NEGATIVE
+1                                                                                      Tornado destroys windfarm                                                                   https://clips.twitch.tv/ArbitraryPuzzledHawkGivePLZ-x6XLKFBQ0Vq6MNml  2024/05/21   -0.5574  NEGATIVE       NEGATIVE
+2                                                                                                   RIP Windmill  https://www.twitch.tv/stormchaserreedtimmer/clip/DelightfulScrumptiousKittenKlappa-i966sAGbI5tGt8uj?filter=clips&range=24hr&sort=time  2024/05/21    0.0000  NEGATIVE       NEGATIVE
+3   xQc did not say that Adins homophobia was justified, he was refering to Adin saying "KYS" as being justified                                                                 https://clips.twitch.tv/CrispyOptimisticShrewTebowing-CdaCgTJUiXHf-RWz  2024/05/21    0.6597  POSITIVE       NEGATIVE
+4                                                    Shroud talks about his recent struggles on the battlefield.                                                               https://clips.twitch.tv/RespectfulRespectfulBeePogChamp-gHWPzzFBGs6HKSuI  2024/05/21   -0.6249  NEGATIVE       POSITIVE
+5                                                                        Tectone double downs on his Frogan take                                                               https://clips.twitch.tv/PatientPeacefulNigiriCclamChamp-E17CXS4drZlt_iW_  2024/05/21    0.0000  NEGATIVE       NEGATIVE
+6                                                             Northernlion reacts to portal between NYC & Dublin                                                          https://clips.twitch.tv/BeautifulPreciousAirGuitarRaccAttack-qjx82UC4HNWHHwJT  2024/05/21    0.0000  NEGATIVE       POSITIVE
+7                                                                   Cinna's dad clarifies his plans with Alinity                                                                https://clips.twitch.tv/SincereTentativeOrangeBatChest-SBDryKUkG0mH1W0x  2024/05/21    0.2263  POSITIVE       POSITIVE
+8                                                Twitch adds new content filtering and thumbnail burring options                                                                                  https://twitter.com/Twitch/status/1792965279959658758  2024/05/21    0.0000  NEGATIVE       NEGATIVE
+9                                                       Forsen assesses the mental capabilities of his teammates                                                             https://clips.twitch.tv/MoldyRelatedFennelResidentSleeper-tjOGZBPK7MSx-Hdj  2024/05/21    0.0000  NEGATIVE       POSITIVE
+10                                                                                    Mizkif opens the wrong tab                                                              https://clips.twitch.tv/FlaccidAthleticAirGuitarPraiseIt-OOcEpqaWBmxnV-Pf  2024/05/21   -0.4767  NEGATIVE       NEGATIVE
+11                                                                                       least parasocial X user                                               https://www.twitch.tv/cooksux/clip/AnimatedProductiveCrocodileOMGScoots-U44Gzi4B-JxZCr2y  2024/05/21    0.0000  NEGATIVE       NEGATIVE
+12                                                                                     Moses parting the Red Sea                                               https://www.twitch.tv/josie5297/clip/ObservantExpensiveFoxPhilosoraptor-mbjuzk0FjPJyydtw  2024/05/21    0.0000  NEGATIVE       POSITIVE
+13                                                                      xQc thinks Adin Ross rant was justified                                                           https://clips.twitch.tv/ScrumptiousPhilanthropicLorisTakeNRG-3kRgNlSGpMJBXxcR  2024/05/21    0.0772  NEGATIVE       NEGATIVE
+14                                                             Limmy roleplays as a noble English police officer                                                                        https://clips.twitch.tv/StrongFitScorpionKAPOW-L1trxKUiThrMXfIO  2024/05/21    0.4588  POSITIVE       POSITIVE
+15                                                                        Angle of Shibuya saves a starving bird                                                               https://clips.twitch.tv/WealthyTransparentLapwingPJSalt-_NxmQ2mZqaxH7Nl8  2024/05/21   -0.4215  NEGATIVE       POSITIVE
+16                                               League of Legends Rank 1 don't know how to draw a question mark                                                              https://clips.twitch.tv/PhilanthropicStupidRuffBuddhaBar-HdxAu11CX1dPbWFu  2024/05/21    0.0000  NEGATIVE       NEGATIVE
+17                                                                                       pobelter is learning cs                                                                      https://clips.twitch.tv/StrongIgnorantAntGivePLZ-BdnE33U1n9CiQVgH  2024/05/21    0.0000  NEGATIVE       POSITIVE
+18                                                                                            xQc's take on guns                                                                              https://kick.com/xqc?clip=clip_01HYA0CZESJCSV4N9MV3MB0ARG  2024/05/21    0.0000  NEGATIVE       POSITIVE
+19                                                                       EXBC spreading Cheeseburgers now KKonaW                                                                https://clips.twitch.tv/GloriousBloodyGarbageShadyLulu-dxir_INn5Eu3Ah70  2024/05/21    0.0000  NEGATIVE       NEGATIVE
+20                                                                             Pobelter gets the Riot experience                                                               https://clips.twitch.tv/YummySourSandstormChocolateRain-c9Wti_ZXIQaxesW_  2024/05/21   -0.5574  NEGATIVE       POSITIVE
+21                                   Hasan calls Twitch stupid for banning people in his chat who say the c-word                                                                 https://clips.twitch.tv/LitigiousSourWrenchBigBrother-x3NU7N9zigdB_h9g  2024/05/21   -0.5267  NEGATIVE       NEGATIVE
+22                                                                                         chiblee scores a date                                                                 https://clips.twitch.tv/OriginalCrazyPistachioHeyGuys-ceXQj4NlU8B8hWQN  2024/05/21    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    7
-POSITIVE    4
+NEGATIVE    20
+POSITIVE     3
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    7
-POSITIVE    4
+NEGATIVE    12
+POSITIVE    11
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
