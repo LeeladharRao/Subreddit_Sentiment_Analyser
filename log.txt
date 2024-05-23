@@ -1,40 +1,34 @@
 <!-- posts starts -->
-                                                                                                           title                                                                                                                                    url        date  compound   SA_nltk SA_distilibert
-0                                                    Forsen throws his teammate into dragon pit then runs in 1v2                                                     https://clips.twitch.tv/ExpensiveAuspiciousSpaghettiLeeroyJenkins-DmU53X0SVRyU20se  2024/05/21    0.0000  NEGATIVE       NEGATIVE
-1                                                                                      Tornado destroys windfarm                                                                   https://clips.twitch.tv/ArbitraryPuzzledHawkGivePLZ-x6XLKFBQ0Vq6MNml  2024/05/21   -0.5574  NEGATIVE       NEGATIVE
-2                                                                                                   RIP Windmill  https://www.twitch.tv/stormchaserreedtimmer/clip/DelightfulScrumptiousKittenKlappa-i966sAGbI5tGt8uj?filter=clips&range=24hr&sort=time  2024/05/21    0.0000  NEGATIVE       NEGATIVE
-3   xQc did not say that Adins homophobia was justified, he was refering to Adin saying "KYS" as being justified                                                                 https://clips.twitch.tv/CrispyOptimisticShrewTebowing-CdaCgTJUiXHf-RWz  2024/05/21    0.6597  POSITIVE       NEGATIVE
-4                                                    Shroud talks about his recent struggles on the battlefield.                                                               https://clips.twitch.tv/RespectfulRespectfulBeePogChamp-gHWPzzFBGs6HKSuI  2024/05/21   -0.6249  NEGATIVE       POSITIVE
-5                                                                        Tectone double downs on his Frogan take                                                               https://clips.twitch.tv/PatientPeacefulNigiriCclamChamp-E17CXS4drZlt_iW_  2024/05/21    0.0000  NEGATIVE       NEGATIVE
-6                                                             Northernlion reacts to portal between NYC & Dublin                                                          https://clips.twitch.tv/BeautifulPreciousAirGuitarRaccAttack-qjx82UC4HNWHHwJT  2024/05/21    0.0000  NEGATIVE       POSITIVE
-7                                                                   Cinna's dad clarifies his plans with Alinity                                                                https://clips.twitch.tv/SincereTentativeOrangeBatChest-SBDryKUkG0mH1W0x  2024/05/21    0.2263  POSITIVE       POSITIVE
-8                                                Twitch adds new content filtering and thumbnail burring options                                                                                  https://twitter.com/Twitch/status/1792965279959658758  2024/05/21    0.0000  NEGATIVE       NEGATIVE
-9                                                       Forsen assesses the mental capabilities of his teammates                                                             https://clips.twitch.tv/MoldyRelatedFennelResidentSleeper-tjOGZBPK7MSx-Hdj  2024/05/21    0.0000  NEGATIVE       POSITIVE
-10                                                                                    Mizkif opens the wrong tab                                                              https://clips.twitch.tv/FlaccidAthleticAirGuitarPraiseIt-OOcEpqaWBmxnV-Pf  2024/05/21   -0.4767  NEGATIVE       NEGATIVE
-11                                                                                       least parasocial X user                                               https://www.twitch.tv/cooksux/clip/AnimatedProductiveCrocodileOMGScoots-U44Gzi4B-JxZCr2y  2024/05/21    0.0000  NEGATIVE       NEGATIVE
-12                                                                                     Moses parting the Red Sea                                               https://www.twitch.tv/josie5297/clip/ObservantExpensiveFoxPhilosoraptor-mbjuzk0FjPJyydtw  2024/05/21    0.0000  NEGATIVE       POSITIVE
-13                                                                      xQc thinks Adin Ross rant was justified                                                           https://clips.twitch.tv/ScrumptiousPhilanthropicLorisTakeNRG-3kRgNlSGpMJBXxcR  2024/05/21    0.0772  NEGATIVE       NEGATIVE
-14                                                             Limmy roleplays as a noble English police officer                                                                        https://clips.twitch.tv/StrongFitScorpionKAPOW-L1trxKUiThrMXfIO  2024/05/21    0.4588  POSITIVE       POSITIVE
-15                                                                        Angle of Shibuya saves a starving bird                                                               https://clips.twitch.tv/WealthyTransparentLapwingPJSalt-_NxmQ2mZqaxH7Nl8  2024/05/21   -0.4215  NEGATIVE       POSITIVE
-16                                               League of Legends Rank 1 don't know how to draw a question mark                                                              https://clips.twitch.tv/PhilanthropicStupidRuffBuddhaBar-HdxAu11CX1dPbWFu  2024/05/21    0.0000  NEGATIVE       NEGATIVE
-17                                                                                       pobelter is learning cs                                                                      https://clips.twitch.tv/StrongIgnorantAntGivePLZ-BdnE33U1n9CiQVgH  2024/05/21    0.0000  NEGATIVE       POSITIVE
-18                                                                                            xQc's take on guns                                                                              https://kick.com/xqc?clip=clip_01HYA0CZESJCSV4N9MV3MB0ARG  2024/05/21    0.0000  NEGATIVE       POSITIVE
-19                                                                       EXBC spreading Cheeseburgers now KKonaW                                                                https://clips.twitch.tv/GloriousBloodyGarbageShadyLulu-dxir_INn5Eu3Ah70  2024/05/21    0.0000  NEGATIVE       NEGATIVE
-20                                                                             Pobelter gets the Riot experience                                                               https://clips.twitch.tv/YummySourSandstormChocolateRain-c9Wti_ZXIQaxesW_  2024/05/21   -0.5574  NEGATIVE       POSITIVE
-21                                   Hasan calls Twitch stupid for banning people in his chat who say the c-word                                                                 https://clips.twitch.tv/LitigiousSourWrenchBigBrother-x3NU7N9zigdB_h9g  2024/05/21   -0.5267  NEGATIVE       NEGATIVE
-22                                                                                         chiblee scores a date                                                                 https://clips.twitch.tv/OriginalCrazyPistachioHeyGuys-ceXQj4NlU8B8hWQN  2024/05/21    0.0000  NEGATIVE       POSITIVE
+                                                                                                                       title                                                                                        url        date  compound   SA_nltk SA_distilibert
+0                                                                                                   Alinity experiences 9/11                       https://clips.twitch.tv/SneakyPatientWhaleSwiftRage-Hg2q4B29Pw3hfCTr  2024/05/22    0.0000  NEGATIVE       POSITIVE
+1                                                                                             Mizkif shows Emily how to jump                                  https://clips.twitch.tv/RichEvilLarkUWot-stOCEBz0CFA4wMcg  2024/05/22    0.0000  NEGATIVE       POSITIVE
+2                                                                                         forsen does the play of his career                https://clips.twitch.tv/NurturingWittyJellyfishBleedPurple-FKbubY-x94JirHAK  2024/05/22    0.3400  POSITIVE       POSITIVE
+3                                                                                               Mizkif hits his head golfing            https://clips.twitch.tv/OutstandingUnsightlyLlamaPhilosoraptor-BU-bp0PJWBtNFpw3  2024/05/22    0.0000  NEGATIVE       NEGATIVE
+4                                                                       HealthyGamer_GG is suffering with the Dota community                  https://clips.twitch.tv/VivaciousDepressedButterRickroll-MFUeqoKoCfkNVNKd  2024/05/22   -0.4767  NEGATIVE       NEGATIVE
+5                                                                  Alinity doesn't understand why being White is a bad thing      https://www.twitch.tv/alinity/clip/DifferentLitigiousTomatoTheRinger-kAc5Rkar_4ZWc75f  2024/05/22   -0.5423  NEGATIVE       NEGATIVE
+6                                                                                                 forsen simply doesn't care                     https://clips.twitch.tv/TenderRudeAubergineHumbleLife-9aAD01zKXGD1yLGJ  2024/05/22   -0.3875  NEGATIVE       NEGATIVE
+7                                                      just a guy with a stick casually attacks people on the streets of NYC  https://www.twitch.tv/ariathome/clip/ObservantFlaccidIcecreamHoneyBadger-1ubyZ9cYaws-3GAd  2024/05/22   -0.2960  NEGATIVE       NEGATIVE
+8                                                                                                               DANKIES song                      https://clips.twitch.tv/BoringLivelyCrabCoolStoryBro-xDvBTUuMJJ2yjw2F  2024/05/22    0.0000  NEGATIVE       POSITIVE
+9                                                                                                  Forsen has a new mustache                             https://clips.twitch.tv/SnappyWiseTireDBstyle-gpKhKCVqrrd2RCDt  2024/05/22    0.0000  NEGATIVE       NEGATIVE
+10                                                                                                    Water helps her friend                      https://clips.twitch.tv/BoxyDoubtfulManateeJKanStyle-dCAnX2bBz0iq9cJh  2024/05/22    0.7003  POSITIVE       POSITIVE
+11  You may laugh at him all you want, but off-stream Forsen is unchained and is absolutely demolishing poor bronze peasants                              https://clips.twitch.tv/WildSmoothCookieWOOP-97DQqnkTAOjGVA10  2024/05/22   -0.4797  NEGATIVE       NEGATIVE
+12                                         Adept leaks an audio of her and xQC talking about his relationship with Aikobliss                  https://clips.twitch.tv/CorrectRenownedRadicchioBatChest-D-hMcUBvuLg0VE3k  2024/05/22    0.0000  NEGATIVE       NEGATIVE
+13                                                                                                        Sips' meat musical                https://clips.twitch.tv/AnnoyingAmazingPheasantBleedPurple-_r9jbdsYrsCMNXC8  2024/05/22    0.0000  NEGATIVE       POSITIVE
+14                                                                                                  Most elegant Dota talent                          https://clips.twitch.tv/BitterBoxyFishCeilingCat-QOSfdUVMSfUAerpo  2024/05/22    0.7548  POSITIVE       POSITIVE
+15                                                                      Paypal cart injection exploit done on PirateSoftware                    https://clips.twitch.tv/TemperedEsteemedTriangleWTRuck-9neWaxcmLEzzb-bA  2024/05/22   -0.1027  NEGATIVE       NEGATIVE
+16                                                                                         Ramee's dad warns him about Diddy                             https://clips.twitch.tv/CrazySingleWalletWOOP-bacLKwt2ynwT6ck0  2024/05/22   -0.1027  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    20
+NEGATIVE    14
 POSITIVE     3
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    12
-POSITIVE    11
+NEGATIVE    10
+POSITIVE     7
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
