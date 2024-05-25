@@ -1,39 +1,37 @@
 <!-- posts starts -->
-                                                            title                                                                                                       url        date  compound   SA_nltk SA_distilibert
-0                                                    Agent clutch                                          https://clips.twitch.tv/CrazyMoldyHareFUNgineer-cUWl09-S04KsSQnA  2024/05/23    0.0000  NEGATIVE       POSITIVE
-1               Black Lung becomes an Elden Lord after 349 deaths                                    https://clips.twitch.tv/MistyObliqueCucumberPicoMause-U5IVbMJzeq40CWzV  2024/05/23    0.0000  NEGATIVE       POSITIVE
-2                               Lirik OBLITERATES the competition                                    https://clips.twitch.tv/GeniusFunPterodactylJKanStyle-WNJ1Z6QaGIRCJ69R  2024/05/23    0.0000  NEGATIVE       NEGATIVE
-3                                                   LIRIK carries                          https://clips.twitch.tv/CloudyDelightfulKeyboardAMPEnergyCherry-bXxhyX5HHfHVyjpW  2024/05/23    0.0000  NEGATIVE       POSITIVE
-4                                                         1G peek                                          https://clips.twitch.tv/DeafReliableDragonKAPOW-tuTxcJ_5QBZ589Za  2024/05/23    0.0000  NEGATIVE       POSITIVE
-5                                           Reality with gambling                                               https://kick.com/konvy?clip=clip_01HYHVDGECFDXG4M7WGNTA1ZTT  2024/05/23    0.0000  NEGATIVE       NEGATIVE
-6                                       Agent attempts to play CS                                         https://clips.twitch.tv/PrettySmokyGoshawkM4xHeh-nSsZnxiwftANF2zu  2024/05/23    0.3400  POSITIVE       NEGATIVE
-7                                           Ogre (female version)                                    https://clips.twitch.tv/DrabGenerousGaurDancingBanana-QZmJYjkcLlYFdkTD  2024/05/23    0.0000  NEGATIVE       NEGATIVE
-8   MissMikkaa completes a Level 1, All Boss, NG+7 Elden Ring run                                https://clips.twitch.tv/ResilientGorgeousPepperoniCoolCat-KdoqDK4EHaNdbLC_  2024/05/23    0.0000  NEGATIVE       POSITIVE
-9                          There is a solution for bald streamers                                       https://clips.twitch.tv/FamousExquisiteCurryOSfrog-kxdbnDyNaRH87Amc  2024/05/23    0.3182  POSITIVE       NEGATIVE
-10               Ludwig gets 1/10th of the way to 1000 3 pointers                         https://youtube.com/clip/Ugkxvr6dxQ83DQ1cP13ScTFkVcvfx9L253ki?si=Jx6rlOKnArTQ0Slj  2024/05/23    0.0000  NEGATIVE       POSITIVE
-11                                      Destiny talks about Vaush                                             https://kick.com/destiny?clip=clip_01HYK35MYJZZ91N4VNWED3RJZ9  2024/05/23    0.0000  NEGATIVE       POSITIVE
-12                   Forsen does an actually insane backdoor play                               https://clips.twitch.tv/DeterminedAgitatedPotatoPunchTrees-jJC2SYLiUItSyjWw  2024/05/23   -0.0772  NEGATIVE       POSITIVE
-13                                               The great escape                           https://clips.twitch.tv/LaconicAdventurousDragonflyPanicBasket--1wxu4nfq0PrD_Co  2024/05/23    0.7003  POSITIVE       POSITIVE
-14                                                  Forsen ganks                                     https://clips.twitch.tv/BlatantLaconicBurritoOSkomodo-QQE2AD4_88PJm4pk  2024/05/23    0.0000  NEGATIVE       NEGATIVE
-15                                Robbaz - It's not gonna explode  https://www.twitch.tv/robbaz/clip/BitterSquareBeeVoHiYo-1YEr50LRfWTdhgIG?filter=clips&range=7d&sort=time  2024/05/23    0.0000  NEGATIVE       NEGATIVE
-16                                           decoration emergency                       https://www.twitch.tv/waterlynn/clip/BillowingVenomousFungusLitFam-y5hto-sdTGhzcQJ6  2024/05/23   -0.3818  NEGATIVE       NEGATIVE
-17                                         Lacari gets a makeover                                    https://clips.twitch.tv/CrispyDreamyChipmunkDatSheffy-FY-5ous2jtP25tzS  2024/05/23    0.0000  NEGATIVE       POSITIVE
-18                                    Nymn shows his For You page                                 https://clips.twitch.tv/GiantVivaciousFiddleheadsSaltBae-H1nJdSNYiunml_5h  2024/05/23    0.0000  NEGATIVE       POSITIVE
-19                                                  Bing Chilling                                           https://clips.twitch.tv/SleepyIcyGalagoBudStar-FfGjC59mPVw1jWuf  2024/05/23   -0.0258  NEGATIVE       POSITIVE
-20                 Destiny tells a story about Reckful and Melina                                             https://kick.com/destiny?clip=clip_01HYHGSCXNDS2NFDYHEBKZ8867  2024/05/23    0.0000  NEGATIVE       POSITIVE
-21                                     Destiny compliments Mizkif                                             https://kick.com/destiny?clip=clip_01HYG4833Y4KA4VKSYGP8PNJDA  2024/05/23    0.4019  POSITIVE       POSITIVE
+                                                 title                                                                                       url        date  compound   SA_nltk SA_distilibert
+0                      Tekken X Muppets Reveal Trailer                https://clips.twitch.tv/ObliviousFreezingDaikonStrawBeary-Hkx3nFDeYXYDE04c  2024/05/24    0.0000  NEGATIVE       NEGATIVE
+1            A lot of Asmon's YT clips are AI reaction                    https://clips.twitch.tv/UnusualResilientDurianPrimeMe-TKSaVI-A2ZCzLlgz  2024/05/24    0.0000  NEGATIVE       NEGATIVE
+2               A Tourist almost gets mugged in Brazil               https://www.twitch.tv/leva2k/clip/AmazingKathishLarkTTours-RBz3Z4Hni_j2InVh  2024/05/24    0.0000  NEGATIVE       NEGATIVE
+3                           forsen observes two idiots                   https://clips.twitch.tv/IronicFrozenPeppermintPogChamp-wrn0Gzu4RS5XtZpB  2024/05/24    0.0000  NEGATIVE       NEGATIVE
+4             Panellist asks Destiny if he is on speed                             https://kick.com/destiny?clip=clip_01HYMDHSRPBGE92CVV1WKBYYSG  2024/05/24    0.0000  NEGATIVE       POSITIVE
+5                             Forsen with a insane 1v2                       https://clips.twitch.tv/VibrantGleamingEggnogSMOrc-cXbhXo_t6O7S9Q1Z  2024/05/24   -0.4019  NEGATIVE       NEGATIVE
+6                        Insane mechanics from Forsen.                 https://clips.twitch.tv/TangibleComfortableOwlSquadGoals-iWdbQuOd9IiZxM6D  2024/05/24   -0.4019  NEGATIVE       NEGATIVE
+7                                     Forsen God Gamer                 https://clips.twitch.tv/AltruisticOptimisticInternPJSalt-Y-FCwgv2P9P2IKOH  2024/05/24    0.2732  POSITIVE       NEGATIVE
+8                                          weeb yakuza      https://www.twitch.tv/joeykaotyk/clip/NastyCogentLadiesCoolStoryBro-T7ZbY4n7nTudyYcb  2024/05/24    0.0000  NEGATIVE       NEGATIVE
+9                     aris with the strong prayer game               https://clips.twitch.tv/LitigiousMuddyBurritoLeeroyJenkins-uCg4Ttc-Srn8ses5  2024/05/24    0.5106  POSITIVE       POSITIVE
+10                            erobb highlight speedrun  https://www.twitch.tv/erobb221/clip/DifficultBeautifulMangoTBCheesePull-_lSBRTO-Vt-Lf5TE  2024/05/24    0.3400  POSITIVE       NEGATIVE
+11                           Drunk panda causes mayhem                     https://clips.twitch.tv/SmilingEndearingYakEleGiggle-QLo3z8O-rU1ADoue  2024/05/24   -0.3400  NEGATIVE       NEGATIVE
+12                            Kevin Hart Spitting Bars                  https://clips.twitch.tv/BenevolentArtisticChoughTF2John-lMOtiKqsBynKGew6  2024/05/24    0.0000  NEGATIVE       NEGATIVE
+13                            Kai vs Kevin Hart height                            https://clips.twitch.tv/SpeedyJazzyPeachLitty-3e8GBBs0RT5C1yII  2024/05/24    0.0000  NEGATIVE       POSITIVE
+14         Summit gets a 1v5 Clutch in CSGO Tournament                 https://clips.twitch.tv/InexpensiveTrustworthyWaspNotATK--_veedwGe-9dTe4J  2024/05/24    0.0000  NEGATIVE       POSITIVE
+15  Kevin Hart can't recognise this basketball player                         https://clips.twitch.tv/BlueKitschyCarrotRickroll-cxovv92SRH-BNosF  2024/05/24    0.0000  NEGATIVE       NEGATIVE
+16                                   Kai explains subs                    https://clips.twitch.tv/BreakableCallousWerewolfKeepo-NVd6lkCoU7I9zV2A  2024/05/24    0.0000  NEGATIVE       POSITIVE
+17                  Kevin Hart receives a special gift                https://clips.twitch.tv/TenderBeautifulManateeShazBotstix-bx425e3_ase8eTOQ  2024/05/24    0.6808  POSITIVE       POSITIVE
+18                Erobb221 thinks he's one of the boys                         https://clips.twitch.tv/LovelyRudeSheepKappaRoss-2qpDRxnDoKTkfkoL  2024/05/24    0.0000  NEGATIVE       NEGATIVE
+19                                          Kevin Hart                 https://clips.twitch.tv/BlatantBlazingQueleaRiPepperonis-uxL-MHKhjWBkGDDf  2024/05/24    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    18
+NEGATIVE    16
 POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    14
-NEGATIVE     8
+NEGATIVE    13
+POSITIVE     7
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
