@@ -1,37 +1,33 @@
 <!-- posts starts -->
-                                                 title                                                                                       url        date  compound   SA_nltk SA_distilibert
-0                      Tekken X Muppets Reveal Trailer                https://clips.twitch.tv/ObliviousFreezingDaikonStrawBeary-Hkx3nFDeYXYDE04c  2024/05/24    0.0000  NEGATIVE       NEGATIVE
-1            A lot of Asmon's YT clips are AI reaction                    https://clips.twitch.tv/UnusualResilientDurianPrimeMe-TKSaVI-A2ZCzLlgz  2024/05/24    0.0000  NEGATIVE       NEGATIVE
-2               A Tourist almost gets mugged in Brazil               https://www.twitch.tv/leva2k/clip/AmazingKathishLarkTTours-RBz3Z4Hni_j2InVh  2024/05/24    0.0000  NEGATIVE       NEGATIVE
-3                           forsen observes two idiots                   https://clips.twitch.tv/IronicFrozenPeppermintPogChamp-wrn0Gzu4RS5XtZpB  2024/05/24    0.0000  NEGATIVE       NEGATIVE
-4             Panellist asks Destiny if he is on speed                             https://kick.com/destiny?clip=clip_01HYMDHSRPBGE92CVV1WKBYYSG  2024/05/24    0.0000  NEGATIVE       POSITIVE
-5                             Forsen with a insane 1v2                       https://clips.twitch.tv/VibrantGleamingEggnogSMOrc-cXbhXo_t6O7S9Q1Z  2024/05/24   -0.4019  NEGATIVE       NEGATIVE
-6                        Insane mechanics from Forsen.                 https://clips.twitch.tv/TangibleComfortableOwlSquadGoals-iWdbQuOd9IiZxM6D  2024/05/24   -0.4019  NEGATIVE       NEGATIVE
-7                                     Forsen God Gamer                 https://clips.twitch.tv/AltruisticOptimisticInternPJSalt-Y-FCwgv2P9P2IKOH  2024/05/24    0.2732  POSITIVE       NEGATIVE
-8                                          weeb yakuza      https://www.twitch.tv/joeykaotyk/clip/NastyCogentLadiesCoolStoryBro-T7ZbY4n7nTudyYcb  2024/05/24    0.0000  NEGATIVE       NEGATIVE
-9                     aris with the strong prayer game               https://clips.twitch.tv/LitigiousMuddyBurritoLeeroyJenkins-uCg4Ttc-Srn8ses5  2024/05/24    0.5106  POSITIVE       POSITIVE
-10                            erobb highlight speedrun  https://www.twitch.tv/erobb221/clip/DifficultBeautifulMangoTBCheesePull-_lSBRTO-Vt-Lf5TE  2024/05/24    0.3400  POSITIVE       NEGATIVE
-11                           Drunk panda causes mayhem                     https://clips.twitch.tv/SmilingEndearingYakEleGiggle-QLo3z8O-rU1ADoue  2024/05/24   -0.3400  NEGATIVE       NEGATIVE
-12                            Kevin Hart Spitting Bars                  https://clips.twitch.tv/BenevolentArtisticChoughTF2John-lMOtiKqsBynKGew6  2024/05/24    0.0000  NEGATIVE       NEGATIVE
-13                            Kai vs Kevin Hart height                            https://clips.twitch.tv/SpeedyJazzyPeachLitty-3e8GBBs0RT5C1yII  2024/05/24    0.0000  NEGATIVE       POSITIVE
-14         Summit gets a 1v5 Clutch in CSGO Tournament                 https://clips.twitch.tv/InexpensiveTrustworthyWaspNotATK--_veedwGe-9dTe4J  2024/05/24    0.0000  NEGATIVE       POSITIVE
-15  Kevin Hart can't recognise this basketball player                         https://clips.twitch.tv/BlueKitschyCarrotRickroll-cxovv92SRH-BNosF  2024/05/24    0.0000  NEGATIVE       NEGATIVE
-16                                   Kai explains subs                    https://clips.twitch.tv/BreakableCallousWerewolfKeepo-NVd6lkCoU7I9zV2A  2024/05/24    0.0000  NEGATIVE       POSITIVE
-17                  Kevin Hart receives a special gift                https://clips.twitch.tv/TenderBeautifulManateeShazBotstix-bx425e3_ase8eTOQ  2024/05/24    0.6808  POSITIVE       POSITIVE
-18                Erobb221 thinks he's one of the boys                         https://clips.twitch.tv/LovelyRudeSheepKappaRoss-2qpDRxnDoKTkfkoL  2024/05/24    0.0000  NEGATIVE       NEGATIVE
-19                                          Kevin Hart                 https://clips.twitch.tv/BlatantBlazingQueleaRiPepperonis-uxL-MHKhjWBkGDDf  2024/05/24    0.0000  NEGATIVE       POSITIVE
+                                                        title                                                                                                                 url        date  compound   SA_nltk SA_distilibert
+0   Scarra remembers an LCS season where his team started 8-0                                                https://clips.twitch.tv/FragileSquareDumplingsKappa-bBb5FUNYRlh88bNF  2024/05/25    0.0000  NEGATIVE       POSITIVE
+1                                           Malena meets Nora                                                https://clips.twitch.tv/HealthyQuaintCurlewKreygasm-nEv-b2OoZ4LJdcLw  2024/05/25    0.0000  NEGATIVE       POSITIVE
+2                                       Knut reviews his meal                                             https://clips.twitch.tv/PreciousWittyPoultryKappaPride-0uD5T3zFtWBrs-66  2024/05/25    0.0000  NEGATIVE       POSITIVE
+3                                           A double eclipse                                          https://clips.twitch.tv/AverageAuspiciousHedgehogPastaThat-6Gb41FUaLokk8JRF  2024/05/25    0.0000  NEGATIVE       POSITIVE
+4                               Forsen can't escape the curse                                                    https://clips.twitch.tv/WiseDarlingHerringLitty-_DYGcOOlcQM6DGed  2024/05/25    0.3252  POSITIVE       NEGATIVE
+5                        Alinity is learning pool meta tricks                                         https://clips.twitch.tv/AdventurousHedonisticPangolinKippa-JZoDTUR4F9LkFP4v  2024/05/25   -0.1280  NEGATIVE       POSITIVE
+6                                              Classic forsen                                            https://clips.twitch.tv/StrangeSolidChoughPhilosoraptor-OQtWGVc9BE7i7xHF  2024/05/25    0.0000  NEGATIVE       POSITIVE
+7                                Plup and Hungrybox square up                                         https://clips.twitch.tv/ApatheticGlamorousKangarooFrankerZ-sV-zZdBzZahTB7jT  2024/05/25    0.0000  NEGATIVE       POSITIVE
+8                       I thought LA ​​streamers must be nice                                              https://clips.twitch.tv/HotEvilClintmullinsKappaPride-UHKUVquDQhw-K1F2  2024/05/25    0.4215  POSITIVE       POSITIVE
+9                                 another fake panda in China                                       https://www.twitch.tv/geezgiselle/clip/BusyEasyBadgerTriHard-7sWuh6D0aqBINA0y  2024/05/25   -0.4767  NEGATIVE       NEGATIVE
+10          Erobb's (football teams) newest recruit... Regret                                          https://clips.twitch.tv/BenevolentSneakyDaikonArsonNoSexy-eZCD0FhXAbg6aj4O  2024/05/25   -0.4215  NEGATIVE       NEGATIVE
+11                                        Aris yells at cloud                                                https://clips.twitch.tv/AgileAverageAsparagusDatBoi-TUHKHxkWAvqXkgCD  2024/05/25    0.0000  NEGATIVE       POSITIVE
+12                                Simply on the Ludwig drama                                                 https://clips.twitch.tv/AltruisticTameHawkOMGScoots-EydwQk4UPObNNIX6  2024/05/25    0.0000  NEGATIVE       POSITIVE
+13                       Perverted grandpa harrasing streamer                                           https://clips.twitch.tv/HeadstrongSarcasticMagpieOneHand-tY0vg6cxPYZUxjf_  2024/05/25   -0.5423  NEGATIVE       NEGATIVE
+14                                        Ol' Bait and Switch                                        https://clips.twitch.tv/EntertainingCautiousPorpoiseWutFace-0KdYcb3Kysvm3-xR  2024/05/25    0.0000  NEGATIVE       POSITIVE
+15                       Hitch was traveling in a 1972 Cessna  https://www.twitch.tv/hitch/clip/RelentlessAttractiveTigerKeepo-u-zf5fssWV_YY793?filter=clips&range=24hr&sort=time  2024/05/25    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    16
-POSITIVE     4
+NEGATIVE    14
+POSITIVE     2
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    13
-POSITIVE     7
+POSITIVE    11
+NEGATIVE     5
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
