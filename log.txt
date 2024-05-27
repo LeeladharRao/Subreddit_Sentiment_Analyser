@@ -1,33 +1,32 @@
 <!-- posts starts -->
-                                                        title                                                                                                                 url        date  compound   SA_nltk SA_distilibert
-0   Scarra remembers an LCS season where his team started 8-0                                                https://clips.twitch.tv/FragileSquareDumplingsKappa-bBb5FUNYRlh88bNF  2024/05/25    0.0000  NEGATIVE       POSITIVE
-1                                           Malena meets Nora                                                https://clips.twitch.tv/HealthyQuaintCurlewKreygasm-nEv-b2OoZ4LJdcLw  2024/05/25    0.0000  NEGATIVE       POSITIVE
-2                                       Knut reviews his meal                                             https://clips.twitch.tv/PreciousWittyPoultryKappaPride-0uD5T3zFtWBrs-66  2024/05/25    0.0000  NEGATIVE       POSITIVE
-3                                           A double eclipse                                          https://clips.twitch.tv/AverageAuspiciousHedgehogPastaThat-6Gb41FUaLokk8JRF  2024/05/25    0.0000  NEGATIVE       POSITIVE
-4                               Forsen can't escape the curse                                                    https://clips.twitch.tv/WiseDarlingHerringLitty-_DYGcOOlcQM6DGed  2024/05/25    0.3252  POSITIVE       NEGATIVE
-5                        Alinity is learning pool meta tricks                                         https://clips.twitch.tv/AdventurousHedonisticPangolinKippa-JZoDTUR4F9LkFP4v  2024/05/25   -0.1280  NEGATIVE       POSITIVE
-6                                              Classic forsen                                            https://clips.twitch.tv/StrangeSolidChoughPhilosoraptor-OQtWGVc9BE7i7xHF  2024/05/25    0.0000  NEGATIVE       POSITIVE
-7                                Plup and Hungrybox square up                                         https://clips.twitch.tv/ApatheticGlamorousKangarooFrankerZ-sV-zZdBzZahTB7jT  2024/05/25    0.0000  NEGATIVE       POSITIVE
-8                       I thought LA ​​streamers must be nice                                              https://clips.twitch.tv/HotEvilClintmullinsKappaPride-UHKUVquDQhw-K1F2  2024/05/25    0.4215  POSITIVE       POSITIVE
-9                                 another fake panda in China                                       https://www.twitch.tv/geezgiselle/clip/BusyEasyBadgerTriHard-7sWuh6D0aqBINA0y  2024/05/25   -0.4767  NEGATIVE       NEGATIVE
-10          Erobb's (football teams) newest recruit... Regret                                          https://clips.twitch.tv/BenevolentSneakyDaikonArsonNoSexy-eZCD0FhXAbg6aj4O  2024/05/25   -0.4215  NEGATIVE       NEGATIVE
-11                                        Aris yells at cloud                                                https://clips.twitch.tv/AgileAverageAsparagusDatBoi-TUHKHxkWAvqXkgCD  2024/05/25    0.0000  NEGATIVE       POSITIVE
-12                                Simply on the Ludwig drama                                                 https://clips.twitch.tv/AltruisticTameHawkOMGScoots-EydwQk4UPObNNIX6  2024/05/25    0.0000  NEGATIVE       POSITIVE
-13                       Perverted grandpa harrasing streamer                                           https://clips.twitch.tv/HeadstrongSarcasticMagpieOneHand-tY0vg6cxPYZUxjf_  2024/05/25   -0.5423  NEGATIVE       NEGATIVE
-14                                        Ol' Bait and Switch                                        https://clips.twitch.tv/EntertainingCautiousPorpoiseWutFace-0KdYcb3Kysvm3-xR  2024/05/25    0.0000  NEGATIVE       POSITIVE
-15                       Hitch was traveling in a 1972 Cessna  https://www.twitch.tv/hitch/clip/RelentlessAttractiveTigerKeepo-u-zf5fssWV_YY793?filter=clips&range=24hr&sort=time  2024/05/25    0.0000  NEGATIVE       NEGATIVE
+                                                                             title                                                                                                               url        date  compound   SA_nltk SA_distilibert
+0                                        Blood God protects his most loyal prophet                                               https://clips.twitch.tv/HyperReliablePicklesPupper-Nq72ZFdbA8eKESfp  2024/05/26    0.7778  POSITIVE       POSITIVE
+1                                                     Let the bodies hit the floor                          https://clips.twitch.tv/AdventurousBeautifulStrawberryCharlietheUnicorn-opkql-nQOlM7M_bl  2024/05/26    0.0000  NEGATIVE       NEGATIVE
+2                                         ✂️ Speed confesses to Amy at the airport                                 https://youtube.com/clip/UgkxCo4klgRhEOVkzSnUHKfxn4JkPvBQSyeN?si=uW5DIOAWGnaGFXDh  2024/05/26    0.0000  NEGATIVE       NEGATIVE
+3                                                   Forsen Mensa Certified Karthus                                          https://clips.twitch.tv/PleasantCrazyManateeGingerPower-1t7jmYfa22yuKdBC  2024/05/26    0.0000  NEGATIVE       POSITIVE
+4                                                               It happened again.  https://www.twitch.tv/bgcallisto/clip/BloodyClearStarlingPJSalt-Vw4tAXw7k7cuB-ss?filter=clips&range=7d&sort=time  2024/05/26    0.0000  NEGATIVE       POSITIVE
+5                                          Neuro-sama calls a witness to the court                                             https://clips.twitch.tv/SwissMiniatureAlpacaBatChest-jptMMuH8QZexLjwV  2024/05/26    0.0000  NEGATIVE       NEGATIVE
+6                                                                    Classic Greek                                             https://clips.twitch.tv/SmallSwissCasetteKappaWealth-EkCWNVdyIhidixyq  2024/05/26    0.0000  NEGATIVE       POSITIVE
+7   Forsen's chat ban has passed and he can finally communicate with his teammates                                          https://clips.twitch.tv/SparklingSleepySpaghettiPMSTwin-bzURNCjxgpfTkIvn  2024/05/26   -0.5574  NEGATIVE       POSITIVE
+8                                     psp1g pops a watermelon with 434 Rubberbands                                           https://clips.twitch.tv/CrackyColdRutabagaPeoplesChamp-U73DDJr7CCzsVYUh  2024/05/26    0.0000  NEGATIVE       NEGATIVE
+9                                     the funniest part of watching fighting games                     https://www.twitch.tv/avoidingthepuddle/clip/BelovedObliviousBasenjiRuleFive-gNqBzle6X3yvSQTg  2024/05/26    0.2732  POSITIVE       POSITIVE
+10                                                Liam's advice to small streamers                                  https://www.twitch.tv/liam/clip/WanderingViscousSandstormFunRun-6OXSzk0TLtDH_6ef  2024/05/26    0.0000  NEGATIVE       POSITIVE
+11                     Destiny says Ludwig didn't want to play basketball with him                                                     https://kick.com/destiny?clip=clip_01HYTN22YK0NTWT53G7FNTY27D  2024/05/26   -0.3089  NEGATIVE       NEGATIVE
+12                                                       rubius pc starts to smoke                                https://clips.twitch.tv/VictoriousResilientWallabyNerfBlueBlaster-8Ipb1QW1GdpkpbEO  2024/05/26    0.0000  NEGATIVE       NEGATIVE
+13                                                 idiot opens rust skin on stream                                             https://clips.twitch.tv/UninterestedHardTildeOSsloth-B6VTB0L4ci4_hvnV  2024/05/26   -0.5106  NEGATIVE       NEGATIVE
+14                                                     Just the tip is all she had                                         https://clips.twitch.tv/SparklingBraveAlligatorHotPokket-IqoIfdvkySz1rpD7  2024/05/26    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    14
+NEGATIVE    13
 POSITIVE     2
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    11
-NEGATIVE     5
+NEGATIVE    8
+POSITIVE    7
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
