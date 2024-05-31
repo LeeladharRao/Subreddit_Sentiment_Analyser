@@ -1,41 +1,39 @@
 <!-- posts starts -->
-                                                                                               title                                                                                                                       url        date  compound   SA_nltk SA_distilibert
-0                                                                 Tyler1's new AI goes a bit too far                                          https://clips.twitch.tv/PeacefulRelentlessOcelotNerfBlueBlaster-krQdMl4k4DTdSnx4  2024/05/29    0.0000  NEGATIVE       NEGATIVE
-1                                               Sneak Attack against the Underworld in Rust Kingdoms                                                   https://clips.twitch.tv/EnticingTolerantPeanutBudBlast-4exHAy2XD-Rphdim  2024/05/29   -0.4767  NEGATIVE       NEGATIVE
-2                                                                         Zywoo where is your impact                                                 https://clips.twitch.tv/DoubtfulAmericanWaterPanicBasket-a8FD-XyiRigTC3oI  2024/05/29    0.0000  NEGATIVE       POSITIVE
-3                                              Streamer talks in his sleep and thinks he's streaming                                          https://www.twitch.tv/vitalcs2/clip/ProtectiveDeadVultureAliens-r5smm8hR4m60iJmX  2024/05/29    0.0000  NEGATIVE       NEGATIVE
-4                                                                        No mercy against the ERPers                                                      https://clips.twitch.tv/ToughSmokyBunnyRiPepperonis-RjSvpNcuM4pf1--z  2024/05/29    0.0772  NEGATIVE       NEGATIVE
-5                                                                    Destiny tries to research drugs                                                             https://kick.com/destiny?clip=clip_01HZ2XW3EHSC5BA01WDYZJK7F6  2024/05/29    0.0000  NEGATIVE       NEGATIVE
-6                                                     Guy almost gets ran over on Jakenbake's stream                                                      https://clips.twitch.tv/FlirtyTransparentYakOneHand-fhuAPOFpAnb7o-85  2024/05/29    0.0000  NEGATIVE       NEGATIVE
-7                                                    A sparrow shows up to the Alveus wolf enclosure                                                          https://clips.twitch.tv/OddWildWhaleBleedPurple-xuh-prS6p91pZEKS  2024/05/29    0.0000  NEGATIVE       POSITIVE
-8                                                       Destiny on why renting is better than owning                                                             https://kick.com/destiny?clip=clip_01HZ2NFRAP8GYWET99Q7613RX0  2024/05/29    0.4404  POSITIVE       NEGATIVE
-9                                                  Destiny questions Tfue hunting hogs with 9mm ammo                                                             https://kick.com/destiny?clip=clip_01HZ2X0AT9NYZTDSKKEBRT3TSH  2024/05/29    0.0000  NEGATIVE       NEGATIVE
-10                                       Asmongold frustrated over depiction of Furiosa in new movie  https://www.twitch.tv/zackrawrr/clip/ShakingBlightedMuleMrDestructoid-ItC3WlZ5N_6nf2Vg?filter=clips&range=24hr&sort=time  2024/05/29   -0.5267  NEGATIVE       NEGATIVE
-11                                                        Praggnanandhaa defeats MAGNUS CARLSEN!!!
-                                                      https://clips.twitch.tv/TrappedFilthySushiJKanStyle-m8JZUpJLL4pGZ_si  2024/05/29   -0.4898  NEGATIVE       NEGATIVE
-12                                                          Another erobb L brought to you by Lozdog                                                      https://clips.twitch.tv/PricklyKnottyNuggetsDxAbomb-vcZwAa7iVjExmSXa  2024/05/29    0.0000  NEGATIVE       NEGATIVE
-13                                                           Nmplol accidentally calls Nora "Malena"                                                        https://clips.twitch.tv/PopularPopularClintM4xHeh-I2WypV-UFaP0-68b  2024/05/29   -0.3400  NEGATIVE       NEGATIVE
-14                                                                     Lacari shows how strong he is                                                           https://clips.twitch.tv/ShinyYummyElkBrokeBack-9R7um_gsTVfatHTU  2024/05/29    0.5106  POSITIVE       POSITIVE
-15                                                                                    Jebaited by AI                                       https://www.twitch.tv/vedal987/clip/MiniatureVenomousTapirPipeHype-8NZ1ZJbPoTGcoWMF  2024/05/29    0.0000  NEGATIVE       NEGATIVE
-16                                                                    This is what Rust is all about                                                  https://clips.twitch.tv/CoweringHumbleKoupreyBibleThump-Lin6sCFxK02Xh3Vm  2024/05/29    0.0000  NEGATIVE       NEGATIVE
-17                                                                   Jinny finds the bat spawn point                                                  https://clips.twitch.tv/ColorfulMagnificentDiscPipeHype-VhOC_DMs0iyi3gXH  2024/05/29    0.0000  NEGATIVE       POSITIVE
-18                                                                     Liriks take on screen huggers                                                    https://clips.twitch.tv/FunnyAstuteLobsterDoritosChip-56rroZUYBgRlBHrE  2024/05/29    0.4215  POSITIVE       POSITIVE
-19  Caroline Kwan calls one of her relatives a racial slur and refers to his kids as "little aryans"                                                             https://kick.com/destiny?clip=clip_01HZ12V1RYCT4F4PK9087CE51J  2024/05/29    0.0000  NEGATIVE       NEGATIVE
-20                                                                          Aris welcomes back a fan                                                   https://clips.twitch.tv/GenerousSmoothNostrilBrokeBack-h-4PkL6BlPswco0H  2024/05/29    0.6124  POSITIVE       POSITIVE
-21                                                                              Erobb shoots the gap                                              https://clips.twitch.tv/AbrasiveBlazingIguanaStoneLightning-haI_J6SATkZXD3aW  2024/05/29    0.0000  NEGATIVE       NEGATIVE
-22                                                                     xQc calls out Ludwig on taxes                                                       https://clips.twitch.tv/StylishGeniusCurlewPRChase-2VfxxxhFV4Irotmo  2024/05/29    0.0000  NEGATIVE       NEGATIVE
+                                                                                                      title                                                                                       url        date  compound   SA_nltk SA_distilibert
+0                               Twitch is terminating its entire Safety Advisor Council, according to CNBC.                             https://www.twitter.com/zachbussey/status/1796280042034762013  2024/05/30    0.4215  POSITIVE       NEGATIVE
+1                                                        Streamstress shoots fellow streamer with paintball                     https://kick.com/nataliereynolds?clip=clip_01HZ5VPTDB50PTBKZB6V7Q7E1E  2024/05/30    0.0000  NEGATIVE       POSITIVE
+2                                                               Some specific gamers will love this VR game                https://clips.twitch.tv/AbstemiousInterestingCamelHeyGuys-ltZac0E8kGDOKsQm  2024/05/30    0.6369  POSITIVE       POSITIVE
+3                                                                Fortune teller gives life advice to Lacari                          https://clips.twitch.tv/TacitZealousGaurDxAbomb-Zc1DwYUYFi2VevHj  2024/05/30    0.0000  NEGATIVE       POSITIVE
+4                                                                         Hikaru analyzes simple moves line                    https://clips.twitch.tv/SuspiciousPlainMangetoutLitty-5v_Yx6CxQ3xgvF47  2024/05/30    0.0000  NEGATIVE       POSITIVE
+5                                                                           Forsen's League Play Of the Day                             https://clips.twitch.tv/EasyClearTeaSpicyBoy-jAeg24CCc07aNdxr  2024/05/30    0.3400  POSITIVE       POSITIVE
+6                                                                            Fakersen outplays his opponent                  https://clips.twitch.tv/WanderingSuperCormorantTheTarFu-orgA5JHrPmdpIQa_  2024/05/30    0.0000  NEGATIVE       POSITIVE
+7                                                                                                     B R O                      https://clips.twitch.tv/PlumpBravePuddingCclamChamp-BEugstTzYFD1UhRs  2024/05/30    0.0000  NEGATIVE       POSITIVE
+8   Awkwards_Travel find a plump invasive Lionfish while investigating largest shipwreck streamed on Twitch                https://clips.twitch.tv/AgreeableCrunchyDaikonSoonerLater-LcElJ9AahfK0RfKx  2024/05/30    0.0000  NEGATIVE       NEGATIVE
+9                                                                       Erobb thinks he's muted (wholesome)               https://clips.twitch.tv/CorrectRamshackleDinosaurAsianGlow-4zn2aFtfL_CKhjTR  2024/05/30    0.0000  NEGATIVE       NEGATIVE
+10                                                                                      The MOBA experience                        https://clips.twitch.tv/FragileOpenHorseFutureMan-wljx3o23H6-VUko9  2024/05/30    0.0000  NEGATIVE       NEGATIVE
+11                                                                   Lirik fails to cross a bridge in KKFOS        https://clips.twitch.tv/PhilanthropicMagnificentSmoothieFutureMan-zU8csTSYEPVSHUek  2024/05/30   -0.4215  NEGATIVE       NEGATIVE
+12                                                          Dima killing the Queens of the Underworld alone                 https://clips.twitch.tv/MagnificentSpicyOpossumBuddhaBar-lts1-q7Egw0G4_Rm  2024/05/30   -0.7506  NEGATIVE       NEGATIVE
+13                                                       xQc and the gang successfully steal the helicopter                  https://clips.twitch.tv/OriginalHeartlessAnteaterBCouch-ayFQpyXuChnPP4TU  2024/05/30    0.0000  NEGATIVE       POSITIVE
+14                                                                                xQc gets played by mizkif                 https://clips.twitch.tv/ResoluteRelievedNewtCharlieBitMe-fFjUiJ7ctr4kgtTN  2024/05/30    0.3400  POSITIVE       POSITIVE
+15                                                                       How Scammers are detected in China                    https://clips.twitch.tv/RespectfulAdorableCodRuleFive-To63vXx7oQUuJlt6  2024/05/30    0.0000  NEGATIVE       NEGATIVE
+16                                                    zherka going after mitch jones wasnt on my 2024 bingo                            https://kick.com/heelmike?clip=clip_01HZ41HTN4RTHB1NW6KMPAQSHX  2024/05/30    0.0000  NEGATIVE       NEGATIVE
+17                                                         Scarra loves it when viewers ask him to play Kat             https://clips.twitch.tv/SneakyExquisiteArtichokeCharlieBitMe-Q4UCxcKJd9UZsk_B  2024/05/30    0.7269  POSITIVE       POSITIVE
+18                                  Hardcore World of Warcraft Raid Wipe (~25 People lose their characters)  https://www.twitch.tv/badbrotherbb/clip/ModernTiredDragonfruitTwitchRPG-jQa-8aN6bTfo3pri  2024/05/30   -0.4019  NEGATIVE       NEGATIVE
+19                                                                                xQc reviews his McDonalds                      https://clips.twitch.tv/CuteHardChinchillaKappaRoss-9iXhsq1pMcOb9RJD  2024/05/30    0.0000  NEGATIVE       POSITIVE
+20                                                                                   xQc rages at Mcdonalds               https://clips.twitch.tv/ConcernedPrettyPterodactylDansGame-JH6hFp0jNHfAZeM4  2024/05/30   -0.4767  NEGATIVE       NEGATIVE
+21                                                                            Sykkuno - Mizkif sends his…oh                     https://clips.twitch.tv/SolidNeighborlyCiderBabyRage-QnOQauRJ2biZj_hy  2024/05/30    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    19
-POSITIVE     4
+NEGATIVE    17
+POSITIVE     5
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    17
-POSITIVE     6
+POSITIVE    12
+NEGATIVE    10
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
