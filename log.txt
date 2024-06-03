@@ -1,66 +1,56 @@
 <!-- posts starts -->
-                                                                                                                   title                                                                                     url        date  compound   SA_nltk SA_distilibert
-0                                                                                                         WTF is a Mile?                  https://clips.twitch.tv/SpineyTentativeCrocodileSMOrc-w8XFJpuiJJffdV2e  2024/06/01   -0.6739  NEGATIVE       NEGATIVE
-1                                               Isnaurys "tap out" Reyes Arrested After Altercation at MMA MELEE COMBAT!                     https://clips.twitch.tv/ShyCrepuscularHyenaMingLee-xtvD1BVlnYUSMwMY  2024/06/01   -0.7597  NEGATIVE       NEGATIVE
-2                                                                                         Hiaelel Makes a Big Mistake...                 https://clips.twitch.tv/TentativeMuddySharkKeyboardCat-wPhaU_5RE3LwIHaX  2024/06/01    0.0000  NEGATIVE       NEGATIVE
-3                                                              [Melee 2] Vasquez forces a submission with his guillotine                https://clips.twitch.tv/SpineyMistyPeanutNerfRedBlaster-SP4qsuYL1yoyWgA2  2024/06/01    0.0000  NEGATIVE       NEGATIVE
-4                                                                             A little bit hungry and a little bit PAUSE                       https://www.youtube.com/clip/UgkxGI7RLmmcdeJmp62otoVGFf-hrfIv6D7J  2024/06/01    0.0000  NEGATIVE       NEGATIVE
-5                                                               Ludwig's speedrunning event raises +$100,000 for charity                      https://clips.twitch.tv/SourCrepuscularJuiceDxCat-X6B3uv_VvKN_UV5n  2024/06/01    0.4215  POSITIVE       POSITIVE
-6                                                                                   EE had a freudian slip on commentary            https://clips.twitch.tv/HeadstrongTangibleCoyoteDoritosChip-pgRPZpfAcJ_dMIs7  2024/06/01    0.0000  NEGATIVE       NEGATIVE
-7                                     [Melee 2] Briers gets the submission in his last amateur fight before he goes pro!                    https://clips.twitch.tv/WimpyVastStingrayStrawBeary--7ZT07E3ff8myU74  2024/06/01   -0.4389  NEGATIVE       NEGATIVE
-8                                                                                         Fight gets heated at IronForge              https://clips.twitch.tv/FlaccidSecretiveTurnipSoonerLater-icluEajBDqVYeWgT  2024/06/01   -0.3818  NEGATIVE       POSITIVE
-9                                                                                      [Melee 2] Briers has a scary fall             https://clips.twitch.tv/KathishGrossCheesecakeCoolStoryBro-qzX94DAhvjTeiS6I  2024/06/01   -0.4939  NEGATIVE       NEGATIVE
-10                                                                                     Kobe0802 get sideswiped on stream                          https://kick.com/kobe0802?clip=clip_01HZ7W6T83279TRPZA1YWS7Q3D  2024/06/01    0.0000  NEGATIVE       NEGATIVE
-11                                     Adin Ross Leech "Cheesur" goes on a racist rant, because BruceDropEmOff left Kick                           https://kick.com/cheesur?clip=clip_01HZAXGVG5T324RY461GZNQ2DR  2024/06/01   -0.7506  NEGATIVE       NEGATIVE
-12                                                            [Melee 2] Ceniseros finishes the match in dominant fashion                      https://clips.twitch.tv/ModernPreciousLEDUncleNox-8z2MGMdMSMGaHMCX  2024/06/01    0.0000  NEGATIVE       POSITIVE
-13                                                                                                       Show me what ??                 https://clips.twitch.tv/EnticingEnergeticTrollPogChamp-eDHN0jUm9I_wAVTs  2024/06/01    0.0000  NEGATIVE       NEGATIVE
-14                                                                                                     Hardworking crabs                 https://clips.twitch.tv/CourageousBraveNarwhalPraiseIt-IHi6_qCC6XuC6Bsg  2024/06/01    0.0000  NEGATIVE       NEGATIVE
-15                                                                         [Melee 2] Forsen gives his thoughts on Forsen         https://clips.twitch.tv/WonderfulYawningBarracudaDoubleRainbow-9Fx5pUvMJ34yWC0R  2024/06/01    0.0000  NEGATIVE       POSITIVE
-16                                                                 [Melee 2] Forsen unleashes his fury to secure the TKO                https://clips.twitch.tv/FaithfulBoxyPartridgeJonCarnage-9rkqJZuJPC3d0hFf  2024/06/01   -0.3182  NEGATIVE       POSITIVE
-17                                                                                                    Bro is IN the game                           https://clips.twitch.tv/ArtsyBoredSaladLitty-gdkKyJQpVW0rSPou  2024/06/01    0.0000  NEGATIVE       POSITIVE
-18                                                                                                  Camera gets Jebaited                       https://clips.twitch.tv/VictoriousSmellyCiderWow-6nzm0Gk_dNR-ffyR  2024/06/01    0.0000  NEGATIVE       NEGATIVE
-19                                     [Melee 2] Jettre Hampton, fighter from Iron Forge Gym, wins by way of submission!                       https://clips.twitch.tv/MoralAgileConsoleRedCoat-JcsD4Oxf4f_wukZw  2024/06/01    0.6800  POSITIVE       POSITIVE
-20                                                                    Smartest American names all countries on first try                     https://clips.twitch.tv/DarkExquisiteMooseOSkomodo-mWeD0Y2xe0WHg69d  2024/06/01    0.6124  POSITIVE       POSITIVE
-21                          speedrun.com charges $10,000 for small streamer wanting to advertise a $500 prize pool event                   https://clips.twitch.tv/DepressedGoldenSquidPraiseIt-30ritpNCT-nbBDbp  2024/06/01    0.2960  POSITIVE       NEGATIVE
-22                                                                                    Forsen executes perfect tower dive                     https://clips.twitch.tv/FlirtyPolishedPotEleGiggle-0b6_2VFAcCjoPtvl  2024/06/01    0.5719  POSITIVE       POSITIVE
-23                                              [Melee 2] Ajay, representing Iron Forge Gym, goes beast mode for the TKO              https://clips.twitch.tv/GenerousObedientCarrotPanicBasket-4e0EF82qyFP2VRsD  2024/06/01    0.0000  NEGATIVE       NEGATIVE
-24                                                                             Even the boss got tired after 100+ deaths                  https://clips.twitch.tv/KnottyManlyClipzMrDestructoid-PYWz0GdNMl3aHlwU  2024/06/01   -0.4404  NEGATIVE       NEGATIVE
-25                                                                                                   forsen gets unlucky                  https://clips.twitch.tv/ProudEnthusiasticOwlHotPokket-lbV7goRfyoXxPcTY  2024/06/01    0.0000  NEGATIVE       NEGATIVE
-26                                                   JoshOG's mother was kidnapped and murdered by her separated husband                               https://www.twitter.com/JoshOG/status/1796968825134440609  2024/06/01   -0.6597  NEGATIVE       NEGATIVE
-27                                                               Commentator distracts Esfands Street Fighter challenger                   https://clips.twitch.tv/BoringTamePeppermintPogChamp-OvMVD3O1ytlit4mn  2024/06/01   -0.0516  NEGATIVE       NEGATIVE
-28                                                                                                         Classic lirik                  https://clips.twitch.tv/LachrymoseBlatantPonyTheTarFu-jzmZG3V1Ltkmp2Iz  2024/06/01    0.0000  NEGATIVE       POSITIVE
-29                                                                                     "Are you guys ready to meet him?"                      https://clips.twitch.tv/KitschyZanyTireHassanChop-rpDr8tRxxBbl3Bob  2024/06/01    0.3612  POSITIVE       POSITIVE
-30                                                                     Fan tries to get a photo with Squeex at Dreamhack               https://clips.twitch.tv/ImpartialWittyAsparagusChefFrank-MRybPNC0ohgucF_4  2024/06/01    0.3182  POSITIVE       NEGATIVE
-31                                                                                           Lirik gets into a mic fight                https://clips.twitch.tv/BelovedObeseGoshawkCoolStoryBob-igQHmFRRLYQjuXDW  2024/06/01   -0.3818  NEGATIVE       NEGATIVE
-32                                                                                                     pookie got sniped                             https://clips.twitch.tv/DullTastyOilOSfrog-OmjnG3ujhMOgtXLC  2024/06/01    0.0000  NEGATIVE       NEGATIVE
-33                                                            PeachJars shares a story about hooking up with a cosplayer                https://clips.twitch.tv/TastySneakyTrollAMPEnergyCherry-L4fWoKsuYWKMw_P7  2024/06/01    0.2960  POSITIVE       POSITIVE
-34                                                                                    sanest complaint from an RP viewer                         https://clips.twitch.tv/PluckyMoldyTrayTriHard-dVSHQk3GzI3mo_yI  2024/06/01   -0.2960  NEGATIVE       NEGATIVE
-35                                                                                                          FPS overload            https://www.twitch.tv/erobb221/clip/CogentOnerousKaleTTours-qvq0Er1CAHGlJQXz  2024/06/01   -0.3612  NEGATIVE       NEGATIVE
-36                                                    Wave of Arrows on Domingo's 7 Sports competion between 8 streamers                  https://clips.twitch.tv/ExquisiteEmpathicClipzVoteNay-75ow6mHB55UQf44a  2024/06/01    0.0000  NEGATIVE       POSITIVE
-37                                                                              Insane Tekken 8 finish with Master Raven  https://clips.twitch.tv/BlightedPlacidTermitePicoMause-v3S8LWDjrCktC9RV?tt_medium=redt  2024/06/01   -0.4019  NEGATIVE       POSITIVE
-38  Poki reveals ex-editor had to be fired for weeks late videos, due to their inappropriate addiction to her content...                      https://clips.twitch.tv/TriangularVastNewtWutFace-OfdOWNc7jG9VnTY8  2024/06/01   -0.5574  NEGATIVE       NEGATIVE
-39                                                                                   How to get robbed in Stardew Valley                                                 https://www.twitch.tv/videos/2158950011  2024/06/01    0.0000  NEGATIVE       NEGATIVE
-40                                                                 Chad Background Leak From Coinbox Multiversus Tonight         https://clips.twitch.tv/HorribleColdbloodedSquirrelSuperVinlin-Iog7Kb_zqwUw6gEZ  2024/06/01   -0.3400  NEGATIVE       NEGATIVE
-41                                                                 Weatherman Jerma demonstrating speedrunning at Fast50       https://youtube.com/clip/UgkxXM-jl86B3IQKq6yvuusFcwtJY7V3JJ1o?si=GrhqC82s-Umgwfsl  2024/06/01    0.0000  NEGATIVE       POSITIVE
-42                                                                            xqc death speedrun world record on Origins                               https://kick.com/xqc?clip=clip_01HZ8Y4C8800CMCY3A6RDXSVWK  2024/06/01   -0.5994  NEGATIVE       POSITIVE
-43                                                                                  The End of Father Cyr and Baby Billy              https://clips.twitch.tv/ProtectiveCallousParrotKappaPride-BFdeZMaMUXmcQB6F  2024/06/01    0.0000  NEGATIVE       NEGATIVE
-44                                                             Chatter takes a shot in the dark on Wubby's Weakest Link.                      https://clips.twitch.tv/BombasticSillyQueleaKappa-_YQpIve2sAo3B7p-  2024/06/01   -0.5106  NEGATIVE       NEGATIVE
-45                                                                                                   That was not a scav        https://clips.twitch.tv/LuckyGoldenMartenDogFace-ygoH3x_qJpnVeJEj?tt_medium=redt  2024/06/01    0.0000  NEGATIVE       NEGATIVE
-46                                                                                              fourth pillar of freedom       https://youtube.com/clip/UgkxcavS7y51g-sPUIxY-IjrljIqzPY3WIas?si=VMKYUMfYbTvGQPwK  2024/06/01    0.6369  POSITIVE       POSITIVE
-47                                                                                    Average Kick Streamer Intelligence                    https://kick.com/therealmoisesb?clip=clip_01HZ8KHX0CHCYNFPDQHCKRV2TN  2024/06/01    0.4767  POSITIVE       POSITIVE
-48                                                                            Aris takes a stand against online bullying            https://clips.twitch.tv/ConsiderateVivaciousDeerSoonerLater-c6PbLYS7igxOWdwW  2024/06/01   -0.5994  NEGATIVE       POSITIVE
+                                                                                      title                                                                                url        date  compound   SA_nltk SA_distilibert
+0                                                Asmon take on Vtubers and similar creators                   https://clips.twitch.tv/TardyEasySushiBrokeBack-Pw8dTcWz-H8AOPLt  2024/06/02    0.0000  NEGATIVE       POSITIVE
+1                                                  Quin finally gets a game without snipers                   https://clips.twitch.tv/DepressedHardBananaWOOP-SWInSg0HilsYpExa  2024/06/02    0.0000  NEGATIVE       POSITIVE
+2                                           Twitch Releases Significant Mobile App Redesign                   https://www.twitter.com/TwitchSupport/status/1795514726610538609  2024/06/02    0.2023  POSITIVE       POSITIVE
+3                                                               DinomiteTwins - Take a bite             https://clips.twitch.tv/WittyConsiderateDunlinSaltBae-W2AHxOj9TyikdBc5  2024/06/02    0.0000  NEGATIVE       NEGATIVE
+4                        Visuals proposes on Ludwig's Fast50 Charity Stream with a ring pop              https://clips.twitch.tv/AttractiveClumsyGoblinWTRuck-ps2r5x7KzEe5zUMg  2024/06/02    0.4215  POSITIVE       POSITIVE
+5                                                     Forsen Donator asks for clarification           https://clips.twitch.tv/ComfortablePerfectBaconPlanking-fziQoaEgVR3d0n57  2024/06/02    0.0000  NEGATIVE       NEGATIVE
+6                    Streamer almost kicks a bird while trying to frontflip on a trampoline                  https://clips.twitch.tv/SaltyFineMetalTwitchRaid-FvTWpnV0B13GH2EA  2024/06/02    0.0000  NEGATIVE       NEGATIVE
+7                                                             IEM Dallas crowd being active               https://clips.twitch.tv/LongJazzyCourgetteBrokeBack-3xd8bwTN7AscKFkx  2024/06/02    0.4019  POSITIVE       POSITIVE
+8                                                           Ela gets ambushed in Permadeath            https://clips.twitch.tv/DelightfulHardBunnyNotLikeThis-86TZjXHfAGeEJRit  2024/06/02    0.0000  NEGATIVE       NEGATIVE
+9                                                                          May goes offroad              https://clips.twitch.tv/SparklingStrangeFalconRlyTho-aOSIHIlIKH7H1wDJ  2024/06/02    0.0000  NEGATIVE       NEGATIVE
+10                                 King's League - Crazy Final Shootout Goal - Bounces in
+           https://clips.twitch.tv/HonestAbstemiousCamelYouDontSay-Q5BdBReGws92pP0I  2024/06/02   -0.3400  NEGATIVE       POSITIVE
+11                         Stephen Tries hits em with a Kobe after Fanum wants a Helicopter          https://clips.twitch.tv/ArbitraryRichCarabeefNinjaGrumpy-nPcgifKUmytg7dci  2024/06/02    0.0000  NEGATIVE       NEGATIVE
+12                 Fans pitch invade AMP vs Beta Squad charity event ruining the ending ...  https://youtube.com/clip/UgkxyLVQAIudfx7eQtl1PoJHvOhRF511d_be?si=CqcThoxhI2euyKKK  2024/06/02    0.2023  POSITIVE       NEGATIVE
+13                                                           forsen outlasting his opponent     https://clips.twitch.tv/RespectfulBraveChimpanzeeItsBoshyTime-3JuJF3e94h-4COJA  2024/06/02    0.0000  NEGATIVE       POSITIVE
+14                                             Forsen watching educational videos on stream                https://clips.twitch.tv/NastySplendidBisonDAESuppy-0BdPi0G5Huwt7uEs  2024/06/02    0.0000  NEGATIVE       NEGATIVE
+15                                                                  Xqc shows his burger...                          https://kick.com/xqc?clip=clip_01HZCV22WJEB611EYWPHJCNKES  2024/06/02    0.0000  NEGATIVE       POSITIVE
+16                                                      Streamer live from a rotating crate                https://clips.twitch.tv/AcceptableColdHyenaDBstyle-o6HgsHuFViGMlu0L  2024/06/02    0.0000  NEGATIVE       NEGATIVE
+17                      Streamstress gets into an altercation with the local women in Kenya                    https://kick.com/shakomako?clip=clip_01HZCKCFRJ8QBSR90XBPJKKDQX  2024/06/02    0.0000  NEGATIVE       NEGATIVE
+18                                                                       xQc sees something                          https://kick.com/xqc?clip=clip_01HZCF3TBYQF21J1APZPHK54T8  2024/06/02    0.0000  NEGATIVE       POSITIVE
+19                           Awkwards_Travel have a dolphin come visit in the Mediterranean     https://clips.twitch.tv/HedonisticTangentialWallabyWholeWheat-wMOr0sn_bwEQhNGy  2024/06/02    0.0000  NEGATIVE       NEGATIVE
+20                                                              No wonder Taiwan Number One                 https://clips.twitch.tv/ComfortableObeseGnatANELE-G_1-j4q3vlfB2mTY  2024/06/02   -0.2263  NEGATIVE       POSITIVE
+21  (Spyro) lumilaura becomes to first person to ever hit coveless at a live marathon event  https://youtube.com/clip/Ugkxk7rLCrS0DXEuoqMZMNEF3arWNkbMH9Sw?si=no2a7OnCjWJ-UIaB  2024/06/02    0.0000  NEGATIVE       POSITIVE
+22                                       Aris enters the next stage of his streaming career             https://clips.twitch.tv/InnocentRepleteWormBigBrother-5Nvk-h3slmuqbHte  2024/06/02    0.0000  NEGATIVE       POSITIVE
+23                                      Pobelter having a good time coaching his girlfriend           https://clips.twitch.tv/SpunkyWealthyTortoiseCeilingCat-sl2dDm0Z9r1bBk6-  2024/06/02    0.4404  POSITIVE       POSITIVE
+24                                                       Cooksux makes friends in Indonesia              https://clips.twitch.tv/DaintyBlindingRabbitJebaited-m518n6NIgojtCNFv  2024/06/02    0.4767  POSITIVE       POSITIVE
+25                                                           DougDoug has a normal marriage          https://clips.twitch.tv/SnappyCarefulShrimpChocolateRain-SoJz9_1Omg-cehm_  2024/06/02    0.0000  NEGATIVE       POSITIVE
+26                                                   testing the swim feature in dark souls        https://clips.twitch.tv/TenaciousLivelyAnteaterMoreCowbell-95j9rEJ1kyikWOJJ  2024/06/02    0.0000  NEGATIVE       POSITIVE
+27                                                                Robcdee helps a horse out                    https://clips.twitch.tv/CuriousMoistRatWutFace-RGrY_fphaMFNUIr7  2024/06/02    0.3818  POSITIVE       POSITIVE
+28                                             Streamer didn't anticipate ChatGPT's singing       https://clips.twitch.tv/VivaciousFragileClipsmomFeelsBadMan-WxWsT1sccos1Mdy5  2024/06/02    0.0000  NEGATIVE       NEGATIVE
+29                                                                                Thoughts?           https://clips.twitch.tv/PuzzledRespectfulSwallowPJSugar-zfx5d_1OZrrPoN2F  2024/06/02    0.0000  NEGATIVE       NEGATIVE
+30                                                 streamer catches crash at end of pursuit  https://youtube.com/clip/Ugkx4od4BBcoEnnyLBtGtkW6mg_9E1x4teTt?si=z3BjUcpWMGbJq5H_  2024/06/02   -0.4019  NEGATIVE       POSITIVE
+31                                                          Nürburgring24h race going well.  https://youtube.com/clip/UgkxTIybycXhERqlL8iASsP7EyqKnutR0WlE?si=JVWVNCDpjff0J9Ui  2024/06/02    0.2732  POSITIVE       POSITIVE
+32                                                                        Aris' New Car JOI           https://clips.twitch.tv/PowerfulUgliestSandstormRedCoat-0NUbDJGjVdBz7nWk  2024/06/02    0.0000  NEGATIVE       NEGATIVE
+33                                                                          This is insane                https://clips.twitch.tv/SquareBeautifulAdminGivePLZ-_q3r2eQi4ltpbTSZ  2024/06/02   -0.4019  NEGATIVE       NEGATIVE
+34                                                           Ludwig drops a cube on a Tesla       https://clips.twitch.tv/YawningTrappedCroissantRiPepperonis-D_VNU-v5cRrz7OiW  2024/06/02    0.0000  NEGATIVE       NEGATIVE
+35                                                                       austin piss hotmic           https://clips.twitch.tv/AbnegateExquisiteTroutSwiftRage-jxcABJBh6hwWexd6  2024/06/02   -0.4019  NEGATIVE       NEGATIVE
+36                         Little man gazes at an unfamiliar object for the very first time         https://clips.twitch.tv/ArbitraryStrongFinchChocolateRain-wC9dToqD7er8r_8r  2024/06/02    0.0000  NEGATIVE       POSITIVE
+37                                                 A Renato Moicano scolds a cheater at MCC       https://clips.twitch.tv/GeniusBenevolentRutabagaBleedPurple-JcAQjWdlhEIyjgy_  2024/06/02   -0.5423  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    39
-POSITIVE    10
+NEGATIVE    30
+POSITIVE     8
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    30
-POSITIVE    19
+POSITIVE    20
+NEGATIVE    18
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
