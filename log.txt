@@ -1,44 +1,33 @@
 <!-- posts starts -->
-                                                                                                title                                                                                 url        date  compound   SA_nltk SA_distilibert
-0                                               When your build is so strong that it crashes the game          https://clips.twitch.tv/SavageSpotlessChimpanzeeSwiftRage-g_-2UAhoqv67zt-v  2024/06/04    0.6418  POSITIVE       NEGATIVE
-1                                                                             Picked up by the police            https://clips.twitch.tv/EsteemedLuckyDiamondKevinTurtle-9TE2KwBISWNH0MT5  2024/06/04    0.0000  NEGATIVE       POSITIVE
-2                                                           xQc gets caught in an embarrassing moment                           https://kick.com/xqc?clip=clip_01HZJ3HW5H52YFSECN201N10Q7  2024/06/04   -0.3818  NEGATIVE       NEGATIVE
-3                                      Lirik gets called out by Soda for his take on turn based games                 https://clips.twitch.tv/ElegantProudTurnipJebaited-g4oS_XGY4e6cOOeJ  2024/06/04    0.0000  NEGATIVE       NEGATIVE
-4                                                Lirik not impressed with senior dev looking for work                    https://clips.twitch.tv/JoyousRichBeaverDBstyle-RW4UOpVw1qNuyIqe  2024/06/04   -0.3724  NEGATIVE       NEGATIVE
-5                                                                                   ADHD dance battle                https://clips.twitch.tv/WanderingLovelyDeerCmonBruh-a3HmLVa_OxPKwtq8  2024/06/04   -0.3818  NEGATIVE       POSITIVE
-6                                                                  Soda Calls Forsen Live on OTK Expo                      https://clips.twitch.tv/SoftElatedKimchi4Head-0cTQFix0m2INT_Mg  2024/06/04    0.0000  NEGATIVE       NEGATIVE
-7                                                                 Busan demon learns a new instrument           https://clips.twitch.tv/OriginalCredulousTarsierPanicVis-qwuoeVQTypkMS2bs  2024/06/04    0.0000  NEGATIVE       NEGATIVE
-8                                                                         forsen thoughts on otk expo   https://clips.twitch.tv/AltruisticVivaciousVanillaFreakinStinkin-43JnL0OCbkCfH-KY  2024/06/04    0.0000  NEGATIVE       NEGATIVE
-9                                                                               WipeOut is going well   https://youtube.com/clip/Ugkx7kgtfYf30wkbTB_yM8bHZVBd1gfKNr4B?si=JCmWKybkv-SOdtcc  2024/06/04    0.2732  POSITIVE       POSITIVE
-10                                                                     NL learns about his fellow man        https://clips.twitch.tv/HungryHedonisticWafflePeteZarollTie-vKszsH6y8wj1xlJm  2024/06/04    0.0000  NEGATIVE       POSITIVE
-11                                                                  Tier 3 Mod gets to feed his Queen           https://clips.twitch.tv/EnthusiasticAdventurousZebraMcaT-CFMm4rSf75FdE9SL  2024/06/04    0.0000  NEGATIVE       POSITIVE
-12                                  Northernlion realizes what being a streamer has done to his brain                  https://clips.twitch.tv/RepleteTastyCrabsCmonBruh-2Q7OKtSdlSoDLZpF  2024/06/04    0.0000  NEGATIVE       NEGATIVE
-13                                                                           BBL son or BBL daughter?               https://clips.twitch.tv/SecretivePopularGarlicPupper-Jqi2tfWvAndzYs7M  2024/06/04    0.0000  NEGATIVE       NEGATIVE
-14                                                xQc's reaction to losing fans from the R* community                           https://kick.com/xqc?clip=clip_01HZJ7W62FQJES4F6MEXW6BTQ6  2024/06/04   -0.3818  NEGATIVE       NEGATIVE
-15                                       Insym finds out he has no rizz in a WTTG-clone game CyberRat                    https://clips.twitch.tv/StylishIcySaladTooSpicy-Y2X21wHE61Ufyork  2024/06/04   -0.2960  NEGATIVE       NEGATIVE
-16                                                                      Amazing dragon call by forsen               https://clips.twitch.tv/FilthySpinelessGerbilVoteNay-W4_ufo-kC66Q0928  2024/06/04    0.5859  POSITIVE       POSITIVE
-17                                                                         Squeex on his flight delay             https://clips.twitch.tv/SpookyAbstruseBubbleteaHeyGirl-FjyXu1Amiy-CINw3  2024/06/04   -0.3182  NEGATIVE       NEGATIVE
-18                        Starting July 11th, Twitch Subscription prices in the US will rise to $5.99                        https://twitter.com/TwitchSupport/status/1798039149502747045  2024/06/04    0.0000  NEGATIVE       NEGATIVE
-19                              Northernlion Discourses on Disney's Dastardly Doers of Devilish Deeds  https://clips.twitch.tv/SucculentInterestingGazelleNerfRedBlaster-0bJkJUricIZdzg43  2024/06/04   -0.4767  NEGATIVE       NEGATIVE
-20  Forsen's insane improvement after 500 League games. Finally promoted to the elo he truly deserves              https://clips.twitch.tv/YummyLitigiousGarbageRickroll-yH8ANDX700NeXsx3  2024/06/04    0.7184  POSITIVE       POSITIVE
-21                                     Konvy expose bruce that kick offer him a smaller deal then Him                         https://kick.com/konvy?clip=clip_01HZHV30GEMZEC38RNXSRJ3SG8  2024/06/04   -0.1531  NEGATIVE       POSITIVE
-22                               xQc confused whether unsolicited sexual texts constitute harassment                            https://kick.com/xqc?clip=clip_01HZHPHCC9B63C5KTFMD36K7RW  2024/06/04   -0.7003  NEGATIVE       NEGATIVE
-23                                                                Cockroach Gets Absolutely Destroyed              https://clips.twitch.tv/CautiousSleepyDaikonTwitchRPG-NRNZiOO-6An39qFz  2024/06/04   -0.5413  NEGATIVE       NEGATIVE
-24                                                                               xQc goes off on Dota                           https://kick.com/xqc?clip=clip_01HZFJTMM9KZ4X14PFW5DNEVXX  2024/06/04    0.0000  NEGATIVE       NEGATIVE
-25                                                                        Aris really likes this game         https://clips.twitch.tv/TransparentSpinelessPoxGrammarKing-JiTNcVYdzhJmanb_  2024/06/04    0.4754  POSITIVE       POSITIVE
-26                                                                                       Rapper Beef       https://clips.twitch.tv/BlindingFriendlyHummingbirdCeilingCat-0YX-02Ck_kDHvaa1  2024/06/04    0.0000  NEGATIVE       POSITIVE
+                                                    title                                                                                url        date  compound   SA_nltk SA_distilibert
+0                           Mikaberry consumes tarantula                  https://clips.twitch.tv/GeniusFurtiveMinkEagleEye-9f3_qFPZfqs_H6lK  2024/06/05    0.0000  NEGATIVE       NEGATIVE
+1         Vtuber Gets Parking Ticket for Being Illiterate             https://clips.twitch.tv/RenownedCarelessGrouseCoolCat-Av_EXThtONIllwXz  2024/06/05    0.0000  NEGATIVE       NEGATIVE
+2                        Angle of Shibuya meets a shy fan            https://clips.twitch.tv/KawaiiNastyPicklesDeIlluminati-MtkFnOPaQ6POYtAP  2024/06/05    0.0772  NEGATIVE       POSITIVE
+3                              Alinity is being attacked              https://clips.twitch.tv/CautiousNiceQueleaKevinTurtle-n12SvwsauimhEhBW  2024/06/05   -0.4588  NEGATIVE       NEGATIVE
+4                               He's Beginning to Believe            https://clips.twitch.tv/GentleCogentRadicchioEleGiggle-UC75aOucULhW3VF0  2024/06/05    0.0000  NEGATIVE       POSITIVE
+5                                    Rare Ironsen Outplay     https://clips.twitch.tv/ScrumptiousEncouragingArmadilloAliens-yV5pVvmGd8tKo7Ua  2024/06/05    0.0000  NEGATIVE       POSITIVE
+6                             Yuggie goes to an Irish pub                      https://clips.twitch.tv/HotSmokyCatBCWarrior-BEs2DHuzjIHTdEBv  2024/06/05    0.0000  NEGATIVE       NEGATIVE
+7                          The largest waterfall in China         https://clips.twitch.tv/MiniatureDreamyPlumageKevinTurtle-8A0TcaiqIV6jFxH2  2024/06/05    0.0000  NEGATIVE       POSITIVE
+8               Summit almost dies IRL while playing DayZ               https://clips.twitch.tv/AverageAliveOrangeCorgiDerp-IdoqX6JR-RH8i74V  2024/06/05    0.2023  POSITIVE       NEGATIVE
+9                   What Julia saw at Mizkif's MMA event.                    https://clips.twitch.tv/SassyPopularEmuSoBayed-47SSmROPtGahsJTS  2024/06/05    0.0000  NEGATIVE       POSITIVE
+10                                    Forsen gets unlucky              https://clips.twitch.tv/OilyInventiveBoarDoritosChip-HVCkmKXGVbu6Zf6H  2024/06/05    0.0000  NEGATIVE       NEGATIVE
+11  NASA astronauts survive Boeing rocket launch (so far)                https://clips.twitch.tv/TsundereBrainyPanKappaRoss-QG1F1T73k7KAuWNx  2024/06/05    0.0000  NEGATIVE       POSITIVE
+12            Jinny gets attacked by bloodthirsty rabbits        https://clips.twitch.tv/ShortDeterminedGrousePeteZarollTie-ZVxAutMOmLmpaOp-  2024/06/05   -0.4588  NEGATIVE       NEGATIVE
+13                                   Korean Shohei Ohtani              https://clips.twitch.tv/TrappedCovertChinchillaKAPOW-0narcgzVxx5_ZWRi  2024/06/05    0.0000  NEGATIVE       POSITIVE
+14               Sodapoppin's mic doesn't cut out in time             https://clips.twitch.tv/PrettyCrunchyTroutNotLikeThis-7H522rD6Ry1rN6Mm  2024/06/05    0.2057  POSITIVE       POSITIVE
+15                                        May5w Dress Rip  https://www.twitch.tv/may5w/clip/ConfidentPiliableMarrowMikeHogu-aWHFAJereBIKExV8  2024/06/05    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    22
-POSITIVE     5
+NEGATIVE    14
+POSITIVE     2
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    17
-POSITIVE    10
+NEGATIVE    8
+POSITIVE    8
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
