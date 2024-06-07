@@ -1,33 +1,47 @@
 <!-- posts starts -->
-                                                    title                                                                                url        date  compound   SA_nltk SA_distilibert
-0                           Mikaberry consumes tarantula                  https://clips.twitch.tv/GeniusFurtiveMinkEagleEye-9f3_qFPZfqs_H6lK  2024/06/05    0.0000  NEGATIVE       NEGATIVE
-1         Vtuber Gets Parking Ticket for Being Illiterate             https://clips.twitch.tv/RenownedCarelessGrouseCoolCat-Av_EXThtONIllwXz  2024/06/05    0.0000  NEGATIVE       NEGATIVE
-2                        Angle of Shibuya meets a shy fan            https://clips.twitch.tv/KawaiiNastyPicklesDeIlluminati-MtkFnOPaQ6POYtAP  2024/06/05    0.0772  NEGATIVE       POSITIVE
-3                              Alinity is being attacked              https://clips.twitch.tv/CautiousNiceQueleaKevinTurtle-n12SvwsauimhEhBW  2024/06/05   -0.4588  NEGATIVE       NEGATIVE
-4                               He's Beginning to Believe            https://clips.twitch.tv/GentleCogentRadicchioEleGiggle-UC75aOucULhW3VF0  2024/06/05    0.0000  NEGATIVE       POSITIVE
-5                                    Rare Ironsen Outplay     https://clips.twitch.tv/ScrumptiousEncouragingArmadilloAliens-yV5pVvmGd8tKo7Ua  2024/06/05    0.0000  NEGATIVE       POSITIVE
-6                             Yuggie goes to an Irish pub                      https://clips.twitch.tv/HotSmokyCatBCWarrior-BEs2DHuzjIHTdEBv  2024/06/05    0.0000  NEGATIVE       NEGATIVE
-7                          The largest waterfall in China         https://clips.twitch.tv/MiniatureDreamyPlumageKevinTurtle-8A0TcaiqIV6jFxH2  2024/06/05    0.0000  NEGATIVE       POSITIVE
-8               Summit almost dies IRL while playing DayZ               https://clips.twitch.tv/AverageAliveOrangeCorgiDerp-IdoqX6JR-RH8i74V  2024/06/05    0.2023  POSITIVE       NEGATIVE
-9                   What Julia saw at Mizkif's MMA event.                    https://clips.twitch.tv/SassyPopularEmuSoBayed-47SSmROPtGahsJTS  2024/06/05    0.0000  NEGATIVE       POSITIVE
-10                                    Forsen gets unlucky              https://clips.twitch.tv/OilyInventiveBoarDoritosChip-HVCkmKXGVbu6Zf6H  2024/06/05    0.0000  NEGATIVE       NEGATIVE
-11  NASA astronauts survive Boeing rocket launch (so far)                https://clips.twitch.tv/TsundereBrainyPanKappaRoss-QG1F1T73k7KAuWNx  2024/06/05    0.0000  NEGATIVE       POSITIVE
-12            Jinny gets attacked by bloodthirsty rabbits        https://clips.twitch.tv/ShortDeterminedGrousePeteZarollTie-ZVxAutMOmLmpaOp-  2024/06/05   -0.4588  NEGATIVE       NEGATIVE
-13                                   Korean Shohei Ohtani              https://clips.twitch.tv/TrappedCovertChinchillaKAPOW-0narcgzVxx5_ZWRi  2024/06/05    0.0000  NEGATIVE       POSITIVE
-14               Sodapoppin's mic doesn't cut out in time             https://clips.twitch.tv/PrettyCrunchyTroutNotLikeThis-7H522rD6Ry1rN6Mm  2024/06/05    0.2057  POSITIVE       POSITIVE
-15                                        May5w Dress Rip  https://www.twitch.tv/may5w/clip/ConfidentPiliableMarrowMikeHogu-aWHFAJereBIKExV8  2024/06/05    0.0000  NEGATIVE       NEGATIVE
+                                                                                                                        title                                                                                                              url        date  compound   SA_nltk SA_distilibert
+0                                       VRChat Streamers Will Now Need to Follow the Same Attire Guidelines as Normal Streams                                                 https://www.twitter.com/TwitchSupport/status/1798824396662182004  2024/06/06    0.0000  NEGATIVE       NEGATIVE
+1                                                                            zackrawrr - ASMONGOLD IS GONNA CLEAN HIS HOUSE!!                                                 https://clips.twitch.tv/GracefulBigKalePoooound-TbdHxY5aH4Z2EG83  2024/06/06    0.6145  POSITIVE       POSITIVE
+2                                                                   TwitchRivals - Feinberg "Misses" his chance to make Top 2                                      https://clips.twitch.tv/HelplessSneakyChinchillaKappaPride-r06od00HzIWZchaS  2024/06/06    0.4215  POSITIVE       NEGATIVE
+3                                                                            T1 speaks up against the invasive ads on streams                                            https://clips.twitch.tv/AlivePlausibleKoalaPermaSmug-3VPEmaXgQ_t91O4J  2024/06/06    0.0000  NEGATIVE       POSITIVE
+4                                                                    Northernlion asks his chat what their favorite games are                                         https://clips.twitch.tv/CourteousIgnorantRabbitTebowing-6RMBaawg4Dr3NIwm  2024/06/06    0.4588  POSITIVE       NEGATIVE
+5                                                                    Squeex on who he thinks is the best streamer of all time                                https://youtube.com/clip/UgkxkUFl4kc7vuv72J8ZeUTM3nGuQI1-08z6?si=KunQbOUFmAJEJspe  2024/06/06    0.6369  POSITIVE       POSITIVE
+6                                                                                               Hachu listens to a metal song                                              https://clips.twitch.tv/ColdFineAardvarkRaccAttack-mjREJyyaDtfYTEA4  2024/06/06    0.0000  NEGATIVE       POSITIVE
+7                                                                                                           The future is now                                             https://clips.twitch.tv/CrypticBadMarjoramDatSheffy-o7zfdUyoqiirl2j8  2024/06/06    0.0000  NEGATIVE       POSITIVE
+8   German Streamer Finishes His Walk Across Germany And Crosses The Germany-Czechia Border After 24 Days Of Non-Stop Walking                                        https://clips.twitch.tv/JazzyMiniatureDotterelBloodTrail-4pDFjKQE6XRpM8As  2024/06/06    0.0000  NEGATIVE       NEGATIVE
+9                                                                                            Quin falls for the oldest trick.                                               https://clips.twitch.tv/HelplessLazyTruffleUnSane-XXlHk_XdYaCsf2yu  2024/06/06   -0.0516  NEGATIVE       NEGATIVE
+10                                                                                                       Quin misses a minion                                   https://clips.twitch.tv/TangibleSuspiciousJellyfishKappaClaus-luQPVYoXkq5rtkXd  2024/06/06   -0.2263  NEGATIVE       NEGATIVE
+11                                                           The guy does not know how to Urgot LUL - League Player Mentality                                              https://clips.twitch.tv/PluckyFlirtyTriangleLitFam-p1hPePjALKw6VVW8  2024/06/06    0.0000  NEGATIVE       NEGATIVE
+12                                                     8 hours daily for a month, first timing champs in ranked, never learns                                       https://clips.twitch.tv/TenderFurryPassionfruitTwitchRaid-ERjuvJqb9Insa2mq  2024/06/06    0.4215  POSITIVE       NEGATIVE
+13                                                                                           forsen addresses the allegations                                      https://clips.twitch.tv/AwkwardMiniatureKoalaDoubleRainbow-f9Cm4R10dGYW3439  2024/06/06    0.0000  NEGATIVE       POSITIVE
+14                                                                                                    Got something to drink?                                                https://clips.twitch.tv/CovertWrongClamTheRinger-Vb7KrAdQ1jusYD1A  2024/06/06    0.0000  NEGATIVE       POSITIVE
+15                                                                                                    The biggest G.Skill fan                                              https://clips.twitch.tv/PoliteSavorySalsifyCoolCat-IA2o2v6DyH3cbCv7  2024/06/06    0.3182  POSITIVE       POSITIVE
+16                                                                                                                 X is smart      https://www.twitch.tv/xqc/clip/CrypticSavageAxeBrokeBack-hZyHQsgNYrwQsRfR?filter=clips&range=24hr&sort=time  2024/06/06    0.4019  POSITIVE       POSITIVE
+17                                                                                          Introducing the Twitch DJ Program                                          https://blog.twitch.tv/en/2024/06/06/introducing-the-twitch-dj-program/  2024/06/06    0.0000  NEGATIVE       POSITIVE
+18                                                                                                       oldest Jynxzi viewer                                    https://www.twitch.tv/jynxzi/clip/EnticingLongNoodleFailFish-LVvKXuKGOFBtmWnP  2024/06/06    0.0000  NEGATIVE       POSITIVE
+19                                                                                                          Squeex is excited                                                https://clips.twitch.tv/UgliestAliveKuduTooSpicy-Vq1ZJ_b29kMV_ry9  2024/06/06    0.3400  POSITIVE       POSITIVE
+20                                                                                       what destiny 2 downtime does to a mf                                             https://clips.twitch.tv/SoftSecretiveHeronDendiFace-iM9dD-iReOlfgR-0  2024/06/06    0.0000  NEGATIVE       NEGATIVE
+21                                                Incredible footage as Starship's fin begins to break apart during re-entry!                                https://youtube.com/clip/UgkxbF-aRGAJoZ2eBm1cXw7aCwBWknVW5Lss?si=10dD2cMuEfeRn_Sr  2024/06/06    0.0000  NEGATIVE       POSITIVE
+22                                                                                             Punk teaches NuckleDu a lesson                                            https://clips.twitch.tv/SourPatientLadiesArsonNoSexy-sWHCJEj8-t6ChI6L  2024/06/06    0.0000  NEGATIVE       POSITIVE
+23                                                                                          Robcdee shows his chat a windhole                                            https://clips.twitch.tv/HungryReliableSandwichNotATK-aXYaSA3pyO2GrgjJ  2024/06/06    0.0000  NEGATIVE       NEGATIVE
+24                                                                                              Radstads opens hidden tweets   https://www.twitch.tv/radstads/clip/WealthyRacyPeafowlPJSalt-bV-TwAFFAIn3zdox?filter=clips&range=24hr&sort=time  2024/06/06    0.0000  NEGATIVE       NEGATIVE
+25                                                                                                   X performs field surgery                                                        https://kick.com/xqc?clip=clip_01HZNT9V9KYT12E58D2CJH9FM9  2024/06/06    0.0000  NEGATIVE       POSITIVE
+26                                                                         Paymoneywubby Incites his followers to take action                                         https://clips.twitch.tv/AverageAltruisticSandpiperKeepo-GJ18rNhzDFl03Fl-  2024/06/06    0.0000  NEGATIVE       NEGATIVE
+27                                                                                     xQc watches Nvidia's CEO give a speech                                                        https://kick.com/xqc?clip=clip_01HZN95ZWEMG46HSWQX5EYSG8D  2024/06/06    0.0000  NEGATIVE       POSITIVE
+28                                                                                                            15 million bats                                                https://clips.twitch.tv/CarefulQuaintWrenOneHand-LiPz2Dhn6Yp49waM  2024/06/06    0.0000  NEGATIVE       POSITIVE
+29                   Russian Twitch streamer sentenced to more than 5 years in prison for criticizing the invasion of Ukraine                                                       https://www.twitter.com/pcgamer/status/1798481321989136534  2024/06/06   -0.7096  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    14
-POSITIVE     2
+NEGATIVE    22
+POSITIVE     8
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    8
-POSITIVE    8
+POSITIVE    17
+NEGATIVE    13
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
