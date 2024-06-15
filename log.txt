@@ -1,48 +1,44 @@
 <!-- posts starts -->
-                                                                                                              title                                                                                                                url        date  compound   SA_nltk SA_distilibert
-0                                                                                     xQc tries to use an elevator                                                           https://kick.com/xqc?clip=clip_01J09ZZEDT87D0PASD7KZKQEMK  2024/06/13    0.0000  NEGATIVE       NEGATIVE
-1                                                             Baking streamer falls out of the sky just to mog chat  https://www.twitch.tv/bigolmtwndew/clip/RelatedCrazyBobaTTours-aN0QvXu-yXbLYxm2?filter=clips&range=24hr&sort=time  2024/06/13    0.0000  NEGATIVE       NEGATIVE
-2                                                                             Tyler1 Shows a Picture of Saiyler Rue                                                    https://clips.twitch.tv/ClearBluePicklesSSSsss-8_ttmEXwwUyJ9f-Z  2024/06/13    0.0000  NEGATIVE       POSITIVE
-3                                                     Player tries to resurrect his team in World Series of Warzone                                              https://clips.twitch.tv/BetterCulturedFriseeOSkomodo-iGDOsbes0y2NC_TI  2024/06/13    0.0000  NEGATIVE       NEGATIVE
-4                                                                                   Dono asks an important question                               https://clips.twitch.tv/GiftedHomelyOcelotCeilingCat-GVWLz2Y0k-CbwZSR?tt_medium=redt  2024/06/13    0.2023  POSITIVE       POSITIVE
-5                                                                                                New Twitch Feature                                                https://clips.twitch.tv/MistyGoldenAlbatrossDuDudu-kFAguhBiFKzgtHmO  2024/06/13    0.0000  NEGATIVE       POSITIVE
-6                                                                    Naaaah, ain't no way someone sent him this....                                 https://clips.twitch.tv/AdorableLittleAmazonPeanutButterJellyTime-PY0sChiSqRQftXQX  2024/06/13    0.2235  POSITIVE       NEGATIVE
-7                                                               Ac7ionman vomits on the stairs in a Dubai nightclub                                                    https://kick.com/ac7ionman?clip=clip_01J09MC1PT25V9RG7E1WV8KKCR  2024/06/13    0.0000  NEGATIVE       NEGATIVE
-8                                                                                          Mizz starting shit again                                                 https://clips.twitch.tv/SpineyHonestMochaRalpherZ-xQKf8rZaEp3hwSfz  2024/06/13   -0.5574  NEGATIVE       NEGATIVE
-9                                                                                    Hachu studies American culture                                       https://clips.twitch.tv/BashfulAlluringGrasshopperPermaSmug-ehoFqr_tey3_Z7mR  2024/06/13    0.0000  NEGATIVE       POSITIVE
-10  Will Smith was in Ibai's stream today and he will be singing / rapping in Ibai's La Velada 5 (the boxing event)                                    https://www.twitch.tv/ibai/clip/AmorphousAmorphousCardTheTarFu-tgCd82law2YvpPF1  2024/06/13    0.0000  NEGATIVE       POSITIVE
-11                                                                                                    Swiss traffic                      https://www.twitch.tv/sarahbridgewater/clip/StrongTawdryCheddarLeeroyJenkins-LOFLLTpjXmll5PpV  2024/06/13    0.0000  NEGATIVE       POSITIVE
-12                                                                            When the final Raid Boss is your son.                                                    https://clips.twitch.tv/AliveBigElephantFunRun-ZbEwbOUTAb8PAT62  2024/06/13    0.0000  NEGATIVE       POSITIVE
-13                                                                              Soda Summarizes Lacari's League Run                                     https://clips.twitch.tv/GrotesqueResourcefulLettuceBloodTrail-BNFxTOs1VZVkyVLW  2024/06/13    0.0000  NEGATIVE       POSITIVE
-14                                                                       I this pro fortnite streamer using aimbot?                                         https://clips.twitch.tv/GoodBreakableCrocodileFeelsBadMan-vuwbMFDBNtGIhuAD  2024/06/13    0.0000  NEGATIVE       NEGATIVE
-15                                                                                AI deepfakes are getting too real                                                https://clips.twitch.tv/HomelyAssiduousSquidPJSalt-rb7-Pbltk5az5Gye  2024/06/13    0.0000  NEGATIVE       NEGATIVE
-16                                                                              Cleopatra did the same I believe...                                                     https://clips.twitch.tv/BraveTrappedStarDoggo-eYAOieFf800l7BGV  2024/06/13    0.0000  NEGATIVE       POSITIVE
-17                                                                               Woman takes her meerkat for a walk                                                 https://clips.twitch.tv/CourteousWimpyClipzNotATK-retQ0K4jG4KzaiKW  2024/06/13    0.0000  NEGATIVE       POSITIVE
-18                                                        Streamer doesn't want to lose all viewers while she's AFK                                https://www.twitch.tv/yoloiiiooo/clip/TenuousFamousMonkeyFutureMan-O-8UrwT79yYR9UeB  2024/06/13    0.2584  POSITIVE       POSITIVE
-19                                                                                        Jinny breaks her keyboard                                            https://clips.twitch.tv/CrowdedWimpyLatteDancingBanana-52dIweBMuNCnwGTl  2024/06/13    0.0000  NEGATIVE       NEGATIVE
-20                                                                      unwelcome customer wants kebab in hong kong                            https://www.twitch.tv/bigcocobuns/clip/CarelessDoubtfulAubergineAliens-i4W4TVkFZMLCFbmL  2024/06/13   -0.4019  NEGATIVE       NEGATIVE
-21                                                                                                      "it's over"                                                https://clips.twitch.tv/ElatedVibrantCarrotDBstyle-cLUGtQ5M7udSwESA  2024/06/13    0.0000  NEGATIVE       NEGATIVE
-22                                                                 Trying to make a short clip with sound alerts on                                         https://clips.twitch.tv/AgitatedPoliteAnacondaFeelsBadMan-fZnXG1qFCUUwp5-c  2024/06/13    0.0000  NEGATIVE       NEGATIVE
-23                                                                                    Poke's new song is next level                                              https://clips.twitch.tv/EmpathicAcceptableFriseeWOOP-0CpJVMChk-X1ly0U  2024/06/13    0.0000  NEGATIVE       POSITIVE
-24                                                                                   Twitch CEO shows a new feature                                                   https://clips.twitch.tv/WealthySillyOwlImGlitch-ym4xP6EHbEaYcbZD  2024/06/13    0.0000  NEGATIVE       POSITIVE
-25                                               Resident Evil 2 Speedrunner loses WR pace after being followbotted                                               https://clips.twitch.tv/ExcitedDepressedTurnip4Head-6_tFdE2MYYrjWMzV  2024/06/13   -0.7717  NEGATIVE       NEGATIVE
-26                                                                                         Doc Addresses the Rumors                                  https://youtube.com/clip/UgkxipxPmvpJ85EQU_pljvvUUjUhKTKKiSmR?si=y5Jv7Zrp5-bWveMS  2024/06/13    0.0000  NEGATIVE       POSITIVE
-27                                              chinese police demand information for streaming at tiananmen square                                            https://clips.twitch.tv/FilthyFamousPeachLeeroyJenkins-ijPSraBWFBi4EN3W  2024/06/13   -0.1280  NEGATIVE       NEGATIVE
-28                                                                                     Train goes on a strange rant                                                https://kick.com/trainwreckstv?clip=clip_01J07TJFFYNAFGXZCHFYD4G23H  2024/06/13   -0.4939  NEGATIVE       NEGATIVE
-29                                                                                PaymoneyWubby - really bad timing                                        https://clips.twitch.tv/CarefulObservantAnteaterJonCarnage-ycb7JnlbG1PDBpqR  2024/06/13   -0.5849  NEGATIVE       NEGATIVE
-30                                                                      QT forgets to close tab before exiting game                                            https://clips.twitch.tv/DiligentBrightInternPunchTrees-5AJQRn3wG9CYNmxz  2024/06/13    0.5473  POSITIVE       NEGATIVE
+                                                                                                        title                                                                                     url        date  compound   SA_nltk SA_distilibert
+0                                                                                       Destiny Appeal Denied                           https://twitter.com/TheOmniLiberal/status/1801714978543800598  2024/06/14   -0.4404  NEGATIVE       NEGATIVE
+1                                                                              Tyler1 buys the $500 Ahri skin                  https://clips.twitch.tv/RenownedBoldZucchiniSwiftRage-3WmQwZMR6RhhaVE_  2024/06/14    0.0000  NEGATIVE       NEGATIVE
+2   Chatter offers 10,000 bits if Apex player gets 5 kills in 5 minutes. Gets 4/5 kills with 30 seconds left:                    https://clips.twitch.tv/WiseTemperedVampireJebaited-g0EvuEuI6Uu3v0Js  2024/06/14   -0.7906  NEGATIVE       NEGATIVE
+3                                                                             Tyler buys the $500 league skin                 https://clips.twitch.tv/SaltySuccessfulFalconSmoocherZ-hnIGt6zv-hbYGlhe  2024/06/14    0.0000  NEGATIVE       POSITIVE
+4                                                                           T1's backseat AI is lore accurate                     https://clips.twitch.tv/AcceptableOddSwordBatChest-SDsxJjb_wwKIZS2Q  2024/06/14    0.0000  NEGATIVE       POSITIVE
+5                                                           Zoil doesn't last very long with Empi in the room             https://clips.twitch.tv/HilariousArborealWrenchNotLikeThis-7BzSgHJ2Zm7ZhC2P  2024/06/14    0.0000  NEGATIVE       NEGATIVE
+6                                                Chat enables small streamer to be able to eat for the month.              https://clips.twitch.tv/AltruisticDiligentEyeballEagleEye-npzG1SrDHHP_e8zX  2024/06/14    0.0000  NEGATIVE       POSITIVE
+7                                                             Women will have moustaches after the apocalypse                          https://kick.com/hanridge?clip=clip_01J0C92T834CJHCQ6SYTEZKEWP  2024/06/14    0.0000  NEGATIVE       NEGATIVE
+8                                                      Britt gets the clip for her fruit roll up world record                       https://clips.twitch.tv/BelovedGracefulMouseWOOP-1ndquZwoz2ex-l77  2024/06/14    0.0000  NEGATIVE       POSITIVE
+9                                                                     Peeguu found a part-time job in Vietnam                https://clips.twitch.tv/SpookyTalentedPancakeCeilingCat-i0FZheDsxKElj64n  2024/06/14    0.0000  NEGATIVE       NEGATIVE
+10                                                                            The God Gamer does it first try          https://clips.twitch.tv/SarcasticCooperativeSparrowYouDontSay-Yp5AsQhbtkNBeJXY  2024/06/14    0.2732  POSITIVE       NEGATIVE
+11                                                                   Paid attention results in paid attention                       https://clips.twitch.tv/ColorfulOilyPepperMVGame-87k9V22G9Fedqb7j  2024/06/14    0.0000  NEGATIVE       POSITIVE
+12                                                                                   "got yelled at" speedrun                        https://clips.twitch.tv/CrowdedDarlingTireKAPOW-HmQRagE-KwF35VK4  2024/06/14    0.0000  NEGATIVE       NEGATIVE
+13                                                                                           Zoil gives birth                       https://clips.twitch.tv/PleasantBelovedFoxNotATK-xudwyL33EdOcHK_y  2024/06/14    0.0000  NEGATIVE       POSITIVE
+14                                      Northernlion gets annoyed at a chatter and does an impression of them                   https://clips.twitch.tv/MistyExuberantGrouseRitzMitz-LRW1sAyvfd8kBmKV  2024/06/14   -0.1779  NEGATIVE       POSITIVE
+15                    Average day in Dali: Alpaca on a walk, unlicensed software, and robots making ice cream        https://www.twitch.tv/waterlynn/clip/StormySolidLettuceTooSpicy-RZ6W1Bdx74lA7kxH  2024/06/14    0.0000  NEGATIVE       NEGATIVE
+16                                                                                        Sips borrows a book                       https://clips.twitch.tv/SmokyProtectivePandaMcaT-x0daixl9XpY1fj4_  2024/06/14    0.0000  NEGATIVE       NEGATIVE
+17                                                                                  no smoking in the stadium                      https://clips.twitch.tv/MoistApatheticBillHeyGuys-QQjQsQY9BQ7hcgCn  2024/06/14   -0.2960  NEGATIVE       POSITIVE
+18          Lars becomes the 4th finisher of Deep Dip 2 after 279h of grinding, setting the first sub 1h time                   https://clips.twitch.tv/FaintAggressiveVampirePJSalt-oiyeD_E-gW3X6x40  2024/06/14    0.0000  NEGATIVE       POSITIVE
+19                                                                                      Babushka gets crowned                    https://clips.twitch.tv/FurtiveTentativeHumanWoofer-d7BzYm_G7VUQVVI_  2024/06/14    0.0000  NEGATIVE       POSITIVE
+20     First time ever double 5k guess on GeoGuessr, because RainBolt posted about the location a week before           https://www.twitch.tv/geoguessr/clip/DrabSpeedyBananaSaltBae-O0PKfTD0CFXeFxQt  2024/06/14    0.0000  NEGATIVE       NEGATIVE
+21                                                                 xQc goes on a rant about League of Legends                               https://kick.com/xqc?clip=clip_01J0AE11HD6M0P2ETQYVKRQVAZ  2024/06/14   -0.3400  NEGATIVE       NEGATIVE
+22                                                                        Aris hits Owlless in SM64 first try                   https://clips.twitch.tv/ImpartialLovelySmoothieKippa-FGBTVKbtDlVDItYB  2024/06/14    0.0000  NEGATIVE       NEGATIVE
+23                                                                         Mizkif beats God-Devouring Serpent                 https://clips.twitch.tv/LuckyBillowingInternJonCarnage-ilLWB31q6JgBXi7f  2024/06/14    0.0000  NEGATIVE       POSITIVE
+24                                                            Ludwig On KSI Being A SOAB During MrBeast Video       https://youtube.com/clip/Ugkx_Ld1pDsQVepO--G11AOPaj4NYV6N4xwk?si=GswpoCDgUo1ulatV  2024/06/14    0.0000  NEGATIVE       NEGATIVE
+25        Rapper Cochise tries to give his discord community a chance and they make a great first impression   https://www.twitch.tv/cochise/clip/RelentlessDeterminedPhoneFUNgineer-xUDyq9UaReMhqdNw  2024/06/14    0.6486  POSITIVE       POSITIVE
+26                                                                                     Girl Dreams be like...               https://clips.twitch.tv/HorribleSingleWoodpeckerFailFish-UGLRY2TfFVnYocXh  2024/06/14    0.4019  POSITIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    27
-POSITIVE     4
+NEGATIVE    24
+POSITIVE     3
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    17
-POSITIVE    14
+NEGATIVE    14
+POSITIVE    13
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
