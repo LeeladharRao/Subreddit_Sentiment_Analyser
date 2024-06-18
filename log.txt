@@ -1,52 +1,37 @@
 <!-- posts starts -->
-                                                                                                            title                                                                                             url        date  compound   SA_nltk SA_distilibert
-0                    Streamer quits Jump King marathon after 21 hours in moment of clarity over its pointlessness                                  https://clips.twitch.tv/AgileVainLaptopDatBoi-35e2YctsZjluNEjp  2024/06/16    0.4019  POSITIVE       NEGATIVE
-1                                                                                          State of Just Chatting                  https://clips.twitch.tv/ImportantSuccessfulChinchillaRickroll-HLKHxtuu1Qg1i0nd  2024/06/16    0.0000  NEGATIVE       NEGATIVE
-2                                                                               Joel attempts to feed a Colombian                                  https://kick.com/kangjoel?clip=clip_01J0HFWMKD6EQYH16QVKQ0P86R  2024/06/16    0.0000  NEGATIVE       NEGATIVE
-3                                                                         Koil wants Streamers to act like Adults                            https://clips.twitch.tv/BreakableDiligentSproutBIRB-Upb_BgZT3D6gEPls  2024/06/16    0.3612  POSITIVE       NEGATIVE
-4                                                BruceDropEmOff Threatens to Delete Commentary Youtuber's Channel               https://youtube.com/clip/UgkxhMqwloBOTC8Pk1i1PjQqQ8Lbab7tePsw?si=sShVVTt3kdJ5T9Rf  2024/06/16   -0.3818  NEGATIVE       NEGATIVE
-5                                                                                                          carrot                              https://clips.twitch.tv/PleasantHonorableSwanMau5-F2jKKGSvo65QTTK8  2024/06/16    0.0000  NEGATIVE       POSITIVE
-6   Destiny was almost trapped in an ultra religious Jewish neighbourhood while driving during Shabbat in Israel.                                   https://kick.com/destiny?clip=clip_01J0HA9GPA00ZB3TR2A1FFQRE7  2024/06/16   -0.4779  NEGATIVE       NEGATIVE
-7                                                                                               Caution, overhead                       https://clips.twitch.tv/NastyColdbloodedReindeerCmonBruh-_IFJJdvXiXQXVsRC  2024/06/16    0.0000  NEGATIVE       NEGATIVE
-8                                                                                                     1387 Deaths                     https://clips.twitch.tv/HandsomeSeductiveCheesecakeHeyGuys-JZkiwP8mwrkUoW7F  2024/06/16    0.0000  NEGATIVE       NEGATIVE
-9                                                                                              Aris on twitch ADs  https://www.twitch.tv/avoidingthepuddle/clip/ClearStrangeMosquitoThisIsSparta-N0fTGdKG5pBQYHuc  2024/06/16    0.0000  NEGATIVE       NEGATIVE
-10                                                                                             forsen loves japan                        https://clips.twitch.tv/CharmingSparklyBasenjiNononoCat-3yq5fB39hrqx1_a_  2024/06/16    0.5719  POSITIVE       POSITIVE
-11                                                                                       JL crazy aura on display                 https://clips.twitch.tv/ImpossiblePiercingCoffeeStoneLightning-7UWQ39dNZaD-QZkP  2024/06/16   -0.3400  NEGATIVE       POSITIVE
-12                                                                     Knut leaves some trash out for his own rat                              https://clips.twitch.tv/BitterAmusedWitchBatChest-Gd42Q5C59wRM2v0C  2024/06/16    0.0000  NEGATIVE       NEGATIVE
-13                                                                                        anime that fanfan loves                                 https://clips.twitch.tv/TallKitschyFennelANELE-PSDevW_b4Tw0Q7tM  2024/06/16    0.5719  POSITIVE       POSITIVE
-14                                                                                     Praise the almighty Faker!                          https://clips.twitch.tv/RenownedDifficultDootPlanking-UiVmEql1MjlACV1z  2024/06/16    0.5983  POSITIVE       POSITIVE
-15                                                                          Horror game secretly records streamer                          https://clips.twitch.tv/SpeedyTemperedPancakePanicVis-JGO73gdhfnCv7Kgi  2024/06/16   -0.5719  NEGATIVE       NEGATIVE
-16                                                                                         Neopets still a thing?                           https://clips.twitch.tv/DependableAstuteDiamondKeepo-7WTfn4CTPnqFts22  2024/06/16    0.0000  NEGATIVE       NEGATIVE
-17                                                                      Swedish streamer vs the word "unanimous"                             https://clips.twitch.tv/PricklyAssiduousLocustANELE-weAjBp1Nsu5czPwx  2024/06/16    0.0000  NEGATIVE       NEGATIVE
-18                                                                                         family-friendly gaming                https://www.twitch.tv/crazyjapanese/clip/TalentedBrainyCakeBIRB-_3381eHy-sz120_t  2024/06/16    0.0000  NEGATIVE       POSITIVE
-19                                                                        Midbeast has some advice for TheBausffs                              https://clips.twitch.tv/GoodSuperAntelopeSpicyBoy-3uJzIUmtLXF9vwBa  2024/06/16    0.0000  NEGATIVE       NEGATIVE
-20                                                                                      Crazy day for taxi worker                      https://clips.twitch.tv/SweetLaconicClipsdadPhilosoraptor-tpc1J12WEeVqFohw  2024/06/16   -0.3400  NEGATIVE       NEGATIVE
-21                                                  Asmongold calls out the double standards of Twitch moderation                           https://clips.twitch.tv/PatientSnappyWrenchSeemsGood-PY-3YfvpGC58tL_6  2024/06/16    0.0000  NEGATIVE       NEGATIVE
-22                                   Geoguessr players do the handshake from The Office! Darryl would be proud!!!                             https://clips.twitch.tv/SincerePeppyVampireArgieB8-eQVNKvt5zvF3pLg5  2024/06/16    0.6449  POSITIVE       POSITIVE
-23                                              Robcdee finishes cycleathon but the final station has disappeared                    https://clips.twitch.tv/CrepuscularHelpfulSmoothieSwiftRage-PEFRLb4qcLzuMVST  2024/06/16   -0.3291  NEGATIVE       NEGATIVE
-24                                                             robcdee ends his 3848km in 41 days cycling journey                            https://clips.twitch.tv/PoliteSlipperyNewtKappaRoss-OBgdKTgYAZDVcvl9  2024/06/16    0.0000  NEGATIVE       NEGATIVE
-25                                                                                   Mizkif finally beats Malenia                       https://clips.twitch.tv/GlutenFreeBitterNarwhalTheRinger-rVv0HIrKkANfitRV  2024/06/16    0.0000  NEGATIVE       POSITIVE
-26                                                                                                 Scuffed Stream                         https://clips.twitch.tv/ResilientMoralPotatoKappaPride-4YihfvEF2VeKQzoV  2024/06/16    0.0000  NEGATIVE       NEGATIVE
-27                                                 Crossword puzzle prompts discussion between "raised" vs "bred"                                  https://clips.twitch.tv/DelightfulFunNewtBIRB-aiWeOBak1bKZdhPn  2024/06/16    0.0000  NEGATIVE       POSITIVE
-28                                                  After several hundred deaths, Miz finally understands Malenia                                https://clips.twitch.tv/GentleManlyKangarooWOOP-W8Bw8vP9oDeP1Iy0  2024/06/16    0.0000  NEGATIVE       POSITIVE
-29                                 Affiliate streamer hits over 1600 during subathon extending it for over 9 days                               https://clips.twitch.tv/HappyTacitGuanacoOneHand-g--iNCO27Wefch3k  2024/06/16    0.0000  NEGATIVE       NEGATIVE
-30                                                                               Tried showing a weird ice cube..                       https://clips.twitch.tv/PricklySmellySandwichFeelsBadMan-l3KIn7uxiUYkYh7P  2024/06/16   -0.1779  NEGATIVE       NEGATIVE
-31                                                                     9-year-old hits an alley-oop 900 at XGames                    https://clips.twitch.tv/HandsomeAuspiciousOcelotNotLikeThis-3ZjbTuwYcLrUncAC  2024/06/16    0.0000  NEGATIVE       POSITIVE
-32                                  POV You're in a Ferrari Hypercar passing all the slows during 24hr of Le Mans               https://youtube.com/clip/Ugkxaw4TTcFv2PVdAvDOojZ4TeuzRy0MfKuY?si=T2stlx8sjToq0_QQ  2024/06/16    0.0000  NEGATIVE       NEGATIVE
-33                                                                          Soda gets invaded while fighting boss                             https://clips.twitch.tv/HelpfulClearBasenjiTF2John-sSJyqrPT8A3o7y0J  2024/06/16   -0.3612  NEGATIVE       NEGATIVE
-34                                                        trihex beats hardest difficulty in upcoming Fzero clone                    https://clips.twitch.tv/BombasticAthleticMonitorHoneyBadger-U0RlpH77iffdoevy  2024/06/16   -0.3400  NEGATIVE       NEGATIVE
+                                                                            title                                                                                                               url        date  compound   SA_nltk SA_distilibert
+0                                                                  Forsen driving                                         https://clips.twitch.tv/RespectfulCuteCarrotRiPepperonis-titQ2sRRfqQ6Snjx  2024/06/17    0.0000  NEGATIVE       POSITIVE
+1                                                    1760 yard "swimming" attempt                                        https://clips.twitch.tv/AuspiciousAbrasiveAsparagusAliens-llZMwUIrrFKwwfjZ  2024/06/17    0.0000  NEGATIVE       NEGATIVE
+2                                                              Coco donks his CBD                                           https://clips.twitch.tv/InnocentDeadGarbageArsonNoSexy-QDp0n8xSKW3zxdEN  2024/06/17    0.0000  NEGATIVE       NEGATIVE
+3                                            Mikkaa defeats Godrick with DDR pad.                                               https://clips.twitch.tv/UnsightlyPopularGullTTours-3Rz8dkZDbq6d66fC  2024/06/17   -0.3182  NEGATIVE       NEGATIVE
+4                                       Forsen comes back to BABAG. We're so back                                                     https://clips.twitch.tv/EasyColorfulOwlSMOrc-_Sg9PZxrVLU9au6Q  2024/06/17    0.0000  NEGATIVE       POSITIVE
+5                                                           Average Forsen stream                                       https://clips.twitch.tv/EntertainingPreciousShinglePMSTwin-JFTJHBEuMWCghwlo  2024/06/17    0.0000  NEGATIVE       NEGATIVE
+6                             xQc finds an easter egg of himself in a horror game                                                         https://kick.com/xqc?clip=clip_01J0FHP158QK36SJYY22F7PZFV  2024/06/17   -0.5719  NEGATIVE       NEGATIVE
+7                          Forsen finds an easter egg of himself in a horror game                                      https://clips.twitch.tv/ColdbloodedShortSpindleCoolStoryBob-VxatuE4YPMte2shI  2024/06/17   -0.5719  NEGATIVE       NEGATIVE
+8                                                          4500 meters in the air                                           https://clips.twitch.tv/CrispySmoothHabaneroRaccAttack-wiSpOkbax53y2ZVI  2024/06/17    0.0000  NEGATIVE       POSITIVE
+9         Ex-Kick staff claims employees frequently used the hard R at the office                                 https://youtube.com/clip/UgkxJREdBmfOyNq6qUoC9Zfhhp73nCo6moev?si=St341XXdveNCCqDl  2024/06/17   -0.1027  NEGATIVE       NEGATIVE
+10                                        Northernlion reads off a very NSFW list                                            https://clips.twitch.tv/PiercingTentativeShrimpDatBoi-JEtNUc677x4cJ9uw  2024/06/17    0.0000  NEGATIVE       NEGATIVE
+11                                  ohnePixel discovers new tactic to beat margit                                                https://clips.twitch.tv/CautiousOddChinchillaDerp-KBOGUQeRhpqjXtoF  2024/06/17    0.0000  NEGATIVE       POSITIVE
+12                                              overpopulated island in Argentina                                                https://clips.twitch.tv/ExuberantHyperPoxPogChamp-Q6fd0QRBEfWNEsZY  2024/06/17    0.0000  NEGATIVE       NEGATIVE
+13                                                                 kid loves rain                                     https://clips.twitch.tv/HomelyBashfulTortoiseAMPEnergyCherry-sGY_cCKC5qophdoN  2024/06/17    0.5719  POSITIVE       POSITIVE
+14                                                         Shanghai’s population                                               https://clips.twitch.tv/SingleUglyRadishSuperVinlin-VnEmCjfRJOoOPDS6  2024/06/17    0.0000  NEGATIVE       POSITIVE
+15                                      Streamer trolled by viewer in shorts sale                                                   https://kick.com/aflaxlife?clip=clip_01J0J1X6T3G5K1RX6H0RJQ3D21  2024/06/17    0.0000  NEGATIVE       NEGATIVE
+16  Kai responds to the backlash of appearing at North West's 11th birthday party  https://www.twitch.tv/kaicenat/clip/BlindingTamePuppyImGlitch-En_WOZmohYwp_YZ8?filter=clips&range=24hr&sort=time  2024/06/17    0.4019  POSITIVE       NEGATIVE
+17                                                 kai confronts drive by racist                                   https://clips.twitch.tv/EncouragingSuccessfulWallabyNinjaGrumpy-G2h5XuJls2W3fxtq  2024/06/17   -0.7096  NEGATIVE       NEGATIVE
+18                               Streamer's wholesome reaction to his first snipe                                         https://clips.twitch.tv/PricklyMotionlessLampBleedPurple-O_8w136CCuGE_1_I  2024/06/17    0.0000  NEGATIVE       POSITIVE
+19                                               MrMaddMarc - He tripped his mum!                                          https://clips.twitch.tv/UninterestedCrispyFungusHeyGirl-I65A2sMUAR0Wa5Gv  2024/06/17    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    29
-POSITIVE     6
+NEGATIVE    18
+POSITIVE     2
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    24
-POSITIVE    11
+NEGATIVE    13
+POSITIVE     7
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
