@@ -1,43 +1,56 @@
 <!-- posts starts -->
-                                                                                    title                                                                              url        date  compound   SA_nltk SA_distilibert
-0                                                                               NO THANKS               https://clips.twitch.tv/VibrantBadWolfSoonerLater-RoV1i_OMAKT_iv3R  2024/06/19    0.1779  NEGATIVE       NEGATIVE
-1                                         League streamer adds stream sniper to flame him                    https://clips.twitch.tv/JollyBoldPeanutLitty-CbFTZ1BVg9J7DWz3  2024/06/19    0.0000  NEGATIVE       POSITIVE
-2                       Jynxzi gives up on Elden Ring after being unable to kill Godefroy                    https://clips.twitch.tv/LittleSilkyWhaleUWot-VjYYwxVR4NAYAJF_  2024/06/19   -0.6908  NEGATIVE       NEGATIVE
-3            Kyedae says she was offered a contract by Kick but declined it due to morals            https://clips.twitch.tv/PluckyDepressedEmuTwitchRaid-kasEDZJfFDQ0inDx  2024/06/19    0.0000  NEGATIVE       NEGATIVE
-4                                                      ThisisKurtIRL - fart tilted camera     https://clips.twitch.tv/RudeAnnoyingWolverineNerfRedBlaster-nWo7StyELO4Rnd8k  2024/06/19    0.0000  NEGATIVE       NEGATIVE
-5                                Bruce goes on a rant directed at xQc for defending Kick        https://clips.twitch.tv/ConcernedCuriousDotterelTwitchRPG-oAi849pd45CgbKD0  2024/06/19   -0.3400  NEGATIVE       NEGATIVE
-6                                                                 Beetle (Almost) Made It        https://clips.twitch.tv/FriendlySpinelessCroissantVoHiYo-pCxnjuoaUS3ziFXT  2024/06/19    0.0000  NEGATIVE       POSITIVE
-7                                                          The best pirate I've ever seen                     https://clips.twitch.tv/WittyBoldSheepFloof-meKwB6RK2Z38uQ5V  2024/06/19    0.6369  POSITIVE       POSITIVE
-8                                                    ninibae - she wants to do "sqrt-ing"             https://clips.twitch.tv/CleanInnocentWebSuperVinlin-f5kobSD6lDy4ueMO  2024/06/19    0.0000  NEGATIVE       NEGATIVE
-9                                     Kick streamer goes berserk after losing their KCIP                       https://kick.com/murda?clip=clip_01J0RSQQ73K301GP3MTCJW1NJC  2024/06/19   -0.3818  NEGATIVE       NEGATIVE
-10                                                                      peppah monkaOmega        https://clips.twitch.tv/SlipperyTawdryDragonStinkyCheese-kkEazmjY66BLIP6C  2024/06/19    0.0000  NEGATIVE       NEGATIVE
-11                                                                          DangHorse IRL                  https://clips.twitch.tv/TenuousSweetHamDxAbomb-kGrhAhCiugeDCBbj  2024/06/19    0.0000  NEGATIVE       NEGATIVE
-12                                                      ex-speedrunner softlocks the game    https://www.twitch.tv/squeex/clip/IronicCooperativeAppleDerp-5hkjsG1EyVRmePOg  2024/06/19    0.0000  NEGATIVE       NEGATIVE
-13                                                                    meduska - gleba xD              https://clips.twitch.tv/VastLittleCarrotBleedPurple-O5rBfvqyWotrkZB0  2024/06/19    0.5859  POSITIVE       NEGATIVE
-14                          Twitch offered to Lower Koil's Ban to 3 Days if he Apologized                      https://clips.twitch.tv/BusyFrozenFriesWow-KfaoevK6OuV1oR-1  2024/06/19   -0.5423  NEGATIVE       NEGATIVE
-15                                                    the most immersive chicken roleplay  https://www.twitch.tv/fanfan/clip/LazyAssiduousChipmunkOhMyDog-V7atuf18HiQoPzCR  2024/06/19    0.0000  NEGATIVE       POSITIVE
-16                        imKMOZ - Streamer tries to kill her whole team ~Blond moment!!!    https://www.twitch.tv/imkmoz/clip/AlertSpikyPonyCharlieBitMe-j57vgeV_C90cQpum  2024/06/19   -0.7633  NEGATIVE       NEGATIVE
-17                                                                     el classico timing          https://clips.twitch.tv/RefinedRelievedMeerkatOSkomodo-BBDwYpFS71MFv-o3  2024/06/19    0.0000  NEGATIVE       POSITIVE
-18                                                              Yoink attempt in Portugal              https://clips.twitch.tv/SpoopyCogentPieHoneyBadger-2eeqZ8_3BWO2cmcE  2024/06/19    0.0000  NEGATIVE       NEGATIVE
-19                                                                 egirl explains herself         https://clips.twitch.tv/CourageousBombasticTapirDogFace-FC0sg_oOQt_HfZAA  2024/06/19    0.0000  NEGATIVE       POSITIVE
-20                                Vinny goes for the tactical heal in between boss phases             https://clips.twitch.tv/PlayfulLuckySamosaPicoMause-lpMcxRkiY4GwXIQS  2024/06/19    0.0000  NEGATIVE       POSITIVE
-21                                                              Nick's mod trolls Russel                https://clips.twitch.tv/IgnorantSwissSeahorseBIRB-bDBU7KZzZs8fq3jE  2024/06/19    0.0000  NEGATIVE       POSITIVE
-22                                                         TBH Ratings go horribly wrong         https://clips.twitch.tv/UnusualAverageArmadilloFUNgineer-MVxANaHg2hIN0WgI  2024/06/19   -0.7579  NEGATIVE       NEGATIVE
-23   Quin69 saying he wants to say racial slurs and tell stream snipers to commit suicide                  https://clips.twitch.tv/JollyKawaiiKoalaNotATK-Al6XZI3B3VzMkGG6  2024/06/19   -0.5106  NEGATIVE       NEGATIVE
-24                                 imaqtpie and co. beat the Tree Sentinel after 10 hours        https://clips.twitch.tv/AggressiveFantasticCobblerUnSane-HmkC-zridhJkaaah  2024/06/19    0.0000  NEGATIVE       NEGATIVE
-25  Destiny calls out Twitch for allowing content creators to threaten him and his family                    https://kick.com/destiny?clip=clip_01J0PZ5NCVMQPHPRY66AA8T99K  2024/06/19   -0.3818  NEGATIVE       NEGATIVE
+                                                                                  title                                                                                url        date  compound   SA_nltk SA_distilibert
+0                                                              Alcholic Gollum Loses It                 https://clips.twitch.tv/FurtivePerfectGrassVoHiYo-ksdMXxVXLI6tNF_u  2024/06/20   -0.3182  NEGATIVE       NEGATIVE
+1                                                           Jerma's Dog ruins the fight          https://clips.twitch.tv/LitigiousSpotlessAlfalfaTheTarFu-NF5qfSXAR8XZ7UR9  2024/06/20   -0.6705  NEGATIVE       NEGATIVE
+2                                                   StableRonaldo searches up something                       https://clips.twitch.tv/YawningCuteApeKeepo-JpnkQ4Q9v0CthxQp  2024/06/20    0.0000  NEGATIVE       POSITIVE
+3                                     Ramee catches Twitch Staff Member White Knighting           https://clips.twitch.tv/AbnegateSincereStorkFeelsBadMan-RaynpGi-jpgME98B  2024/06/20    0.0000  NEGATIVE       POSITIVE
+4                                                            Dalton Makes It To Round 2               https://clips.twitch.tv/PlumpWanderingSquidTheThing-c3T_UT5tFfAoTF-U  2024/06/20    0.0000  NEGATIVE       POSITIVE
+5                                                                                     N                https://clips.twitch.tv/CorrectKathishFoxBCWarrior-J4OkB774GwTvh6ba  2024/06/20    0.0000  NEGATIVE       POSITIVE
+6                                                                    XQC scrolls TikTok           https://clips.twitch.tv/DeterminedDignifiedKathyHeyGuys-Kd9BfG3mcqJBykYz  2024/06/20    0.0000  NEGATIVE       NEGATIVE
+7                                      ThisisKurtIRL - stream lurkers in the background                 https://clips.twitch.tv/PerfectAntsyPoxCeilingCat-44MvCEoADcKiClMb  2024/06/20    0.0000  NEGATIVE       NEGATIVE
+8                                                                fors is my cult leader              https://clips.twitch.tv/IronicCourageousLorisTriHard-CnV3Oomz1QORPU0k  2024/06/20    0.0000  NEGATIVE       POSITIVE
+9                                                            Busan demon stays hydrated              https://clips.twitch.tv/SlipperyFancyHareKeyboardCat-EN86hC3eGBN9OZaX  2024/06/20    0.0000  NEGATIVE       POSITIVE
+10                                        Forsen shows the next part of his master plan               https://clips.twitch.tv/VibrantMoralDaikonPermaSmug-iGB7SWZ5LgJmpu0k  2024/06/20    0.0000  NEGATIVE       POSITIVE
+11                          Northernlion checks the chat history of one of his chatters                https://clips.twitch.tv/LovelyTolerantZebraGivePLZ-TxOpHqvoGo8bN0vJ  2024/06/20    0.0000  NEGATIVE       NEGATIVE
+12                                          Why it's so hard to monitor kids these days                      https://kick.com/destiny?clip=clip_01J0VDKBCYAF9YWWR0MJ5XH0KP  2024/06/20   -0.2183  NEGATIVE       NEGATIVE
+13                                                   how not to deal with your problems                     https://clips.twitch.tv/KathishBigElkDAESuppy-6ZEgEmmsjqqaqDFi  2024/06/20   -0.4019  NEGATIVE       NEGATIVE
+14                                                                      ohne overthinks        https://clips.twitch.tv/RudeBenevolentAlligatorBleedPurple-W8tF12RIIgCniLae  2024/06/20    0.0000  NEGATIVE       NEGATIVE
+15                                               tyler1 gets threatened by his teammate                 https://clips.twitch.tv/YawningNimbleAmazonKlappa-IRQf4H7DMUbVt3RT  2024/06/20   -0.4588  NEGATIVE       NEGATIVE
+16                                              YourRage goes off after killing Malenia                     https://kick.com/yourrage?clip=clip_01J0VA21DJJZSEYWX7CE9YT4P6  2024/06/20   -0.6597  NEGATIVE       NEGATIVE
+17                                                   Dogs and streamer loses their mind             https://clips.twitch.tv/FilthyGrotesqueEndiveCopyThis-xzhYM2okrz7pn_Iv  2024/06/20   -0.3182  NEGATIVE       NEGATIVE
+18                                         Speed barks at the Prime Minister of Albania  https://youtube.com/clip/Ugkx1Zw6Sa_kiJN09_qijF85sA2KGUHqpgpP?si=g-WspViL_TuZowp-  2024/06/20    0.0000  NEGATIVE       NEGATIVE
+19                              Lirik talked about in an extremely popular steam review             https://clips.twitch.tv/HardTemperedCarabeefDatSheffy-LOnA1aYKeORXPItT  2024/06/20    0.4754  POSITIVE       POSITIVE
+20     IShowSpeed swarmed by fans after streaming with the Prime Minister of Albania 🇦🇱  https://youtube.com/clip/UgkxcdhN6tcjAGH_rylpKhmnUVz6tZ3emYvX?si=g8z8X19AC0jdWeE7  2024/06/20    0.0000  NEGATIVE       NEGATIVE
+21      Streamer sounds JUST like Rihanna and stuns fans with this stunning performance            https://clips.twitch.tv/TacitFantasticCarrotKappaClaus-GEkTUxznShTw6OVE  2024/06/20    0.6808  POSITIVE       POSITIVE
+22                            New Minecraft player plays hardcore and tries to sleep...      https://clips.twitch.tv/PlumpRelievedPuffinCharlietheUnicorn-4OeaCfWiJNwSvt45  2024/06/20    0.2500  POSITIVE       NEGATIVE
+23                                                      Esco Attempts "CPR" while drunk                  https://clips.twitch.tv/VictoriousYawningFlyMcaT-Vg2kTO93XKu8MEia  2024/06/20   -0.3400  NEGATIVE       NEGATIVE
+24  German streamer accidentally breaks keyboard fighting invisible mosquitos (unlucky)                    https://clips.twitch.tv/EagerLuckyWormRickroll-L_Ama62-1zj-dAeH  2024/06/20   -0.5994  NEGATIVE       NEGATIVE
+25                                                      tolkien scholar a bit too taken                  https://clips.twitch.tv/AlertKindCrocodileWoofer-hv5Py7xwHMCO2d1X  2024/06/20    0.0000  NEGATIVE       NEGATIVE
+26                               Destiny has a unique take on Zherka/Heelmike situation                      https://kick.com/destiny?clip=clip_01J0T08E0W5NDPBEEJ4PDSE0P2  2024/06/20    0.0000  NEGATIVE       POSITIVE
+27                                                              Train has a realization                https://kick.com/trainwreckstv?clip=clip_01J0SMAWSE6D9RKH24WQTMBHB8  2024/06/20    0.0000  NEGATIVE       POSITIVE
+28                                                   hey shroud, how's elden ring going      https://clips.twitch.tv/CautiousThoughtfulDaikonAMPTropPunch-tijYbS-H7rW5qQEe  2024/06/20    0.0000  NEGATIVE       POSITIVE
+29                                                    IitzTimmy styling on ImperialHal             https://clips.twitch.tv/DependableStrongSquidDendiFace-fNPUhrK87QYTKS8g  2024/06/20    0.0000  NEGATIVE       POSITIVE
+30                                                      Badblando falls in love with AI               https://clips.twitch.tv/SleepyInnocentHeronRalpherZ-Qu5jYlAKz18OTXue  2024/06/20    0.6369  POSITIVE       POSITIVE
+31                                      Scarra and Yvonne - the sanest league streamers                    https://clips.twitch.tv/FrailUglyBatteryYouWHY-n1cJeYVtC044bILi  2024/06/20    0.0000  NEGATIVE       POSITIVE
+32                                                  Wubby is amazing at QTE's in games.                https://clips.twitch.tv/SullenBovineBaboonTebowing-eUtqowreFe3KYdvH  2024/06/20    0.5859  POSITIVE       POSITIVE
+33                                         Kendrick forgets to shoutout one more person            https://clips.twitch.tv/CourteousRenownedCheddarNomNom-mayofT3cx7rhVsaa  2024/06/20    0.0000  NEGATIVE       NEGATIVE
+34                                                                     Squeex helps out               https://clips.twitch.tv/SilkyCrypticTomatoAMPEnergy-Hfz5zdyUjrqPCRBH  2024/06/20    0.3818  POSITIVE       POSITIVE
+35                                             Train is the world's #1 Selena Gomez fan                https://kick.com/trainwreckstv?clip=clip_01J0SJP3HRZEJ7V5YK1X6P0HG6  2024/06/20    0.3182  POSITIVE       POSITIVE
+36                                    Wubby is dumbfounded by the Justin Timberlake DUI               https://clips.twitch.tv/AmazonianRudeOctopusVoteYea-rE2ixBMm6qt0-qld  2024/06/20   -0.3818  NEGATIVE       NEGATIVE
+37                                                            Vagabond message to Eddie                    https://kick.com/wvagabond?clip=clip_01J0SG452V3ZJMK1FHHQNMDK3R  2024/06/20    0.0000  NEGATIVE       POSITIVE
+38              Im_Dontai viewer signals him live in audience at Kendrick Lamar concert           https://clips.twitch.tv/SavageGrotesqueSashimiPermaSmug-__DcIk7rL6IywUdf  2024/06/20    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    24
-POSITIVE     2
+NEGATIVE    32
+POSITIVE     7
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    18
-POSITIVE     8
+POSITIVE    20
+NEGATIVE    19
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
