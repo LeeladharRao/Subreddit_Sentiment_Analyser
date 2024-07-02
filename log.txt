@@ -1,45 +1,52 @@
 <!-- posts starts -->
-                                                                    title                                                                                                                      url        date  compound   SA_nltk SA_distilibert
-0                                                "This is so ridiculous"   https://www.twitch.tv/extraemily/clip/RelentlessFaintDurianAMPEnergy-K9_yY6On3PkvHfWP?filter=clips&range=24hr&sort=time  2024/06/30   -0.5009  NEGATIVE       NEGATIVE
-1                                          Ah shit, here we go again....                                                           https://clips.twitch.tv/AverageSourHamTebowing-jFxVpuaKbwXJLE8m  2024/06/30   -0.5574  NEGATIVE       NEGATIVE
-2       Destiny goes off on a chatter - That guy is so genuine and honest                                                            https://kick.com/destiny?clip=clip_01J1NKD1D8A8RJGQ76HW8FFJ3J  2024/06/30    0.5520  POSITIVE       POSITIVE
-3                                     Sliker popped up on Esfand’s stream                                                     https://clips.twitch.tv/ShakingMuddyMinkTBTacoRight-OpRDpRTpKpJvS_fe  2024/06/30    0.0000  NEGATIVE       POSITIVE
-4                     ThisisKurtIRL - Kurt freaked out! Ghosts are about!                                                        https://clips.twitch.tv/KawaiiBusySparrowMingLee-P85PwRjitYvjdYRg  2024/06/30   -0.4184  NEGATIVE       POSITIVE
-5                                                           CHOKESEN LULE                                                          https://clips.twitch.tv/SmallSolidFriseeWoofer-cc_j1uyQ0lrnIIIE  2024/06/30    0.0000  NEGATIVE       NEGATIVE
-6                                         dr disrespect is back on twitch                                                        https://clips.twitch.tv/TallDullBibimbapTebowing-GJb9JUrzfMcQ2UyQ  2024/06/30   -0.4215  NEGATIVE       NEGATIVE
-7                                                      bros fluent in xqc                                                            https://clips.twitch.tv/BetterTallSkunkKeepo-MGdsQxu1-2ZdCMfI  2024/06/30    0.0000  NEGATIVE       POSITIVE
-8                             fighting game player with an unusual outfit                                                         https://clips.twitch.tv/LittleNiceFrogTheRinger-_SkYQSIPj2v3R3Fg  2024/06/30   -0.3612  NEGATIVE       POSITIVE
-9   Baus finally plays with one of the few junglers that doesn't hate him                                                     https://clips.twitch.tv/SpookyViscousLettuceOhMyDog-SpeqUhfNedmK88lM  2024/06/30    0.6121  POSITIVE       POSITIVE
-10                        Aris explains why chatters announce they're new                                                https://clips.twitch.tv/BoringVenomousAyeayeCoolStoryBro-nUbhXr0JsAQ_i02g  2024/06/30    0.0000  NEGATIVE       NEGATIVE
-11                              New invention for socially anxious people                                               https://clips.twitch.tv/GrossGlutenFreeToadFreakinStinkin-_uZPprU0n8HIGUD0  2024/06/30   -0.2500  NEGATIVE       POSITIVE
-12                 MissMikkaa finally beats the final Elden Ring DLC Boss                                                https://clips.twitch.tv/AliveViscousEchidnaLeeroyJenkins-8IcUD8Dt2bYERuaC  2024/06/30    0.0000  NEGATIVE       POSITIVE
-13                                     Show and tell on the Airsoft field                                                     https://clips.twitch.tv/MiniatureBelovedYamTheThing-pZ9Ta5V0qqzT4wR1  2024/06/30    0.0000  NEGATIVE       POSITIVE
-14                              Sweet_Anita tells BagheraJones to shut up                                                       https://clips.twitch.tv/AmericanHappyPeafowlDxCat-7gtaCB9C00Rw6fdi  2024/06/30    0.0000  NEGATIVE       NEGATIVE
-15                                               Joeykaotyk gets flashed                                                    https://clips.twitch.tv/ReliableDepressedPelicanKippa-rM68HibvdC7UaXyS  2024/06/30    0.0000  NEGATIVE       POSITIVE
-16                poke lets his chat take care of the in-game voice comms                        https://www.twitch.tv/pokelawls/clip/CooperativeResourcefulAubergineRiPepperonis-qiq7MQwlkpTxO748  2024/06/30    0.4939  POSITIVE       NEGATIVE
-17                                                     Most sane idol fan                                                         https://clips.twitch.tv/HorribleHungryWorm4Head-lktnNI5715XUW5EG  2024/06/30    0.3744  POSITIVE       POSITIVE
-18                                             Twitch crew gets yelled at                                                     https://clips.twitch.tv/ResoluteTardySmoothieSSSsss-EPtWwITZPFLlJkVp  2024/06/30    0.0000  NEGATIVE       NEGATIVE
-19                                    he got caught not even 5mins later                                                        https://clips.twitch.tv/BlightedSavageGoblinFloof--RnCVRfykHbl1Xi0  2024/06/30    0.0000  NEGATIVE       NEGATIVE
-20                                                       Old guy got rizz                                                     https://clips.twitch.tv/PreciousSpikyHornetCurseLit-AtNmHTy13Neuvh6U  2024/06/30    0.0000  NEGATIVE       POSITIVE
-21                                 He likes them pure and young... and 16                                                        https://www.youtube.com/clip/UgkxmFHc_y0Vv0iqlidwlo0dJ6yiFFzBFRFw  2024/06/30    0.4215  POSITIVE       POSITIVE
-22                                             Moon beat Bayle at level 1                                                   https://clips.twitch.tv/SpookyAwkwardCattleRaccAttack-E2yEiUXjtC2jdkPW  2024/06/30    0.0000  NEGATIVE       POSITIVE
-23                                                   Shroud enables hacks                                                     https://clips.twitch.tv/SolidYummyWaffleTBTacoRight-IT_KeVEkhaUsZyrF  2024/06/30    0.0000  NEGATIVE       NEGATIVE
-24                   MK1 Player Dyloch Breaks $3K Light From Chair Popoff                                      https://www.twitch.tv/ceogaming/clip/RamshackleFitWoodcockPraiseIt-GT-H8w2_DIP3SlVS  2024/06/30    0.0000  NEGATIVE       NEGATIVE
-25                                                        T1 Gives it all                                                  https://clips.twitch.tv/SaltyResourcefulStarlingWoofer-Blq_QuP_VuWW6DzE  2024/06/30    0.0000  NEGATIVE       POSITIVE
-26                                            XQC finds a new use for VAR                                                                https://kick.com/xqc?clip=clip_01J1K883SHP4HA2XA0ANX01BE6  2024/06/30    0.0000  NEGATIVE       NEGATIVE
-27                                                Roberto falls off chair                                                  https://kick.com/robertovstheworld?clip=clip_01J1JJJM7HG9SJ0QABAHY0C5NR  2024/06/30    0.0000  NEGATIVE       NEGATIVE
+                                                                                title                                                                                                             url        date  compound   SA_nltk SA_distilibert
+0                                   When even your cat is disgusted with your actions                                 https://clips.twitch.tv/TubularHonorablePterodactylKeyboardCat-93IBMQBy4gXJFDKh  2024/07/01   -0.5267  NEGATIVE       NEGATIVE
+1                          Arteezy's first opinion and experience with Godskin Noble.                                          https://clips.twitch.tv/EnjoyableSillyRaccoonCmonBruh-2Y3wuBXDN8rQcC-y  2024/07/01    0.4588  POSITIVE       POSITIVE
+2                                                                      Very weak boss                                          https://clips.twitch.tv/AstuteDiligentAsteriskTakeNRG-eCs2DH9-SmlNV5xQ  2024/07/01   -0.4927  NEGATIVE       NEGATIVE
+3                                  Erobb tries to play Elden Ring with channel points                                                 https://clips.twitch.tv/ManlyTubularApeBudStar-76tbnYtIulRKjpdo  2024/07/01    0.3400  POSITIVE       NEGATIVE
+4                                Agent comments on demographics in France and Belgium                                      https://clips.twitch.tv/AnimatedSecretiveSowLeeroyJenkins-Y15HFdM-eo36o1YT  2024/07/01    0.0000  NEGATIVE       POSITIVE
+5                                                                   Jake misses Water                        https://www.twitch.tv/jakenbakelive/clip/SmoothFantasticKiwiBleedPurple-PXLO3VEXFO6Cuboi  2024/07/01   -0.2263  NEGATIVE       NEGATIVE
+6                                                                             Youuuu!                                             https://clips.twitch.tv/ViscousIcyClipsdadImGlitch-4dzMv5vxznfJ77Lj  2024/07/01    0.0000  NEGATIVE       POSITIVE
+7                                                                Flosk89 - Bite Flosk                                           https://clips.twitch.tv/LazyEnticingKangarooPipeHype-ZYgYlOFOoYQxz3HM  2024/07/01    0.0000  NEGATIVE       NEGATIVE
+8                                           Mom is trying to feed her picky eater son                                              https://clips.twitch.tv/VainInterestingLionRlyTho--egumK4CHh-ckdwK  2024/07/01    0.0000  NEGATIVE       NEGATIVE
+9            TwitchMissMikka beats the divine beast with a dancepad on her second try                                            https://clips.twitch.tv/ConsiderateSillyBeefOneHand-kFY2MR-TpQl6YSIi  2024/07/01    0.5574  POSITIVE       POSITIVE
+10                               Forsen loses to the strongest boss in Elden Ring DLC                                                https://clips.twitch.tv/EagerStormyKleeMikeHogu-VGXgEV11CHRDeCpp  2024/07/01    0.1531  NEGATIVE       NEGATIVE
+11                                                                        kawaii pack                       https://www.twitch.tv/maimai__twitch/clip/SecretiveTalentedLocustOneHand-d_qhKxuVClT_bxsA  2024/07/01    0.0000  NEGATIVE       NEGATIVE
+12                                                  LIRIK voice acting for Elden Ring                                               https://clips.twitch.tv/PlumpDarkGrousePastaThat-uRwwBPRRV5Q3dnUg  2024/07/01    0.0000  NEGATIVE       NEGATIVE
+13                                                               great 8-bit graphics                       https://www.twitch.tv/meesterkeem/clip/TenuousUninterestedHerbsThunBeast-AQST97YmT1U50F-a  2024/07/01    0.6249  POSITIVE       POSITIVE
+14                            Forsen does the unbeatable. Beats Radahn After 75 hours                                    https://clips.twitch.tv/TangibleQuaintSquirrelOptimizePrime-OCtE5o_Svybx0VZ-  2024/07/01    0.0000  NEGATIVE       NEGATIVE
+15                                                            Predator Alarm Goes Off                                  https://clips.twitch.tv/SlickHorribleClintmullinsItsBoshyTime-trdKBGh0nIAUtDcX  2024/07/01   -0.3400  NEGATIVE       NEGATIVE
+16                                    Amsterdam alarm goes off after Nicks discussion                                                  https://clips.twitch.tv/WiseFastOwlBloodTrail-lEbNKAn8439y-0Oo  2024/07/01   -0.3400  NEGATIVE       NEGATIVE
+17                                         Trying to play Dredge with Thalassophobia                                                                          https://www.twitch.tv/videos/2186228464  2024/07/01    0.3400  POSITIVE       NEGATIVE
+18                                                  Hasan says the quiet part outloud                                      https://clips.twitch.tv/DarlingBusySandstormDancingBanana-KWmUrE-S0LZnN_Ni  2024/07/01    0.0000  NEGATIVE       NEGATIVE
+19                                                                      Thirsty Polom                                            https://clips.twitch.tv/FamousRoughIguanaKappaPride-w_8IPNyfX3PS3Ny3  2024/07/01    0.0000  NEGATIVE       NEGATIVE
+20                                                                  weird korean laws                                    https://clips.twitch.tv/ThoughtfulAnnoyingDragonflyPlanking-0JEd119dkXYDteov  2024/07/01   -0.1779  NEGATIVE       NEGATIVE
+21                                        Nick met an interesting person in Amsterdam                                         https://clips.twitch.tv/BoldSpinelessRaccoonHassanChop-yJfqf0hyqUnrqDHd  2024/07/01    0.4019  POSITIVE       POSITIVE
+22                                                                 Perfectly timed F                                              https://clips.twitch.tv/RoughSteamyScorpionHeyGirl-e5toCNGOk2fCjFap  2024/07/01    0.6369  POSITIVE       POSITIVE
+23                                                                          Perfect F                                      https://clips.twitch.tv/DrabFragileArmadilloPhilosoraptor-2X8N5TRZLmkqV1kK  2024/07/01    0.5719  POSITIVE       POSITIVE
+24                                                                          I Am Wood                         https://www.twitch.tv/joeykaotyk/clip/CrowdedFamousDotterelKeyboardCat-r8QA6dL01-Gn2l-S  2024/07/01    0.0000  NEGATIVE       NEGATIVE
+25                                    Nick wants to be reincarnated as a Pretty Woman                                               https://clips.twitch.tv/HedonisticEvilThymeKippa-XMYuQG8N6nfTcVRW  2024/07/01    0.4939  POSITIVE       NEGATIVE
+26  streamer make an interactive video game for chatters but they just want one thing  https://www.twitch.tv/datasks/clip/StormySuavePeafowlTheTarFu-83ZDcNKpZzfpXme6?filter=clips&range=7d&sort=time  2024/07/01    0.1154  NEGATIVE       NEGATIVE
+27                                                                   eaCatNostradamus                                           https://clips.twitch.tv/AntsyObliqueVultureDatSheffy-jOJ5taoiq1uXgtUA  2024/07/01    0.0000  NEGATIVE       NEGATIVE
+28                                                                  SUNSfan's Fantasy                                                https://clips.twitch.tv/WimpyThankfulDadTriHard-7LJFwYbiO8hRkMGi  2024/07/01    0.0000  NEGATIVE       POSITIVE
+29                                           sips has played too many simulator games                                          https://clips.twitch.tv/DifficultMotionlessSkunkFloof-a5nlNm1Zm9FlZNRM  2024/07/01    0.3400  POSITIVE       NEGATIVE
+30                                                            Sips makes a prediction                                        https://clips.twitch.tv/BlazingProudVampireCoolStoryBro-k7t6GTiwTnri4aXv  2024/07/01    0.0000  NEGATIVE       POSITIVE
+31                                             "Let's see what ExtraEmily's doing..."                                           https://clips.twitch.tv/EncouragingFunSageKappaPride-BT7DIT-fhs7o6mpk  2024/07/01    0.0000  NEGATIVE       POSITIVE
+32                         wakewilder - Wake found the woman that predicted Docs Ban!                                                     https://clips.twitch.tv/RockyBrightGoatYee-W40mBdVcDihRn-x5  2024/07/01   -0.5983  NEGATIVE       NEGATIVE
+33                                                            EEvisu thanks a friend                                    https://clips.twitch.tv/SquareSpinelessReubenNerfBlueBlaster-MJK06AgILPGJT8i-  2024/07/01    0.7269  POSITIVE       POSITIVE
+34                                          Insane streamer confuses paper with food.                                           https://clips.twitch.tv/SmokyProudMeerkatPanicBasket-FXvbfPLzZkYEBfU0  2024/07/01   -0.6124  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    23
-POSITIVE     5
+NEGATIVE    24
+POSITIVE    11
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    15
-NEGATIVE    13
+NEGATIVE    23
+POSITIVE    12
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
