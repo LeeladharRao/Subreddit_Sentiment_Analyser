@@ -1,49 +1,47 @@
 <!-- posts starts -->
-                                                                               title                                                                                   url        date  compound   SA_nltk SA_distilibert
-0                                                      Poke is reminded of a picture                     https://clips.twitch.tv/RichShinyPancakeFailFish-Bhn5PdPw8FeJzJD_  2024/07/05    0.0000  NEGATIVE       POSITIVE
-1                                                             Qt bakes cake for lud                     https://clips.twitch.tv/EagerKitschyPuffinSaltBae-rLBs1ggxRuX-ATMa  2024/07/05    0.4215  POSITIVE       NEGATIVE
-2                                                                   cinna pops a cap               https://clips.twitch.tv/HedonisticSincereCheddarYouWHY-Rn6S0FLt7m8J3Poe  2024/07/05    0.0000  NEGATIVE       POSITIVE
-3                                                    Release the Beast inside of you             https://clips.twitch.tv/PluckyCheerfulBubbleteaSmoocherZ-qCc9UVRCpi7I4IEU  2024/07/05    0.0000  NEGATIVE       POSITIVE
-4                     Mizkif gets angry and yells at his community for being unfunny                       https://clips.twitch.tv/PoorBloodyBaboonDuDudu-I0cPZvVbsVRJ3a93  2024/07/05   -0.5106  NEGATIVE       NEGATIVE
-5                                                                  Jinny almost dies                   https://clips.twitch.tv/ThankfulDirtyClintBudBlast-YH9otHwzxvEG9dj-  2024/07/05    0.0000  NEGATIVE       NEGATIVE
-6                                       Asmongold shows how to spot bots in comments           https://clips.twitch.tv/DelightfulEasyAubergineArsonNoSexy-NqCr0g4zJI2tPXOw  2024/07/05    0.0000  NEGATIVE       POSITIVE
-7                                     No shot, he just did that while he's live....                       https://clips.twitch.tv/HorriblePeppyFloofFloof-AfUBfgnhd_JnSgbz  2024/07/05   -0.2960  NEGATIVE       NEGATIVE
-8                                               Walking through an Anime Convention                     https://clips.twitch.tv/FurryExcitedLadiesSoBayed-WECJn-qac96IRMRP  2024/07/05    0.0000  NEGATIVE       POSITIVE
-9                                                                    Rats of the sky                    https://clips.twitch.tv/SpotlessTawdryLouseM4xHeh-htvoKpXW0vmTAsU4  2024/07/05    0.0000  NEGATIVE       NEGATIVE
-10                                                             Most normal emiru fan              https://clips.twitch.tv/WiseColdFlamingoResidentSleeper-uxRHsTdPZOBdNLyO  2024/07/05    0.3744  POSITIVE       POSITIVE
-11                                                               forsen 5Head tactic            https://clips.twitch.tv/SmoothObservantFlyResidentSleeper-aZy32eYdZpjrCTME  2024/07/05    0.0000  NEGATIVE       NEGATIVE
-12                                          Alinity tries her best to understand XQC               https://clips.twitch.tv/ExquisiteAdorableWalletArgieB8-XyTgWmmZM0TgAYPj  2024/07/05    0.6369  POSITIVE       NEGATIVE
-13                                                      forsen teaching his children                      https://clips.twitch.tv/LazyYawningStingrayWOOP-Lb9U2wVxsJDJ52HI  2024/07/05    0.0000  NEGATIVE       POSITIVE
-14                                                     Aris reviews an unban request          https://clips.twitch.tv/TriangularPatientDragonTBCheesePull-HOWghU9jHxISvCvj  2024/07/05    0.0000  NEGATIVE       NEGATIVE
-15                                                              bird hits the target         https://www.twitch.tv/wolfsbanee/clip/ElegantRoughPhoneDxCat-L3VDy2gGBxuvzsKB  2024/07/05    0.0000  NEGATIVE       POSITIVE
-16                                           Dying in Minecraft Hardcore to a glitch                       https://clips.twitch.tv/BovineFinePuddingDoggo-0btvRmKnsV1Xtzwa  2024/07/05    0.0000  NEGATIVE       NEGATIVE
-17                                            Flosk89 - Kurt scared that kitty!!! 🐱              https://clips.twitch.tv/SweetExquisitePassionfruitPJSalt-yQ8FSKaOrNUqI5W5  2024/07/05   -0.5826  NEGATIVE       NEGATIVE
-18                                         xQc lists everything positive in his life                             https://kick.com/xqc?clip=clip_01J1XMZ4KADY03824WZ7K2W1TE  2024/07/05    0.5574  POSITIVE       POSITIVE
-19  Elajjaz beats Elden Ring DLC with lvl 1 character and no Scadutree tree upgrades                   https://clips.twitch.tv/ClumsySeductiveSpider4Head-ssBltM0QvSKvqifw  2024/07/05   -0.2960  NEGATIVE       NEGATIVE
-20                                                              normal Lacari stream  https://www.twitch.tv/lacari/clip/HorribleThoughtfulBasenjiImGlitch-mnHylzwD4tX7ME3V  2024/07/05    0.0000  NEGATIVE       NEGATIVE
-21                                                        Saw his ride home too late                    https://clips.twitch.tv/SpookyVibrantHippoOneHand-xiMM4I1hvdhnWx0V  2024/07/05    0.0000  NEGATIVE       NEGATIVE
-22                                                  pooper gets called out instantly                       https://clips.twitch.tv/SuperSuaveHerdUncleNox-ENLNUWG99BTXu0n_  2024/07/05    0.0000  NEGATIVE       NEGATIVE
-23                                         Tenzin discards Erobb's Bloodhound's Fang                https://clips.twitch.tv/RacyTangentialPlumageCmonBruh-mWRwEjc-Nrlbylzh  2024/07/05   -0.2500  NEGATIVE       NEGATIVE
-24                           Rob hikes up the hill to get a better view of Barcelona                         https://clips.twitch.tv/HotWimpyDillCmonBruh-wqTmBgQt5Ty_mScc  2024/07/05   -0.1779  NEGATIVE       NEGATIVE
-25                       OTK's fireworks show doesn't exactly measure up to AMP's...                  https://clips.twitch.tv/VainAdventurousOilAllenHuhu-Bj1IaweUXqHTYpKt  2024/07/05    0.0000  NEGATIVE       NEGATIVE
-26                                      4th of July fireworks misfire in the kitchen     https://clips.twitch.tv/TemperedGorgeousSparrowCharlietheUnicorn-IXTXfgdYRIwiI_cF  2024/07/05    0.0000  NEGATIVE       NEGATIVE
-27           Ac7ionMan argues with woman at Ice's house, cops show up a minute later                     https://kick.com/iceposeidon?clip=clip_01J20BRJK5PHYAT2Z54PWCB5SH  2024/07/05   -0.3818  NEGATIVE       NEGATIVE
-28                        YourRage's eye is still swollen and he still has no vision              https://clips.twitch.tv/DoubtfulHomelyMonitorYouDontSay-gOoWUady9LVMt8cf  2024/07/05   -0.0516  NEGATIVE       NEGATIVE
-29                                                               Garek beats Radahn             https://clips.twitch.tv/PoorThirstyClintmullinsPunchTrees-vLJhm17uw5eGo8xr  2024/07/05    0.0000  NEGATIVE       POSITIVE
-30                                                Dog hits walk-off two run home run                 https://clips.twitch.tv/DirtyComfortableNigiriWoofer-41o8x4cqUHGmFYKc  2024/07/05    0.0000  NEGATIVE       POSITIVE
-31                                  Erobb221 reacts to RDC Mark laughing at his pic                   https://clips.twitch.tv/CleanAmorphousToadFUNgineer-ryhW-M0ShkLDkDWJ  2024/07/05    0.4939  POSITIVE       NEGATIVE
+                                                                                                                                         title                                                                                                                    url        date  compound   SA_nltk SA_distilibert
+0   After streamer gets unjustly banned by Twitch, they get unbanned but account is deleted, lost their paycheck, all their followers and subs                https://www.reddit.com/r/LivestreamFail/comments/1dwe87m/after_streamer_gets_unjustly_banned_by_twitch/  2024/07/06   -0.6059  NEGATIVE       NEGATIVE
+1                                                                                 Karma: NFT Scammer gets scammed by Gambling Scammer for 120k                                                             https://kick.com/andy?clip=clip_01J256NGE9BBHR7HCVXYXTQFG9  2024/07/06    0.0000  NEGATIVE       NEGATIVE
+2                                                                                        Erobb went to the hospital after the table accident
+                                                 https://clips.twitch.tv/FaintSparklingPuffinSwiftRage-lJ1m0rtlL1ZgvJep  2024/07/06   -0.4767  NEGATIVE       NEGATIVE
+3                                                                                                                               ANIME XX Expo                                                    https://clips.twitch.tv/CautiousRacyCoyoteJKanStyle-WnpZnRk1s-RP8_3o  2024/07/06    0.0000  NEGATIVE       POSITIVE
+4                                                                                                     Alinity fits a whole Hotdog in her mouth                                                https://clips.twitch.tv/LightElegantKoupreyArsonNoSexy-DQehZt9Xt7iRfYeg  2024/07/06    0.0000  NEGATIVE       POSITIVE
+5                                                                                       Disguised Toast looks out for young Impressionable Men                                                   https://clips.twitch.tv/OnerousPoliteAlpacaCopyThis-dJ1a0AjMOXoVHe06  2024/07/06   -0.2263  NEGATIVE       NEGATIVE
+6                                                                                                Billy Bobby can’t keep getting away with this                                                   https://clips.twitch.tv/SpoopySparklingKiwiKreygasm-NnRrkYMfZOiKTaTU  2024/07/06    0.0000  NEGATIVE       NEGATIVE
+7                                                                                        New streamer performs her own song for the first time                                                        https://clips.twitch.tv/SneakyStupidLemur4Head-lqEI1teawPWbKmgU  2024/07/06    0.0000  NEGATIVE       POSITIVE
+8                                                                                                                           Tenzin being extra                                                    https://clips.twitch.tv/VastResourcefulJamPanicVis-lGWGBkl28zkLczY-  2024/07/06    0.0000  NEGATIVE       POSITIVE
+9                                                                               Forsen finds out he's been playing on 60hz for the past decade                                                 https://clips.twitch.tv/GiantAbstemiousCattleUncleNox-uJl3myeXE4HtiuB2  2024/07/06    0.2023  POSITIVE       NEGATIVE
+10                                                                                                     Him pulling that out is CRAZY lmao....                                                  https://clips.twitch.tv/YawningSwissPanStoneLightning-XZC6_ryYJJbKfK5m  2024/07/06   -0.4824  NEGATIVE       NEGATIVE
+11                                                                                                                            Live stream fall                         https://www.twitch.tv/thesushidragon/clip/MiniatureFaintHamburgerTBCheesePull-Y_deFB7fTcIe9Kmg  2024/07/06    0.0000  NEGATIVE       POSITIVE
+12                                                                                            When Scrabble Pros Refuse to Keep Tiles Upright                                       https://youtube.com/clip/UgkxIwigFsHcxCDeT9o4mkfueQAFA9uizDEh?si=-XUjv1xt1v9MgbSW  2024/07/06   -0.2960  NEGATIVE       NEGATIVE
+13                                                                                                    irissiri129 - korea or hong kong - guys?  https://www.twitch.tv/irissiri129/clip/FunSquareFinchLeeroyJenkins-UsE3VaejUNGrGwDz?filter=clips&range=24hr&sort=time  2024/07/06    0.0000  NEGATIVE       NEGATIVE
+14                                                                                                                              Bro said "no"                                                     https://clips.twitch.tv/PeacefulSmellyCheetahANELE-p6KlYMauz1kmDq8F  2024/07/06    0.0000  NEGATIVE       NEGATIVE
+15                                                                                                                 Water has a little accident                                                   https://clips.twitch.tv/ArborealCoyKimchiPunchTrees-Mw3FGY_l7iEAwJUj  2024/07/06   -0.4228  NEGATIVE       NEGATIVE
+16                                                                                                                 Tenzin breaks Britt's couch                                                         https://clips.twitch.tv/ZanyTallDunlinPrimeMe-EIzyM5GhKdlSdvN_  2024/07/06    0.0000  NEGATIVE       NEGATIVE
+17                                                                                                      QT Cinderella Calls Out BruceDropEmOff                                                     https://clips.twitch.tv/HelpfulBrightNarwhalDxCat-JOzmvOyAIJeHwomg  2024/07/06    0.5473  POSITIVE       POSITIVE
+18                          Good Smile Company pulls Filian's nendoroid announcement after finding out she doesn't own the rights to her model                                                                https://twitter.com/Kamaniki/status/1809446496665993376  2024/07/06    0.6597  POSITIVE       POSITIVE
+19                                                                                                                   Fawn - 3-4 inches is HUGE                                          https://clips.twitch.tv/HonestFragileMarjoramAMPEnergyCherry-osqT7y4uGwehOd0Z  2024/07/06    0.4648  POSITIVE       POSITIVE
+20                                                                                                                      I missed the old Erobb                                                     https://clips.twitch.tv/SpoopyHappyWatermelonUWot-cuR5X8bXHd2fKU5R  2024/07/06   -0.2960  NEGATIVE       NEGATIVE
+21                                                                                                                       erobb221 gets slammed                                      https://clips.twitch.tv/PeacefulResilientStarlingResidentSleeper-lFtgh8d_VLyQ3Umc  2024/07/06    0.0000  NEGATIVE       NEGATIVE
+22                                                                                                              Erobb gets dropped on the head                                                    https://clips.twitch.tv/AbstruseSpunkyQuailOhMyDog-X2iDjb9QUfrQv79F  2024/07/06    0.0000  NEGATIVE       NEGATIVE
+23                                                                                                                  Erobb's thoughts on Kyedae                                                 https://clips.twitch.tv/ApatheticReliableNewtPlanking-vJN5uSjemCqlW4sb  2024/07/06    0.0000  NEGATIVE       POSITIVE
+24                                                                                                           Shroud explains his TFD addiction                                               https://clips.twitch.tv/PrettyHelpfulGiraffeHoneyBadger-mXnoKyrAffzDATpQ  2024/07/06    0.0000  NEGATIVE       NEGATIVE
+25                                                                                                                         Erobb takes a sniff                                                       https://clips.twitch.tv/HotEncouragingCatAliens-YDUB0LaZ7x_bbUeW  2024/07/06    0.0000  NEGATIVE       NEGATIVE
+26                                                                                                                                 LUNCH BREAK                                             https://clips.twitch.tv/AnnoyingExuberantEmuMrDestructoid-rklK_gUTuywxFbyB  2024/07/06    0.0000  NEGATIVE       POSITIVE
+27                                                                                                                          The circle of life                                              https://clips.twitch.tv/AdventurousDeliciousWhaleTakeNRG-NO5k-vjbnu_B61ZA  2024/07/06    0.0000  NEGATIVE       POSITIVE
+28                                                                                                                 sodapoppin - Soda Catches X                                                https://clips.twitch.tv/SwissPricklySpaghettiSmoocherZ-3XL6JSVStsFipyNX  2024/07/06    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    27
-POSITIVE     5
+NEGATIVE    25
+POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    21
-POSITIVE    11
+NEGATIVE    17
+POSITIVE    12
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
