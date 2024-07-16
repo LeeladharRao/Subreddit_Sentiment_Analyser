@@ -1,53 +1,52 @@
 <!-- posts starts -->
-                                                                          title                                                                                                                             url        date  compound   SA_nltk SA_distilibert
-0                                                 Skips Gachi for Austrian edit                                                   https://clips.twitch.tv/GlamorousBlightedSandstormWholeWheat-BV2JWT6lKhT2111m  2024/07/14    0.0000  NEGATIVE       NEGATIVE
-1                                                                 too much pain                                                      https://clips.twitch.tv/CarefulOnerousBeefNerfBlueBlaster-uQjcauUBOeDrfoCW  2024/07/14   -0.5106  NEGATIVE       NEGATIVE
-2                                                  How to order chicken tenders                                                               https://www.youtube.com/clip/UgkxkqBJqdhidEDtlvkG2wjOTQgAfGXq_pg5  2024/07/14    0.1531  NEGATIVE       NEGATIVE
-3                               Destiny asks how someone enjoys their tide pods                                                                   https://kick.com/destiny?clip=clip_01J2SPVJKX96SH15A9BK2ZG38B  2024/07/14    0.5106  POSITIVE       POSITIVE
-4                                  Zoil crying in the shower after England lost                                                      https://clips.twitch.tv/AntsyAmazingVelociraptorAllenHuhu-rP5cq-H8I2hLzoh3  2024/07/14   -0.6597  NEGATIVE       NEGATIVE
-5                                                  Zoil losses hope for England                                                        https://clips.twitch.tv/TacitUninterestedFrogCeilingCat-yIUKm-C0G8p5WX3A  2024/07/14    0.0516  NEGATIVE       NEGATIVE
-6                            Fortnite andy thinks he has more viewers than eBay                                         https://www.twitch.tv/clix/clip/SeductiveEsteemedPistachioPeoplesChamp-fyqUIdCd8hYwYWC2  2024/07/14    0.0000  NEGATIVE       NEGATIVE
-7                                                   Streamer crashes motorcycle                                                               https://kick.com/officialebz?clip=clip_01J2S5TE5WKFA2A5B147Y9YPSV  2024/07/14    0.0000  NEGATIVE       NEGATIVE
-8                                                                   fiona shrek                                                             https://clips.twitch.tv/EnergeticDeterminedSangYee-ACIdYHHhZuCrXxoZ  2024/07/14    0.0000  NEGATIVE       POSITIVE
-9                                                              Yeeted Oops lol                                                        https://clips.twitch.tv/CuteEnchantingHerringNinjaGrumpy-uTXb9uOo_qC1r6AL  2024/07/14    0.4215  POSITIVE       NEGATIVE
-10                                                                  Wet hotdog                                                                 https://clips.twitch.tv/CoyTangentialHerdUnSane-StzfcK-ltu7Q3mJb  2024/07/14    0.0000  NEGATIVE       NEGATIVE
-11                                                  Zack organizes his wardrobe                                                               https://clips.twitch.tv/SneakyTastyHedgehog4Head-zKaBaX6II0Hf4uXV  2024/07/14    0.0000  NEGATIVE       POSITIVE
-12                                                         Soda watches 2001 TV                                                       https://clips.twitch.tv/PolishedRelentlessNikudonMingLee-oh-0c9N6op2r_6mP  2024/07/14    0.0000  NEGATIVE       NEGATIVE
-13                                          NYC cyclist with a tire on his head                                          https://www.twitch.tv/meesterkeem/clip/PunchyKitschyStarlingFUNgineer-OPtVwwUa3SdyfTo4  2024/07/14    0.0000  NEGATIVE       NEGATIVE
-14  Live streamer and meme rapper EBZ crashes while trying to ride a motorcycle                                                               https://kick.com/officialebz?clip=clip_01J2S1XABQSE6HXNDKYPSFA9Y5  2024/07/14    0.0000  NEGATIVE       NEGATIVE
-15    Streamer shows all the hair she ripped out when taking out her box braids                                                                https://clips.twitch.tv/ProudTentativeLarkKappa-COG1n30PLCOfwFwU  2024/07/14    0.0000  NEGATIVE       NEGATIVE
-16                                                                     Samirsen                                                  https://www.twitch.tv/forsen/clip/CorrectCredulousFerretKAPOW-1gR6Pm3pNJeJoHlw  2024/07/14    0.0000  NEGATIVE       POSITIVE
-17                              Collegeboys hot tub streamers with toilet brush                                                  https://clips.twitch.tv/UninterestedWanderingRamenSuperVinlin-gxdv51jll63hZB8w  2024/07/14    0.0000  NEGATIVE       NEGATIVE
-18                                                                   sUs hello?                                                          https://clips.twitch.tv/BloodyImpartialPelicanCoolCat-xRCKcpoLCplDLhJ7  2024/07/14    0.0000  NEGATIVE       POSITIVE
-19    Dishsoap wins TFT Worlds for NA against insane odds (context in comments)                                                   https://clips.twitch.tv/RespectfulHandsomeMeatloafHumbleLife-Zmqx-DotNz9fgdYH  2024/07/14    0.2500  POSITIVE       POSITIVE
-20                                      When autotune singers have to sing live                                                      https://clips.twitch.tv/WealthyAntediluvianPastaJKanStyle-WJVKTRtt9OVlDZmo  2024/07/14    0.0000  NEGATIVE       NEGATIVE
-21                                            questionable retort by TheBausFFS                                              https://clips.twitch.tv/PhilanthropicEndearingRhinocerosDendiFace-bvofdE3pmfwteRgD  2024/07/14   -0.2960  NEGATIVE       NEGATIVE
-22                                             Dorozea asks the real questions                                                               https://clips.twitch.tv/RepleteChillyJamBuddhaBar-YGazoqcDMfMdugc3  2024/07/14    0.0000  NEGATIVE       POSITIVE
-23                                                        B0aty's kick contract                                                               https://clips.twitch.tv/WildDiligentMoonPogChamp-DfpNC5_tRI2vYNuS  2024/07/14    0.0000  NEGATIVE       NEGATIVE
-24                                                         Waterfall in Iceland                                                         https://clips.twitch.tv/CrunchySwissMeatloafBloodTrail-8Bjq0eKl0lwRO12T  2024/07/14    0.0000  NEGATIVE       POSITIVE
-25                              Jaden Smith and Russ in Ibai's stream yesterday                                                              https://clips.twitch.tv/TiredPoliteWallabyMingLee-uBAIu5YmxH5wRNfx  2024/07/14    0.0000  NEGATIVE       POSITIVE
-26                         Simu Liu lets Toast have a role in Shang Chi 2(real)  https://www.twitch.tv/disguisedtoast/clip/AuspiciousSpotlessLardDancingBanana-Jt3FNFTxFFH6Xj2N?filter=clips&range=7d&sort=time  2024/07/14    0.0000  NEGATIVE       NEGATIVE
-27                                              Flosk89 - Didn't expect the pub                                                                https://clips.twitch.tv/DeafGoldenSalsifyUnSane-057fUGat3V-87TaN  2024/07/14    0.0000  NEGATIVE       NEGATIVE
-28                                                                 chats reward                                                      https://clips.twitch.tv/EnchantingYummyPeppermintRuleFive-05WfA6jNHfH9xQPR  2024/07/14    0.5719  POSITIVE       POSITIVE
-29                                                                    Locked in                                                        https://clips.twitch.tv/ThankfulOriginalLobsterPraiseIt-v1MMJ7omD0ViRSuY  2024/07/14    0.0000  NEGATIVE       POSITIVE
-30                                                            Aris doesn't miss                                      https://www.twitch.tv/avoidingthepuddle/clip/FurtiveDeafHorseradishNotATK-grvwmGQmNW-_AUCe  2024/07/14    0.1139  NEGATIVE       POSITIVE
-31                                    CraYong_ - Streamer advises kids to study                                                       https://clips.twitch.tv/SmilingRacyWoodpeckerBleedPurple-krMiLJpI6PRLBmeq  2024/07/14    0.0000  NEGATIVE       POSITIVE
-32                                                                  SETUP BROKE                                              https://www.twitch.tv/daltongodfrey/clip/AstuteNiceParrotJebaited-LF6icm1FRPLCucio  2024/07/14   -0.4215  NEGATIVE       NEGATIVE
-33      BruceDropEmOff Goes on a Homophobic Rant About People Supporting Sketch            https://www.twitch.tv/brucedropemoff/clip/ManlyCrunchyTireOneHand-a679_23roREPV_3o?filter=clips&range=24hr&sort=time  2024/07/14    0.1280  NEGATIVE       NEGATIVE
-34                                                                  He a FREAK!                                                           https://clips.twitch.tv/PoisedRelievedDolphinArgieB8-WJ74BYz9nxgCIgSl  2024/07/14   -0.6027  NEGATIVE       POSITIVE
-35                                             NBA player shuts down the Avatar        https://www.twitch.tv/disguisedtoast/clip/LazyTacitDumplingsSmoocherZ-TupKRLLmkJpiSSU7?filter=clips&range=24hr&sort=time  2024/07/14    0.0000  NEGATIVE       NEGATIVE
+                                                                                                                   title                                                                                      url        date  compound   SA_nltk SA_distilibert
+0                                                                                        Destiny gets called out by Elon                            https://kick.com/destiny?clip=clip_01J2WB353DVG474VZXPE4VPSSM  2024/07/15    0.0000  NEGATIVE       POSITIVE
+1                                                   DunkOrSlam gets a World Record for Hitless any% seeded run in NOITA!     https://www.twitch.tv/dunkorslam/clip/MoistFairAirGuitarNotLikeThis-c0N-FhHn4fDNs4S-  2024/07/15    0.0000  NEGATIVE       POSITIVE
+2                                                                                                   Imaqtpie love ropes                         https://clips.twitch.tv/FrigidFaintMomKappaClaus-dmqfDwqVl8dOgn8p  2024/07/15    0.6369  POSITIVE       POSITIVE
+3                                                                                                   MrPol - Who film who                       https://clips.twitch.tv/VainGenerousOryxTwitchRPG-XzlYpN9OTKLP_WPA  2024/07/15    0.0000  NEGATIVE       POSITIVE
+4                                                                          Boogie accidentally shows his medical records        https://youtube.com/clip/UgkxKxobAm2NLlafDIVCyYo0iK0j04WQrK_3?si=-eomS6SEUWJpo1sZ  2024/07/15   -0.3400  NEGATIVE       NEGATIVE
+5                                                                                               Elon Musk shouts out xQc                                https://kick.com/xqc?clip=clip_01J2W8B7MTAPKN227E8GD3N7S3  2024/07/15    0.0000  NEGATIVE       POSITIVE
+6                                                                                   xqc unbans and readds stableronaldo                https://clips.twitch.tv/WanderingHilariousPotatoEleGiggle-PpQm1PLqxullMRJi  2024/07/15    0.0000  NEGATIVE       NEGATIVE
+7                                                                                        the last time Simply ate a pear                        https://clips.twitch.tv/ShyStrangeMilkYouDontSay-eMxrnXfn-WnwIGo2  2024/07/15    0.0000  NEGATIVE       NEGATIVE
+8                                                   League pro player doesn't understand cuisine choices by Korean Egirl                         https://clips.twitch.tv/AverageFamousSowDxAbomb-sppN8QLmz0h1oyDJ  2024/07/15    0.0000  NEGATIVE       NEGATIVE
+9                                                                            Kai on Cinna's Success and Female Streamers         https://clips.twitch.tv/CooperativeDepressedPeppermintPermaSmug-HQ1TqQuAHhTO77k5  2024/07/15    0.5719  POSITIVE       POSITIVE
+10                                                                                                 xQc calls out Destiny                                https://kick.com/xqc?clip=clip_01J2W2Z6J2SQ2DAF7QS4DGHG9X  2024/07/15    0.0000  NEGATIVE       POSITIVE
+11                                                                                             Forsen Learn How to Spell              https://clips.twitch.tv/ElegantBlazingAnteaterItsBoshyTime-or9zcw99E-eYFJqh  2024/07/15    0.0000  NEGATIVE       POSITIVE
+12                                                                                                suffering of cameraman  https://www.twitch.tv/allecakes/clip/TolerantMoldyAsparagusKappaWealth-v_H7diBafZtLZFdm  2024/07/15   -0.4767  NEGATIVE       NEGATIVE
+13                                                                                                             TikTok 3k                    https://clips.twitch.tv/SuperAbnegatePicklesOSkomodo-Y97zC-B6n_BnhVMi  2024/07/15    0.0000  NEGATIVE       POSITIVE
+14                                                                                  Beautiful Lavender fields in Japan
+                   https://clips.twitch.tv/YawningHumbleRatMrDestructoid-pH-kIadcxeD4IkHU  2024/07/15    0.5994  POSITIVE       POSITIVE
+15             Destiny explains to Elon's Twitter mob on why sending him pizzas doesn't really inconvenience him at all.                            https://kick.com/destiny?clip=clip_01J2VSG84PJYNAHWK709H7TST1  2024/07/15    0.3241  POSITIVE       NEGATIVE
+16                                                                                                               arrived                  https://clips.twitch.tv/EmpathicBovineClipsdadCopyThis-QYoomwQn7vXOOPik  2024/07/15    0.0000  NEGATIVE       POSITIVE
+17                                                                                               wise advice from Meowko               https://www.twitch.tv/meowko/clip/ManlyDifficultBatAliens-bpuOYSf3JAKn_ER0  2024/07/15    0.4767  POSITIVE       POSITIVE
+18                                                                         Jays advice about how to deal with the racism                         https://clips.twitch.tv/StormyTenderTireTriHard-rZ81zW8ZPpfwOIcQ  2024/07/15   -0.6249  NEGATIVE       POSITIVE
+19                                                Jaystreazy hearing racists comments about his wife in german themepark                              https://clips.twitch.tv/RacyLongHareDuDudu-BwIkH3ZaDQRgzOlW  2024/07/15   -0.5423  NEGATIVE       NEGATIVE
+20                                                                                                            Female xqc                     https://clips.twitch.tv/TameAbstemiousQuailRuleFive-XKYMNQx_6cGAkoGV  2024/07/15    0.0000  NEGATIVE       NEGATIVE
+21  Mt Etna rumbles while streamer uses air drone. Mt Etna had an eruption just last week and is full of tourists today.                   https://clips.twitch.tv/PrettyDistinctSandwichBudStar-NXCn4eV_B2hFFcxq  2024/07/15    0.0000  NEGATIVE       POSITIVE
+22                                                                                                    emily lost her car                   https://clips.twitch.tv/WrongObeseBurritoStinkyCheese-Ot6IF6JKoj9jYAYH  2024/07/15   -0.3182  NEGATIVE       NEGATIVE
+23                                                                             VTuber gets a hard question on TimeGuessr                    https://clips.twitch.tv/AmazonianCleanTaroCclamChamp-gBch1EPTfZS2T-DB  2024/07/15   -0.1027  NEGATIVE       NEGATIVE
+24                                                                      Chat tries to embarrass streamer in public train                 https://clips.twitch.tv/MoldyFancyWatercressHoneyBadger-YG2dBPfgBCVoH0pz  2024/07/15   -0.2960  NEGATIVE       NEGATIVE
+25                                                                                    He totally Read that message wrong               https://clips.twitch.tv/HotInspiringConsoleFreakinStinkin-eUkltlLSN2P7Zp5Q  2024/07/15   -0.4767  NEGATIVE       NEGATIVE
+26                                                                                     Kai see's how he beat Elden Ring                     https://clips.twitch.tv/PoisedExuberantRuffChefFrank-LwX8w_G3aoUWjRn1  2024/07/15    0.0000  NEGATIVE       POSITIVE
+27                                                                              Vinny in the midst of a deep fever dream                https://clips.twitch.tv/ThirstyTriangularSardineSpicyBoy-4YnHX2aaVphnuSJK  2024/07/15    0.2500  POSITIVE       POSITIVE
+28                                                                                 Cheech Marin still going strong at 78                           https://clips.twitch.tv/SwissIcyBeeBibleThump-Hzh6q_NLQeVehY1e  2024/07/15    0.5106  POSITIVE       POSITIVE
+29                                                                                          Mizkif gets told up straight                         https://clips.twitch.tv/SourVenomousDootPrimeMe--FahcfeuGftp-jWP  2024/07/15    0.2263  POSITIVE       POSITIVE
+30                                                                                            Small streamer takes the L                       https://clips.twitch.tv/StormyTemperedRabbitANELE-KlLlWHT-1HueZYWR  2024/07/15    0.0000  NEGATIVE       NEGATIVE
+31                                                                                              KaiCenat -100000000 AURA                        https://clips.twitch.tv/VainPowerfulGaurJebaited-vS821W7SKleim1dj  2024/07/15    0.0000  NEGATIVE       POSITIVE
+32                                                 Destiny responds to Donut Operator calling him a "little bitch boy"
+        https://youtube.com/clip/UgkxXIO90-8HES2ggWtYmHQmWE-5lWFHq3Uv?si=zguSkNrDfXBotULN  2024/07/15   -0.5434  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    32
-POSITIVE     4
+NEGATIVE    25
+POSITIVE     8
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    22
-POSITIVE    14
+POSITIVE    19
+NEGATIVE    14
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
