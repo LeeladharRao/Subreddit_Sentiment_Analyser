@@ -1,47 +1,40 @@
 <!-- posts starts -->
-                                                                                                                      title                                                                                  url        date  compound   SA_nltk SA_distilibert
-0                                                                               xQc solves the splash margin ratio equation                            https://kick.com/xqc?clip=clip_01J3V8Z49PSNC7K1B0MTW14G0K  2024/07/27    0.2732  POSITIVE       NEGATIVE
-1                                                                                       Doublelift gets into an argument(s)            https://clips.twitch.tv/InexpensivePeppyPangolinTebowing-RPLshVgJ6S6lCFep  2024/07/27    0.0000  NEGATIVE       NEGATIVE
-2                                                                                                    Never meet your heros              https://clips.twitch.tv/BlushingPleasantBobaDoritosChip-ZId1PGVdwwCxj4zR  2024/07/27   -0.2411  NEGATIVE       NEGATIVE
-3                                                                                           How to lose your 'alpha' status    https://youtube.com/clip/UgkxsHppm1e6P8fsRLKpJUaQCY47F5x98RlM?si=QW4rO0FQIe_t2Lln  2024/07/27   -0.4019  NEGATIVE       NEGATIVE
-4                                                                                                             rip 3k camera      https://www.twitch.tv/mizkif/clip/GentleShyNightingaleTebowing-5U4Lu1vJBgJGbH8B  2024/07/27    0.0000  NEGATIVE       NEGATIVE
-5                                                                                                                 Quin Dies                   https://clips.twitch.tv/SparklingBoringGaurOSfrog-sd8thGfFboOX26t1  2024/07/27    0.0000  NEGATIVE       NEGATIVE
-6                                                                                         Forsen really likes Hill's Angels             https://clips.twitch.tv/PatientCrepuscularDeerSwiftRage-frOzKecO3P73jKRj  2024/07/27    0.4754  POSITIVE       POSITIVE
-7                                                                                                            What you Said?               https://clips.twitch.tv/HeadstrongRacyPandaTwitchRaid-iaoz5wbfQ6xECokR  2024/07/27    0.0000  NEGATIVE       NEGATIVE
-8                                                                                                    Esfand fixes his audio                  https://clips.twitch.tv/HeartlessPiliableYakPupper-04Y6H16aUO5ekoMT  2024/07/27    0.0000  NEGATIVE       NEGATIVE
-9                                                                                                        Dan takes a fumble  https://www.twitch.tv/jasontheween/clip/WiseMoralCucumberHotPokket-AFo-yqkwtnqqok9m  2024/07/27    0.0000  NEGATIVE       NEGATIVE
-10                                                                                    Arrav finally learned how to teleport                 https://clips.twitch.tv/HyperObservantCheesePJSugar-PHJyputCAPHGu-qN  2024/07/27    0.0000  NEGATIVE       POSITIVE
-11                                 Streamer shows chat the view after spending thousands on trip to Iceland for IRL streams                      https://clips.twitch.tv/GiantNiceGaurShadyLulu-CgPRoz3dK5v9uAJ5  2024/07/27    0.0000  NEGATIVE       POSITIVE
-12                                                                                           Two inept debaters = no ending             https://clips.twitch.tv/HomelyCuriousGorillaDoritosChip-6ffF8wcaQ0Ucj7HW  2024/07/27   -0.2960  NEGATIVE       NEGATIVE
-13                                                                                               Crazy stunt jump by Forsen            https://clips.twitch.tv/HorribleTangibleReubenKappaPride-RSMx-Y1Ja4CttbX0  2024/07/27   -0.3400  NEGATIVE       POSITIVE
-14                                    If an Aris streams in a forest and no one is around to hear it, does it make a laugh?              https://clips.twitch.tv/RenownedInquisitiveLasagnaWOOP-pnj5tdGHTyMLK9hS  2024/07/27    0.3400  POSITIVE       NEGATIVE
-15                                                               Evil woman laughs at man with Parkinsons struggling to eat             https://clips.twitch.tv/CourageousPeppyTofuPeoplesChamp-hu0A_Vt19vydpD6c  2024/07/27   -0.6124  NEGATIVE       POSITIVE
-16                                                                                          NymN experiments in the bedroom                   https://clips.twitch.tv/SnappySlipperyMochaOpieOP-LkpRAuljlIdZztfY  2024/07/27    0.0000  NEGATIVE       POSITIVE
-17  Kick has released its Current Roadmap Plans, which include its own Kick Currency, Public API, and Short Format Content                         https://www.twitter.com/zachbussey/status/1817244896517873953  2024/07/27    0.0000  NEGATIVE       NEGATIVE
-18                                                                                         Nymn takes a pregnancy pain test               https://clips.twitch.tv/HandsomeRealMouseTBCheesePull-ORmwNBtTTdotqMbj  2024/07/27   -0.5106  NEGATIVE       NEGATIVE
-19                                                                                                       Based Truck Driver              https://www.twitch.tv/trizze/clip/BigObliqueSlothDoggo-M7r9nZ83wa3hNnUY  2024/07/27    0.0000  NEGATIVE       POSITIVE
-20                                                                           ego speedrunner is rude to non-helpful chatter           https://www.twitch.tv/squeex/clip/JoyousSpookyCurryFunRun-gPcxeqphV0f4U5Yg  2024/07/27   -0.4588  NEGATIVE       NEGATIVE
-21                                                                                                   Nick's Hot Tub Fantasy                   https://clips.twitch.tv/FaintDarkFlamingoPlanking-qnlomMd9OZFlS4u_  2024/07/27    0.0000  NEGATIVE       POSITIVE
-22                                                                                                      Nick is kinda plump             https://clips.twitch.tv/BloodyPhilanthropicGorillaKAPOW-P6EJYr9UUiEJ6dhM  2024/07/27    0.0000  NEGATIVE       NEGATIVE
-23                                                                                                      NYC bike experience           https://clips.twitch.tv/MoistCaringJellyfishDoubleRainbow-nKNe5dEE8R9s2w3M  2024/07/27    0.0000  NEGATIVE       POSITIVE
-24                                                                                             Mococo spells "codependency"    https://youtube.com/clip/Ugkx2pqHZRfrJlWPJ1qaN-flgYgdjr4oUv36?si=8ivFTHEnMJHsuRn2  2024/07/27    0.0000  NEGATIVE       NEGATIVE
-25                                                                                                    Insane Aatrox cosplay                  https://clips.twitch.tv/SpunkyFrigidGaurYouDontSay-2eur1s7heLmezAif  2024/07/27   -0.4019  NEGATIVE       NEGATIVE
-26                                                                            Twitch & Dan Clancy wish Hasan happy birthday   https://www.twitch.tv/hasanabi/clip/EnergeticBashfulCamelPoooound-RfZXOxcQR1PBmqGL  2024/07/27    0.7506  POSITIVE       POSITIVE
-27                                                                                      Thai streamer gets robbed in London                      https://kick.com/boyflyirl?clip=clip_01J3STBF3EQB94KNHMQ6DR4GSX  2024/07/27    0.0000  NEGATIVE       NEGATIVE
-28                                                                                      Jake gets graped by 2 Chinese girls                    https://clips.twitch.tv/TallTallSowChocolateRain-1AqzDaznbDzvL0TJ  2024/07/27    0.0000  NEGATIVE       NEGATIVE
-29                                                                                         Mitch left Reckfuls chair behind                         https://kick.com/ambish?clip=clip_01J3S3R2HJ6XSR9RJN19E4M2S4  2024/07/27    0.0000  NEGATIVE       NEGATIVE
+                                                                         title                                                                                        url        date  compound   SA_nltk SA_distilibert
+0                                      SOMEONE? WHO? THE MONKEY? WHOS SOMEONE?                       https://clips.twitch.tv/HeadstrongShyHorseAsianGlow-xuWPsrs4nRxt4vvW  2024/07/28    0.0000  NEGATIVE       NEGATIVE
+1   Asmongold reacts to Hasan calling him a hypocrite for watching loli vtuber             https://www.twitch.tv/zackrawrr/clip/SlickPuzzledLampTheThing-HRqzGQd0d5KjXQi-  2024/07/28    0.0000  NEGATIVE       NEGATIVE
+2                                                               Impressive art                    https://clips.twitch.tv/CovertInterestingDiscBrokeBack-80XRVpls8eHKrnX1  2024/07/28    0.5106  POSITIVE       POSITIVE
+3                                                      chef hasan :gachiHYPER:                    https://clips.twitch.tv/TrustworthySavorySharkPraiseIt-w35vmh3TpdJ66T8I  2024/07/28    0.0000  NEGATIVE       POSITIVE
+4                                                    CodeMiko become an e-girl                 https://clips.twitch.tv/ManlyOnerousPassionfruitAMPEnergy-MEX7y6dtBjItNLE5  2024/07/28    0.0000  NEGATIVE       POSITIVE
+5              Fanum and RayAsianBoy are pulled over by police with guns drawn                            https://clips.twitch.tv/RacyBrightAlmondM4xHeh-_gAwVn1WsuENu6N8  2024/07/28    0.0000  NEGATIVE       NEGATIVE
+6                              NYPD officer draws gun after pulling over Fanum               https://clips.twitch.tv/InexpensiveAmericanGnatDeIlluminati-H8PZXJf-Jyk_HZUV  2024/07/28   -0.3400  NEGATIVE       NEGATIVE
+7                                The brainrot is WAY too strong in this one...   https://www.twitch.tv/questron/clip/PoisedTangentialCarrotMrDestructoid-dxXttu9v3fQ6A_be  2024/07/28    0.5106  POSITIVE       NEGATIVE
+8                                            two attractive people have a beef                https://www.twitch.tv/erobb221/clip/MoistBoldOryxPastaThat-v0Rn3lG3sE9iWRAq  2024/07/28    0.4404  POSITIVE       POSITIVE
+9                                                    IRL streams in a nutshell      https://www.twitch.tv/joeykaotyk/clip/UnusualChillyDumplingsUncleNox-ZMlm-yNhtFhTc-ba  2024/07/28    0.0000  NEGATIVE       NEGATIVE
+10                              Content Creators as soon as they become famous                   https://clips.twitch.tv/ScrumptiousPolishedRavenRedCoat-zwQfVbbMCknP5I7n  2024/07/28    0.0000  NEGATIVE       POSITIVE
+11                                          Tenzin crashes his plane after 16h                https://clips.twitch.tv/ProductiveUninterestedDugongDatBoi-0hEK6rKvO3Edcm9B  2024/07/28    0.0000  NEGATIVE       NEGATIVE
+12                                                           Dodging what now?                 https://clips.twitch.tv/FurtiveBelovedGorillaStinkyCheese-TFt5eTX0okxQudxF  2024/07/28   -0.1027  NEGATIVE       NEGATIVE
+13                                    Tenzin forgot he was streaming after 14h                        https://clips.twitch.tv/TenaciousWiseHeronPanicVis-pl4x8V1k9rb662Mj  2024/07/28    0.0000  NEGATIVE       NEGATIVE
+14                                             Boo has a questionable car door               https://clips.twitch.tv/AstuteGracefulPineappleTBCheesePull-1Z-MIjUZZom0rPpd  2024/07/28   -0.2960  NEGATIVE       NEGATIVE
+15                                                        I need one of those                         https://clips.twitch.tv/DullFaithfulBadgerPipeHype-jqpkuU71ZwaSWasj  2024/07/28    0.0000  NEGATIVE       NEGATIVE
+16                                                            Moon gets bonked                    https://clips.twitch.tv/ShortInventivePangolinSpicyBoy-0qwVmZ_5vhtcY9w2  2024/07/28    0.0000  NEGATIVE       NEGATIVE
+17                                                       Stewie2k and a Deagle                    https://clips.twitch.tv/SullenTacitMonkeyDoubleRainbow-G4-h1wg2BGQ0vlAY  2024/07/28    0.0000  NEGATIVE       NEGATIVE
+18                                                         words of an addict   https://clips.twitch.tv/InquisitiveGrotesqueBulgogiPeanutButterJellyTime-taTRMf9j-z4wm34K  2024/07/28    0.0000  NEGATIVE       NEGATIVE
+19                                               Streamer Trips Lady in Public                               https://kick.com/moises?clip=clip_01J3VBS102KC0SER0BTX6S2N90  2024/07/28    0.0000  NEGATIVE       POSITIVE
+20                                             Dan Clancy has a chatter moment                  https://clips.twitch.tv/SpinelessCogentPartridgeBabyRage-KQXUZrdNFyzB7s-N  2024/07/28    0.0000  NEGATIVE       POSITIVE
+21                                                Agent00 on his sketch collab                https://clips.twitch.tv/ColorfulHilariousWormDancingBanana-9Nb0h9As7ud3Wofe  2024/07/28    0.0000  NEGATIVE       NEGATIVE
+22                                                MrPol - belfast crazy driver                     https://clips.twitch.tv/ResilientDistinctGarageVoHiYo-RaVQ-bdNxGG2g7WF  2024/07/28   -0.3400  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    26
-POSITIVE     4
+NEGATIVE    20
+POSITIVE     3
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    20
-POSITIVE    10
+NEGATIVE    16
+POSITIVE     7
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
