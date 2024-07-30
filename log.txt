@@ -1,40 +1,53 @@
 <!-- posts starts -->
-                                                                         title                                                                                        url        date  compound   SA_nltk SA_distilibert
-0                                      SOMEONE? WHO? THE MONKEY? WHOS SOMEONE?                       https://clips.twitch.tv/HeadstrongShyHorseAsianGlow-xuWPsrs4nRxt4vvW  2024/07/28    0.0000  NEGATIVE       NEGATIVE
-1   Asmongold reacts to Hasan calling him a hypocrite for watching loli vtuber             https://www.twitch.tv/zackrawrr/clip/SlickPuzzledLampTheThing-HRqzGQd0d5KjXQi-  2024/07/28    0.0000  NEGATIVE       NEGATIVE
-2                                                               Impressive art                    https://clips.twitch.tv/CovertInterestingDiscBrokeBack-80XRVpls8eHKrnX1  2024/07/28    0.5106  POSITIVE       POSITIVE
-3                                                      chef hasan :gachiHYPER:                    https://clips.twitch.tv/TrustworthySavorySharkPraiseIt-w35vmh3TpdJ66T8I  2024/07/28    0.0000  NEGATIVE       POSITIVE
-4                                                    CodeMiko become an e-girl                 https://clips.twitch.tv/ManlyOnerousPassionfruitAMPEnergy-MEX7y6dtBjItNLE5  2024/07/28    0.0000  NEGATIVE       POSITIVE
-5              Fanum and RayAsianBoy are pulled over by police with guns drawn                            https://clips.twitch.tv/RacyBrightAlmondM4xHeh-_gAwVn1WsuENu6N8  2024/07/28    0.0000  NEGATIVE       NEGATIVE
-6                              NYPD officer draws gun after pulling over Fanum               https://clips.twitch.tv/InexpensiveAmericanGnatDeIlluminati-H8PZXJf-Jyk_HZUV  2024/07/28   -0.3400  NEGATIVE       NEGATIVE
-7                                The brainrot is WAY too strong in this one...   https://www.twitch.tv/questron/clip/PoisedTangentialCarrotMrDestructoid-dxXttu9v3fQ6A_be  2024/07/28    0.5106  POSITIVE       NEGATIVE
-8                                            two attractive people have a beef                https://www.twitch.tv/erobb221/clip/MoistBoldOryxPastaThat-v0Rn3lG3sE9iWRAq  2024/07/28    0.4404  POSITIVE       POSITIVE
-9                                                    IRL streams in a nutshell      https://www.twitch.tv/joeykaotyk/clip/UnusualChillyDumplingsUncleNox-ZMlm-yNhtFhTc-ba  2024/07/28    0.0000  NEGATIVE       NEGATIVE
-10                              Content Creators as soon as they become famous                   https://clips.twitch.tv/ScrumptiousPolishedRavenRedCoat-zwQfVbbMCknP5I7n  2024/07/28    0.0000  NEGATIVE       POSITIVE
-11                                          Tenzin crashes his plane after 16h                https://clips.twitch.tv/ProductiveUninterestedDugongDatBoi-0hEK6rKvO3Edcm9B  2024/07/28    0.0000  NEGATIVE       NEGATIVE
-12                                                           Dodging what now?                 https://clips.twitch.tv/FurtiveBelovedGorillaStinkyCheese-TFt5eTX0okxQudxF  2024/07/28   -0.1027  NEGATIVE       NEGATIVE
-13                                    Tenzin forgot he was streaming after 14h                        https://clips.twitch.tv/TenaciousWiseHeronPanicVis-pl4x8V1k9rb662Mj  2024/07/28    0.0000  NEGATIVE       NEGATIVE
-14                                             Boo has a questionable car door               https://clips.twitch.tv/AstuteGracefulPineappleTBCheesePull-1Z-MIjUZZom0rPpd  2024/07/28   -0.2960  NEGATIVE       NEGATIVE
-15                                                        I need one of those                         https://clips.twitch.tv/DullFaithfulBadgerPipeHype-jqpkuU71ZwaSWasj  2024/07/28    0.0000  NEGATIVE       NEGATIVE
-16                                                            Moon gets bonked                    https://clips.twitch.tv/ShortInventivePangolinSpicyBoy-0qwVmZ_5vhtcY9w2  2024/07/28    0.0000  NEGATIVE       NEGATIVE
-17                                                       Stewie2k and a Deagle                    https://clips.twitch.tv/SullenTacitMonkeyDoubleRainbow-G4-h1wg2BGQ0vlAY  2024/07/28    0.0000  NEGATIVE       NEGATIVE
-18                                                         words of an addict   https://clips.twitch.tv/InquisitiveGrotesqueBulgogiPeanutButterJellyTime-taTRMf9j-z4wm34K  2024/07/28    0.0000  NEGATIVE       NEGATIVE
-19                                               Streamer Trips Lady in Public                               https://kick.com/moises?clip=clip_01J3VBS102KC0SER0BTX6S2N90  2024/07/28    0.0000  NEGATIVE       POSITIVE
-20                                             Dan Clancy has a chatter moment                  https://clips.twitch.tv/SpinelessCogentPartridgeBabyRage-KQXUZrdNFyzB7s-N  2024/07/28    0.0000  NEGATIVE       POSITIVE
-21                                                Agent00 on his sketch collab                https://clips.twitch.tv/ColorfulHilariousWormDancingBanana-9Nb0h9As7ud3Wofe  2024/07/28    0.0000  NEGATIVE       NEGATIVE
-22                                                MrPol - belfast crazy driver                     https://clips.twitch.tv/ResilientDistinctGarageVoHiYo-RaVQ-bdNxGG2g7WF  2024/07/28   -0.3400  NEGATIVE       NEGATIVE
+                                                                                                              title                                                                                       url        date  compound   SA_nltk SA_distilibert
+0                                                                                   Busan demon starts a conga line                        https://clips.twitch.tv/WealthySquareOysterNotATK-HtOqA74BGMzWA8Kw  2024/07/29    0.0000  NEGATIVE       NEGATIVE
+1                                                                 OTK's League of Legends team off to a great start                   https://clips.twitch.tv/HardCrepuscularZebraWholeWheat-QL3_hLE2NraucLnW  2024/07/29    0.6249  POSITIVE       POSITIVE
+2                 Twitch Revenue Numbers Suggests that it has Gone Back to 2019 Earnings Despite Twice the Userbase                             https://www.twitter.com/zachbussey/status/1817974084497772548  2024/07/29    0.0000  NEGATIVE       NEGATIVE
+3                                           Not Elon Musk is surprised that Elon's estranged daughter mentioned him                             https://kick.com/destiny?clip=clip_01J407B66NYN6S031P63WBKC77  2024/07/29    0.2263  POSITIVE       NEGATIVE
+4                                                                                                    Swedish horror               https://clips.twitch.tv/FurryAssiduousVelociraptorTinyFace-Cp3CbhjPz_k4NNDc  2024/07/29   -0.5719  NEGATIVE       NEGATIVE
+5                                                                 JLongoPoker Crashes MTN Bike - Didn't See the Gap        https://www.twitch.tv/jlongopoker/clip/VibrantSullenCrabsTheThing-A6Dqd2dtPyFDhjg8  2024/07/29    0.0000  NEGATIVE       NEGATIVE
+6                                                                  I think he might have clicked the wrong section                   https://clips.twitch.tv/WealthyCloudyDotterelBloodTrail-TUzooHOIOObnq0VQ  2024/07/29   -0.4767  NEGATIVE       NEGATIVE
+7                                                                                                     man's not hot         https://youtube.com/clip/UgkxfTIH9aZW5gTKx__cPrxNZk-_yYL9F5K_?si=pF2lWzp34ZGJ1HUj  2024/07/29    0.0000  NEGATIVE       NEGATIVE
+8                                                                   Jason gifts a family $10k for cancer treatment.           https://clips.twitch.tv/RelentlessAmorphousPresidentRaccAttack-1kAWSm-jnab70SmK  2024/07/29   -0.6597  NEGATIVE       POSITIVE
+9                                                                                            xQc if he was a parent                                 https://kick.com/xqc?clip=clip_01J3YJ2E1S1G8R9SN35A4VFATG  2024/07/29    0.0000  NEGATIVE       NEGATIVE
+10                                                         Women love it when you shows enthusiasm for your hobbies                    https://clips.twitch.tv/ClumsyDifferentGarlicTebowing-N7Lz8w8HVkUVBTC-  2024/07/29    0.7964  POSITIVE       POSITIVE
+11                                                                                     Egyptian gods attack Wirtual                        https://clips.twitch.tv/PreciousSourKiwiJKanStyle-bSBm7tR2BMFCfAUq  2024/07/29   -0.4767  NEGATIVE       NEGATIVE
+12                                                                         Knut's daughter deadlifts 70kg / 154 lbs                    https://clips.twitch.tv/ObedientSuspiciousDunlinKeepo-L8fiTaK6vHXeUHOp  2024/07/29    0.0000  NEGATIVE       NEGATIVE
+13                                         Emiru checks Mizkif channel after finding out he blocked her on Twitch.                    https://clips.twitch.tv/CorrectArbitraryPuddingWutFace-vb0OVluX0LQNneYH  2024/07/29   -0.2732  NEGATIVE       NEGATIVE
+14                                                             Asmon shares his traumas on stream (trigger warning)                https://clips.twitch.tv/AggressiveDeterminedEmuYouDontSay-yAgRzTbR2jUNxYjG  2024/07/29   -0.2500  NEGATIVE       POSITIVE
+15                                                                    xQc on letting his Kid have Surgery before 18                                 https://kick.com/xqc?clip=clip_01J3YFDQ91EXNE8AFMMN7150SV  2024/07/29    0.0000  NEGATIVE       NEGATIVE
+16                                                                                              Almost there, Jake!  https://www.twitch.tv/waterlynn/clip/ReliableSolidMarjoramDancingBanana-B21WNLl13cpGPkwN  2024/07/29    0.0000  NEGATIVE       POSITIVE
+17                                       Amazon Paid Almost $1 Billion for Twitch in 2014. It’s Still Losing Money.                    https://www.wsj.com/tech/twitch-amazon-video-games-investment-9020db87  2024/07/29   -0.2263  NEGATIVE       NEGATIVE
+18                                                               Robbaz gets violated by mailbox in Fallout London.               https://www.twitch.tv/robbaz/clip/ScaryLitigiousDadPMSTwin-2It_PB2mmgnN1lxE  2024/07/29   -0.5267  NEGATIVE       NEGATIVE
+19                                                                         streamer came to devastating realization           https://www.twitch.tv/bossberry_/clip/SnappySparklySnakeDuDudu-MoHnvk6bImi8iHiR  2024/07/29   -0.6486  NEGATIVE       NEGATIVE
+20                                                                                  Quin69 with an unfortunate slip               https://clips.twitch.tv/CarefulTrustworthyTortoiseCurseLit-nSew-3yu1RhahBMG  2024/07/29   -0.4588  NEGATIVE       NEGATIVE
+21                                                                                        Esfand squirts in the gym                  https://clips.twitch.tv/LaconicPrettiestSoymilkMikeHogu-rsbq7OgiqmXAStGG  2024/07/29    0.0000  NEGATIVE       POSITIVE
+22                                                                                         Esfand squirts on stream                          https://clips.twitch.tv/AbnegateToughGarlicUWot-ZCMeTgt7UjxOa5hp  2024/07/29    0.0000  NEGATIVE       POSITIVE
+23                                                                               one new IG follower instead of two                        https://clips.twitch.tv/AltruisticTenuousCodANELE-L3vGXzmLGOwmptQ8  2024/07/29    0.0000  NEGATIVE       NEGATIVE
+24                                                                 A cinematic gank in EVE Online while roleplaying   https://www.twitch.tv/talesoflumin/clip/StrangeElatedLatteItsBoshyTime-oKCOJ_ezx0EQOPdj  2024/07/29    0.0000  NEGATIVE       POSITIVE
+25                                                                xQc on Hasan's usage of the word "Neurodivergent"                                 https://kick.com/xqc?clip=clip_01J3ZGJKHX6NWHW7AT1TD9S8JR  2024/07/29    0.0000  NEGATIVE       NEGATIVE
+26  The Mexican Runner completes a blindfolded Turbo Tunnel in Battletoads deathless for the 2nd time at a marathon  https://www.twitch.tv/speedrunsmx/clip/ThankfulKawaiiTriangleCeilingCat-VNxdS7DBtLU9cEqm  2024/07/29    0.0000  NEGATIVE       NEGATIVE
+27                                               Jaystreazy tries the Red Force the fastest rollercoaster in the EU                          https://kick.com/jaystreazy?clip=clip_01J3ZE6E2QZQCXVQEZT37R0VKD  2024/07/29    0.0000  NEGATIVE       POSITIVE
+28                                                                                 NMPs take on the Asmongold drama                       https://clips.twitch.tv/KawaiiResoluteMageJebaited-wIemk_9wyqaJ8yki  2024/07/29    0.0000  NEGATIVE       POSITIVE
+29                           xQc realizes that a Youtuber was watching his stream after an hour-long rant & insults                                 https://kick.com/xqc?clip=clip_01J3Z8AVS1MMNQ68FAAFKXZ7XX  2024/07/29   -0.6369  NEGATIVE       NEGATIVE
+30                                                           How people in Dota BM in all chat after winning a game                     https://clips.twitch.tv/AmorphousPlacidFinchBatChest-N2BWddCZNywgVZaW  2024/07/29    0.5267  POSITIVE       NEGATIVE
+31                                                                         Lucid gets an Overkill on the Main Stage                   https://clips.twitch.tv/CogentPricklySmoothieDendiFace-OepgiJltPjfKyh1B  2024/07/29    0.0000  NEGATIVE       NEGATIVE
+32                                                  Server crashes in the middle of GF of 2v2 Team Fortress 2 match                    https://clips.twitch.tv/AbrasiveTrustworthyPeachFloof-5k883MfnyiH4Jv41  2024/07/29    0.0000  NEGATIVE       NEGATIVE
+33                                                                                         Poki tries not to scream                        https://clips.twitch.tv/PeppyBlitheSquirrelWTRuck-nWU9krqPOtJanpOx  2024/07/29    0.3089  POSITIVE       POSITIVE
+34                             abney317 hits insane Yoshi Valley skip to save run and gets new 150cc WR by 1 second              https://www.twitch.tv/abney317/clip/BillowingLazyKaleSSSsss-zYCFDjL8XdGr9Bwp  2024/07/29    0.1280  NEGATIVE       NEGATIVE
+35                                                                                 Zzyzx tries to be like the girls           https://clips.twitch.tv/OptimisticHelplessPheasantAMPTropPunch--4giXj45I7a6xYEU  2024/07/29    0.3612  POSITIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    20
-POSITIVE     3
+NEGATIVE    30
+POSITIVE     6
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    16
-POSITIVE     7
+NEGATIVE    25
+POSITIVE    11
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
