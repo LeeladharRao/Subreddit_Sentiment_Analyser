@@ -1,45 +1,47 @@
 <!-- posts starts -->
-                                                                                    title                                                                                  url        date  compound   SA_nltk SA_distilibert
-0   After 900 deaths MOONMOON beats Needleknight Leda and the squad on SL 1 no Scaudutree    https://clips.twitch.tv/SarcasticFastDuckTebowing-de8CJHAnkCIU03k8?tt_medium=redt  2024/08/01   -0.2960  NEGATIVE       NEGATIVE
-1                                                                        High speed crash                     https://clips.twitch.tv/PeppyUnusualMetalUnSane-Azaa4nJ8mX6S6wsf  2024/08/01   -0.4019  NEGATIVE       NEGATIVE
-2                                        Tyler1 gets compared to Kevin Hart in Epic Movie             https://clips.twitch.tv/FineGlutenFreeWasabiKevinTurtle-LyUzy5u_2KNHJeUi  2024/08/01    0.0000  NEGATIVE       POSITIVE
-3                                                        OTK Top Streamer cheats a little           https://clips.twitch.tv/ArborealHelpfulFennelTBCheesePull-cGVqXDGrf4gfajrx  2024/08/01   -0.2500  NEGATIVE       NEGATIVE
-4                                                                          Gamers in 2024               https://clips.twitch.tv/NaiveElatedWallabyKeyboardCat-oj2Qa3qgzMfRefaX  2024/08/01    0.0000  NEGATIVE       POSITIVE
-5                                                       Streamer takes care of her plants           https://clips.twitch.tv/ColorfulCulturedAlmondPanicBasket-y5IgBK0_VtQgvvXI  2024/08/01    0.4939  POSITIVE       POSITIVE
-6                                                   Older Bald Man Gives You Platonic JOI                     https://clips.twitch.tv/OilySuperCarrotPanicVis-xVct7KMy4Iw4gz8d  2024/08/01    0.0000  NEGATIVE       NEGATIVE
-7                                                             Team Liquid beats Team NAVI          https://clips.twitch.tv/FaithfulYawningClintmullinsPJSugar-vNkdfm1f1zh0segR  2024/08/01    0.0000  NEGATIVE       POSITIVE
-8                                                      Lil Pump spits on the wrong person                         https://kick.com/vitaly?clip=clip_01J45Z7F1ZSGDCZ42RQHVA3HS1  2024/08/01   -0.4767  NEGATIVE       NEGATIVE
-9                                                            Nick's naughty karaoke night              https://clips.twitch.tv/ThirstyConfidentFungusDAESuppy-IBR8rE2XPNkbimW0  2024/08/01    0.0000  NEGATIVE       POSITIVE
-10                                                                          korean warcry                  https://clips.twitch.tv/GrossSuaveSeahorsePipeHype-oHlTpHmY4saN2KIk  2024/08/01    0.0000  NEGATIVE       NEGATIVE
-11                                      Cat rises up against the oppression of his master                       https://clips.twitch.tv/CautiousDullPhoneMau5-SHrQ8fEiv9UkxCeG  2024/08/01    0.0000  NEGATIVE       POSITIVE
-12                                                                    Average CS2 Pro POV                      https://clips.twitch.tv/ArtsySillySeahorseMcaT-5am368D7LDcuKkA9  2024/08/01    0.0000  NEGATIVE       NEGATIVE
-13                                                                 Bonnies Business Plan!         https://clips.twitch.tv/GlutenFreeCleverDelicataGrammarKing-lFmBUb5P5kBeNtYZ  2024/08/01    0.0000  NEGATIVE       POSITIVE
-14                                                  Do you guys wanna see something cute?                   https://clips.twitch.tv/FrigidPlumpKimchiRuleFive-F86IX0VMhJ4QMQaA  2024/08/01    0.4588  POSITIVE       POSITIVE
-15                                                                 tent attacked streamer          https://www.twitch.tv/ruunachu/clip/RudeMildHedgehogPupper-CSdBb-0OkfLzFk1-  2024/08/01   -0.4588  NEGATIVE       NEGATIVE
-16                                                                             WE GOT ONE           https://clips.twitch.tv/CleverDeterminedSkirretJonCarnage-sKxv6CGLVyy6J5zX  2024/08/01    0.0000  NEGATIVE       POSITIVE
-17                                            ohnePixel - a rare "rejuicer" of a viewer..                 https://clips.twitch.tv/JazzyBillowingMonkeyOSsloth-qO4q_VCoah--rnoL  2024/08/01    0.0000  NEGATIVE       POSITIVE
-18                                                         Alkaizerx wont help his friend                    https://clips.twitch.tv/SourBlindingFlySwiftRage-FOyZCOfHOmcvsXgH  2024/08/01   -0.5975  NEGATIVE       POSITIVE
-19                                                          Wife fat shames husband sadge            https://clips.twitch.tv/SmilingTemperedSnailRiPepperonis-NLIWwyASWFUqBsie  2024/08/01   -0.4019  NEGATIVE       NEGATIVE
-20                              Hail Mary wins the National Championship on the last play   https://www.twitch.tv/icyvert/clip/ThankfulVibrantFriseeBlargNaut-GIzDLp4H1V8UTRxg  2024/08/01    0.8519  POSITIVE       POSITIVE
-21                                                  Mizkif reaction to penguinz0 retiring      https://www.twitch.tv/mizkif/clip/VibrantKathishDaikonEagleEye-JpVVs678TK3yOlJX  2024/08/01    0.0000  NEGATIVE       NEGATIVE
-22                                                        Destiny reacts to his thumbnail                        https://kick.com/destiny?clip=clip_01J42PVDQ985HAE0C4XMNPQ9ZX  2024/08/01    0.0000  NEGATIVE       POSITIVE
-23                                                                        Cinna cool clip               https://clips.twitch.tv/TenderCrowdedHerringBlargNaut-kGCMxvKiXrZ0t5nk  2024/08/01    0.3182  POSITIVE       POSITIVE
-24                                                              Streamer shares diet tips                https://clips.twitch.tv/SneakyGeniusJuiceArsonNoSexy-UnUfaClrLqkH2rrs  2024/08/01    0.2960  POSITIVE       POSITIVE
-25                                           Streamer AntPrevails shares his origin story  https://clips.twitch.tv/FuriousSpookyPangolinPeanutButterJellyTime-1mPvbn_Av-3pJ43j  2024/08/01    0.2960  POSITIVE       POSITIVE
-26                                           Northernlion on the various levels of wealth        https://clips.twitch.tv/SincereConcernedPicklesOptimizePrime-mAFuQPNJTp66LZ6y  2024/08/01    0.4939  POSITIVE       POSITIVE
-27                                                            Aris has fun in a videogame            https://clips.twitch.tv/SillyEnchantingIcecreamBrainSlug-n0eQcke92dsD9IH7  2024/08/01    0.5106  POSITIVE       POSITIVE
+                                                                       title                                                                                                                  url        date  compound   SA_nltk SA_distilibert
+0                                             A squeaky toy is a squeaky toy                                               https://clips.twitch.tv/FlaccidHelpfulHeronRaccAttack-XF8SKLyNp9h5CjS-  2024/08/02    0.0000  NEGATIVE       NEGATIVE
+1                                           bad idea for a "teateh" sticker                                          https://clips.twitch.tv/OilySecretiveNuggetsResidentSleeper-zxeBoW7RY53BxH8s  2024/08/02   -0.5423  NEGATIVE       NEGATIVE
+2                               MrPol - Invisible chair dissappear under Pol                                           https://clips.twitch.tv/TolerantCrypticChinchillaTinyFace-o263_euv8OIGPArm  2024/08/02    0.0000  NEGATIVE       NEGATIVE
+3                                      Mizkif's game pays respect to Reckful                                                https://clips.twitch.tv/IgnorantCulturedOwlSmoocherZ-213yYwpQgdUl5vgJ  2024/08/02    0.4767  POSITIVE       POSITIVE
+4                                                        Twitch's New Update                                             https://clips.twitch.tv/AliveHealthyHorseradishPipeHype-5Kv4UtkJSKG_Tgpf  2024/08/02    0.0000  NEGATIVE       POSITIVE
+5                                    Mizkif choosing hottest anime character                                        https://clips.twitch.tv/VictoriousTrappedTortoiseKevinTurtle-P5M7XVf-Oxu7cXn2  2024/08/02    0.0000  NEGATIVE       POSITIVE
+6                                                     Can you do a backflip?                                     https://www.twitch.tv/noraexplorer/clip/BlushingFurtiveYakLitty-RpSJ9dkid8oBZOwT  2024/08/02    0.0000  NEGATIVE       NEGATIVE
+7                     A Viewer Connects the Dots on Tyler1's Recent Behavior                                                   https://clips.twitch.tv/BrainyCoweringSpiderLitty-yKP6nbOhsdcpKHMt  2024/08/02    0.0000  NEGATIVE       POSITIVE
+8                Find Content you Love Faster with the New Twitch Mobile App                    https://blog.twitch.tv/en/2024/07/29/find-content-you-love-faster-with-the-new-twitch-mobile-app/  2024/08/02    0.6369  POSITIVE       POSITIVE
+9                                                               I'm Just ok.                                     https://www.twitch.tv/cyr/clip/DifficultSteamyCougarDoritosChip-ESZP-u1Py1qHTVjH  2024/08/02    0.2960  POSITIVE       POSITIVE
+10                                                       Debate bro meltdown                                                  https://clips.twitch.tv/ArtisticLovelyBeanSpicyBoy-xJVqjQ65WFnxwHAw  2024/08/02    0.0000  NEGATIVE       NEGATIVE
+11                                               NL Addresses /r/sinkpissers                                                https://clips.twitch.tv/RockyBlitheSpiderTBTacoRight-EpCMmBrvW64_2ybh  2024/08/02    0.0000  NEGATIVE       NEGATIVE
+12  Asmon addresses the Michael Phelps comparison in regards to Imane Khelif  https://www.twitch.tv/zackrawrr/clip/CrispySquarePoultryJebaited-Fq7iljxdXiwiLWwU?filter=clips&range=24hr&sort=time  2024/08/02    0.0000  NEGATIVE       NEGATIVE
+13                                     Erobb does his best 50Cent impression                                                      https://clips.twitch.tv/ToughFurryApeOMGScoots-4sH6_Bu5HYf99EOf  2024/08/02    0.7269  POSITIVE       POSITIVE
+14                    NPC starts a conversation with an illusionary streamer                                         https://www.twitch.tv/justketh/clip/ShortConfidentWaspKAPOW-KYp8tVm-2a1RNfEI  2024/08/02    0.0000  NEGATIVE       NEGATIVE
+15                                                      Emmy spits on Russel                                                     https://clips.twitch.tv/TiredBusyGiraffeMingLee-V3xAt214nA9lqJWH  2024/08/02    0.0000  NEGATIVE       NEGATIVE
+16                                                           Japan is freaky                                              https://clips.twitch.tv/EnergeticAgileGalagoHassanChop-orrqysmul_MwDdUw  2024/08/02   -0.3612  NEGATIVE       POSITIVE
+17                                                 Cooksux Finally Admits It                                                 https://clips.twitch.tv/DiligentScaryLlamaAllenHuhu-zIzsOJoYq0kmOAxs  2024/08/02    0.2960  POSITIVE       POSITIVE
+18                                                             one more time                                        https://www.twitch.tv/waterlynn/clip/GorgeousEvilPandaUnSane-5fRpXo6IKtjBbLPZ  2024/08/02    0.0000  NEGATIVE       POSITIVE
+19                                      Jason gets slapped by muscle mommies                                         https://clips.twitch.tv/ElatedSpinelessAlligatorGingerPower-2tALKHgg71KRfNcq  2024/08/02    0.0000  NEGATIVE       NEGATIVE
+20       Normal intra workout routine for the collegeboys - CollegeboyVegard                                              https://clips.twitch.tv/FineAssiduousSandpiperBabyRage-dSYvbAPiDOteWzg5  2024/08/02    0.0000  NEGATIVE       NEGATIVE
+21                                               Jason goes rizzing in Japan                                                   https://clips.twitch.tv/LuckyLivelyMinkBloodTrail-XctDObJjspor2ktB  2024/08/02    0.0000  NEGATIVE       NEGATIVE
+22          Akon Performs "Locked Up" For A Child Predator Getting Arrested.                                                         https://kick.com/vitaly?clip=clip_01J48EDTDN4Q9NJ5259Z74G66F  2024/08/02   -0.4767  NEGATIVE       POSITIVE
+23         Streamer complains ear hurts but earphones wrong way round lol <3                              https://clips.twitch.tv/TawdrySlipperyBubbleteaPraiseIt-AiCDV_2ApjXJ6zX-?tt_medium=redt  2024/08/02    0.1406  NEGATIVE       NEGATIVE
+24                                               Sykkuno rizzes up Kkatamina                                    https://www.twitch.tv/kkatamina/clip/FlirtyGiftedCougarAMPEnergy-zKsmD0ej8VfEMeCy  2024/08/02    0.0000  NEGATIVE       POSITIVE
+25                                                Streamer Explodes his Worm                                         https://clips.twitch.tv/MagnificentColorfulArmadilloDogFace-72lSGcmJrvGGZ0Xp  2024/08/02    0.0000  NEGATIVE       NEGATIVE
+26                                        Adin Ross gets trolled by his chat                                                       https://kick.com/adinross?clip=clip_01J43C5TK31VRKZGMZ7RTQV3HN  2024/08/02    0.0000  NEGATIVE       NEGATIVE
+27                                             Destiny destroys chatters dad                                                        https://kick.com/destiny?clip=clip_01J489PPN3A8TAKCKRF53DKR5W  2024/08/02   -0.5574  NEGATIVE       NEGATIVE
+28                                   FaZe Plaqueboymax almost dies in Japan                                             https://clips.twitch.tv/InventiveAuspiciousSkirretTTours-pS4ANc1fWJ6_Gk9k  2024/08/02    0.0000  NEGATIVE       NEGATIVE
+29           Kick Releases Complete Redesign of the Website at next.kick.com                                                     https://www.twitter.com/KickStreaming/status/1819171908027658537  2024/08/02    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    20
-POSITIVE     8
+NEGATIVE    25
+POSITIVE     5
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    18
-NEGATIVE    10
+NEGATIVE    18
+POSITIVE    12
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
