@@ -1,48 +1,44 @@
 <!-- posts starts -->
-                                                                                         title                                                                                                                             url        date  compound   SA_nltk SA_distilibert
-0                                          Shroud gives out Codes for the Beta to his New Game                                                               https://clips.twitch.tv/SmilingRefinedHerdLitFam-7R4kZMMSoekKuwev  2024/08/07    0.0000  NEGATIVE       NEGATIVE
-1                                                                         Extraemily Rage Burp                                                   https://clips.twitch.tv/PerfectWanderingMangetoutNinjaGrumpy-11oLftBYegRSsBVr  2024/08/07   -0.5574  NEGATIVE       NEGATIVE
-2                                                                            Farming Simulator                                                     https://clips.twitch.tv/TransparentAbstemiousWalrusHeyGuys-TspjbEbfHW5BZIi0  2024/08/07    0.0000  NEGATIVE       POSITIVE
-3                                                                                Cinna says no                                                          https://clips.twitch.tv/FaithfulInnocentGrouseHeyGuys-CMOmNMtp2W28HCnc  2024/08/07   -0.2960  NEGATIVE       NEGATIVE
-4                                                               The Gamer and the Psychiatrist                           https://www.nytimes.com/2024/08/07/health/gamers-twitch-mental-health.html?smid=nytcore-android-share  2024/08/07    0.0000  NEGATIVE       POSITIVE
-5                                               Streamer loses control of her Electric Scooter                                           https://www.twitch.tv/allecakes/clip/AliveHomelyHummingbirdEleGiggle-lNukBYiJ2N4n37dG  2024/08/07   -0.3182  NEGATIVE       NEGATIVE
-6                                                                        Agent looks up a song                                                 https://www.twitch.tv/agent00/clip/SpeedyDeadSalsifyYouDontSay-yhFwXnRvOKmxfpHG  2024/08/07    0.0000  NEGATIVE       POSITIVE
-7                                                                CS casters analyze team strat                                                      https://clips.twitch.tv/LongCharmingWoodpeckerNotLikeThis-oFDsUpHnVc_nh08Y  2024/08/07    0.0000  NEGATIVE       NEGATIVE
-8                                                                                  ImposterAbi                                                         https://clips.twitch.tv/PolishedLovelyChipmunkImGlitch-qkbuE7LBx9qESZPB  2024/08/07    0.0000  NEGATIVE       NEGATIVE
-9                                                                      Who's the best V-tuber?                                       https://www.twitch.tv/vedal987/clip/HyperTriangularWoodcockChocolateRain-UwT3w-jRmA-f4qd_  2024/08/07    0.6369  POSITIVE       POSITIVE
-10                                                                             takedown by dog                                                              https://clips.twitch.tv/ObliviousMoldyKeyboardYee-6Qzr8xX7vXxrV_Bh  2024/08/07    0.0000  NEGATIVE       NEGATIVE
-11                                       Soda on Asmon joining the Onlyfangs reboot in October                                                          https://clips.twitch.tv/EvilLittleWerewolfNinjaGrumpy-6Le8Nme6TaO5S8aC  2024/08/07    0.0000  NEGATIVE       NEGATIVE
-12                                                            Rob is having fun in the bathtub                                                         https://clips.twitch.tv/ConcernedInventiveDiscCmonBruh-7hwqJuBTfgEBvxux  2024/08/07   -0.0772  NEGATIVE       POSITIVE
-13                                                      Sodapoppin responds to the allegations                                                        https://clips.twitch.tv/PlausiblePhilanthropicYamOSfrog-AbCnPHss6XWp-uYO  2024/08/07    0.0000  NEGATIVE       POSITIVE
-14                                                                           Aris flies in COD                                       https://www.twitch.tv/avoidingthepuddle/clip/CovertAbnegateMuleOMGScoots-Awp_oHuo27AjNY1U  2024/08/07    0.0000  NEGATIVE       NEGATIVE
-15                                                                       squeex joins the call                                                            https://clips.twitch.tv/SecretiveLazyOctopusOSsloth-l_7ka-x9ubEuCgZg  2024/08/07    0.0000  NEGATIVE       NEGATIVE
-16                             fanfan tries to remember important information about ExtraEmily                                                           https://clips.twitch.tv/BitterAttractiveRaccoonLitty-sEMojyJHUVNk6eRg  2024/08/07    0.2023  POSITIVE       NEGATIVE
-17                                                                    MISTERARTHER gets around                                                           https://clips.twitch.tv/HomelySaltySageChocolateRain-YXCyz5pFqyv0mcgQ  2024/08/07    0.0000  NEGATIVE       POSITIVE
-18                                                                            +1 win, -1 shirt                                                                  https://clips.twitch.tv/BlueDoubtfulEmuBCouch-iaA1CNYP6yNusKIf  2024/08/07    0.5859  POSITIVE       POSITIVE
-19                                        The Angel of Shibuya Saves Two Maidens From the Rain                                                     https://clips.twitch.tv/InspiringSparklyOstrichNinjaGrumpy-dV2H_oyk0zCVDA0R  2024/08/07    0.0000  NEGATIVE       POSITIVE
-20                                                         Just a guy going out with his waifu                                                    https://clips.twitch.tv/IntelligentEncouragingFriseePJSugar-y_TNqjgIilhzKuyX  2024/08/07    0.0000  NEGATIVE       NEGATIVE
-21                          50 year old man, start losing his mind in a children's video game                                                         https://clips.twitch.tv/SpotlessJoyousSalsifyKappaClaus-e7Y9Sc9VT7wWLfBB  2024/08/07   -0.3818  NEGATIVE       NEGATIVE
-22                                                       irissiri129 - jumpscared by a thunder                                                              https://clips.twitch.tv/AlertWanderingGrouseLitty-wOTy_ngC3f5HOOl-  2024/08/07    0.0000  NEGATIVE       POSITIVE
-23                                                LowTierGod agrees with an interesting Poster                                                            https://clips.twitch.tv/PeacefulElegantCamelOhMyDog-MKbR85RXtM9PGUmo  2024/08/07    0.5423  POSITIVE       POSITIVE
-24                                                                    Emiru lore ft. fobm4ster                                              https://www.twitch.tv/fobm4ster/clip/DiligentKathishClipsdadKappa-4nej5CREbFJHlRhn  2024/08/07    0.0000  NEGATIVE       NEGATIVE
-25                                                              Squeex shares a wholesome call                                                        https://clips.twitch.tv/CharmingObedientDaikonChefFrank-WSYTaqQSWCBEvIpK  2024/08/07    0.2960  POSITIVE       POSITIVE
-26                                                                                 Smooth Exit                                                             https://clips.twitch.tv/OpenFrigidRedpandaRuleFive-tjkDPdY7cGdRtpoG  2024/08/07    0.0000  NEGATIVE       NEGATIVE
-27                                           xQc Checks His Reddit After Months of Ignoring It                                                               https://clips.twitch.tv/JollyBrainyCrowFutureMan-57trbCdAXqn6cWn3  2024/08/07   -0.4019  NEGATIVE       NEGATIVE
-28                                                Tectone friend has some comments about Emiru  https://www.twitch.tv/zzyzx_prime/clip/PeppyTenaciousBeefPermaSmug-QVRD6NT4YpIRobbH?tt_content=clip&tt_medium=mobile_web_share  2024/08/07    0.4939  POSITIVE       POSITIVE
-29  Kai Cenat claims he was approached to help with a political campaign by the Secret service                                                         https://clips.twitch.tv/AntediluvianTameTruffleTakeNRG-A8684oIxdTZdimt1  2024/08/07    0.4019  POSITIVE       NEGATIVE
-30                                      When you hit 300 deaths in Elden Ring DLC - W roommate                                                                https://clips.twitch.tv/EsteemedBovineFrogANELE-lt4stjYF8Gvr50Hj  2024/08/07    0.0000  NEGATIVE       NEGATIVE
+                                                                                  title                                                                                         url        date  compound   SA_nltk SA_distilibert
+0                                       xQc explains the Fuslie situation in Rust terms                                   https://kick.com/xqc?clip=clip_01J4RKAJH2AXGBK2HGJAQPN9GR  2024/08/08    0.0000  NEGATIVE       NEGATIVE
+1                                                              Aris doesnt want to Hold  https://www.twitch.tv/avoidingthepuddle/clip/VainSarcasticCrowGrammarKing-vcZgtPSgYNwI-Hh5  2024/08/08   -0.0572  NEGATIVE       NEGATIVE
+2                Deepak makes the mistake of leting an innocent chinese woman read chat                                https://kick.com/deepak?clip=clip_01J4SZ4QCF2M1GMJ7492CBCGGJ  2024/08/08    0.0000  NEGATIVE       NEGATIVE
+3                              Valkyrae On Why Wendy and Fuslie Are Treated Differently           https://youtube.com/clip/UgkxHpvbCBs1ctWcu82AVrr-cN_F-NQHbPCw?si=0e34VY0NdCexbE57  2024/08/08    0.0000  NEGATIVE       POSITIVE
+4                                             Asmongold explains the views of a chatter               https://clips.twitch.tv/AnnoyingGlutenFreeMeatloafSquadGoals-fQmbVR6elek46fi5  2024/08/08    0.0000  NEGATIVE       POSITIVE
+5     Asmon Bans Viewer and Calls Him a "shit talking r******" Over a Mild Disagreement                   https://clips.twitch.tv/PhilanthropicCleanShieldBudBlast-nD7S1oZzgBJTIndw  2024/08/08   -0.7269  NEGATIVE       NEGATIVE
+6        After getting pressed, the 50 year old man scams his chatroom and goes offline                      https://clips.twitch.tv/HelplessAbstemiousPidgeonBIRB-Qp2ibFX50nLDApFF  2024/08/08   -0.6486  NEGATIVE       NEGATIVE
+7                                         Cinna gets ready to press fellas in the Bronx                          https://clips.twitch.tv/BashfulSaltyLobsterAliens-MtsKQnMD-GMdp7v6  2024/08/08    0.3612  POSITIVE       NEGATIVE
+8                                                                     NoahJ456 Response           https://youtube.com/clip/UgkxEPKFKQFuVCVEwgDqGfapiZy3J1MiTKna?si=j_439WNiHaNB_pih  2024/08/08    0.0000  NEGATIVE       POSITIVE
+9   Tectone's Response to Jake Weddle's torture in Mr. Beast's video. "CLOSE YOUR EYES"            https://www.twitch.tv/tectone/clip/NastyBillowingPelicanRedCoat-HVVBWa4EkS-9rNaJ  2024/08/08   -0.5994  NEGATIVE       NEGATIVE
+10                                                           MrBeast Glazing goes wrong           https://youtube.com/clip/UgkxfWtWCWbj2-ZU-9C1_2DWKKMzOBbFlgbi?si=Nqcz0YRIt3OhAS5q  2024/08/08   -0.4767  NEGATIVE       NEGATIVE
+11                                                                 Forsen went live POV                        https://clips.twitch.tv/AbnegateAwkwardDonkeyKlappa-IowOCyZDaSj86REn  2024/08/08    0.0000  NEGATIVE       POSITIVE
+12         streamer is having trouble converting between different units of measurement   https://www.twitch.tv/wolfsbanee/clip/PatientIntelligentRabbitPeteZaroll-GScGy_sa0JdHn0wh  2024/08/08   -0.4019  NEGATIVE       NEGATIVE
+13                                                          Hobbit meets Laputian robot                                https://clips.twitch.tv/TenuousRichMangoWow-kbwBS2Iroz61gi1y  2024/08/08    0.0000  NEGATIVE       POSITIVE
+14                                                      Erobb clutches up a smash game                     https://clips.twitch.tv/TolerantLightVanillaNinjaGrumpy-GTHe6qxb44_3yvI-  2024/08/08    0.0000  NEGATIVE       POSITIVE
+15                                                               Squeex' slur tier list            https://www.twitch.tv/squeex/clip/AcceptableShinyTermiteSoBayed-nLQwK6n9ws9WE59s  2024/08/08    0.0000  NEGATIVE       NEGATIVE
+16                                                               Protein or Quick Nuts?                   https://clips.twitch.tv/IntelligentHorribleDugongPRChase-2v9YQyhXoVxGHTG4  2024/08/08   -0.3182  NEGATIVE       NEGATIVE
+17                                                      street robbery caught on stream            https://www.twitch.tv/justketh/clip/NimbleBreakableKiwiSpicyBoy-mtb_FMCQJhnzUs0u  2024/08/08    0.0000  NEGATIVE       POSITIVE
+18                                        Tommy Summarizes all German Political Parties                          https://clips.twitch.tv/SavageMushyLousePicoMause-xzGt7dGSpg8-60BM  2024/08/08    0.4019  POSITIVE       POSITIVE
+19                                   xQc Defends Fuslie for Breaking up Noah's Marriage                                   https://kick.com/xqc?clip=clip_01J4S19B87NCC4979AF9V2T456  2024/08/08    0.0000  NEGATIVE       POSITIVE
+20                                                        Kick streamer in a car crash                              https://kick.com/suspendas?clip=clip_01J4RG4606PKAN1K80D527S7YQ  2024/08/08   -0.4019  NEGATIVE       NEGATIVE
+21     Twitch CEO calls out Kai Cenat for having less aura than his friend Duke Dennis                           https://clips.twitch.tv/FamousCleverTapirRalpherZ-As5yiygnyiXXuNBK  2024/08/08    0.4939  POSITIVE       NEGATIVE
+22                                                                  over chats redeems                             https://clips.twitch.tv/CuteFineRhinocerosKippa-kogYHQXV9aRwA_i0  2024/08/08    0.0000  NEGATIVE       POSITIVE
+23                                                               Faze Adapt AURA FARMS              https://www.reddit.com/r/LivestreamFail/comments/1emw91a/faze_adapt_aura_farms/  2024/08/08    0.0000  NEGATIVE       POSITIVE
+24               NoahJ456 allegedly cheated on his wife with Fuslie back in 2021 at EDC                                   https://kick.com/xqc?clip=clip_01J4QWN10QEQ48MEM68MKD0PHS  2024/08/08   -0.5106  NEGATIVE       NEGATIVE
+25                                                 Destiny gets frustrated with a guest                               https://kick.com/destiny?clip=clip_01J4QSNNQAXMX3B3NX3WX6E294  2024/08/08   -0.5267  NEGATIVE       NEGATIVE
+26                                    Aris runs into CoD players using pride month skin                           https://clips.twitch.tv/RamshacklePoliteOxRlyTho-mbqlbbjOzPrKakMd  2024/08/08    0.3400  POSITIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    24
-POSITIVE     7
+NEGATIVE    23
+POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    18
-POSITIVE    13
+NEGATIVE    16
+POSITIVE    11
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
