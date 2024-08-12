@@ -1,57 +1,52 @@
 <!-- posts starts -->
-                                                                                             title                                                                                   url        date  compound   SA_nltk SA_distilibert
-0                                  Tina says Fuslie & Noah's Relationship Should've stayed Private             https://clips.twitch.tv/OriginalEphemeralVanillaOSkomodo-jKfBySx4Tzfksgms  2024/08/10    0.0000  NEGATIVE       NEGATIVE
-1                                               Berlin woman clicks at camera and gets in trouble                     https://clips.twitch.tv/SoftFlaccidPastaDendiFace-GKWQH1zDfAiguGkr  2024/08/10   -0.4019  NEGATIVE       NEGATIVE
-2                                                                                     Cursed choir                   https://clips.twitch.tv/SwissShortMoonDeIlluminati-G7hgspPOBUGpnujL  2024/08/10    0.0000  NEGATIVE       NEGATIVE
-3                                                                         Forsen explains the joke                 https://clips.twitch.tv/SincereCovertPangolinSoBayed-0lrAmerMJc_lMeEo  2024/08/10    0.2960  POSITIVE       POSITIVE
-4                                                                   Cinna keeps it real with Emiru                   https://clips.twitch.tv/ImpartialBraveTroutVoteYea-lygGoIVjfhPlucGE  2024/08/10    0.0000  NEGATIVE       POSITIVE
-5   XQC says no one would care about Adin breaking FEC rules if Hasan didnt say anything about it            https://clips.twitch.tv/FriendlyBlushingBarracudaEleGiggle-JdvgeDf2HiD3mQ0q  2024/08/10    0.2500  POSITIVE       NEGATIVE
-6                                                                                 Esfand in London              https://www.twitch.tv/satuye/clip/FuriousRudeShieldMau5-_NE6sm3xyFd-P1hK  2024/08/10    0.0000  NEGATIVE       POSITIVE
-7                                         Another ex-employee of MrBeast shares a bit of his story     https://youtube.com/clip/UgkxD1a60tLlMK1ITreZ1c-KSRd1mSG09VXC?si=uFN-nV6M5lzWglhO  2024/08/10    0.2960  POSITIVE       POSITIVE
-8                                                                    Zoil adjusts his camera angle  https://www.twitch.tv/zoil/clip/ConcernedAmorphousLlamaThisIsSparta-TKPNjacc-5OGnzrI  2024/08/10    0.0000  NEGATIVE       POSITIVE
-9                                                                        Forsen goes into Politics      https://clips.twitch.tv/SillyProudWormYouDontSay-NhaHW55-zwf3hOqb?tt_medium=redt  2024/08/10    0.0000  NEGATIVE       NEGATIVE
-10                                                                       Man spits on Streamstress                       https://kick.com/shakomako?clip=clip_01J4YK17ETVBASSKVFVADT0JTA  2024/08/10    0.0000  NEGATIVE       NEGATIVE
-11                                                             Jinny spots Nmplol viewer in Dublin                     https://clips.twitch.tv/WimpyBreakableSageOSfrog-O5N9nhkxKAdFM_xU  2024/08/10    0.0000  NEGATIVE       POSITIVE
-12        KaiCenat runs after USA NBA Team bus in Paris, gets stopped by cop, and chased by crowd.               https://clips.twitch.tv/KathishTawdryHeronTBCheesePull-3kgU64xUkehUC1UD  2024/08/10   -0.2263  NEGATIVE       POSITIVE
-13                                                                  Chance's goalkeeping supermove             https://clips.twitch.tv/HeadstrongGentleShrewKeyboardCat-FOjzlcX42M5tyUlM  2024/08/10    0.0000  NEGATIVE       POSITIVE
-14                                                   Poke leaves for college, Cyr Myth say goodbye     https://www.twitch.tv/cyr/clip/SpookyObedientMouseNerfRedBlaster-D0ZB-cFjGPthuLPk  2024/08/10    0.0000  NEGATIVE       NEGATIVE
-15                                                     Quirk Quartet feat Cyr Myth Poke Wii-Dealer               https://www.twitch.tv/cyr/clip/SaltyRefinedAntelopeYee-Y65o8FknUjW8cgdA  2024/08/10    0.0000  NEGATIVE       POSITIVE
-16                                                                           Capybara takes a bath           https://clips.twitch.tv/PeacefulEncouragingPrariedogLitFam-XYSdDGj1cGdcvp6l  2024/08/10    0.0000  NEGATIVE       POSITIVE
-17                                                                            Shitty vibes tonight            https://clips.twitch.tv/MotionlessVainCobraStoneLightning-8dKcZLBn6kJ_U9iD  2024/08/10   -0.5574  NEGATIVE       NEGATIVE
-18                                                                                    In a what 😟😟                     https://clips.twitch.tv/TiredCulturedLarkBudStar-FKt6n5l9a7VpDTY9  2024/08/10    0.0000  NEGATIVE       NEGATIVE
-19                                                             wife cheers Boomer to hit headshots                  https://clips.twitch.tv/CleverFaintTeaDancingBanana-PMNl1iCMjyJgFl3f  2024/08/10    0.4767  POSITIVE       POSITIVE
-20                                              The first look at the live action of Lilo & Stitch               https://clips.twitch.tv/TriangularStupidSashimiCoolCat-JzPQqsNo742_Hs3l  2024/08/10    0.0000  NEGATIVE       POSITIVE
-21                                                         robcdee manages to stream snipe himself          https://clips.twitch.tv/ProtectiveAgreeableLobsterShadyLulu-P67VZ1todp9g99Py  2024/08/10    0.0000  NEGATIVE       POSITIVE
-22                                                                        Got ‘em.. perfect timing                       https://clips.twitch.tv/TenuousTameManateeDerp-7WXUiowAehMMo7eO  2024/08/10    0.5719  POSITIVE       POSITIVE
-23                                                                       Myth isn't afraid anymore           https://www.twitch.tv/cyr/clip/HelpfulFragileQueleaTF2John-fF_-xZnlNeVTuqaV  2024/08/10    0.0000  NEGATIVE       POSITIVE
-24                                                                         Evil Aris' Revenge Plot         https://clips.twitch.tv/HorribleComfortableRhinocerosMingLee-BGGZkCJ9QmeciFYd  2024/08/10   -0.8316  NEGATIVE       NEGATIVE
-25                                                                              Streamer vs mirror                          https://kick.com/deepak?clip=clip_01J4XHJ4JX9C5QVFMC4C32Z7WM  2024/08/10    0.0000  NEGATIVE       NEGATIVE
-26                                                                                   Pokes Goodbye               https://clips.twitch.tv/PatientFriendlyOryxGingerPower-8sA0C0Wgjf_ssLgR  2024/08/10    0.0000  NEGATIVE       NEGATIVE
-27                                                             Myth gets HEAVY metal on Cyr stream                       https://clips.twitch.tv/SpikyBigWombatBatChest-GzfcBODBTEvsCwqA  2024/08/10    0.0000  NEGATIVE       POSITIVE
-28                                     Poke's NEW SONG "Micro-Plastic Love" feat Cyr Myth Apex guy                   https://clips.twitch.tv/GloriousSpunkyPuffinDuDudu-ls7rNu8saEXJc2G6  2024/08/10    0.6369  POSITIVE       POSITIVE
-29                                                                 Cyr Myth Poke , Quirky rappin'                       https://clips.twitch.tv/SaltyRefinedAntelopeYee-Y65o8FknUjW8cgdA  2024/08/10    0.0000  NEGATIVE       POSITIVE
-30                                                    Do not, my friends, become addicted to water                  https://clips.twitch.tv/TriumphantFunnyCardDAESuppy-UVOtrkcDE0FtGxIH  2024/08/10   -0.3724  NEGATIVE       NEGATIVE
-31                                Cyr on Twitch - The only way to eat pizza from this day forward!             https://clips.twitch.tv/PerfectDeliciousLardRiPepperonis-BFF0-sv2uF8_WrbG  2024/08/10    0.0000  NEGATIVE       NEGATIVE
-32                                                                          Cyr and Myth skank out             https://clips.twitch.tv/DullNurturingBurritoRiPepperonis-Ce5bbxbJw5wfxsED  2024/08/10    0.0000  NEGATIVE       NEGATIVE
-33                                                                                Poke breaks Myth                https://clips.twitch.tv/BetterAstuteDaikonNotLikeThis-sftsPk_zqZQreSp9  2024/08/10    0.0000  NEGATIVE       POSITIVE
-34                                                                                  Squeex viewers       https://clips.twitch.tv/VibrantPhilanthropicSandpiperSeemsGood-xMhznE7_q-7hYT5P  2024/08/10    0.0000  NEGATIVE       NEGATIVE
-35                                                 Adin offers $1M to whoever finds dirt on Hasan                         https://kick.com/adinross?clip=clip_01J4WPYD2C93C8EHRP3SGGF482  2024/08/10   -0.3400  NEGATIVE       NEGATIVE
-36                                                       Pokelawls has a realization at Cyrs house                       https://clips.twitch.tv/SquareSteamyGoatNomNom-QgG9t-P_6iabQSHG  2024/08/10    0.0000  NEGATIVE       POSITIVE
-37                                                                             an odd realization              https://clips.twitch.tv/AmazonianVenomousAsparagusWTRuck-iDBBLlHJzrqfgSsY  2024/08/10   -0.3182  NEGATIVE       NEGATIVE
-38                                                                                 "No more fall-"                  https://clips.twitch.tv/ProtectiveBadBulgogiSoBayed-fCauMED90xd1VNA8  2024/08/10   -0.2960  NEGATIVE       NEGATIVE
-39                                              Soda rolls a nat 20 to dip out of the conversation                      https://clips.twitch.tv/LazyHandsomeLorisPJSalt-stbpiwtZjv5CmGoc  2024/08/10    0.0000  NEGATIVE       NEGATIVE
+                                                                                       title                                                                                                          url        date  compound   SA_nltk SA_distilibert
+0                                                                  Hachu dances to the music                                      https://clips.twitch.tv/SucculentEndearingMetalPrimeMe-mrWEWABI97oOBofT  2024/08/11    0.0000  NEGATIVE       POSITIVE
+1                                                             Extraemily talks to the waiter                                     https://clips.twitch.tv/EagerGloriousMarjoramCeilingCat-E3sCXMOz0fqiLYaD  2024/08/11    0.0000  NEGATIVE       POSITIVE
+2                               Live loop music streamer experiments with live video effects                                      https://clips.twitch.tv/AthleticPlainFungusGingerPower-E35gX_UH1iDgEzuN  2024/08/11    0.0000  NEGATIVE       POSITIVE
+3                 What happens when you accidentally map the wrong button on your Streamdeck            https://www.twitch.tv/everythingnowshow/clip/CoweringInspiringButterKippa-PiYyNxjDOyJrprMe?%3F%3F  2024/08/11   -0.6705  NEGATIVE       NEGATIVE
+4                     Teens running rampage in New York jumping cars and attacking streamers                                             https://clips.twitch.tv/CoweringCalmQuailWoofer-YxEf1HvA4i5VIvOe  2024/08/11   -0.4588  NEGATIVE       NEGATIVE
+5                                                                      Head Banging out OUT!                 https://www.twitch.tv/helgascreator/clip/SeductiveImpartialTapirKappaWealth-rzGh8U_fc6-KZ7L4  2024/08/11    0.0000  NEGATIVE       NEGATIVE
+6                                                  Jinny meets Ireland's nicest boat captain                                          https://clips.twitch.tv/AverageCheerfulGarbageWOOP-QEnZ--FC8_pTufbv  2024/08/11    0.4939  POSITIVE       POSITIVE
+7                                                              Nearly an under age oops! LOL                           https://clips.twitch.tv/HorribleOpenBadgerBatChest-C6NW4rqNhkRxNma5?tt_medium=redt  2024/08/11    0.5893  POSITIVE       NEGATIVE
+8                                                         Portal between New York and Dublin                               https://clips.twitch.tv/VivaciousApatheticWolverineRaccAttack-F2A2WbuJqB1i0AUA  2024/08/11    0.0000  NEGATIVE       POSITIVE
+9                                                     Dota FORSEN (Gorgc) is mad at his chat                                         https://clips.twitch.tv/SmilingDarkMooseHassaanChop-51rkcAvfnxWsIf0D  2024/08/11   -0.4939  NEGATIVE       NEGATIVE
+10                                                                        Amazing semi final                                      https://clips.twitch.tv/DreamySavoryPineappleNononoCat-oRTIcoJPzi0oemIl  2024/08/11    0.5859  POSITIVE       POSITIVE
+11                                                 E-date contestant has nearly killed a man                            https://www.twitch.tv/kyootbot/clip/PeacefulRefinedGrassMikeHogu-R5BrSzsvRa6Vplxd  2024/08/11   -0.6705  NEGATIVE       NEGATIVE
+12                                                                         Shotzzy is Unfair                                       https://clips.twitch.tv/ReliableBlitheHamsterPogChamp-LU8iIg-L2Rulrd2B  2024/08/11   -0.4767  NEGATIVE       NEGATIVE
+13          Streamer shows off incredibly detailed sculpture he's been working on all summer                 https://www.twitch.tv/feralmoontv/clip/KathishApatheticCrocodileDancingBaby-eVOXrPoJkgO3Hwze  2024/08/11    0.0000  NEGATIVE       POSITIVE
+14                                                       Skater streamer hits a unique trick               https://www.twitch.tv/yungelderberry/clip/DirtyBreakableStingrayDancingBanana-AKJCWRZTzGPoWs7b  2024/08/11   -0.0516  NEGATIVE       POSITIVE
+15  Streamer "Norme" gets banned mid stream while trying to stay awake for 12 days straight                             https://youtube.com/clip/UgkxkuLdG1-m5QU6O0wFqZs8t9XcpDfW30Jv?si=1unu2EV28JUhG0nL  2024/08/11   -0.2732  NEGATIVE       NEGATIVE
+16                                                             Elajjaz enjoying the outdoors                                      https://clips.twitch.tv/VivaciousPoliteBearTBTacoRight-9EA11MCoMrXG0ccg  2024/08/11    0.5267  POSITIVE       POSITIVE
+17                                                  Mr Arther confronts Cinna about her race                                 https://clips.twitch.tv/AcceptableEntertainingLyrebirdDoggo-Roaz3fTEkUJ1Z0oU  2024/08/11   -0.2263  NEGATIVE       POSITIVE
+18                                                                                   tea bag  https://www.twitch.tv/avoidingthepuddle/clip/AntediluvianAdventurousButterflyPhilosoraptor-HYBBU6Y6oXSmWCCc  2024/08/11    0.0000  NEGATIVE       POSITIVE
+19                                                      robcdee saved drunk guys on the road                                       https://clips.twitch.tv/MotionlessWrongKumquatVoteYea-JTFjl0ezzj4i4EEc  2024/08/11    0.1027  NEGATIVE       NEGATIVE
+20                           Norme falls asleep after 252 hours - 13 hours before the record                            https://youtube.com/clip/Ugkxtj7xFgqxxGs9xEl6EtTiqnoc0ZYxwUJf?si=aNoxNfoxeaXZSPC3  2024/08/11    0.0000  NEGATIVE       NEGATIVE
+21                                                                                 Cyber Cyr                                    https://clips.twitch.tv/HappyResourcefulSandstormHeyGirl-rnQECM-fsbiS_ogg  2024/08/11    0.0000  NEGATIVE       POSITIVE
+22                                            irissiri129 - hong kong vs korea twitch part 4                                          https://clips.twitch.tv/StylishMushyClipzTwitchRPG-NG7xaLIRImRYbowM  2024/08/11    0.0000  NEGATIVE       NEGATIVE
+23                                   ninibae - you guys are thinking everything is a sausage                                       https://clips.twitch.tv/PunchyRamshackleBearChefFrank-C-Sywp5oTjqVPbij  2024/08/11    0.0000  NEGATIVE       NEGATIVE
+24                                                                Zywoo drops the truth bomb                                          https://clips.twitch.tv/SparklyAliveHornetSpicyBoy--aZUZ8wNiu97F8Di  2024/08/11   -0.2263  NEGATIVE       NEGATIVE
+25                                                        The Busan demon finally got caught                                            https://clips.twitch.tv/EncouragingWildPotatoWow-ZDYi0CWMcVZiTWWZ  2024/08/11    0.0000  NEGATIVE       POSITIVE
+26                                                                                     Cyr 2                                             https://clips.twitch.tv/CogentUglyMooseTinyFace-tIQNRVHxnUBB3pJL  2024/08/11    0.0000  NEGATIVE       POSITIVE
+27                                                                               Big Chungus                                        https://clips.twitch.tv/TriumphantDeliciousPastaBIRB-sAvrxwvPJoTufZwn  2024/08/11    0.0000  NEGATIVE       NEGATIVE
+28                                                                  Connor has a realization                                          https://clips.twitch.tv/PluckyArtisticDiscPipeHype-ITBz3SeA_F3rhdZA  2024/08/11    0.0000  NEGATIVE       POSITIVE
+29                                                                                  peepoRun                         https://www.twitch.tv/cooksux/clip/ExquisiteFragileFalconBigBrother-kfqTg1zlGh7GJmxs  2024/08/11    0.0000  NEGATIVE       NEGATIVE
+30                                                             Cook can't find the porkchops                                    https://clips.twitch.tv/FragileKathishKoupreyNotLikeThis-u05RowGhDRF72DYe  2024/08/11    0.0000  NEGATIVE       NEGATIVE
+31                                                                              waifu shrine                                               https://clips.twitch.tv/LongArtsyGarbageKAPOW-SNKXFawJ6Y-LaZQv  2024/08/11    0.0000  NEGATIVE       NEGATIVE
+32                                   You ruined the intro!! The mic was supposed to be on!!                                            https://clips.twitch.tv/YummySpunkyMelonShadyLulu-xNKSaI1hCg42yCWy  2024/08/11   -0.6449  NEGATIVE       NEGATIVE
+33                                                         When the takeout has you covered!                                   https://www.twitch.tv/nezst/clip/DrabToughAnteaterSaltBae-FhP6N8x4k3fD9y01  2024/08/11    0.0000  NEGATIVE       POSITIVE
+34                                                               Chatter Played A Video Game                                              https://clips.twitch.tv/TallDrabChoughCmonBruh-dCvkNvdwefVputTh  2024/08/11    0.3400  POSITIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    34
-POSITIVE     6
+NEGATIVE    30
+POSITIVE     5
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    20
-POSITIVE    20
+NEGATIVE    19
+POSITIVE    16
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
