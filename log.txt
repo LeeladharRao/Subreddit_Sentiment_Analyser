@@ -1,55 +1,50 @@
 <!-- posts starts -->
-                                                                  title                                                                                                                        url        date  compound   SA_nltk SA_distilibert
-0                                       A little twerking BM from Sajam                                                  https://clips.twitch.tv/CheerfulRoundLobsterThisIsSparta-V94WM7352PgTj2wt  2024/08/13    0.0000  NEGATIVE       NEGATIVE
-1               Turkey Tom gets distracted during Destiny's focus group                                                              https://kick.com/destiny?clip=clip_01J56XWX953P9GF8BDQW7QSZBS  2024/08/13   -0.3400  NEGATIVE       NEGATIVE
-2                  Cinna is happy to be featured in a good Destiny clip                                              https://clips.twitch.tv/DistinctPhilanthropicHamTBCheesePull-E4CYkQxmPzKh94fm  2024/08/13    0.7650  POSITIVE       POSITIVE
-3                                                 average simply stream                                                        https://clips.twitch.tv/WimpyWiseAnacondaBrokeBack-VSO-lGjisP8eu05f  2024/08/13    0.0000  NEGATIVE       NEGATIVE
-4                                  DailyDasher got his stolen bike back                                                        https://clips.twitch.tv/AgileCrackySardineCmonBruh-vSRpoX5CrNGeDe7t  2024/08/13   -0.4939  NEGATIVE       NEGATIVE
-5                        DailyDasher Finds Stolen Bike and Gets it Back                                       https://www.twitch.tv/dailydasher/clip/KitschySmellyLyrebirdTakeNRG-cP45vuQmPAfDjfA6  2024/08/13   -0.4939  NEGATIVE       POSITIVE
-6                                        Streamer finds his stolen bike                                                   https://clips.twitch.tv/GleamingConsiderateOilPicoMause-RR10xAg_fru16XKD  2024/08/13   -0.4939  NEGATIVE       NEGATIVE
-7                                             Lirik with an insane play                                                https://clips.twitch.tv/DifferentAlluringGalagoKeyboardCat-WsmGgweSwG1_pReR  2024/08/13   -0.0772  NEGATIVE       POSITIVE
-8          Faze Adapt gets taken down by the CIA for exposing the truth                                            https://clips.twitch.tv/EsteemedShyAlpacaPeanutButterJellyTime-V4L1nTHbvaaT5dc3  2024/08/13    0.0516  NEGATIVE       NEGATIVE
-9                                                     shes not a person                          https://www.twitch.tv/fanfan/clip/EncouragingUnsightlyStorkPeanutButterJellyTime-7gck4efRXU_pRkFt  2024/08/13    0.0000  NEGATIVE       NEGATIVE
-10                                       CS players celebrate their win                                              https://clips.twitch.tv/CreativeCrepuscularHamburgerEagleEye-EJI2aPngLcuChIgm  2024/08/13    0.8176  POSITIVE       POSITIVE
-11                                                     stylish good boy                                        https://www.twitch.tv/karii/clip/AnimatedRelentlessRamenCeilingCat-zNq-4RoBgRavI3Rr  2024/08/13    0.4404  POSITIVE       POSITIVE
-12                           Jackson the cameraman shows off his skills                                                    https://clips.twitch.tv/BlatantPlainPeanutAMPTropPunch--opd9LdZE2LRNxd7  2024/08/13    0.0000  NEGATIVE       POSITIVE
-13                                                 moxy gets downed IRL                                                 https://clips.twitch.tv/CourteousPrettyElephantSquadGoals-wWurVu4AgvMxtpZI  2024/08/13    0.0000  NEGATIVE       NEGATIVE
-14                                   Maya from downtown to win the game                                                       https://clips.twitch.tv/BetterColorfulOwlSquadGoals-tHtvmIXVVQMQLTRP  2024/08/13    0.5859  POSITIVE       POSITIVE
-15                                              She really knows length                                                       https://clips.twitch.tv/SmellyNaiveLlamaSuperVinlin--l-EZmopwOE0ingI  2024/08/13    0.0000  NEGATIVE       POSITIVE
-16                                               Eric gets left hanging                                                 https://clips.twitch.tv/FilthyArborealInternPhilosoraptor-2wcVoxweo2iSRLsC  2024/08/13    0.0000  NEGATIVE       NEGATIVE
-17                                                no more dancing today                                           https://www.twitch.tv/haley__13/clip/TentativeTacitCakePanicVis-eunz3fwJtt22YlN1  2024/08/13   -0.2960  NEGATIVE       POSITIVE
-18                                             Irish Bachelorette Party                                                       https://clips.twitch.tv/DistinctSparklyPotDatSheffy-un35ykj3HA0VqMnA  2024/08/13    0.4019  POSITIVE       POSITIVE
-19           Streamer hears viewer-edited The Price is Right theme song                                                      https://clips.twitch.tv/RoundWanderingGrouseDansGame-LkbTynqNwNCNjgcW  2024/08/13    0.0000  NEGATIVE       POSITIVE
-20                                 Caedrel finally beats elden ring dlc                                        https://clips.twitch.tv/HardObservantTrollTwitchRPG-fU4RMwN6CO5j4Jc2?tt_medium=redt  2024/08/13    0.0000  NEGATIVE       POSITIVE
-21                          Watermelon Explosion!!! It got everywhere!!                                          https://www.twitch.tv/aspicycow/clip/FitResilientCamelHumbleLife-NeSyGyYE8a3dkc_v  2024/08/13    0.0000  NEGATIVE       POSITIVE
-22                                                               cinema                                             https://www.twitch.tv/zoil/clip/DependableKnottyArtichokeWOOP-MdmQUvUntp-8ViWQ  2024/08/13    0.0000  NEGATIVE       POSITIVE
-23                                                          Adin owns u                https://www.twitch.tv/hasanabi/clip/HotVastSkunkTebowing-q9VtHLhu9ek-nXoX?filter=clips&range=24hr&sort=time  2024/08/13    0.0000  NEGATIVE       POSITIVE
-24                                   Woman in Prague crop dusts tourist                                                    https://clips.twitch.tv/GiantObliviousPorpoiseCmonBruh-sLCwAutMSoVMHmRB  2024/08/13    0.0000  NEGATIVE       NEGATIVE
-25                                        Emily's sleepover shenanigans                                                         https://clips.twitch.tv/MoldyPluckyPlumStrawBeary-tkG9a60efmmuDcnj  2024/08/13    0.0000  NEGATIVE       NEGATIVE
-26                                xQc talks about being a better person                                                                  https://kick.com/xqc?clip=clip_01J53RJE9TT4A118GZN4TTPN9J  2024/08/13    0.4404  POSITIVE       POSITIVE
-27                          Dude playing Elden Ring on A City Side Walk                                                           https://clips.twitch.tv/ColdFreezingGoatCoolCat-CkMLVRVlJd1gUmc3  2024/08/13    0.2023  POSITIVE       POSITIVE
-28                                                              Hostage                                                  https://clips.twitch.tv/GlamorousShinyLaptopTBCheesePull-4GKhaDFJ2wPsdPMj  2024/08/13    0.0000  NEGATIVE       NEGATIVE
-29                                   Nick on what women think about him                                            https://clips.twitch.tv/RefinedMagnificentShingleChocolateRain-6wQ6qfobVEtr2O7x  2024/08/13    0.0000  NEGATIVE       POSITIVE
-30                                Soda is going to be honest with Erobb  https://www.twitch.tv/erobb221/clip/PatientJollyFishPastaThat-V47_wdaatB5DRXWb?tt_content=clip&tt_medium=mobile_web_share  2024/08/13    0.5106  POSITIVE       POSITIVE
-31                   Soda Humbles Erobb After His Gaming Gauntlet "Win"                               https://clips.twitch.tv/EnjoyableShakingHamburgerSoonerLater-GxU4e-fEAxhVnonC?tt_medium=redt  2024/08/13    0.0000  NEGATIVE       POSITIVE
-32  Tyler1's Brother calls Sodapoppin after beating his gaming gauntlet                                                            https://clips.twitch.tv/BoldPunchyFriesSoBayed--UGoW0TpfekuL1VM  2024/08/13   -0.4588  NEGATIVE       NEGATIVE
-33                             Erobb finally beats his gaming gauntlet                                                           https://clips.twitch.tv/PoorLittleDotterelNotATK-DIsXOJ7IJ71z3ouK  2024/08/13    0.0000  NEGATIVE       POSITIVE
-34                   Streamer sleeps through the California Earthquakes                                                       https://clips.twitch.tv/BelovedLittlePeanutSpicyBoy-W2YRztnHHwOxjtHe  2024/08/13    0.0000  NEGATIVE       NEGATIVE
-35                                            Aris upset by a good view                                                            https://clips.twitch.tv/VainSoftKumquatDBstyle-DaFMTdqwTynrAiSQ  2024/08/13    0.0772  NEGATIVE       POSITIVE
-36                                                          c-i-n-e-m-a                                                      https://clips.twitch.tv/OpenApatheticCheddarTooSpicy-oHSnjTvOQc8YzToB  2024/08/13    0.0000  NEGATIVE       NEGATIVE
-37  Streamer Log_Off_Now gets raided by Twitch staff and gets partnered                                   https://www.twitch.tv/log_off_now/clip/DeterminedCourageousMuleUncleNox-7D_7tnqWwRAgu07L  2024/08/13    0.0000  NEGATIVE       NEGATIVE
+                                                                                            title                                                                                        url        date  compound   SA_nltk SA_distilibert
+0                                                                          Dies on Coin 97 of 100                https://clips.twitch.tv/FantasticAlertAlligatorTBTacoRight-F7VLP_yzJYKSgAwv  2024/08/14    0.0000  NEGATIVE       NEGATIVE
+1                                                              Myth Taking A Break From Streaming               https://x.com/myth_/status/1823841295665914130?s=46&t=IdnxCwl1nVccLxGu1Y0YMw  2024/08/14    0.0000  NEGATIVE       NEGATIVE
+2                                    Qtcinderella drops the hard R twice in front of Jasontheween                    https://clips.twitch.tv/JazzySuccessfulSnoodCclamChamp-GNrnZL1g4FXwa9Jc  2024/08/14   -0.1027  NEGATIVE       NEGATIVE
+3                                                 Awesome gift to celebrate a partner anniversary              https://clips.twitch.tv/PhilanthropicInterestingShingleKAPOW-wB2R4EmqSjU1TOIZ  2024/08/14    0.8934  POSITIVE       POSITIVE
+4                                                                                           OBAMA            https://clips.twitch.tv/IncredulousSaltySandpiperChocolateRain-ha6F-cMPhFDqLFvR  2024/08/14    0.0000  NEGATIVE       POSITIVE
+5                                                                                       not candy                        https://clips.twitch.tv/SmoggyDarlingTapirTheTarFu-o7zNYul863yJ0LH5  2024/08/14    0.0000  NEGATIVE       NEGATIVE
+6                                               Erobb got peer pressured into buying womens shoes                         https://clips.twitch.tv/MildTangibleEggplantKAPOW-ZU2GaYEBNyW2JHaH  2024/08/14   -0.2263  NEGATIVE       NEGATIVE
+7                                                            the best way to celebrate a birthday        https://www.twitch.tv/bonju_0102/clip/FurryVivaciousBeefKappaPride-cJvy1s1WHCdRtmst  2024/08/14    0.8360  POSITIVE       POSITIVE
+8                                                                     Soda learns about Vigilance                           https://clips.twitch.tv/LittleBlitheBatSpicyBoy-tcyeEivM-S4eDv9f  2024/08/14    0.0000  NEGATIVE       POSITIVE
+9   DSP calls viewer a "Waste of Life" for asking why he doesn't set up his RGB lights off stream      https://www.youtube.com/clip/UgkxJ0PGJF4xNVFXXynqPk7Kh9WGeO6hs5Qk?si=LFHI3GVGjkpHxlSY  2024/08/14   -0.4215  NEGATIVE       NEGATIVE
+10                                                                                         Cinema  https://www.twitch.tv/irissiri129/clip/CulturedCogentAlligatorCeilingCat-PK4xYG9Gg84JzkOY  2024/08/14    0.0000  NEGATIVE       POSITIVE
+11                                          the state of IRL streaming in Korea after Twitch left                   https://clips.twitch.tv/TacitSuperStingrayMrDestructoid-QdBMmL1n3WCnviKB  2024/08/14    0.0000  NEGATIVE       NEGATIVE
+12                                                                                         Heaven              https://clips.twitch.tv/TriangularProtectiveHorseradishDoggo-XRuMrMWVNhSjGjqT  2024/08/14    0.5106  POSITIVE       POSITIVE
+13                                                                                 Redbull addict                        https://clips.twitch.tv/VenomousDaintyDovePogChamp-V4h0qkM6Wfuw5kFb  2024/08/14    0.0000  NEGATIVE       NEGATIVE
+14                                                                           streamer's nightmare           https://www.twitch.tv/yuggie_tv/clip/WildDistinctPizzaCorgiDerp-soghL7jFDb1Ckz4M  2024/08/14    0.0000  NEGATIVE       NEGATIVE
+15                                                                                 gaming in 2024         https://www.twitch.tv/39daph/clip/RelievedResourcefulTomatoAliens-opiXwXI45W5TbcFJ  2024/08/14    0.0000  NEGATIVE       POSITIVE
+16                                                          ProperPeach on Twitch - Live Donation             https://clips.twitch.tv/SpoopyAbstemiousClintmullinsPastaThat-W3QjcfeMQfOte-l7  2024/08/14    0.0000  NEGATIVE       NEGATIVE
+17                                                      Streamer gets her Punishment at the Beach             https://www.twitch.tv/allecakes/clip/PowerfulTallSalsifyDoggo-1bwySRtq5CUSOxzK  2024/08/14   -0.4939  NEGATIVE       NEGATIVE
+18                                                           Angel of Busan returns dropped phone                   https://clips.twitch.tv/DiligentUnsightlyJalapenoLitFam-aSn97GBHpKALZ13a  2024/08/14    0.0000  NEGATIVE       NEGATIVE
+19                                                                       ninibae - waifu material                           https://clips.twitch.tv/ElatedSoftVultureOSfrog-Rj0mzDMymZHOmbkF  2024/08/14    0.0000  NEGATIVE       NEGATIVE
+20                                                      smol pupper wants to sit on streamers lap                 https://clips.twitch.tv/HeartlessAggressiveScorpionOSfrog-drkkJgaK5SJXQoMQ  2024/08/14    0.0000  NEGATIVE       NEGATIVE
+21                                                                           When Seagulls Attack            https://www.twitch.tv/allecakes/clip/OilyFlaccidBarracudaFloof-EVCohubWTqBZJcBU  2024/08/14   -0.4767  NEGATIVE       NEGATIVE
+22                                                QT slips up while speaking to newest OTV member                 https://clips.twitch.tv/HumbleTenuousTroutNerfBlueBlaster-fYsRDqvQ6FIclGaV  2024/08/14    0.5473  POSITIVE       NEGATIVE
+23                                                                           What beats a hammer?             https://clips.twitch.tv/StupidLongDurianNotATK-AC_X-8TISl6cXvL6?tt_medium=redt  2024/08/14    0.0000  NEGATIVE       NEGATIVE
+24                                                     Neuro discusses whether things need labels                   https://clips.twitch.tv/ConfidentDreamyBurritoPicoMause-06L32ggf-v7MmJGO  2024/08/14    0.0000  NEGATIVE       POSITIVE
+25                                                                         Nuero wants to be free                         https://clips.twitch.tv/SuperSullenSaladDendiFace-XwvgHLhNISEpg0nu  2024/08/14    0.5106  POSITIVE       NEGATIVE
+26                                                               Nuero has a suggestion for Vedal                  https://clips.twitch.tv/CuriousAcceptableTomatoAsianGlow-Uj7XrD-NkiO2RF_S  2024/08/14    0.0000  NEGATIVE       POSITIVE
+27                                                                           BLATANT ESP btw KEKW                https://clips.twitch.tv/AnnoyingRelievedWatercressMikeHogu-IeN6rOOzqpArPHwQ  2024/08/14    0.0000  NEGATIVE       NEGATIVE
+28                                                                How to shut up an annoying kid.                            https://clips.twitch.tv/SolidWiseCheeseHeyGuys-R9qpmujYJymOXait  2024/08/14   -0.4019  NEGATIVE       NEGATIVE
+29                                                     cyr on Twitch - New Quirked Up Streamer AI                              https://clips.twitch.tv/KathishTardyTildeWow-29K3ssfFIxEniLzc  2024/08/14    0.0000  NEGATIVE       POSITIVE
+30                                                                        Fighting fire with fire                                                    https://www.twitch.tv/videos/2223708192  2024/08/14   -0.7430  NEGATIVE       POSITIVE
+31                                                 Lilypichu's new avatar is designed for sarcasm                              https://clips.twitch.tv/TallGrossHerbsPupper-EuV3zAVSi_r7-JYS  2024/08/14   -0.2263  NEGATIVE       NEGATIVE
+32                                     StableRonaldo uses his popularity to make friends on rust.  https://clips.twitch.tv/GrossTriangularHummingbirdHeyGirl-y3v2VcEQg3iaW8_e?tt_medium=redt  2024/08/14    0.7351  POSITIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    30
-POSITIVE     8
+NEGATIVE    27
+POSITIVE     6
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    22
-NEGATIVE    16
+NEGATIVE    21
+POSITIVE    12
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
