@@ -1,50 +1,40 @@
 <!-- posts starts -->
-                                                                                            title                                                                                        url        date  compound   SA_nltk SA_distilibert
-0                                                                          Dies on Coin 97 of 100                https://clips.twitch.tv/FantasticAlertAlligatorTBTacoRight-F7VLP_yzJYKSgAwv  2024/08/14    0.0000  NEGATIVE       NEGATIVE
-1                                                              Myth Taking A Break From Streaming               https://x.com/myth_/status/1823841295665914130?s=46&t=IdnxCwl1nVccLxGu1Y0YMw  2024/08/14    0.0000  NEGATIVE       NEGATIVE
-2                                    Qtcinderella drops the hard R twice in front of Jasontheween                    https://clips.twitch.tv/JazzySuccessfulSnoodCclamChamp-GNrnZL1g4FXwa9Jc  2024/08/14   -0.1027  NEGATIVE       NEGATIVE
-3                                                 Awesome gift to celebrate a partner anniversary              https://clips.twitch.tv/PhilanthropicInterestingShingleKAPOW-wB2R4EmqSjU1TOIZ  2024/08/14    0.8934  POSITIVE       POSITIVE
-4                                                                                           OBAMA            https://clips.twitch.tv/IncredulousSaltySandpiperChocolateRain-ha6F-cMPhFDqLFvR  2024/08/14    0.0000  NEGATIVE       POSITIVE
-5                                                                                       not candy                        https://clips.twitch.tv/SmoggyDarlingTapirTheTarFu-o7zNYul863yJ0LH5  2024/08/14    0.0000  NEGATIVE       NEGATIVE
-6                                               Erobb got peer pressured into buying womens shoes                         https://clips.twitch.tv/MildTangibleEggplantKAPOW-ZU2GaYEBNyW2JHaH  2024/08/14   -0.2263  NEGATIVE       NEGATIVE
-7                                                            the best way to celebrate a birthday        https://www.twitch.tv/bonju_0102/clip/FurryVivaciousBeefKappaPride-cJvy1s1WHCdRtmst  2024/08/14    0.8360  POSITIVE       POSITIVE
-8                                                                     Soda learns about Vigilance                           https://clips.twitch.tv/LittleBlitheBatSpicyBoy-tcyeEivM-S4eDv9f  2024/08/14    0.0000  NEGATIVE       POSITIVE
-9   DSP calls viewer a "Waste of Life" for asking why he doesn't set up his RGB lights off stream      https://www.youtube.com/clip/UgkxJ0PGJF4xNVFXXynqPk7Kh9WGeO6hs5Qk?si=LFHI3GVGjkpHxlSY  2024/08/14   -0.4215  NEGATIVE       NEGATIVE
-10                                                                                         Cinema  https://www.twitch.tv/irissiri129/clip/CulturedCogentAlligatorCeilingCat-PK4xYG9Gg84JzkOY  2024/08/14    0.0000  NEGATIVE       POSITIVE
-11                                          the state of IRL streaming in Korea after Twitch left                   https://clips.twitch.tv/TacitSuperStingrayMrDestructoid-QdBMmL1n3WCnviKB  2024/08/14    0.0000  NEGATIVE       NEGATIVE
-12                                                                                         Heaven              https://clips.twitch.tv/TriangularProtectiveHorseradishDoggo-XRuMrMWVNhSjGjqT  2024/08/14    0.5106  POSITIVE       POSITIVE
-13                                                                                 Redbull addict                        https://clips.twitch.tv/VenomousDaintyDovePogChamp-V4h0qkM6Wfuw5kFb  2024/08/14    0.0000  NEGATIVE       NEGATIVE
-14                                                                           streamer's nightmare           https://www.twitch.tv/yuggie_tv/clip/WildDistinctPizzaCorgiDerp-soghL7jFDb1Ckz4M  2024/08/14    0.0000  NEGATIVE       NEGATIVE
-15                                                                                 gaming in 2024         https://www.twitch.tv/39daph/clip/RelievedResourcefulTomatoAliens-opiXwXI45W5TbcFJ  2024/08/14    0.0000  NEGATIVE       POSITIVE
-16                                                          ProperPeach on Twitch - Live Donation             https://clips.twitch.tv/SpoopyAbstemiousClintmullinsPastaThat-W3QjcfeMQfOte-l7  2024/08/14    0.0000  NEGATIVE       NEGATIVE
-17                                                      Streamer gets her Punishment at the Beach             https://www.twitch.tv/allecakes/clip/PowerfulTallSalsifyDoggo-1bwySRtq5CUSOxzK  2024/08/14   -0.4939  NEGATIVE       NEGATIVE
-18                                                           Angel of Busan returns dropped phone                   https://clips.twitch.tv/DiligentUnsightlyJalapenoLitFam-aSn97GBHpKALZ13a  2024/08/14    0.0000  NEGATIVE       NEGATIVE
-19                                                                       ninibae - waifu material                           https://clips.twitch.tv/ElatedSoftVultureOSfrog-Rj0mzDMymZHOmbkF  2024/08/14    0.0000  NEGATIVE       NEGATIVE
-20                                                      smol pupper wants to sit on streamers lap                 https://clips.twitch.tv/HeartlessAggressiveScorpionOSfrog-drkkJgaK5SJXQoMQ  2024/08/14    0.0000  NEGATIVE       NEGATIVE
-21                                                                           When Seagulls Attack            https://www.twitch.tv/allecakes/clip/OilyFlaccidBarracudaFloof-EVCohubWTqBZJcBU  2024/08/14   -0.4767  NEGATIVE       NEGATIVE
-22                                                QT slips up while speaking to newest OTV member                 https://clips.twitch.tv/HumbleTenuousTroutNerfBlueBlaster-fYsRDqvQ6FIclGaV  2024/08/14    0.5473  POSITIVE       NEGATIVE
-23                                                                           What beats a hammer?             https://clips.twitch.tv/StupidLongDurianNotATK-AC_X-8TISl6cXvL6?tt_medium=redt  2024/08/14    0.0000  NEGATIVE       NEGATIVE
-24                                                     Neuro discusses whether things need labels                   https://clips.twitch.tv/ConfidentDreamyBurritoPicoMause-06L32ggf-v7MmJGO  2024/08/14    0.0000  NEGATIVE       POSITIVE
-25                                                                         Nuero wants to be free                         https://clips.twitch.tv/SuperSullenSaladDendiFace-XwvgHLhNISEpg0nu  2024/08/14    0.5106  POSITIVE       NEGATIVE
-26                                                               Nuero has a suggestion for Vedal                  https://clips.twitch.tv/CuriousAcceptableTomatoAsianGlow-Uj7XrD-NkiO2RF_S  2024/08/14    0.0000  NEGATIVE       POSITIVE
-27                                                                           BLATANT ESP btw KEKW                https://clips.twitch.tv/AnnoyingRelievedWatercressMikeHogu-IeN6rOOzqpArPHwQ  2024/08/14    0.0000  NEGATIVE       NEGATIVE
-28                                                                How to shut up an annoying kid.                            https://clips.twitch.tv/SolidWiseCheeseHeyGuys-R9qpmujYJymOXait  2024/08/14   -0.4019  NEGATIVE       NEGATIVE
-29                                                     cyr on Twitch - New Quirked Up Streamer AI                              https://clips.twitch.tv/KathishTardyTildeWow-29K3ssfFIxEniLzc  2024/08/14    0.0000  NEGATIVE       POSITIVE
-30                                                                        Fighting fire with fire                                                    https://www.twitch.tv/videos/2223708192  2024/08/14   -0.7430  NEGATIVE       POSITIVE
-31                                                 Lilypichu's new avatar is designed for sarcasm                              https://clips.twitch.tv/TallGrossHerbsPupper-EuV3zAVSi_r7-JYS  2024/08/14   -0.2263  NEGATIVE       NEGATIVE
-32                                     StableRonaldo uses his popularity to make friends on rust.  https://clips.twitch.tv/GrossTriangularHummingbirdHeyGirl-y3v2VcEQg3iaW8_e?tt_medium=redt  2024/08/14    0.7351  POSITIVE       POSITIVE
+                                                                                                                           title                                                                                                url        date  compound   SA_nltk SA_distilibert
+0                                                                                                      she hired a coach on temu                               https://clips.twitch.tv/GenerousCrazyAsteriskM4xHeh-N7FYCRDynF-AePdt  2024/08/15    0.0000  NEGATIVE       NEGATIVE
+1                                                                                                           Aris rides the train  https://www.twitch.tv/avoidingthepuddle/clip/BashfulHilariousStinkbugSoonerLater-AsZCBBiiS1oKudY0  2024/08/15    0.0000  NEGATIVE       POSITIVE
+2                                  IRL Streamer almost gets into a fight after being called out at a comedy club for recording
+                   https://www.twitch.tv/mar3lg/clip/AliveLittleCroissantBlargNaut-Q6iEHPY-qckC702w  2024/08/15    0.0422  NEGATIVE       NEGATIVE
+3                                                                              Kai Cenat posessed dressing room character LOL <3            https://clips.twitch.tv/LightLaconicBottleOptimizePrime-hjmIyRWrdKMH_MMg?tt_medium=redt  2024/08/15    0.7531  POSITIVE       NEGATIVE
+4                                                                                                           Ogre lounging on bed                              https://clips.twitch.tv/DarkInspiringMouseSquadGoals-_kydIoD22t3oToBF  2024/08/15    0.0000  NEGATIVE       NEGATIVE
+5   120 of the 300 Top CS: GO Twitch streamers are sponsored by CS: GO skin gambling sites. a direct violation of Twitch's Rules                                      https://www.twitter.com/zachbussey/status/1824189551591485925  2024/08/15   -0.3400  NEGATIVE       NEGATIVE
+6                                                                                                           Lego humor hits hard                              https://clips.twitch.tv/PolishedSneakyGazelleTakeNRG-I74YpfTz5oELi-ns  2024/08/15    0.1779  NEGATIVE       NEGATIVE
+7                                                                                                                         U-TURN                               https://clips.twitch.tv/VictoriousLuckyCardGOWSkull-gjG0yrkZLRqZ6FzI  2024/08/15    0.0000  NEGATIVE       NEGATIVE
+8                                                                                               Aria Saki and Hyoon compare size                          https://clips.twitch.tv/IronicZealousNuggetsRiPepperonis-ir9j6PRsg1myAxE2  2024/08/15    0.0000  NEGATIVE       POSITIVE
+9                                                                                       Streamer sings the Sex Offender Shuffle                           https://clips.twitch.tv/GiantEnthusiasticPicklesTheThing-ZC8II6ummg4xZhym  2024/08/15   -0.3612  NEGATIVE       NEGATIVE
+10                                                                                   Destiny shares his thoughts on black people                  https://youtube.com/clip/Ugkxu90aDdJdffoex8wk1wqOqTKlteM0hnLG?si=bJtFfj2DnihjMkO4  2024/08/15    0.2960  POSITIVE       POSITIVE
+11                                                                                                                    nice chain                   https://www.twitch.tv/erobb221/clip/SavoryEvilQueleaHassaanChop-SBTGev2OOEdXRrOD  2024/08/15    0.4215  POSITIVE       POSITIVE
+12                                                                                              CohhCarnage meets a friendly NPC                            https://clips.twitch.tv/StrangeSplendidScorpionDBstyle-AHqvyVRZ2TPsYA7z  2024/08/15    0.4939  POSITIVE       POSITIVE
+13                                                                                  Runescape streamers know each other too well                         https://www.twitch.tv/faux/clip/AverageAthleticPoxArgieB8-Y6cL9gzuFK4itWiD  2024/08/15    0.2732  POSITIVE       NEGATIVE
+14                                                                                                        sanest league streamer                              https://clips.twitch.tv/SmoothTangentialMinkRickroll-qgy9ZarKbTZGnJ13  2024/08/15    0.0000  NEGATIVE       POSITIVE
+15                                                                                                                       He fine                            https://clips.twitch.tv/WonderfulAmusedPuppyTwitchRaid-ZlyzcGPk19NY71A1  2024/08/15    0.2023  POSITIVE       POSITIVE
+16                                                                                      Nick and Arthur preparing for the hottub                               https://clips.twitch.tv/ToughIgnorantKittenFrankerZ-SHjS_d9Fm8ozbjCd  2024/08/15    0.0000  NEGATIVE       NEGATIVE
+17                                                                                                     sick moves to a sick beat                        https://www.twitch.tv/ariathome/clip/ArtsyDrabOilPermaSmug-uU8GpAduRlST87Ks  2024/08/15   -0.7650  NEGATIVE       NEGATIVE
+18                                                                                     Peak Valorant Strategy at Champions Seoul                  https://youtube.com/clip/UgkxZS7WG2jHIqp3ej8t4SqOkZUe9LWOhYKD?si=15YTbRQw565LEfSh  2024/08/15    0.5267  POSITIVE       POSITIVE
+19                                                                                               MrPol - They never have my size                         https://www.twitch.tv/mrpol/clip/TardyGlamorousPandaKippa-Or0zBufudBTo-_zl  2024/08/15    0.0000  NEGATIVE       NEGATIVE
+20                                                                    Streamer "CarnyJared" soaks beer into a sock and drinks it                                https://clips.twitch.tv/YawningCogentZebraKreygasm-5tpRarnQanoO-POu  2024/08/15    0.0000  NEGATIVE       NEGATIVE
+21                                                                                      Streamer Accidentally Exposes Her Hobby.                                   https://clips.twitch.tv/CalmDullPenguinImGlitch-D1P-mNmLKW4hmFpy  2024/08/15   -0.4404  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    27
-POSITIVE     6
+NEGATIVE    15
+POSITIVE     7
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    21
-POSITIVE    12
+NEGATIVE    14
+POSITIVE     8
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
