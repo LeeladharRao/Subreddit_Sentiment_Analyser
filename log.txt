@@ -1,45 +1,45 @@
 <!-- posts starts -->
-                                                                                 title                                                                                   url        date  compound   SA_nltk SA_distilibert
-0                                Twitch mobile subs will be $7.99 starting October 1st                          https://twitter.com/TwitchSupport/status/1826296039533400460  2024/08/21    0.0000  NEGATIVE       NEGATIVE
-1                                                                           dap dodged                        https://clips.twitch.tv/SlickAmusedSwanVoHiYo-ohBS2CpDqkxAGoyc  2024/08/21    0.0000  NEGATIVE       NEGATIVE
-2                                                       bro what the hell is happening         https://clips.twitch.tv/DepressedAggressiveKangarooBrokeBack-tYXR1Zp11QIKMRYM  2024/08/21   -0.6808  NEGATIVE       NEGATIVE
-3                                                                         Do your job!                    https://clips.twitch.tv/SavageOnerousTaroImGlitch-DHCjF15fRu7ax1A8  2024/08/21    0.0000  NEGATIVE       POSITIVE
-4                                                          Destiny goes back and forth                         https://kick.com/destiny?clip=clip_01J5S95R98WH3E17S9NMK7KZ1J  2024/08/21    0.0000  NEGATIVE       POSITIVE
-5                                           Biggest EUREKA since fire was discovered.      https://youtube.com/clip/UgkxyDWLRB3EwP591jp3WUOS7K01fQlpNOYA?si=y_ZQfbMaoTWEjt8s  2024/08/21   -0.3400  NEGATIVE       POSITIVE
-6                                                                           2024 Games          https://clips.twitch.tv/GlutenFreeShortLorisNerfBlueBlaster-j8t4rtOBvMQ3YAoh  2024/08/21    0.0000  NEGATIVE       POSITIVE
-7                                                           zackrawrr - ohh nooo again              https://clips.twitch.tv/EnthusiasticFairRadishPartyTime-P6wyuE14_12DRZaD  2024/08/21    0.0000  NEGATIVE       NEGATIVE
-8                                                           Erobb walking out the club    https://clips.twitch.tv/LovelySuaveKeyboardVoteYea-QUhVXt4WCuk_FpIY?tt_medium=redt  2024/08/21    0.0000  NEGATIVE       NEGATIVE
-9                                   Aris tries getting a refund for Black Myth: Wukong                      https://clips.twitch.tv/ObeseSmilingHamTinyFace-CKW1Ixsek9aAawow  2024/08/21    0.0000  NEGATIVE       NEGATIVE
-10                                                           Lamont expressing himself            https://clips.twitch.tv/InquisitiveInventiveScallionKeepo-32hRqT5-soczHeyt  2024/08/21    0.0000  NEGATIVE       POSITIVE
-11                                                                     leg day be like                   https://clips.twitch.tv/NastyTenuousFalconBudBlast-iK0MxuJ4QMldoWHW  2024/08/21    0.3612  POSITIVE       POSITIVE
-12                                                                            Sand Art        https://www.twitch.tv/garek/clip/StupidDarlingMushroomBudStar--mLo7vrmMzJtb2OQ  2024/08/21    0.0000  NEGATIVE       POSITIVE
-13                                                                         bird kdrama       https://www.twitch.tv/yuggie_tv/clip/IgnorantSuaveRabbitSSSsss-LkTmafA4fap5fbpL  2024/08/21    0.0000  NEGATIVE       POSITIVE
-14                                                                 hardcore at the gym                    https://clips.twitch.tv/RefinedStrongPotatoUnSane-VPVgXLrbls7_EdJd  2024/08/21    0.0000  NEGATIVE       NEGATIVE
-15                                              German technique to calm everyone down                    https://clips.twitch.tv/SuaveKawaiiWrenBibleThump-wk6BKlimhn2U1mKL  2024/08/21    0.3182  POSITIVE       NEGATIVE
-16                                               Northernlion on 10000 hours of League          https://clips.twitch.tv/ExpensiveUnsightlySquirrelCorgiDerp-Xk-FU35d-43WyQk-  2024/08/21    0.0000  NEGATIVE       POSITIVE
-17                                     Destiny and interviewer synchronise their minds                         https://kick.com/destiny?clip=clip_01J5V1EPGQJ8WGBSSK4XV6VB9V  2024/08/21    0.0000  NEGATIVE       POSITIVE
-18                                                             Northernlion is an ally                   https://clips.twitch.tv/OriginalRealDelicataSSSsss-KrN5DNSH91QKzyk5  2024/08/21    0.0000  NEGATIVE       POSITIVE
-19                                               Huge Upset in 1st Round at Tekken EWC            https://clips.twitch.tv/FantasticThirstyGoatChocolateRain-wLpa2L-MHZKFFiju  2024/08/21   -0.0772  NEGATIVE       NEGATIVE
-20                                                                     AI woman moment  https://www.twitch.tv/vedal987/clip/StupidGorgeousSalsifyKappaPride-uJtshb7J22lbq34R  2024/08/21    0.0000  NEGATIVE       NEGATIVE
-21                                    simply has a normal conversation with his mother                https://clips.twitch.tv/ElatedBelovedClipzHassaanChop-G2VGirlpRlUWFD3m  2024/08/21    0.0000  NEGATIVE       POSITIVE
-22  Speed absolutely losing his mind from 90 hours and 39 deaths in hardcore minecraft                     https://clips.twitch.tv/NiceFuriousDadPeteZaroll-GMYmgT1wH-0Kc0iT  2024/08/21   -0.4391  NEGATIVE       NEGATIVE
-23                                                     Aris is just bad at these games                 https://clips.twitch.tv/CuteKitschySandwichNononoCat-VOLK2uYkwyUGyoiS  2024/08/21   -0.5423  NEGATIVE       NEGATIVE
-24                                            T1 hits his Elden Ring sub goal marathon             https://clips.twitch.tv/GorgeousAssiduousPenguinGOWSkull-h2ftsDUCI__iAPEb  2024/08/21    0.0000  NEGATIVE       NEGATIVE
-25                                   Elderly streamer celebrates victory over children  https://www.twitch.tv/meesterkeem/clip/FunHilariousCroissantPJSugar-E3MB1IIVhzh7ACiZ  2024/08/21    0.5719  POSITIVE       POSITIVE
-26                                                         My last brain cell be like:                         https://clips.twitch.tv/GiantSoftMangoDatBoi-QSNPGdpKIQlTc8Sl  2024/08/21    0.3612  POSITIVE       NEGATIVE
-27                                                                            real fan  https://www.twitch.tv/jinnytty/clip/BigGracefulCaribouMrDestructoid-RlzqjbsKaIaatQ0v  2024/08/21    0.3182  POSITIVE       POSITIVE
-28                                                                     Nick wants kids                          https://clips.twitch.tv/HonestCoyWolfWoofer-ebpfdprB6JxYKUVH  2024/08/21    0.0000  NEGATIVE       POSITIVE
-29                               Streamer dresses mom in cute cosplay for her birthday         https://www.twitch.tv/ruunachu/clip/HorribleFrailShieldKAPOW-9To8VtmvJR1jo7bo  2024/08/21    0.4588  POSITIVE       POSITIVE
-30                                                                         Free shower             https://clips.twitch.tv/DifferentCrepuscularHornetWTRuck-Xy_RjsYo_vS9qvgH  2024/08/21    0.5106  POSITIVE       POSITIVE
-31                                                                    GG in helicopter         https://www.twitch.tv/geezgiselle/clip/ColdEmpathicBeanLitty-KAv_zKVaPwm2yNjC  2024/08/21    0.4466  POSITIVE       NEGATIVE
-32                                                                             W Armor     https://youtube.com/clip/UgkxUct2YfKpRMqZKF7xJv-gCXrpkjyE3-Gm?si=cnCdaBOBKQiRPLWm  2024/08/21    0.0000  NEGATIVE       POSITIVE
-33                 Erobb announces a long streaming break due to "bad personal issues"                          https://twitter.com/Erobb221Chats/status/1826028124246602071  2024/08/21   -0.5423  NEGATIVE       NEGATIVE
+                                                                                title                                                                                            url        date  compound   SA_nltk SA_distilibert
+0                                             Agent uncovers a conspiracy about Cinna                             https://clips.twitch.tv/KnottyCoyJalapenoTooSpicy-7zQCZntDajjUdUmJ  2024/08/22   -0.5267  NEGATIVE       POSITIVE
+1                                                                  Talented streamers                             https://clips.twitch.tv/CogentStrangeZebraPJSugar-cQy_C0SzF4CtD0iB  2024/08/22    0.5106  POSITIVE       POSITIVE
+2                                             Camp Knut announce Hafthor is returning         https://clips.twitch.tv/CrackyBumblingGalagoTBTacoLeft-yiE_YBXJiHw-SiVs?tt_medium=redt  2024/08/22    0.0000  NEGATIVE       POSITIVE
+3                                                                    A perfect script                          https://clips.twitch.tv/PoisedSpookyTruffleThunBeast-IpoGL5iL47cHjuLt  2024/08/22    0.5719  POSITIVE       POSITIVE
+4                                                   Nmp and Erobb talk about the diet                 https://clips.twitch.tv/LazyFaintBasenjiOSfrog-oDhP0ddXRj4HVEf_?tt_medium=redt  2024/08/22    0.0000  NEGATIVE       POSITIVE
+5                                                             Hasan's Real voice leak           https://www.twitch.tv/hasanabi/clip/FuriousInexpensivePidgeonNotATK-s0xDbg2cSSJrtRgx  2024/08/22   -0.3400  NEGATIVE       NEGATIVE
+6                                                                   Asmond love jokes                      https://clips.twitch.tv/NaiveColdClintmullinsSuperVinlin-h-gKkJh6G692hlt_  2024/08/22    0.7351  POSITIVE       POSITIVE
+7                                                Neuro-sama "jokes" about her viewers             https://www.twitch.tv/vedal987/clip/ResourcefulBovineKimchiM4xHeh-a9ea3OqgV7Vy2-M3  2024/08/22    0.0000  NEGATIVE       NEGATIVE
+8                                              professional streamer fixes his camera  https://www.twitch.tv/avoidingthepuddle/clip/CheerfulCogentLyrebirdAllenHuhu-dKNsQlzitzFkE3KQ  2024/08/22    0.0000  NEGATIVE       NEGATIVE
+9                                        Streamer HGD gets his phone stolen in the UK               https://clips.twitch.tv/SuccessfulConsiderateRamenChocolateRain-2SeFu-eI5HSWTKmB  2024/08/22   -0.4939  NEGATIVE       NEGATIVE
+10                  Streamer shares his most embarrassing slip of the tongue moment.                    https://clips.twitch.tv/ProtectiveUninterestedMangoBabyRage-Hg8oUDFk2gdeOmJh  2024/08/22   -0.1761  NEGATIVE       NEGATIVE
+11                                    Baus talks about his time with Tyler1 and Alois                         https://clips.twitch.tv/SarcasticStylishAdminPipeHype-1gHXxwCauXnC1hGZ  2024/08/22    0.0000  NEGATIVE       POSITIVE
+12                                            Misterarther has some diet tips for Nmp            https://clips.twitch.tv/RelievedAmazingTaroImGlitch-QmOi1FYpf3swv5tS?tt_medium=redt  2024/08/22    0.0000  NEGATIVE       NEGATIVE
+13                                                                   awakening tongue                                https://clips.twitch.tv/ShortRudeKimchiPJSugar-4tSDCa_WbheV3yvN  2024/08/22    0.0000  NEGATIVE       POSITIVE
+14                                     Viewer tries to break into Caedrel's house wtf        https://www.twitch.tv/caedrel/clip/TenuousPlausibleYakinikuNinjaGrumpy-u2lizdVnpKxTQJql  2024/08/22   -0.5859  NEGATIVE       NEGATIVE
+15                                 African Swallow trying to catch a pair of coconuts                         https://clips.twitch.tv/BlightedAltruisticOrcaCoolCat-c78mJ1bEg_LG4V4P  2024/08/22    0.0000  NEGATIVE       NEGATIVE
+16                                        Jinny observes a traditional Japanese dance                                  https://clips.twitch.tv/PoorOilyEelSmoocherZ-PhXFtQvCNRQ2DKrV  2024/08/22    0.0000  NEGATIVE       POSITIVE
+17                                                            Hasan likes a guy’s hat                  https://clips.twitch.tv/UninterestedResoluteFriesHoneyBadger-3Gq-uc7ywnvT-Owh  2024/08/22    0.4215  POSITIVE       POSITIVE
+18                                                                    Livestream Fail                          https://clips.twitch.tv/UnsightlyMotionlessPanOSfrog-6xI_7HjQWMMfqHAy  2024/08/22   -0.5423  NEGATIVE       NEGATIVE
+19                                                                Payo is a real one                        https://clips.twitch.tv/ZealousKathishOkapiDeIlluminati-gLBxHQe4dtZiLKne  2024/08/22    0.0000  NEGATIVE       POSITIVE
+20                  Kai and Speed unleash their inner animals after beating Minecraft                 https://clips.twitch.tv/SingleDelightfulNightingaleRaccAttack-edwROg7uCdQMX57n  2024/08/22   -0.4588  NEGATIVE       POSITIVE
+21                                       Kai and Speed beat Minecraft after 105 hours                                 https://clips.twitch.tv/ZanyLuckyPuppyDBstyle-9laf2-ddWKjjHL31  2024/08/22    0.0000  NEGATIVE       POSITIVE
+22                  Kai Cenat & Speed Finally Beat Minecraft Hardcore After 106 Hours                  https://clips.twitch.tv/SuspiciousCaringSandwichAMPTropPunch-YpU2knjWKvD-Z7Hw  2024/08/22    0.0000  NEGATIVE       POSITIVE
+23        Ron and Jason "Wrestle" against each other after beating Minecraft HARDcore                       https://clips.twitch.tv/SpotlessCuriousTomatoCclamChamp-JJt6o2tGlskgNmNi  2024/08/22   -0.4588  NEGATIVE       NEGATIVE
+24                                                        Big head small brain moves.                           https://clips.twitch.tv/LongAlluringDolphinCmonBruh-ltV0AKiD0mzk3-QY  2024/08/22    0.0000  NEGATIVE       POSITIVE
+25                                             xQc meets forsen in Escape from Tarkov                      https://clips.twitch.tv/WealthyOptimisticDumplingsAliens-P66QFsMNixMZSoo0  2024/08/22    0.1779  NEGATIVE       POSITIVE
+26                Quin's biggest supporter watches his PoE hardcore uber boss attempt                      https://clips.twitch.tv/RenownedFastArmadilloDoritosChip-96RG3_vuE1jEEeo_  2024/08/22    0.2732  POSITIVE       NEGATIVE
+27                                            Kai reaches his limit after dying again                      https://clips.twitch.tv/FlirtyFlaccidGullResidentSleeper-4RNJ-lkj_r4S3rv9  2024/08/22    0.0516  NEGATIVE       POSITIVE
+28                                       KAI AND SPEED DIE IN THE END AFTER 98 HOURS😭                   https://clips.twitch.tv/DifferentResourcefulCatPeoplesChamp-fIa9aRVzGArpSmed  2024/08/22   -0.6841  NEGATIVE       NEGATIVE
+29                                                                Kai  Dies Yet Again                       https://clips.twitch.tv/EndearingSincereReubenJKanStyle-9OnTy8A9s-GGmMDb  2024/08/22    0.0000  NEGATIVE       NEGATIVE
+30                            Ron leaks Kai and Speeds scripts for playing minecraft.                  https://clips.twitch.tv/BombasticPreciousReubenLeeroyJenkins-UvPwEb0ZlDntKjmM  2024/08/22    0.2023  POSITIVE       POSITIVE
+31                                         Jason speaking on people criticizing Faze.                               https://clips.twitch.tv/FairKnottyTroutSpicyBoy-81ZkgjIOeTMCdLLs  2024/08/22   -0.3612  NEGATIVE       NEGATIVE
+32                                                  Imagine donating to a millionaire                https://clips.twitch.tv/ResilientTentativeSnailNerfBlueBlaster-PgUcTOTIAaGwxSM5  2024/08/22    0.0000  NEGATIVE       NEGATIVE
+33  Drinking spumante prosecco straight from the bottle, surely nothing will go wrong                       https://clips.twitch.tv/ConfidentGleamingDootTwitchRaid-u_Ey1EW-apcY83Zq  2024/08/22    0.7472  POSITIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    26
-POSITIVE     8
+NEGATIVE    27
+POSITIVE     7
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
