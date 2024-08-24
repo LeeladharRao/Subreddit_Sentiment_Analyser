@@ -1,51 +1,56 @@
 <!-- posts starts -->
-                                                                                title                                                                                            url        date  compound   SA_nltk SA_distilibert
-0                                             Agent uncovers a conspiracy about Cinna                             https://clips.twitch.tv/KnottyCoyJalapenoTooSpicy-7zQCZntDajjUdUmJ  2024/08/22   -0.5267  NEGATIVE       POSITIVE
-1                                                                  Talented streamers                             https://clips.twitch.tv/CogentStrangeZebraPJSugar-cQy_C0SzF4CtD0iB  2024/08/22    0.5106  POSITIVE       POSITIVE
-2                                             Camp Knut announce Hafthor is returning         https://clips.twitch.tv/CrackyBumblingGalagoTBTacoLeft-yiE_YBXJiHw-SiVs?tt_medium=redt  2024/08/22    0.0000  NEGATIVE       POSITIVE
-3                                                                    A perfect script                          https://clips.twitch.tv/PoisedSpookyTruffleThunBeast-IpoGL5iL47cHjuLt  2024/08/22    0.5719  POSITIVE       POSITIVE
-4                                                   Nmp and Erobb talk about the diet                 https://clips.twitch.tv/LazyFaintBasenjiOSfrog-oDhP0ddXRj4HVEf_?tt_medium=redt  2024/08/22    0.0000  NEGATIVE       POSITIVE
-5                                                             Hasan's Real voice leak           https://www.twitch.tv/hasanabi/clip/FuriousInexpensivePidgeonNotATK-s0xDbg2cSSJrtRgx  2024/08/22   -0.3400  NEGATIVE       NEGATIVE
-6                                                                   Asmond love jokes                      https://clips.twitch.tv/NaiveColdClintmullinsSuperVinlin-h-gKkJh6G692hlt_  2024/08/22    0.7351  POSITIVE       POSITIVE
-7                                                Neuro-sama "jokes" about her viewers             https://www.twitch.tv/vedal987/clip/ResourcefulBovineKimchiM4xHeh-a9ea3OqgV7Vy2-M3  2024/08/22    0.0000  NEGATIVE       NEGATIVE
-8                                              professional streamer fixes his camera  https://www.twitch.tv/avoidingthepuddle/clip/CheerfulCogentLyrebirdAllenHuhu-dKNsQlzitzFkE3KQ  2024/08/22    0.0000  NEGATIVE       NEGATIVE
-9                                        Streamer HGD gets his phone stolen in the UK               https://clips.twitch.tv/SuccessfulConsiderateRamenChocolateRain-2SeFu-eI5HSWTKmB  2024/08/22   -0.4939  NEGATIVE       NEGATIVE
-10                  Streamer shares his most embarrassing slip of the tongue moment.                    https://clips.twitch.tv/ProtectiveUninterestedMangoBabyRage-Hg8oUDFk2gdeOmJh  2024/08/22   -0.1761  NEGATIVE       NEGATIVE
-11                                    Baus talks about his time with Tyler1 and Alois                         https://clips.twitch.tv/SarcasticStylishAdminPipeHype-1gHXxwCauXnC1hGZ  2024/08/22    0.0000  NEGATIVE       POSITIVE
-12                                            Misterarther has some diet tips for Nmp            https://clips.twitch.tv/RelievedAmazingTaroImGlitch-QmOi1FYpf3swv5tS?tt_medium=redt  2024/08/22    0.0000  NEGATIVE       NEGATIVE
-13                                                                   awakening tongue                                https://clips.twitch.tv/ShortRudeKimchiPJSugar-4tSDCa_WbheV3yvN  2024/08/22    0.0000  NEGATIVE       POSITIVE
-14                                     Viewer tries to break into Caedrel's house wtf        https://www.twitch.tv/caedrel/clip/TenuousPlausibleYakinikuNinjaGrumpy-u2lizdVnpKxTQJql  2024/08/22   -0.5859  NEGATIVE       NEGATIVE
-15                                 African Swallow trying to catch a pair of coconuts                         https://clips.twitch.tv/BlightedAltruisticOrcaCoolCat-c78mJ1bEg_LG4V4P  2024/08/22    0.0000  NEGATIVE       NEGATIVE
-16                                        Jinny observes a traditional Japanese dance                                  https://clips.twitch.tv/PoorOilyEelSmoocherZ-PhXFtQvCNRQ2DKrV  2024/08/22    0.0000  NEGATIVE       POSITIVE
-17                                                            Hasan likes a guy’s hat                  https://clips.twitch.tv/UninterestedResoluteFriesHoneyBadger-3Gq-uc7ywnvT-Owh  2024/08/22    0.4215  POSITIVE       POSITIVE
-18                                                                    Livestream Fail                          https://clips.twitch.tv/UnsightlyMotionlessPanOSfrog-6xI_7HjQWMMfqHAy  2024/08/22   -0.5423  NEGATIVE       NEGATIVE
-19                                                                Payo is a real one                        https://clips.twitch.tv/ZealousKathishOkapiDeIlluminati-gLBxHQe4dtZiLKne  2024/08/22    0.0000  NEGATIVE       POSITIVE
-20                  Kai and Speed unleash their inner animals after beating Minecraft                 https://clips.twitch.tv/SingleDelightfulNightingaleRaccAttack-edwROg7uCdQMX57n  2024/08/22   -0.4588  NEGATIVE       POSITIVE
-21                                       Kai and Speed beat Minecraft after 105 hours                                 https://clips.twitch.tv/ZanyLuckyPuppyDBstyle-9laf2-ddWKjjHL31  2024/08/22    0.0000  NEGATIVE       POSITIVE
-22                  Kai Cenat & Speed Finally Beat Minecraft Hardcore After 106 Hours                  https://clips.twitch.tv/SuspiciousCaringSandwichAMPTropPunch-YpU2knjWKvD-Z7Hw  2024/08/22    0.0000  NEGATIVE       POSITIVE
-23        Ron and Jason "Wrestle" against each other after beating Minecraft HARDcore                       https://clips.twitch.tv/SpotlessCuriousTomatoCclamChamp-JJt6o2tGlskgNmNi  2024/08/22   -0.4588  NEGATIVE       NEGATIVE
-24                                                        Big head small brain moves.                           https://clips.twitch.tv/LongAlluringDolphinCmonBruh-ltV0AKiD0mzk3-QY  2024/08/22    0.0000  NEGATIVE       POSITIVE
-25                                             xQc meets forsen in Escape from Tarkov                      https://clips.twitch.tv/WealthyOptimisticDumplingsAliens-P66QFsMNixMZSoo0  2024/08/22    0.1779  NEGATIVE       POSITIVE
-26                Quin's biggest supporter watches his PoE hardcore uber boss attempt                      https://clips.twitch.tv/RenownedFastArmadilloDoritosChip-96RG3_vuE1jEEeo_  2024/08/22    0.2732  POSITIVE       NEGATIVE
-27                                            Kai reaches his limit after dying again                      https://clips.twitch.tv/FlirtyFlaccidGullResidentSleeper-4RNJ-lkj_r4S3rv9  2024/08/22    0.0516  NEGATIVE       POSITIVE
-28                                       KAI AND SPEED DIE IN THE END AFTER 98 HOURS😭                   https://clips.twitch.tv/DifferentResourcefulCatPeoplesChamp-fIa9aRVzGArpSmed  2024/08/22   -0.6841  NEGATIVE       NEGATIVE
-29                                                                Kai  Dies Yet Again                       https://clips.twitch.tv/EndearingSincereReubenJKanStyle-9OnTy8A9s-GGmMDb  2024/08/22    0.0000  NEGATIVE       NEGATIVE
-30                            Ron leaks Kai and Speeds scripts for playing minecraft.                  https://clips.twitch.tv/BombasticPreciousReubenLeeroyJenkins-UvPwEb0ZlDntKjmM  2024/08/22    0.2023  POSITIVE       POSITIVE
-31                                         Jason speaking on people criticizing Faze.                               https://clips.twitch.tv/FairKnottyTroutSpicyBoy-81ZkgjIOeTMCdLLs  2024/08/22   -0.3612  NEGATIVE       NEGATIVE
-32                                                  Imagine donating to a millionaire                https://clips.twitch.tv/ResilientTentativeSnailNerfBlueBlaster-PgUcTOTIAaGwxSM5  2024/08/22    0.0000  NEGATIVE       NEGATIVE
-33  Drinking spumante prosecco straight from the bottle, surely nothing will go wrong                       https://clips.twitch.tv/ConfidentGleamingDootTwitchRaid-u_Ey1EW-apcY83Zq  2024/08/22    0.7472  POSITIVE       NEGATIVE
+                                                                                    title                                                                                     url        date  compound   SA_nltk SA_distilibert
+0                                    Squeex grabs cannonless star blindfolded on accident                             https://clips.twitch.tv/ElatedClumsyYamWow-zUk6EfJ5Ep63kn9i  2024/08/23   -0.4767  NEGATIVE       NEGATIVE
+1                                                    there is a new arm collector in town                   https://clips.twitch.tv/PhilanthropicRockyZebraFloof-0Kj6Rnn2CPMHZJJn  2024/08/23    0.0000  NEGATIVE       POSITIVE
+2                                                               Julia wins a StarForge PC               https://clips.twitch.tv/TsunderePlayfulAmazonKeyboardCat-ba6LyyqvcOZzXwDU  2024/08/23    0.5719  POSITIVE       POSITIVE
+3                                             nmp been a little too lonely since malena 😳  https://www.twitch.tv/mizkif/clip/ScrumptiousHonestBulgogiPanicBasket-avrSqKio7ZD9BGOL  2024/08/23   -0.3008  NEGATIVE       NEGATIVE
+4                                                                     Knut about to faint                 https://clips.twitch.tv/GracefulCrepuscularSowDAESuppy-7YkxUY2TDNUOZfQG  2024/08/23    0.0000  NEGATIVE       NEGATIVE
+5                                                                                Lick it?          https://clips.twitch.tv/BillowingHeartlessSwallowDeIlluminati-MHvLYpjGRcnFreWW  2024/08/23    0.0000  NEGATIVE       NEGATIVE
+6                                                                               OTK owned                  https://clips.twitch.tv/HonestSmallSpaghettiFUNgineer-MHlAU7AH5zlcTlzP  2024/08/23    0.0000  NEGATIVE       POSITIVE
+7                                                   Destiny confirms a viewer's sexuality                           https://kick.com/destiny?clip=clip_01J5YF8WEPPF6R8YXAEP7DFAJS  2024/08/23    0.0000  NEGATIVE       POSITIVE
+8                                                    Nmplol lets his ego fly on Camp Knut                  https://clips.twitch.tv/ConcernedCovertWheelPastaThat-GfYPYyVrR2PrCNWa  2024/08/23    0.0000  NEGATIVE       NEGATIVE
+9                                                            Nmp gets 1 on 1 MMA coaching       https://clips.twitch.tv/BlatantAlertPelicanMVGame-FoQ9kyL-mxtXmgFe?tt_medium=redt  2024/08/23    0.0000  NEGATIVE       POSITIVE
+10                                Alinity shows how much dog hair she has on her clothes                       https://clips.twitch.tv/ToughBlindingAlfalfaDxCat-7-6-Qm-PJ0lqE0oC  2024/08/23    0.0000  NEGATIVE       POSITIVE
+11                                                        Mr. Arther loses his virginity.                     https://clips.twitch.tv/FuriousOpenMochaYouDontSay--Z5Br8cdy5mSBWRK  2024/08/23   -0.3182  NEGATIVE       NEGATIVE
+12                                                           Mizkif gets tagged by Lundon  https://clips.twitch.tv/DirtyUninterestedLionDendiFace-Qttu2Uc3D6nMLAdb?tt_medium=redt  2024/08/23    0.0000  NEGATIVE       NEGATIVE
+13                                                                        Mizkif - Jacked              https://clips.twitch.tv/EndearingPiliableTitanHassaanChop-WoqC5HFdSmG1RBbB  2024/08/23    0.0000  NEGATIVE       NEGATIVE
+14                                                              good boy at the Anime NYC         https://clips.twitch.tv/VibrantEncouragingArtichokeKeyboardCat-IhxDuRKC60UGFjyj  2024/08/23    0.4404  POSITIVE       POSITIVE
+15                                                                 New York Streetballers                   https://clips.twitch.tv/VastSuavePterodactylTinyFace-GyOLGSJ4nnGt3Eog  2024/08/23    0.0000  NEGATIVE       POSITIVE
+16                                                                               KNUTTING                https://clips.twitch.tv/ConcernedSpunkyEyeballBCWarrior-Tyk7UGszypSD28lD  2024/08/23    0.0000  NEGATIVE       NEGATIVE
+17                                                                       peepoTalk Parrot               https://www.twitch.tv/maya/clip/FrozenTiredKittenArgieB8-0-kzrNNQcZyRcEL3  2024/08/23    0.0000  NEGATIVE       NEGATIVE
+18                                            Misterarther is caught cheating on the test      https://clips.twitch.tv/ImportantRoundNarwhal4Head-ae15AZ5Jc58emUCh?tt_medium=redt  2024/08/23   -0.5574  NEGATIVE       NEGATIVE
+19                             Northernlion lays down the Law (but not like in a cop way)                        https://clips.twitch.tv/SweetMuddySaladCopyThis-FNX7GzJsDyKaCJ5L  2024/08/23   -0.2755  NEGATIVE       POSITIVE
+20                                                                      Knut gyaaattttttt                https://clips.twitch.tv/GleamingStylishChickenTheRinger-8Snhz1_wKx-7JTB3  2024/08/23    0.0000  NEGATIVE       NEGATIVE
+21                                                           MEN prove they're not sexist         https://www.twitch.tv/nmplol/clip/FaintAttractiveFerretTakeNRG-30TML10Ub59-hMEW  2024/08/23    0.0000  NEGATIVE       POSITIVE
+22                                                            pinkchyu's chipotle order
+              https://clips.twitch.tv/HonorableDeliciousDiscGrammarKing-Jv1JRDV-LbGTehq0  2024/08/23    0.0000  NEGATIVE       NEGATIVE
+23                                              Knut gives Nmplol advice on raising kids              https://clips.twitch.tv/ColorfulBillowingEggplantPastaThat-0VQIm7Dp0o_gCKgz  2024/08/23    0.0000  NEGATIVE       POSITIVE
+24                                           Jake doesn't hesitate to help his girlfriend                          https://clips.twitch.tv/ProudBoredTigerBCouch--NcF_vs08oQeEHIi  2024/08/23   -0.1139  NEGATIVE       POSITIVE
+25                                                  even a japanese filter can't fix this                    https://clips.twitch.tv/MoldyFaithfulEggPanicBasket-6KdP1GtOWW2fcWll  2024/08/23    0.0000  NEGATIVE       NEGATIVE
+26                                                             Knut doesn't take the bait           https://clips.twitch.tv/TameSoftOxFeelsBadMan-wjevIuS1TJJ_Ec19?tt_medium=redt  2024/08/23    0.0000  NEGATIVE       NEGATIVE
+27                                                      best teammates you could ever get              https://www.twitch.tv/furi/clip/GiantConcernedPanMikeHogu-JI-OYK9Bd2BDQWsS  2024/08/23    0.6369  POSITIVE       POSITIVE
+28                                               What boxing will look like in the future          https://clips.twitch.tv/SuccessfulAntediluvianHedgehogSoBayed-dHNkUlyZ8GwoA3Pe  2024/08/23    0.3612  POSITIVE       POSITIVE
+29                        Heathrow plane spotter's van getting rocked by itchy horse bum.                       https://www.youtube.com/clip/Ugkxy591wA93d2uJalcU5yDiK9cNhX19tbql  2024/08/23   -0.2732  NEGATIVE       NEGATIVE
+30                                                               Shroud defeats non-white                        https://clips.twitch.tv/StrongMildYogurtDogFace-nrRYRNMS2iAEv2VQ  2024/08/23   -0.3182  NEGATIVE       NEGATIVE
+31                                                      Little Bird didn't see it coming                     https://clips.twitch.tv/CogentGiantStingrayPoooound-V8m7C9xKJNjy-n-O  2024/08/23    0.0000  NEGATIVE       NEGATIVE
+32                                                                        Is Cinna black?                         https://clips.twitch.tv/CrazyCleverAlpacaDxCat-HfzO5w288qwCGMg3  2024/08/23    0.0000  NEGATIVE       NEGATIVE
+33                                          Aris picks a difficulty setting with his chat                 https://clips.twitch.tv/KnottyPopularPorpoiseBuddhaBar-RLef21g3sIMaUf6z  2024/08/23   -0.3400  NEGATIVE       NEGATIVE
+34  Shroud: " Black Myth: Wugonk wil be the game of the year. If it doesnt, it is rigged"                      https://clips.twitch.tv/CrazySavageSwordSwiftRage-3KPWsNlSQ6hbDWUl  2024/08/23    0.2755  POSITIVE       NEGATIVE
+35                                                 Stream Sniper rolls up on Hasan’s uber                        https://clips.twitch.tv/UnusualIcyNoodleGivePLZ-fJ9vYycYY-Ij5urG  2024/08/23    0.0000  NEGATIVE       NEGATIVE
+36                                               HasanAbi makes an appearance on Fox News        https://www.twitch.tv/hasanabi/clip/TacitOriginalLocustTinyFace-V2qnKffCvuHkVDJY  2024/08/23    0.0000  NEGATIVE       POSITIVE
+37                                                                Presidential Copulation                      https://clips.twitch.tv/NurturingKindFishTheTarFu-Y6MkDMRpuSzfj1LS  2024/08/23    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    27
-POSITIVE     7
+NEGATIVE    33
+POSITIVE     5
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    18
-NEGATIVE    16
+NEGATIVE    23
+POSITIVE    15
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
