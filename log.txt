@@ -1,50 +1,55 @@
 <!-- posts starts -->
-                                                                                                 title                                                                                            url        date  compound   SA_nltk SA_distilibert
-0                                                           Lacari makes a new friend at Ironforge gym                 https://www.twitch.tv/knut/clip/TentativeGiantMallardDAESuppy-j5JjpCf3vmRFCiHf  2024/09/15    0.4939  POSITIVE       POSITIVE
-1   Player makes huge mistake in the final moments of the Rocket League World Championship Grand Final         https://www.twitch.tv/rocketleague/clip/PreciousProudFlamingoImGlitch-sHwI2REZYSU6bem_  2024/09/15    0.7003  POSITIVE       NEGATIVE
-2                                                                           ExtraEmily asks a question              https://www.twitch.tv/extraemily/clip/SmilingMoldyWolfHassanChop-HM0dGBLMnmSKDRgW  2024/09/15    0.0000  NEGATIVE       POSITIVE
-3                                                     Summit explains why Every Streamer will Fall Off                        https://clips.twitch.tv/PopularProtectiveParrotDxAbomb-I0-CnZI7SSRsWus6  2024/09/15    0.0000  NEGATIVE       NEGATIVE
-4                                                                          "Chat i got the DAWG in me"         https://www.twitch.tv/glmood1_/clip/HeadstrongAuspiciousKathyDansGame-cQ9snglJEui1xHhQ  2024/09/15    0.0000  NEGATIVE       NEGATIVE
-5                                                                 2 Drunk People having a Normal Convo         https://www.twitch.tv/misterarther/clip/FamousFaintNuggetsDoritosChip-boOBllHh1MvG9FJv  2024/09/15   -0.3400  NEGATIVE       NEGATIVE
-6                                                                She's not a Steph Curry obsessive btw         https://www.twitch.tv/geezgiselle/clip/PiliableFlirtyCobblerFutureMan-6U04Se8P_QXQHgAy  2024/09/15    0.1695  NEGATIVE       NEGATIVE
-7                                                                        "Benisman's" Quote of the day   https://www.twitch.tv/glmood1_/clip/BombasticVictoriousVelociraptorMikeHogu--1Vs1Fkg1txAf9cP  2024/09/15    0.0000  NEGATIVE       POSITIVE
-8                                                                      malena getting replaced already           https://www.twitch.tv/misterarther/clip/SuperCoweringDinosaurRlyTho-ANsXP6sa6JYuN7iw  2024/09/15    0.0000  NEGATIVE       NEGATIVE
-9                                                                              NMP unmutes Clara’s mic                         https://clips.twitch.tv/AdventurousDeadHyenaFUNgineer-gHelbSISK9LZ3mQh  2024/09/15    0.0000  NEGATIVE       NEGATIVE
-10                                                            Summit stands up for one National Anthem                   https://clips.twitch.tv/DistinctSpinelessVampireDancingBaby-QYZIa8gcxRxmhlEs  2024/09/15    0.0000  NEGATIVE       POSITIVE
-11                                    Time-traveling space trucker answers a question about the future                  https://www.twitch.tv/erby/clip/BombasticTardyCurryOMGScoots-EIWTPTNvomKB_-Mc  2024/09/15    0.0000  NEGATIVE       POSITIVE
-12                                                                                           Thai Ming           https://www.twitch.tv/forsen/clip/LachrymoseAdorableDaikonAllenHuhu-dtfcJWVGGQ185fpY  2024/09/15    0.0000  NEGATIVE       POSITIVE
-13                       Arda Saatçi, has finished his 3.000km Ultra Marathon from Berlin to New York.     https://www.twitch.tv/ardasaatci1/clip/OutstandingRelievedAppleKappaPride-NOrrnxzU4LUZ7uYw  2024/09/15    0.0000  NEGATIVE       POSITIVE
-14                                                                             Love or Host is back!!!      https://www.twitch.tv/misterarther/clip/NeighborlyAlluringWalletRitzMitz-tC-7NOIk_Z-bjIiv  2024/09/15    0.7249  POSITIVE       POSITIVE
-15                                                                                    Nick lets it rip                   https://www.twitch.tv/nmplol/clip/JollyVenomousGaurUncleNox-MVM0H-s5ZXDMt2Ck  2024/09/15    0.0000  NEGATIVE       NEGATIVE
-16                                                                                       Lirik is fine        https://www.twitch.tv/lirik/clip/QuaintSucculentHabaneroNerfRedBlaster-Ghw6yyL6okPrA5_M  2024/09/15    0.2023  POSITIVE       POSITIVE
-17                                                                                       Over The Knee                https://www.twitch.tv/nmplol/clip/HonorableResoluteDogeSaltBae-XoXcHAAL_rTxzD_W  2024/09/15    0.0000  NEGATIVE       NEGATIVE
-18                                                                          Zoil posted the wrong link                https://www.twitch.tv/zoil/clip/ExuberantElatedPangolinDxAbomb-sTPVlh5aBdrXL7gB  2024/09/15   -0.4767  NEGATIVE       NEGATIVE
-19                                                                                    Nick Self Report                  https://www.twitch.tv/nmplol/clip/DrabCrazyHamburgerTinyFace-QPd54VCREFan8db8  2024/09/15    0.0000  NEGATIVE       NEGATIVE
-20                                               Forsen came back after 6 days and gets a dubious link                 https://www.twitch.tv/forsen/clip/TolerantSolidCougarRickroll-BPjs8yj0SVDb4l_x  2024/09/15   -0.3612  NEGATIVE       NEGATIVE
-21                                                                      dota2ti - guy invades TI stage              https://www.twitch.tv/dota2ti/clip/JazzySpineyShingleDoritosChip-EqxEGDa162XcwoR2  2024/09/15    0.0000  NEGATIVE       NEGATIVE
-22                                                                               ThisisKurtIRL - Fire!                           https://kick.com/thisiskurtirl/clips/clip_01J7R58HF9ZTRM6Z12TDXYRWAM  2024/09/15   -0.4003  NEGATIVE       NEGATIVE
-23                                                                           Nick looking for a PNG GF     https://www.twitch.tv/nmplol/clip/SpeedyAdventurousPenguinResidentSleeper-z9FOZQGOvhNW6DN6  2024/09/15    0.0000  NEGATIVE       NEGATIVE
-24                                                            nice wholesome fan video to support Nick                   https://www.twitch.tv/nmplol/clip/BoringCleanSlothDendiFace-RoyYe1biCCHvOqY2  2024/09/15    0.7783  POSITIVE       POSITIVE
-25                                                             Streamer checks in on how chat is doing          https://www.twitch.tv/inneshx/clip/MagnificentAttractiveTofuDAESuppy-OWVFqfZbEVYxJeKB  2024/09/15    0.0000  NEGATIVE       POSITIVE
-26                                                                                    FNAF 2 reference  https://www.twitch.tv/chasedoesitright/clip/VivaciousPricklyVultureDendiFace-cWr0T0qbX3EU3F79  2024/09/15    0.0000  NEGATIVE       NEGATIVE
-27                                                                       Plaqueboymax Hits 50K Subs on                     https://clips.twitch.tv/HorribleBoringPepperPeteZarollTie-5CDvPWzWwU9dODGC  2024/09/15    0.0000  NEGATIVE       NEGATIVE
-28                                                        WHY DID IT SAY THANK YOU *Headphone Warning*         https://www.twitch.tv/disguisedtoast/clip/RamshackleDullJuiceRitzMitz-tfoAbXmRx5Cbgpns  2024/09/15    0.4995  POSITIVE       NEGATIVE
-29                                   Entire crew races to complete hidden task in new 3D Among Us game                  https://www.twitch.tv/duckboxing/clip/RacySaltyWaterTebowing-j5F-WqYlcWPeoG-4  2024/09/15    0.0000  NEGATIVE       POSITIVE
-30                                                                                 cinna gets measured             https://www.twitch.tv/austinshow/clip/BeautifulAbstemiousStarUWot-iHvxd265zPTvqZXB  2024/09/15    0.0000  NEGATIVE       POSITIVE
-31                                            Soda does a generational choke on Skeletron in calamity.               https://www.twitch.tv/sodapoppin/clip/KathishPopularMartenANELE-9ALQWEneOD5XhQ2y  2024/09/15   -0.5423  NEGATIVE       NEGATIVE
-32                                                                           Austin judges Cinna's car               https://www.twitch.tv/austinshow/clip/ToughCorrectCrabsTebowing-1vuUY_2PrTjdSjVW  2024/09/15    0.0000  NEGATIVE       POSITIVE
+                                                                  title                                                                                                                         url        date  compound   SA_nltk SA_distilibert
+0               Lacari's new hair already working wonders on the ladies                                              https://www.twitch.tv/juliakins/clip/AnnoyingArtsyDadMikeHogu-Gsrv5pO47nNDpFbf  2024/09/16    0.0000  NEGATIVE       POSITIVE
+1                            Lacari showsoff his new hair to Sodapoppin                                            https://www.twitch.tv/mizkif/clip/ConfidentBlindingCatPermaSmug-uQvdmlfopnOJCrd_  2024/09/16    0.0000  NEGATIVE       NEGATIVE
+2                                          He never heard of Portuguese                                        https://www.twitch.tv/captain_domo/clip/TenderSneakyToadKeyboardCat-XdOmuIbWI45_jo-I  2024/09/16    0.0000  NEGATIVE       POSITIVE
+3                                    Lacari Showing off his New Haircut                                                             https://clips.twitch.tv/AuspiciousJazzyOwlUWot-jaWrxhNyorsw0iqh  2024/09/16    0.0000  NEGATIVE       NEGATIVE
+4                         Mizkif - Soda's reaction to Lacari's haircut!                                                   https://www.twitch.tv/mizkif/clip/HumbleRockyPotRalpherZ-H5tACwqhqJ19Rd75  2024/09/16    0.0000  NEGATIVE       NEGATIVE
+5                                                      Lacari Jumpscare                                             https://www.twitch.tv/mizkif/clip/LaconicPricklyPonyBigBrother-7i26Uj9mDiiFQx_L  2024/09/16    0.0000  NEGATIVE       NEGATIVE
+6                                         lacari is ready for twitchcon                                            https://www.twitch.tv/mizkif/clip/HorribleRepleteWaffleFailFish-BMRYPgsssgOE_hw3  2024/09/16    0.3612  POSITIVE       NEGATIVE
+7                                 Mizkif is not responsible for Tectone                                                 https://www.twitch.tv/mizkif/clip/JazzyCharmingGalagoANELE-Zo0tOx-vMcP11X4_  2024/09/16   -0.2411  NEGATIVE       NEGATIVE
+8                                                 A moment in History..                                               https://www.twitch.tv/xqc/clip/DelightfulTrappedMageOSkomodo-S7fUefi-LU8NTP8p  2024/09/16    0.0000  NEGATIVE       POSITIVE
+9                                   Streamer thinks he's not Markiplier                        https://www.twitch.tv/chasedoesitright/clip/CulturedDiligentDragonfruitDeIlluminati-HgYAjiuJ2HGJ9fxK  2024/09/16    0.0000  NEGATIVE       NEGATIVE
+10                  Maya pressures her assistant to leak his soundcloud                                                     https://www.twitch.tv/maya/clip/EagerAntsyWrenCopyThis-JEHoWtYEmW6Zh1Rt  2024/09/16   -0.5719  NEGATIVE       NEGATIVE
+11  Vedal turns off Neuro's and Evil's filters, instantly regrets it...                                        https://www.twitch.tv/vedal987/clip/CalmComfortableCucumberPraiseIt-fGaNzM_HSQum_M4m  2024/09/16   -0.3612  NEGATIVE       NEGATIVE
+12                    Neuro: "Lets just swear like there's no tomorrow"                                            https://www.twitch.tv/vedal987/clip/BitterCarelessKleeBrainSlug-lmk0JpFcwSC-_2Yi  2024/09/16    0.0258  NEGATIVE       NEGATIVE
+13                              Vedal tries turning off Neuro's filters                                          https://www.twitch.tv/vedal987/clip/AnimatedAwkwardAlpacaPogChamp-x6MgSA1EdcuMPvNr  2024/09/16    0.0000  NEGATIVE       NEGATIVE
+14                                Streamer calls out JoCat on his tweet                                                https://www.twitch.tv/zackrawrr/clip/WildTacitLouseCurseLit-v9d2KJGifNrotDVD  2024/09/16    0.0000  NEGATIVE       POSITIVE
+15                               A stream snipper interrupts Camp Knut                                                   https://clips.twitch.tv/FantasticBlushingRhinocerosLitFam-1vBS7owM5wvItqBJ  2024/09/16   -0.3182  NEGATIVE       NEGATIVE
+16                             average conversation in the league lobby                                         https://www.twitch.tv/fanfan/clip/HealthyEmpathicGalagoSoonerLater-DQC0FppIYCybpflx  2024/09/16    0.0258  NEGATIVE       NEGATIVE
+17                              Neuro names all the volcanoes in the UK                                         https://www.twitch.tv/vedal987/clip/HungryFaintMarjoramGingerPower-QX4yyYXTiFA-6Xf0  2024/09/16    0.0000  NEGATIVE       NEGATIVE
+18             Neuros filter is turned off and things get controversial                                      https://www.twitch.tv/vedal987/clip/ComfortablePrettyTermiteBCWarrior-5qRpIjQLMvMRb9sq  2024/09/16   -0.2023  NEGATIVE       NEGATIVE
+19                                                  postcovid leftovers                                       https://www.twitch.tv/cooksux/clip/PhilanthropicTardyMilkFeelsBadMan-GOnws0Yik8u9kjwf  2024/09/16    0.0000  NEGATIVE       NEGATIVE
+20                                                     Rob observes art                                            https://clips.twitch.tv/VivaciousCreativeSeahorseNerfRedBlaster-Nt97CYKP3GVwTBhh  2024/09/16   -0.5574  NEGATIVE       POSITIVE
+21             Hula-hooper sets 65-minute World Record for Butt-Hooping                           https://www.twitch.tv/pineapplehoops/clip/SpookyWittyShrimpPeanutButterJellyTime-Fz0wDCNztqCCgoYV  2024/09/16    0.0000  NEGATIVE       POSITIVE
+22                                   Jinny begins her breakdance career                                       https://www.twitch.tv/peeguutv/clip/BelovedEntertainingMonitorM4xHeh-kNoSVnZJKQO3zf3r  2024/09/16    0.0000  NEGATIVE       POSITIVE
+23                                                          Come in me                                                        https://clips.twitch.tv/IntelligentZanyHamHumbleLife-LXh2N-8P4XLOYIeq  2024/09/16    0.0000  NEGATIVE       POSITIVE
+24                                            cat doesn't want to dance                                 https://www.twitch.tv/akaonikou1207/clip/SmellyTenaciousBadgerTBCheesePull-Msts--gknNAiJPFD  2024/09/16   -0.0572  NEGATIVE       NEGATIVE
+25                                           IShowSpeed does a backflip                                                           https://www.youtube.com/clip/UgkxjHI8MN7LsyqpJq1ihvtodmAAlyBBv-rz  2024/09/16    0.0000  NEGATIVE       NEGATIVE
+26                                             Bear works hard for food                                                   https://clips.twitch.tv/UgliestCrispyMooseFreakinStinkin-TyNSIv9e7KNN5kbG  2024/09/16   -0.1027  NEGATIVE       NEGATIVE
+27                                   The most diabolical thing to admit                                         https://www.twitch.tv/chasedoesitright/clip/BigNimbleBisonKreygasm-0R2JyWfn0RVDOOAG  2024/09/16    0.2023  POSITIVE       POSITIVE
+28                                    Brian_f learns what glazing means  https://www.twitch.tv/brian_f/clip/WittyEndearingSaladTooSpicy-Dx7HtkA3wPw9dww9?tt_content=clip&tt_medium=mobile_web_share  2024/09/16    0.0000  NEGATIVE       POSITIVE
+29                Buddha giga malding at a game that isn't even out yet                                                https://www.twitch.tv/ssaab/clip/SlipperySoftShieldTinyFace-QBc9zy8Vjua0rj9c  2024/09/16    0.0000  NEGATIVE       NEGATIVE
+30                                                Emily says the H-word                                                      https://clips.twitch.tv/LazyPluckyCheeseDancingBanana-IMcfgHIr1DDe8Hmn  2024/09/16    0.0000  NEGATIVE       POSITIVE
+31                                                          Simply raps                                    https://www.twitch.tv/extraemily/clip/SmilingAmusedPeanutFreakinStinkin-dk_fJ_6TXzrh3s3d  2024/09/16    0.0000  NEGATIVE       POSITIVE
+32                                            Sometimes I don't fit in                                                             https://clips.twitch.tv/PopularCuteElkPermaSmug-N4Sq0TPhoJfGAhT2  2024/09/16   -0.2755  NEGATIVE       NEGATIVE
+33                                 Emily says goodbye to TwitchConHYPE                                                              https://clips.twitch.tv/FaintSuperEndiveDatBoi-1ZzubffiRpzkYFlO  2024/09/16    0.0000  NEGATIVE       NEGATIVE
+34                                                Emily takes a shower.                                      https://www.twitch.tv/extraemily/clip/NurturingBadChimpanzeeAMPEnergy-C2TD77zP41Xdu98G  2024/09/16    0.0000  NEGATIVE       POSITIVE
+35                                         Emily enjoying Texas weather                                         https://www.twitch.tv/extraemily/clip/SpikyHumbleChinchillaMingLee-Ks7cDj845l8Xs-ca  2024/09/16    0.5267  POSITIVE       POSITIVE
+36                               Every flower fades without nourishment                                     https://www.twitch.tv/extraemily/clip/DignifiedDarkPassionfruitTakeNRG-8f4IQjp6Ua2fmMYj  2024/09/16    0.0000  NEGATIVE       NEGATIVE
+37                                                           DIRECT HIT                                         https://www.twitch.tv/extraemily/clip/FairVivaciousJayDeIlluminati-zruIFye9v4REtILT  2024/09/16    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    27
-POSITIVE     6
+NEGATIVE    35
+POSITIVE     3
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    19
-POSITIVE    14
+NEGATIVE    23
+POSITIVE    15
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
