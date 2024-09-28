@@ -1,71 +1,52 @@
 <!-- posts starts -->
-                                                                                  title                                                                                                               url        date  compound   SA_nltk SA_distilibert
-0                                        Quin69 - Final Sauce in the Hot Ones Challenge                         https://www.twitch.tv/quin69/clip/CrepuscularCarefulOpossumChocolateRain-V1CrqrjfJwUCExPc  2024/09/26    0.0772  NEGATIVE       POSITIVE
-1                                                MoonMoon laughs at ppl calling him out                                https://www.twitch.tv/moonmoon/clip/DarlingPatientKathyHassanChop-hTn5I_7pTkuFGmJf  2024/09/26    0.4939  POSITIVE       NEGATIVE
-2                                     Moonmoon clarifies his intentions moving forward.                          https://www.twitch.tv/moonmoon/clip/InquisitiveBreakableSparrowBatChest-KqJ9IclzXVeBFMAN  2024/09/26    0.2263  POSITIVE       POSITIVE
-3                                               Pedro gets kicked out of the restaurant                                https://www.twitch.tv/extraemily/clip/PlainStormyBeefCharlieBitMe-ur6lvIRJ4fAmP0Eh  2024/09/26    0.0000  NEGATIVE       NEGATIVE
-4                                Erobb trashes his room after losing $2000 in 5 minutes                                 https://www.twitch.tv/erobb221/clip/FilthyFriendlyPenguinPrimeMe-Eil5Pt2d_b8in2xu  2024/09/26   -0.3818  NEGATIVE       NEGATIVE
-5                                                              Nick almost gets robbed.                          https://www.twitch.tv/extraemily/clip/GlamorousCrepuscularHeronPlanking-V0cTAdpNEw0GGRK5  2024/09/26    0.0000  NEGATIVE       NEGATIVE
-6                                       Nick and Emily eat out at the worst restaurants                               https://www.twitch.tv/extraemily/clip/SavageDeliciousTarsierPJSalt-uFfjfo5eordkbKzT  2024/09/26   -0.6249  NEGATIVE       NEGATIVE
-7                                                                          Nick is fine                              https://www.twitch.tv/extraemily/clip/DistinctHelplessCroquetteMcaT-2a9x943L9QWuZGa0  2024/09/26    0.2023  POSITIVE       POSITIVE
-8                           Shroud Gets Anticheat Kicked While Playing Throne & Liberty                                                  https://clips.twitch.tv/NimbleSparklyToadDatBoi-69YEtIZAGCFTLCb_  2024/09/26    0.6369  POSITIVE       NEGATIVE
-9                                    Northernlion witnesses a tragedy in Lethal Company                                https://www.twitch.tv/northernlion/clip/TawdryTawdryWheelDAESuppy-3Xe7X4BxmfTuyBYe  2024/09/26   -0.6597  NEGATIVE       NEGATIVE
-10                                                                  Emiru is a magician                                       https://clips.twitch.tv/SoftResourcefulPterodactylBabyRage-W7wuqMSJ85_Xfbwb  2024/09/26    0.0000  NEGATIVE       POSITIVE
-11                                                    Second Place Goes To ????????????                                        https://www.twitch.tv/sodapoppin/clip/FairShortHamSaltBae-Q-r7JDUicZXFTjus  2024/09/26    0.0000  NEGATIVE       NEGATIVE
-12                                                                   she ready for Kick                              https://www.twitch.tv/itskatchii/clip/VictoriousAntsyDuckBigBrother-2Jdr2X3lVJtfM9hs  2024/09/26    0.3612  POSITIVE       POSITIVE
-13                                                        Justin wants to give it a try                           https://www.twitch.tv/northernlion/clip/ArborealRoundPenguinTwitchRaid-azFrFa6pXqmQm1jK  2024/09/26    0.0000  NEGATIVE       POSITIVE
-14                                                 NL & Co. show us their flying skills                                https://www.twitch.tv/northernlion/clip/ReliableHonestFoxTinyFace-Sr6Dytk8BI09zBQN  2024/09/26    0.0000  NEGATIVE       POSITIVE
-15                                                            Chiblee Wins Jetpack Race                                  https://www.twitch.tv/northernlion/clip/ResoluteTallGiraffeWOOP-dNet1m7nVIHoa8k3  2024/09/26    0.5719  POSITIVE       POSITIVE
-16                                                      Asmon's reaction to an ant game                                 https://www.twitch.tv/zackrawrr/clip/SpunkyFrailKuduCharlieBitMe-YpV_1vTNzH2N0nzq  2024/09/26    0.0000  NEGATIVE       POSITIVE
-17                                                               Little mix worm improv                                                  https://clips.twitch.tv/ObeseAmusedWasabiKlappa-Bfvf53GNKJcjxE08  2024/09/26    0.0000  NEGATIVE       NEGATIVE
-18                                                   Asmon with a normal take on women.  https://www.twitch.tv/zackrawrr/clip/BlazingSpeedyOwlImGlitch-Q2yT1czrR3Q3uPRP?filter=clips&range=24hr&sort=time  2024/09/26    0.0000  NEGATIVE       POSITIVE
-19                                                           Lacari is a little excited                                 https://www.twitch.tv/lacari/clip/UnusualSneakySrirachaNononoCat-bF7qMcXms3Z69Js-  2024/09/26    0.2748  POSITIVE       POSITIVE
-20                                                                  ninibae - nini-knut                                https://www.twitch.tv/ninibae/clip/ConcernedSuaveBurritoSeemsGood-Lb9xOhUcDf9CzBNM  2024/09/26    0.0000  NEGATIVE       NEGATIVE
-21                                                           Emily advocates for edging                                   https://www.twitch.tv/nmplol/clip/RespectfulPoorLlamaJKanStyle-0S5YQdUZ4HvsqvTE  2024/09/26    0.0000  NEGATIVE       POSITIVE
-22                                                    Soda and nick have the same laugh                              https://www.twitch.tv/sodapoppin/clip/ElegantHungryHamburgerRedCoat-WjwxlKwKzYc3vcW4  2024/09/26    0.5574  POSITIVE       POSITIVE
-23                                                 ExtraEmily Interviews For A Real Job                                              https://clips.twitch.tv/PleasantNiceMeerkatBatChest-f9UUFhrQ0_RQLby-  2024/09/26    0.0000  NEGATIVE       POSITIVE
-24                                                                              grandpa                                    https://www.twitch.tv/chiblee/clip/GlutenFreeIcyKoalaCurseLit-ec7Uy_q3V_hZRouC  2024/09/26    0.0000  NEGATIVE       POSITIVE
-25                                                            cost of a free room in LA                                   https://www.twitch.tv/jinnytty/clip/CharmingWimpyFrogKappaRoss-ZOeY-WvSwkrUprI8  2024/09/26    0.5106  POSITIVE       NEGATIVE
-26                                                                  Zoil cooked by Kai                                           https://www.twitch.tv/zoil/clip/CulturedSuaveGarbageYee-wJYTg7d_DvzbebBV  2024/09/26    0.0000  NEGATIVE       POSITIVE
-27                                                               Moonmoon foreshadowing                                     https://www.twitch.tv/nmplol/clip/TriangularTiredTeaKreygasm-hpKAk8cYClJk2N9d  2024/09/26    0.0000  NEGATIVE       POSITIVE
-28                   Nick's reaction to his interaction with Moon and Siobhan in GTA RP                                   https://www.twitch.tv/nmplol/clip/EnergeticTameAyeayeAMPEnergy-0-Cpud8VNug5m0-l  2024/09/26    0.0000  NEGATIVE       POSITIVE
-29                               Nymn is arguing with Ai about Italian vs Swedish Pizza                                  https://www.twitch.tv/nymn/clip/LaconicExuberantNikudonRitzMitz-37tSYEaB0JCy6sLC  2024/09/26   -0.4588  NEGATIVE       NEGATIVE
-30                                                                 how old is moonmoon?                                  https://www.twitch.tv/iwdominate/clip/GenerousFunPicklesVoteNay-urM-ndLmc8aWjw01  2024/09/26    0.0000  NEGATIVE       NEGATIVE
-31                                    Dom receives a high IQ question from the audience                                https://www.twitch.tv/iwdominate/clip/FrailRelievedOwlDoritosChip-dP3KGbsa9Ok4kCbO  2024/09/26    0.0000  NEGATIVE       NEGATIVE
-32                                                         Alien acts like a DbD killer                                 https://www.twitch.tv/kiilanie/clip/PoliteVenomousWhaleEleGiggle-Vx8Z2KNmH_tgHceU  2024/09/26   -0.4215  NEGATIVE       NEGATIVE
-33                  Two grown adults celebrate Victory Royale after trying for 97 hours                                                     https://youtube.com/clip/UgkxpLliEEPb8k6snS5yWoYQ9I90elp1kJFG  2024/09/26    0.5719  POSITIVE       POSITIVE
-34  Ludwig and CDawgVA Completed The 10-Games God Gamer Gauntlet (248 Runs in 97 Hours)                                                     https://youtube.com/clip/UgkxNHDrxHdYqBwnKPGgKRDkQNZyuRqht9Qw  2024/09/26    0.2732  POSITIVE       POSITIVE
-35                                                          broky solo b site 4K clutch                      https://www.twitch.tv/blastpremier/clip/RepleteOptimisticCattleRiPepperonis-Vufg8OVBwTZFK7CD  2024/09/26    0.0000  NEGATIVE       NEGATIVE
-36                League of legends insider leaks a crazy roster move in Caedrel's chat                                https://www.twitch.tv/caedrel/clip/GoldenSmellyAlligatorCorgiDerp-c_UdNmB1KL2iryF9  2024/09/26   -0.3400  NEGATIVE       NEGATIVE
-37                                                     the forsen build: never get kids                                    https://www.twitch.tv/forsen/clip/ShortSuccessfulCheetahFloof-lDz-5zQi1XTVHjkP  2024/09/26    0.0000  NEGATIVE       NEGATIVE
-38                                              Iroha almost wipes all of HoloSantos PD                                 https://youtube.com/clip/UgkxGJausKQyeKCFxbN3OD5Mq0lBz61KFSCC?si=ZXe_cPN_AzUPJFGc  2024/09/26    0.0000  NEGATIVE       NEGATIVE
-39                                         Connor and Ludwig win the God Gamer Gauntlet                                   https://www.twitch.tv/cdawgva/clip/ColorfulShyFriesDancingBaby-Gzxu57wIa3Xhnlik  2024/09/26    0.7096  POSITIVE       POSITIVE
-40                        Jerma gets so high that he forgets how to talk for 15 seconds                              https://www.twitch.tv/jerma985/clip/TenaciousFamousLaptopBibleThump-KQasiP7SbreR_qM3  2024/09/26    0.0000  NEGATIVE       NEGATIVE
-41                                                    Destiny gives Darius legal advice                                                  https://kick.com/destiny/clips/clip_01J8K4HYY7T8KZG5SA5C6CKAQV?2  2024/09/26    0.1280  NEGATIVE       POSITIVE
-42                         WillNeff banned for following through on promise to chatters                               https://www.twitch.tv/carolinekwan/clip/AbnegateGiantWallabySSSsss-0tDfi9PLxneFP9Tq  2024/09/26   -0.1779  NEGATIVE       NEGATIVE
-43                          Sneako promoting Holocaust denial on Adin Ross' Kick stream                                                   https://kick.com/adinross/clips/clip_01J8P695ASQ0DNBPXEW2K12QH1  2024/09/26    0.3612  POSITIVE       NEGATIVE
-44                                          Dan gives his opinion on Mediterranean food                                 https://youtube.com/clip/Ugkxqb9OzAcus4vwcyoJzv_bLbYuvxPszfa9?si=yHqyD-6-aHQlyriK  2024/09/26    0.0000  NEGATIVE       POSITIVE
-45                                                  Ranton and Dan RP the Moonmoon logs                                 https://youtube.com/clip/UgkxAic7_VTQ8nsQAtiFSeEGbrv-UwBuddgO?si=yu--D9KG8U4H0XeI  2024/09/26    0.0000  NEGATIVE       POSITIVE
-46                                                       Simply gets a new 120 star PB!                                         https://www.twitch.tv/simply/clip/OddSourSpiderPermaSmug-voMlVH0k3w5Ld0cc  2024/09/26    0.0000  NEGATIVE       POSITIVE
-47                                          AI Drake not beating any of the allegations                                https://www.twitch.tv/meesterkeem/clip/IgnorantEphemeralKaleSMOrc-vxZ26rvLC2-o74d-  2024/09/26    0.3570  POSITIVE       NEGATIVE
-48                                   xQc 2 years ago talking about GTA RP relationships                                                    https://clips.twitch.tv/EnjoyableFastPanSMOrc-LfRJlAY_cXYYEYyy  2024/09/26    0.0000  NEGATIVE       NEGATIVE
-49                                                                 He's in the backpack                                 https://www.twitch.tv/maya/clip/SpicyArbitraryLouseDoubleRainbow-kcQhqVKwsWjTPG8t  2024/09/26    0.0000  NEGATIVE       NEGATIVE
-50                Morgpie is suing someone false copyrighting her social media accounts                                         https://www.twitch.tv/morgpie/clip/AntsyOddNewtAMPEnergy-Ii7c8OWeXN25eD9x  2024/09/26   -0.2732  NEGATIVE       NEGATIVE
-51                                                             streamers first shotgun             https://www.twitch.tv/joannemilktea/clip/ImpartialMagnificentJellyfishAMPEnergyCherry-oVr584z4tIR8w7hu  2024/09/26    0.0000  NEGATIVE       POSITIVE
-52                                                       xQc plays a time guessing game                                                        https://kick.com/xqc/clips/clip_01J8MF68EMJEG0988SW6FNFF0X  2024/09/26    0.2500  POSITIVE       NEGATIVE
-53                                      The thought of going outside makes streamer cry                       https://www.twitch.tv/yungelderberry/clip/HilariousSuspiciousGrouseOSsloth-4yMOCIX4oEqYqKUi  2024/09/26   -0.4767  NEGATIVE       NEGATIVE
+                                                                                title                                                                                            url        date  compound   SA_nltk SA_distilibert
+0                                                                  Pack Hack Unlocked              https://www.twitch.tv/cyr/clip/AnnoyingTenaciousTireDeIlluminati-2Y8gL_ni1riFnocQ  2024/09/27    0.0000  NEGATIVE       NEGATIVE
+1                      Filian has an existential crisis while talking with her own AI                https://www.twitch.tv/filian/clip/PiercingPreciousCrabTebowing-caUiDvNAfcvz9P90  2024/09/27   -0.6249  NEGATIVE       NEGATIVE
+2                         Julia hears a compelling argument while giving away hotdogs             https://www.twitch.tv/juliakins/clip/RockyThoughtfulDiscPermaSmug-xD6CVVAIV8d8Fn1J  2024/09/27    0.2023  POSITIVE       POSITIVE
+3                                                                       fail train rp                      https://www.twitch.tv/daldameht/clip/BoxyColdAlpacaFloof-1J93SuUn6puAK8tU  2024/09/27   -0.5423  NEGATIVE       NEGATIVE
+4                                               When Forsen plays squad with his chat                      https://www.twitch.tv/forsen/clip/PlacidSoftSageDAESuppy-Flcu0wOYJQPlm0sl  2024/09/27    0.2500  POSITIVE       NEGATIVE
+5                                  Greek streamers decided to stream in a real forest        https://www.twitch.tv/unboxholics/clip/AlluringInspiringGoldfishSSSsss-sCiCLRgup0TyUCbs  2024/09/27    0.0000  NEGATIVE       POSITIVE
+6                                    Max finds out spending $180k a month isnt normal                             https://clips.twitch.tv/FragileSpoopyShallotKeepo-MmrWA8uQ69WS3xmv  2024/09/27    0.0000  NEGATIVE       NEGATIVE
+7                  Lebat cosplaying as MoonMoon takes the fall for recent controversy                      https://clips.twitch.tv/PreciousGoldenGrouseAMPTropPunch-ZIer4rIxYnhsDz9K  2024/09/27    0.0000  NEGATIVE       POSITIVE
+8                                                             Jesus forgives you Knut                https://www.twitch.tv/knut/clip/PoisedTenuousBaconCoolStoryBob-SqD5H1UkO7afh1Q-  2024/09/27    0.4019  POSITIVE       NEGATIVE
+9                                                       'What is that moving shadow?'           https://www.twitch.tv/kastaclysm/clip/RepleteHeadstrongCookieBCouch-RCMIkjKzwWyHcJi0  2024/09/27    0.0000  NEGATIVE       NEGATIVE
+10                                                                         having fun  https://www.twitch.tv/innocentelixir/clip/AdventurousDignifiedKiwiKappaPride-waqma31hXn0NwtUl  2024/09/27    0.5106  POSITIVE       POSITIVE
+11                                     Am I coping? Do I really look like faze lacy?                              https://clips.twitch.tv/DrabResilientShrimpPupper-UXIIqZQFREOR4D35  2024/09/27    0.4833  POSITIVE       NEGATIVE
+12                                            Erobb is going through the denial phase           https://www.twitch.tv/erobb221/clip/BoredNeighborlyPangolinJebaited-x-pGFYsSRZLBLsJc  2024/09/27    0.0000  NEGATIVE       NEGATIVE
+13                                                      Thebausffs shares his beliefs      https://www.twitch.tv/thebausffs/clip/SpinelessLittleChowderThisIsSparta-7Z7ahXoSy-_C9WtD  2024/09/27    0.2960  POSITIVE       POSITIVE
+14                                                                forsen is my friend                https://www.twitch.tv/forsen/clip/HelpfulPatientSnoodOMGScoots-yecyfGxYwdIJrKLU  2024/09/27    0.4939  POSITIVE       POSITIVE
+15                                                         We're Looking for New Mods            https://www.reddit.com/r/LivestreamFail/comments/1fqtx8g/were_looking_for_new_mods/  2024/09/27    0.0000  NEGATIVE       NEGATIVE
+16  Dr DisRespect calls TheActMan depressed with too many kids toys in the background                              https://www.youtube.com/clip/UgkxAFn7HMtEQgtg3GrpAe49Hhwv_YBUMn-f  2024/09/27   -0.7269  NEGATIVE       NEGATIVE
+17                     Small streamer harassed while playing children’s hero shooter                           https://clips.twitch.tv/RepleteTentativePuppySoBayed-FaDSNoYJPsW4dhjr  2024/09/27    0.2263  POSITIVE       NEGATIVE
+18                                  Cook demonstrates what type of streams he watches         https://www.twitch.tv/jinnytty/clip/NiceDifferentPartridgeMoreCowbell-wg5qNhtMn0d2PVhY  2024/09/27    0.0000  NEGATIVE       POSITIVE
+19                                                 Nick beats his all time sub record        https://www.twitch.tv/nmplol/clip/LachrymosePlayfulNightingaleOSkomodo-uGHdz9aY48fqFoKS  2024/09/27    0.0000  NEGATIVE       POSITIVE
+20                                    Cinna tells what they do at her family reunions                       https://clips.twitch.tv/ProtectiveVastSproutHassaanChop-zLJps6szLvYAV88d  2024/09/27    0.0000  NEGATIVE       POSITIVE
+21                                   Average American finds out other countries exist    https://www.twitch.tv/xem92/clip/UninterestedViscousAsteriskNerfRedBlaster-Ye3VSWDQoBXdUxIH  2024/09/27    0.0000  NEGATIVE       NEGATIVE
+22                                                     A game not delivering promises      https://www.twitch.tv/360gaminglegend/clip/HilariousCourageousGarageUWot-ufcIbikqH137z-BR  2024/09/27   -0.2924  NEGATIVE       NEGATIVE
+23                                                             perfectly timed moment                   https://www.twitch.tv/dorozea/clip/HelpfulBadOtterHotPokket-H9NxO2XQWZoGApld  2024/09/27    0.6369  POSITIVE       POSITIVE
+24                                                  chasedoesitright - scary donation  https://www.twitch.tv/chasedoesitright/clip/UnsightlyThirstyPizzaSoonerLater-DGYS5dS6Km79xEE5  2024/09/27   -0.4939  NEGATIVE       POSITIVE
+25                                       Jason is extremely grateful for QTCinderella         https://www.twitch.tv/jasontheween/clip/TriumphantRockyReindeerM4xHeh-CqKdd1hDqXnXsLIv  2024/09/27    0.5095  POSITIVE       POSITIVE
+26                                    Drunk Lacy just punched StableRonaldo on stream             https://www.twitch.tv/lacy/clip/PolishedDeterminedBubbleteaDuDudu-s2fMcGJ1p3w8S_AW  2024/09/27   -0.3400  NEGATIVE       NEGATIVE
+27                                              Youve got RED on you. + Tongue Action                              https://clips.twitch.tv/GoodCogentTriangleNomNom-GWa0A1-CTFRe8Foo  2024/09/27    0.0000  NEGATIVE       POSITIVE
+28                                      Kick streamer gets caught in Hurricane Helene                            https://kick.com/mikesmallsjr/clips/clip_01J8REYC3VNNAAM9VNV4TX9147  2024/09/27    0.0000  NEGATIVE       NEGATIVE
+29                                         Destiny talks about the Moonmoon situation                                 https://kick.com/destiny/clips/clip_01J8PQ16M3Y9R96Z0ZGZW3KZP4  2024/09/27    0.0000  NEGATIVE       POSITIVE
+30                      Sniper takes stream on carnival ride - passes out and vomits                                 https://kick.com/kangjoel/clips/clip_01J8RMJS342W09TR33AZWVJDBH  2024/09/27    0.0000  NEGATIVE       NEGATIVE
+31                                      Moonmoon gets advice from a radio personality             https://www.twitch.tv/moonmoon/clip/GoldenExpensiveBibimbapWTRuck-DTxIs1TYOHqhQ777  2024/09/27    0.0000  NEGATIVE       POSITIVE
+32                          Even While Gaming, MoonMoon Cannot Escape the Allegations      https://www.twitch.tv/moonmoon/clip/ResourcefulFamousPeanutMrDestructoid-YO6Xt6jmBfWuL_gU  2024/09/27   -0.1326  NEGATIVE       NEGATIVE
+33                                                            Sketch calls the Pick 6           https://www.twitch.tv/thesketchreal/clip/ScarySmokyRutabagaCmonBruh-eKpIKN0l6KgTEbZK  2024/09/27    0.0000  NEGATIVE       POSITIVE
+34                                                   Perspective of a MoonMoon viewer    https://www.twitch.tv/hasanabi/clip/GiftedAlluringPassionfruitPeoplesChamp-tSGju3l1iXvGxZ2L  2024/09/27    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    39
-POSITIVE    15
+NEGATIVE    25
+POSITIVE    10
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    28
-POSITIVE    26
+NEGATIVE    18
+POSITIVE    17
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
