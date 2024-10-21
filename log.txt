@@ -1,40 +1,66 @@
 <!-- posts starts -->
-                                                                    title                                                                                              url        date  compound   SA_nltk SA_distilibert
-0                                                   Never split the party                                https://clips.twitch.tv/GenerousWealthyMooseMcaT-5NHN5ojARZPwM0Mj  2024/10/19   -0.3089  NEGATIVE       POSITIVE
-1                       xQc Getting Sued Again By Adept But In California               https://www.twitch.tv/xqc/clip/DelightfulDignifiedFloofBloodTrail-rjsFwPK9rx0AGNXk  2024/10/19    0.0000  NEGATIVE       NEGATIVE
-2                                           Katchii Spots Asmon Donwntown                        https://clips.twitch.tv/GoodSarcasticMarjoramGrammarKing-LjL0t3AVdGND02ff  2024/10/19    0.0000  NEGATIVE       NEGATIVE
-3                              Homeless man predicts the future perfectly               https://www.twitch.tv/erobb221/clip/ShortSpunkyClintmullinsNotATK-fKMeem0am0RqrvS0  2024/10/19    0.6369  POSITIVE       POSITIVE
-4                                  Average Arther and Fanfan Conversation           https://www.twitch.tv/misterarther/clip/TangiblePlacidToadArsonNoSexy-B8-u0MNUbC1Z9SLy  2024/10/19    0.0000  NEGATIVE       NEGATIVE
-5   Tyler1 is angry that he didn't say all this, yet still got 14day ban                                   https://clips.twitch.tv/PoorJoyousRingPlanking-HDorY3wTbKtFJgXc  2024/10/19   -0.7845  NEGATIVE       NEGATIVE
-6         Esfand and Penta try talking to zoomers gets more than expected                    https://www.twitch.tv/esfandtv/clip/CuteDoubtfulCurryHeyGuys-MIrQLHQGHxWMuQmy  2024/10/19    0.0000  NEGATIVE       NEGATIVE
-7                                                 The timing was perfect                 https://www.twitch.tv/dorozea/clip/KathishPrettiestZebraCurseLit-Atu8LlNVLZGe4JTU  2024/10/19    0.5719  POSITIVE       POSITIVE
-8                              Streamer on a walk makes unexpected friend              https://www.twitch.tv/mcavrice/clip/ExquisiteTenuousManateeTakeNRG-iJuY0XaEUT5dYOG8  2024/10/19    0.4939  POSITIVE       POSITIVE
-9                                   Alinity judges Fanfan's feet clapping                   https://www.twitch.tv/alinity/clip/KindOnerousGrassTwitchRaid-0_RJ9n5vLltmUXD-  2024/10/19    0.0000  NEGATIVE       POSITIVE
-10                            german streamer finds a fix for stick drift                  https://www.twitch.tv/papaplatte/clip/SoftProudCookieTheRinger-R_ncJPOChPROW8Fb  2024/10/19    0.0000  NEGATIVE       NEGATIVE
-11                Denims addresses Ethan Klein's antisemitism allegations                        https://www.twitch.tv/denims/clip/TacitTallSharkOSkomodo-BUAQpwiiyGRJ-JVG  2024/10/19    0.0000  NEGATIVE       POSITIVE
-12                                      Nick's trick for the perfect date                 https://www.twitch.tv/nmplol/clip/MoldyExcitedArmadilloImGlitch-sRpKcRNJdew9w3mi  2024/10/19    0.5423  POSITIVE       POSITIVE
-13                                                                 W rizz                     https://www.twitch.tv/soweq/clip/SilkyCalmDiamondKappaClaus-OoSP-nzWAyPemDCO  2024/10/19    0.0000  NEGATIVE       POSITIVE
-14                                                  dollar store The Yard              https://www.twitch.tv/cdawgva/clip/FrigidWrongDragonFreakinStinkin-UT-7MlhhO-BAwoBy  2024/10/19    0.0000  NEGATIVE       NEGATIVE
-15            Star Citizen demo crashes LIVE on stage during presentation                https://youtube.com/clip/UgkxlRWP7thH0T3xWcnmyFp-4kxfCuO6BhXe?si=L14k88Ap69j2_Cez  2024/10/19    0.0000  NEGATIVE       NEGATIVE
-16                    Innocent Dragon Ball fan tunes into a Lacari Stream  https://www.twitch.tv/sodapoppin/clip/GleamingVainShinglePeanutButterJellyTime-2JiBzcBV_AhlSvdh  2024/10/19    0.5719  POSITIVE       POSITIVE
-17                                                 Rime does an Age Check              https://www.twitch.tv/nmplol/clip/TangibleCleanSeahorseKappaWealth-hldosuQbGV5Na-H5  2024/10/19    0.0000  NEGATIVE       POSITIVE
-18                                                     Darude - Sandstorm                https://www.twitch.tv/thesushidragon/clip/ThirstyLovelyNewtKippa-OF8pZz6NH_PvuW3A  2024/10/19    0.0000  NEGATIVE       NEGATIVE
-19                                  Streamer does perfect Seal impression                https://www.twitch.tv/dorozea/clip/CourageousDreamyBananaPRChase-bnNAgSRDtONVfpLn  2024/10/19    0.6808  POSITIVE       POSITIVE
-20                                                Connor Winning in Mario                   https://www.twitch.tv/cdawgva/clip/BigDarlingAnacondaDansGame-NwDpicqxA6HlnQKW  2024/10/19    0.5267  POSITIVE       POSITIVE
-21                                                      Ludwig runs a red                   https://www.twitch.tv/cdawgva/clip/SpoopyYawningReubenHeyGirl-Sr14kmZxBh-souJ9  2024/10/19    0.0000  NEGATIVE       POSITIVE
-22                                                More Bandwidth Required                         https://clips.twitch.tv/ObservantPrettiestLaptopHeyGirl-1TqXk0g73fG-B5Sc  2024/10/19    0.0000  NEGATIVE       NEGATIVE
+                                                                                 title                                                                                                 url        date  compound   SA_nltk SA_distilibert
+0                                                           The Aluminum Arc Continues  https://www.twitch.tv/jamestheirongiant/clip/TransparentOutstandingCobraPicoMause-PKQBJeUCaOVJMoQ9  2024/10/20    0.0000  NEGATIVE       POSITIVE
+1                               MeesterKeem gets dunked over along with 3 other people                      https://www.twitch.tv/meesterkeem/clip/FurryEasyGrassEagleEye-FzbTeLENjQHfgjXj  2024/10/20    0.0000  NEGATIVE       POSITIVE
+2                                                          Canadians Commit a Warcrime                   https://www.twitch.tv/sodapoppin/clip/BenevolentMuddyShieldKeepo-5Kj3vWufJ5w2AFgm  2024/10/20    0.2960  POSITIVE       NEGATIVE
+3                                   Rouge Twitch dev implicates Amazon in global jihad                                      https://kick.com/destiny/clips/clip_01JAP0HGN402GVDQ5YNAN3WN5G  2024/10/20    0.1779  NEGATIVE       NEGATIVE
+4                                                              Just some normal SCP RP                  https://www.twitch.tv/sodapoppin/clip/IncredulousTawdrySnakeSMOrc-8oCNPPUjlmcwIRyG  2024/10/20    0.0000  NEGATIVE       NEGATIVE
+5                                               xQc absolutely COOKS a certain someone                                          https://kick.com/xqc/clips/clip_01JANZ6W1WKF0ZKNRBPRTPGN3D  2024/10/20    0.3353  POSITIVE       POSITIVE
+6                                            Emily shows Nick her Ivy League intellect                https://www.twitch.tv/extraemily/clip/BelovedGracefulQuailCorgiDerp-eFLMcPDychpVeGOx  2024/10/20    0.4588  POSITIVE       POSITIVE
+7                                                                    visible confusion                 https://www.twitch.tv/extraemily/clip/ScrumptiousScaryRingFailFish-Za3AHDZDchqkEc03  2024/10/20   -0.2960  NEGATIVE       NEGATIVE
+8   Destiny gets screenshots from twitch git regarding the Israel and Palestine IP ban                   https://youtube.com/clip/UgkxtbR6BrWzO5H8hOmujD3GrP3mPE6VsaaB?si=1efs0BKRK8UicOPA  2024/10/20   -0.5574  NEGATIVE       NEGATIVE
+9                                                            Buff Fairy Has Good Feet                                    https://clips.twitch.tv/ScarySmilingBearKreygasm-ZeQh9RBxXpZxy3u6  2024/10/20    0.4404  POSITIVE       POSITIVE
+10                                           Soda has a conversation with Simply's mom                    https://www.twitch.tv/sodapoppin/clip/AwkwardFuriousPlumPJSugar-Shf0B8dbnVTfo6E2  2024/10/20    0.0000  NEGATIVE       POSITIVE
+11                                           hachu got an unexpected instagram message                                    https://clips.twitch.tv/StrangeSlickGarageSMOrc-RI9vtVF-RRorbmP8  2024/10/20    0.0000  NEGATIVE       POSITIVE
+12                                            Most sane MisterArther and Fanfan moment                 https://www.twitch.tv/misterarther/clip/FastAnnoyingSowNinjaGrumpy-rWFTWWI7aAbO-E5k  2024/10/20    0.0000  NEGATIVE       POSITIVE
+13                  Arther congratulating Fanfan on her 4 years of streaming on Twitch                      https://www.twitch.tv/fanfan/clip/KawaiiStormyCookieBlargNaut-clefdy1qW8x8D6gQ  2024/10/20    0.0000  NEGATIVE       POSITIVE
+14                                            Twitch has Blocked New Users From Israel                                          https://www.ynet.co.il/digital/technews/article/bklvdkgxje  2024/10/20   -0.2732  NEGATIVE       NEGATIVE
+15                                           #1 osu! player goes absolute messiah mode                        https://www.twitch.tv/mrekk/clip/SpikyPolishedInternPMSTwin-Ojl1mtqlDNTGNp28  2024/10/20    0.0000  NEGATIVE       POSITIVE
+16                                                Soda's first Liar's Bar Public Lobby            https://www.twitch.tv/sodapoppin/clip/PricklyCheerfulShallotKeyboardCat-h8Knl5UZGEphTpn7  2024/10/20    0.0258  NEGATIVE       NEGATIVE
+17                                                                                next                 https://www.twitch.tv/nymn/clip/RudeSuspiciousHabaneroCoolStoryBob-L9RDhWJAVxNrIgB4  2024/10/20    0.0000  NEGATIVE       POSITIVE
+18                                Asmongold ACTUALLY Cleaned His Scourge Infested Sink                                                  https://x.com/Asmongold/status/1848015441492422949  2024/10/20    0.0000  NEGATIVE       NEGATIVE
+19                               League of Legends pro gets sent back to Korea midgame                 https://www.twitch.tv/caedrel/clip/GlamorousDependableButterWoofer-wmsrbuI6ds0XNfmI  2024/10/20    0.0000  NEGATIVE       NEGATIVE
+20                                                               Insane change of look           https://www.twitch.tv/foolish/clip/AuspiciousGloriousDonkeyPeteZarollTie-YVTCHJev6mGbu2yi  2024/10/20   -0.4019  NEGATIVE       POSITIVE
+21                       xQc Says That Adept Was Asking for $10M to Settle the Lawsuit                                          https://kick.com/xqc/clips/clip_01JAN4535ECKWTX3FWK3MND4PH  2024/10/20   -0.2263  NEGATIVE       NEGATIVE
+22     Kwan's actually good at video games for once, forgets to switch to game capture             https://www.twitch.tv/carolinekwan/clip/AdorableAuspiciousSwordCoolCat-OGwUSbmcmj-Mvr-9  2024/10/20    0.4404  POSITIVE       NEGATIVE
+23                                                                    Foreplay in 2024                        https://www.twitch.tv/fanfan/clip/ZanySavageIguanaSmoocherZ-vOXwBNbYEVjUyk8u  2024/10/20    0.0000  NEGATIVE       POSITIVE
+24                                             Aris is not into fighting games anymore              https://www.twitch.tv/avoidingthepuddle/clip/SlickRacyKoupreyDansGame-oMmTGKWKduj-zUZ0  2024/10/20    0.2755  POSITIVE       NEGATIVE
+25                                                                      Hentai tactics                       https://www.twitch.tv/cdawgva/clip/HumbleSnappyCardBrokeBack-MpEtHPQo24byfgc6  2024/10/20    0.0000  NEGATIVE       NEGATIVE
+26                                                        Instructions for Pete's cake         https://www.twitch.tv/cdawgva/clip/SleepyPluckyCoffeePeanutButterJellyTime-7nCf4poeRjQbUINI  2024/10/20    0.0000  NEGATIVE       POSITIVE
+27                                                  Pete's heartwarming birthday story                        https://www.twitch.tv/cdawgva/clip/EvilRichOrangeRaccAttack-wnEbiuglk7pWIS09  2024/10/20    0.4767  POSITIVE       POSITIVE
+28                                                                       IT'S A WHAT!?                   https://www.twitch.tv/codemiko/clip/CrepuscularBlushingTire4Head-XzdYozaHD9glGODP  2024/10/20    0.0000  NEGATIVE       NEGATIVE
+29                                    Getting Away With Great Loot ( Arena Breakout )                             https://clips.twitch.tv/InspiringProudWaspMrDestructoid-96PpJ2vv4xhgXYUU  2024/10/20    0.6249  POSITIVE       POSITIVE
+30                                                                    She doesn't know                         https://www.twitch.tv/t10nat/clip/OilyInterestingKathyUWot-y6ZqpuNqj74f2EzC  2024/10/20    0.0000  NEGATIVE       NEGATIVE
+31                                                         actual fail 0 viewer stream             https://www.twitch.tv/hecatemoons/clip/PowerfulNurturingHeronBlargNaut-lNunZlM2PlZ5uwf3  2024/10/20   -0.5423  NEGATIVE       NEGATIVE
+32                                                 Special maplestory guest appearance              https://www.twitch.tv/masayoshi/clip/MoistFurryDumplingsMrDestructoid-Uoz9FCi1CviwiVMz  2024/10/20    0.4019  POSITIVE       POSITIVE
+33                                               RV trip crew turns against each other                         https://www.twitch.tv/cdawgva/clip/HappyDeterminedSangBIRB-JJvUmj5DDXnTAP-n  2024/10/20    0.0000  NEGATIVE       NEGATIVE
+34                Gay guy says he'd date girl on dating show not realizing she's trans                          https://www.twitch.tv/kyootbot/clip/MoldyOpenCamelCoolCat--mV3VqIjjbSsnZdk  2024/10/20    0.0000  NEGATIVE       NEGATIVE
+35                                                             Cinnamon Strikes Again!              https://www.twitch.tv/vangard/clip/BenevolentAmazingLardPeteZarollTie-AtpEzrrLV1ftVfyS  2024/10/20   -0.4199  NEGATIVE       POSITIVE
+36                                                     Ludwig almost gets waterboarded                  https://www.twitch.tv/cdawgva/clip/ColorfulShyHerringCoolStoryBob-lRP6LQYmZ6cUEH8f  2024/10/20    0.0000  NEGATIVE       NEGATIVE
+37                                         Dalton Searches What Dinosaur Has 500 Teeth            https://www.twitch.tv/daltongodfrey/clip/DoubtfulOriginalPotatoBatChest-KrxSR8CZWFEbpbtR  2024/10/20    0.0000  NEGATIVE       NEGATIVE
+38                                                                    What a great guy                   https://www.twitch.tv/gooffkings/clip/NiceSleepyChimpanzeeDatBoi-6DpB7-1oYAW_NyWK  2024/10/20    0.6249  POSITIVE       POSITIVE
+39                                                    Destiny tweaks out over CNN clip                   https://youtube.com/clip/Ugkx_9ffquNfUIOfk9OniKvoygC0OIWUIuhh?si=gQ7893J23E16gH0z  2024/10/20    0.0000  NEGATIVE       POSITIVE
+40                                           ExtraEmily throwing it back at bingo loco               https://www.twitch.tv/extraemily/clip/AltruisticArborealAmazonTTours-iPxLemF_9yvApGLK  2024/10/20    0.0000  NEGATIVE       NEGATIVE
+41                                                                  Twitch - Knut Flex                 https://www.twitch.tv/knut/clip/AggressiveCourteousNikudonPipeHype-1iKLiB1c7S14wMaY  2024/10/20    0.0000  NEGATIVE       NEGATIVE
+42                                                         instructor styles on connor                https://www.twitch.tv/cdawgva/clip/AbnegateMagnificentDunlinMingLee-CybRDF-pvwQlYPZm  2024/10/20    0.0000  NEGATIVE       POSITIVE
+43                             #1 osu! player mrekk hits the CRAZIEST clip of all time                     https://www.twitch.tv/mrekk/clip/ColdAltruisticCroissantLitFam-BdEFks2oiLh7V48s  2024/10/20   -0.3016  NEGATIVE       POSITIVE
+44                                                              Bingo prize is what...                https://www.twitch.tv/extraemily/clip/ConfidentCloudyBunnyPermaSmug-6jHK-Hfkkw7mCcme  2024/10/20    0.5106  POSITIVE       POSITIVE
+45                                                 Ludwig gets flagged on the backflip                      https://www.twitch.tv/cdawgva/clip/PluckyEasyRadishSquadGoals-rA0v4CPdQie23qbU  2024/10/20    0.0000  NEGATIVE       NEGATIVE
+46                                                                         Childs play                                        https://clips.twitch.tv/SnappyMildGaurKippa-6l_kVUygpeeK88j_  2024/10/20    0.3400  POSITIVE       POSITIVE
+47                                           Erobb221 is finally good at a single game          https://www.twitch.tv/erobb221/clip/SuccessfulNeighborlyFlamingoBuddhaBar-4dxXVa6k2OUuQ144  2024/10/20    0.4404  POSITIVE       POSITIVE
+48                                                                    XQC crashing out                         https://www.twitch.tv/xqc/clip/PluckyModernFinchCeilingCat-bTkTzyKe_Oq4PSmV  2024/10/20    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    16
-POSITIVE     7
+NEGATIVE    36
+POSITIVE    13
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    13
-NEGATIVE    10
+POSITIVE    25
+NEGATIVE    24
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
