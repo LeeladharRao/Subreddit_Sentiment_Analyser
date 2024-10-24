@@ -1,58 +1,45 @@
 <!-- posts starts -->
-                                                                                                      title                                                                                                url        date  compound   SA_nltk SA_distilibert
-0                                                 Sen. Bernie Sanders panel with Austin, Pokimane, Sykkuno.  https://www.twitch.tv/austinshow/clip/EnergeticRamshackleFiddleheadsStinkyCheese-W-fS-E50gyTV2z5b  2024/10/22    0.0000  NEGATIVE       POSITIVE
-1                                               Vangard gambles and avoids falling into amoba bacteria lake                      https://www.twitch.tv/vangard/clip/RefinedCoweringOilRedCoat-6lyRVOCbPVen5vFw  2024/10/22   -0.3182  NEGATIVE       POSITIVE
-2                                                                                   Destiny checks his age.                                  https://www.youtube.com/clip/UgkxETo_fAqv4zU1OdCKvu-ePPs29ydbPyrr  2024/10/22    0.0000  NEGATIVE       NEGATIVE
-3             Fr0gan had a donation goal to celebrate 9/11 by baking a cake recreating the terrorist attack                       https://youtube.com/clip/UgkxPT6qxZgJTC9UZ8MrmcRn0F4F-X3CP1-k?feature=shared  2024/10/22   -0.6249  NEGATIVE       NEGATIVE
-4                                                                                 Cinna has a stream sniper                          https://www.twitch.tv/cinna/clip/ManlyRockyNigiriOhMyDog-cTtpb5c1Fz1TqvP5  2024/10/22    0.0000  NEGATIVE       NEGATIVE
-5                                                                                         Girl Scout Squeex                    https://www.twitch.tv/squeex/clip/RichExpensiveMallardImGlitch-8c7k8KhEJipAkeHn  2024/10/22    0.0000  NEGATIVE       NEGATIVE
-6                                                                          Destiny Chatter Cracked the Code                  https://youtube.com/clip/Ugkxb5h52Rw2zvEYa_MuU-4t6aHD4KsanXSs?si=g9yTJn9AfkHbMxOs  2024/10/22    0.0000  NEGATIVE       NEGATIVE
-7                                                                imaqtpie thinks Diablo 4 is finally good
-           https://www.twitch.tv/imaqtpie/clip/TentativeEnchantingSwanItsBoshyTime-u5zUTZd5YVdfHCfQ  2024/10/22    0.4404  POSITIVE       POSITIVE
-8                                                                        Joeykaotyk caught money laundering                         https://clips.twitch.tv/IntelligentFriendlyInternTinyFace-RQFviXIZGYZhFvW3  2024/10/22    0.0000  NEGATIVE       NEGATIVE
-9                                                                                                    Recoil                         https://www.twitch.tv/northernlion/clip/BloodyFitAxeKippa-ZhD1m14z2n_IAuZm  2024/10/22    0.0000  NEGATIVE       NEGATIVE
-10                                                                                     perfect coordination              https://www.twitch.tv/northernlion/clip/PoliteResilientAniseTebowing-dBHx_ncNMMj4xOBn  2024/10/22    0.5719  POSITIVE       POSITIVE
-11                                                                           fanfan reads Hachu like a book                 https://www.twitch.tv/fanfan/clip/PleasantGiantRabbitItsBoshyTime-tKrgaB6d4GZhexdo  2024/10/22    0.3612  POSITIVE       POSITIVE
-12                                                                    Bigger they are, the harder they fall                          https://www.twitch.tv/lirik/clip/WimpyGenerousHorseLitty-k2x8xcJj-F0XBxLS  2024/10/22    0.0000  NEGATIVE       NEGATIVE
-13                                                                     Liriks opponent needs a toilet break                 https://www.twitch.tv/lirik/clip/CalmAbstemiousEggplantBigBrother-jaB-6UwRebNPxcj8  2024/10/22    0.0000  NEGATIVE       NEGATIVE
-14                                                      Lirik gets a glimpse of a new animal for Liar's Bar                       https://www.twitch.tv/lirik/clip/SmilingTacitOysterJebaited-fmHKtApEnIKHskMZ  2024/10/22    0.0000  NEGATIVE       POSITIVE
-15                                                                               Lirik's 6 games winstreak                         https://www.twitch.tv/lirik/clip/CleanSpunkyLionBibleThump-A220dLDD7RTy6x9Q  2024/10/22    0.0000  NEGATIVE       POSITIVE
-16                              Streamer creates RDR2 mod to make all NPCs drunk and immediately regrets it                                https://clips.twitch.tv/FrozenScrumptiousSwanDoggo-wPMcxwKxin7AM60l  2024/10/22   -0.4215  NEGATIVE       NEGATIVE
-17                                                                                 xQc makes an observation                                         https://kick.com/xqc/clips/clip_01JAPVMDFQ7THFCMXRMCPX1HHV  2024/10/22    0.0000  NEGATIVE       POSITIVE
-18                                                                                 NL and Malf talk gooning                   https://www.twitch.tv/northernlion/clip/SoftManlyToothAllenHuhu-aDqHoSPMTYlcnJv6  2024/10/22    0.0000  NEGATIVE       NEGATIVE
-19                                                                                one step ahead of kramnik         https://www.twitch.tv/gmnaroditsky/clip/NurturingSecretiveSoybeanGOWSkull-hJWY7mjQKHCHsPpw  2024/10/22    0.0000  NEGATIVE       POSITIVE
-20                                                                                  Zoil scares people away                           https://www.twitch.tv/zoil/clip/LongAntsyPenguinVoteNay-DEl1GiVnbDr4wfkx  2024/10/22   -0.3400  NEGATIVE       NEGATIVE
-21                                                                                    New meta just dropped                                https://clips.twitch.tv/SpikyEsteemedGalagoOSsloth-UUVzcjSTKW_-Z925  2024/10/22    0.0000  NEGATIVE       NEGATIVE
-22                                                                                        Summit lets loose                                      https://clips.twitch.tv/CleanHotManateeKeepo-tnSAWTn_Osl3PKjX  2024/10/22   -0.3182  NEGATIVE       NEGATIVE
-23                                                            Knut - vegard and arrav ate the cookies madge                          https://www.twitch.tv/knut/clip/FrigidCoyCheetahUncleNox-jQjVpCGishhLzXIj  2024/10/22    0.0000  NEGATIVE       POSITIVE
-24                                                                A German Media shipping Arther and Fanfan                  https://www.twitch.tv/misterarther/clip/MuddyInventivePieArgieB8-A59ue8VbR92_JcuH  2024/10/22    0.0000  NEGATIVE       POSITIVE
-25                                                                 State of r/LivestreamFail (October 2024)    https://www.reddit.com/r/LivestreamFail/comments/1g9it93/state_of_rlivestreamfail_october_2024/  2024/10/22    0.0000  NEGATIVE       NEGATIVE
-26                                                                           Kid helps Jinny to call a taxi                                https://clips.twitch.tv/AwkwardCleverGorillaMVGame-iR2rHwq8zr1GTtIU  2024/10/22    0.3818  POSITIVE       POSITIVE
-27                                                                                       (Burn) meanwhile..    https://www.twitch.tv/sodapoppin/clip/ExquisiteConsiderateChoughStoneLightning-utEv8hNpJT8Gbwdr  2024/10/22    0.0000  NEGATIVE       NEGATIVE
-28                                                                                    Summit on his RP Goat                                    https://clips.twitch.tv/GlamorousBigGuanacoWow-19wdzX0v-Qw2byrj  2024/10/22    0.0000  NEGATIVE       NEGATIVE
-29                           XQC claims Denims is the most insufferable person after meeting her at a party                    https://www.twitch.tv/xqc/clip/SavoryExcitedAnacondaTBTacoLeft-QXciyzjrUJS0LCG3  2024/10/22    0.4019  POSITIVE       NEGATIVE
-30                                             The fourth man in the PGA 2v2 speaks up during a heated game                    https://www.twitch.tv/falco/clip/AuspiciousPunchyRedpanda4Head-j7jTxwZ720a-ylH2  2024/10/22    0.0000  NEGATIVE       POSITIVE
-31                                                                      Twitch bans Houthi Terrorist r42r44                                      https://clips.twitch.tv/BadBoldTurtleDogFace-7myrNNVbOSLXM6_1  2024/10/22   -0.6908  NEGATIVE       NEGATIVE
-32                                                          Mizkifs Couch Couldn't Handle Arravs Excitement                   https://www.twitch.tv/mizkif/clip/AbrasiveShortKittenHumbleLife-dA8x6CptONi1eAcS  2024/10/22   -0.3875  NEGATIVE       NEGATIVE
-33                                                                     Massive klat snaps couch like a twig                          https://www.twitch.tv/mizkif/clip/PoisedBluePandaPJSugar-H2jcn8JvjWGUwirm  2024/10/22    0.3612  POSITIVE       NEGATIVE
-34  After years of battling his addiction to League of Legends, Tyler1 finally reaches the end of his rope.              https://www.twitch.tv/loltyler1/clip/SparklyAltruisticCasetteHeyGuys-7y7oJAwxRJPzKAtL  2024/10/22   -0.2263  NEGATIVE       POSITIVE
-35                                                                      Trainwreckstv - Train on Dan Clancy                https://www.twitch.tv/trainwreckstv/clip/PeppyAlluringPastaHeyGuys-et0bPhEMzKoclkfu  2024/10/22    0.0000  NEGATIVE       POSITIVE
-36                                                                           Trainwreckstv - DONO JUMPSCARE               https://www.twitch.tv/trainwreckstv/clip/FairSweetBearMrDestructoid-ucLDq6aWtabDARJi  2024/10/22    0.0000  NEGATIVE       NEGATIVE
-37                                                                   The Klats successfully get a greencard                           https://www.twitch.tv/mizkif/clip/AverageJoyousOrcaDerp-RE_EVusSfCY5SnFQ  2024/10/22    0.4939  POSITIVE       POSITIVE
-38                                                                    Twitch switched support team to Egypt          https://www.twitch.tv/dancantstream/clip/AcceptableClumsySnoodPunchTrees-FkjjtHL40lhO6Vgu  2024/10/22    0.4019  POSITIVE       NEGATIVE
-39                                       Twitch Deleted Uservoice Threads Asking Questions About Israel Ban           https://www.twitch.tv/dancantstream/clip/BombasticCrowdedLocustKreygasm-r6Vm8QqMy9VMINHs  2024/10/22   -0.5574  NEGATIVE       NEGATIVE
+                                                                                    title                                                                                                                   url        date  compound   SA_nltk SA_distilibert
+0                                              ExtraEmily said what to their instructors?                    https://www.twitch.tv/extraemily/clip/InterestingAltruisticPastaCharlietheUnicorn-AQndfEFsE1njaP9h  2024/10/23    0.0000  NEGATIVE       NEGATIVE
+1                                 Emily and Nat disappoints the shooting range instructor                                https://www.twitch.tv/extraemily/clip/BrainyBadAlfalfaNerfBlueBlaster-7qTsiJ24Y6GnZjqT  2024/10/23   -0.3818  NEGATIVE       NEGATIVE
+2                                                           fanfan's favorite Scarra clip                                                https://www.twitch.tv/scarra/clip/BoxySpikyTrollFloof-MFKHNgPa3zVhMIhg  2024/10/23    0.4588  POSITIVE       POSITIVE
+3                                                   T10Nat hits Bullseye as a first-timer                                https://www.twitch.tv/extraemily/clip/EncouragingBovineJamSoonerLater-_lwCtgczxJa0YNyo  2024/10/23    0.0000  NEGATIVE       POSITIVE
+4                                                          forsen with the gooner hearing                                  https://www.twitch.tv/forsen/clip/SmilingGorgeousArugulaNotLikeThis-fwYqgLbVAaPkLKp6  2024/10/23    0.0000  NEGATIVE       NEGATIVE
+5                     AsianJeff leaks his twitch income for this month, making over $150k  https://www.twitch.tv/asianjeff/clip/KitschyAverageBisonBrokeBack-rFusEwJlTP9ByY8D?filter=clips&range=24hr&sort=time  2024/10/23    0.0000  NEGATIVE       NEGATIVE
+6                         ObscuraGames gets jump scared by his wife during Lethal Company                               https://www.twitch.tv/obscuragames/clip/GrotesqueTalentedLEDSquadGoals-YgErzx-WyqyfzaPF  2024/10/23   -0.4404  NEGATIVE       NEGATIVE
+7                                              ExtraEmily's spice tolerance shocks T10Nat                                     https://www.twitch.tv/extraemily/clip/FurtiveNiceAirGuitarNotATK-d710h3QJtvdS4jjq  2024/10/23   -0.1027  NEGATIVE       POSITIVE
+8          Tyler1's career flashed again after talking to Macaiyla about her Twitter rant                                                      https://clips.twitch.tv/CuteSparklyHumanPRChase-k39f-ezYFLy6noti  2024/10/23   -0.3400  NEGATIVE       POSITIVE
+9                        Small Israeli streamer runs into wild Sliker in Liar's Bar lobby                                               https://clips.twitch.tv/RepletePiercingOysterBlargNaut-bW2s9rKqvdCy2IOX  2024/10/23    0.0258  NEGATIVE       NEGATIVE
+10                                                                       Do I look crazy?                                     https://www.twitch.tv/mhyochi/clip/WealthyAdventurousPanRickroll-5yCFLuYG8T_wuf6C  2024/10/23   -0.3400  NEGATIVE       NEGATIVE
+11                                                                A perfectly timed audio                                  https://www.twitch.tv/missmikkaa/clip/UnsightlyBlatantFinchPogChamp--6RtE7Zr0gFsciHK  2024/10/23    0.6369  POSITIVE       POSITIVE
+12                                                               Follow the green circle!                          https://www.twitch.tv/kitboga/clip/TrustworthyCourteousAnteaterCharlieBitMe-5T5jkPAqE1sH86sw  2024/10/23    0.0000  NEGATIVE       POSITIVE
+13                                                     Forsen is a coomer brainrot schizo                                          https://www.twitch.tv/forsen/clip/SpineyCalmVanillaJebaited-5T3rMwP6QOP9nhhy  2024/10/23    0.0000  NEGATIVE       NEGATIVE
+14                                                       James "Clayster" Eubanks Retires                                                  https://clips.twitch.tv/SullenOriginalPotatoDogFace-QJrqAbbECagML2ZS  2024/10/23    0.0000  NEGATIVE       NEGATIVE
+15                      streamer accidentally plays yahtzee against an ai for gifted subs                                     https://www.twitch.tv/jaquarium/clip/RudeGenerousGalagoPartyTime-V7dMzV5XhAvxq2oo  2024/10/23   -0.1027  NEGATIVE       NEGATIVE
+16                                                        Manchild plays with his new toy                                              https://clips.twitch.tv/ExpensiveDoubtfulRavenAsianGlow-mluyKOuSEFKGmUcN  2024/10/23    0.2500  POSITIVE       NEGATIVE
+17                                                       streamer opinion on expired food                                  https://www.twitch.tv/aloeveera00/clip/RepleteNimbleCoyoteFUNgineer-xrLyxAIxjO5B8sVC  2024/10/23    0.0000  NEGATIVE       NEGATIVE
+18  kiaraakitty VS kiaraakitty AI. Mirror mirror on the wall, who the prettiest b of all?                                https://www.twitch.tv/kiaraakitty/clip/MushyDistinctPoxNerfRedBlaster-2bMqxtGiusZt1KR_  2024/10/23    0.5719  POSITIVE       NEGATIVE
+19                                                                           Did it work?                                        https://www.twitch.tv/squeex/clip/RudeSucculentFriesNononoCat-bHzRGCzxqlqk3ZRR  2024/10/23    0.0000  NEGATIVE       NEGATIVE
+20                                                             Neurosama proves her point                                https://www.twitch.tv/vedal987/clip/InquisitiveAntediluvianOilOneHand-9z7fskRfbNEo6grv  2024/10/23    0.0000  NEGATIVE       POSITIVE
+21                                                  Atrioc alt-tabs his prefrontal cortex                                          https://www.twitch.tv/atrioc/clip/PlacidBlindingMuleOSsloth-w2FjygLgtzEf3LlQ  2024/10/23    0.0000  NEGATIVE       NEGATIVE
+22                                                                    Liam has a Meltdown                                          https://www.twitch.tv/liam/clip/GiftedKitschyBeaverTebowing-Rs2KbvdL6-Wa5nsZ  2024/10/23    0.0000  NEGATIVE       NEGATIVE
+23                                                  Bernie Sanders meets his first Vtuber                                           https://www.twitch.tv/sykkuno/clip/WildGiftedGoosePlanking-Mo_9SeF6QO7fmhj9  2024/10/23    0.0000  NEGATIVE       POSITIVE
+24                                                     ToeMashio experiences antisemitism                                       https://www.twitch.tv/toemashio/clip/PiercingSolidTaroDAESuppy-bcZPFkmvIXCHPWmP  2024/10/23    0.0000  NEGATIVE       NEGATIVE
+25                                                      Mark Cuban Twitch & JustinTV lore                              https://www.twitch.tv/austinshow/clip/PatientCrypticJaguarMrDestructoid-BjXIbxmzBM3xYgi4  2024/10/23    0.0000  NEGATIVE       NEGATIVE
+26                                                            A Horrible First Impression                                        https://www.twitch.tv/austinshow/clip/ViscousPoliteSaladKeepo-B_JRX2WCcGIn70WF  2024/10/23   -0.3818  NEGATIVE       NEGATIVE
+27                                              Mark Cuban adresses the oiler allegations                            https://www.twitch.tv/pokimane/clip/CuriousImportantPorcupinePeoplesChamp-M7-TzEsiOSRot9Hj  2024/10/23    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    32
-POSITIVE     8
+NEGATIVE    24
+POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    24
-POSITIVE    16
+NEGATIVE    20
+POSITIVE     8
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
