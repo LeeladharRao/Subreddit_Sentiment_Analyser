@@ -1,43 +1,48 @@
 <!-- posts starts -->
-                                                                         title                                                                                            url        date  compound   SA_nltk SA_distilibert
-0                                                    Chopp Sings Namalsk Roads                 https://www.twitch.tv/chopp/clip/DelightfulResoluteWeaselUWot-69wmAMhnDpFHYVdt  2024/12/24    0.0000  NEGATIVE       NEGATIVE
-1                                     Aris discovers secret tech to save money   https://www.twitch.tv/avoidingthepuddle/clip/ImpartialCoweringSwanFUNgineer-1d29MZWd_5dZiBba  2024/12/24    0.4939  POSITIVE       POSITIVE
-2                                                         The best sound ever.                  https://www.twitch.tv/grubby/clip/TenuousProudPuddingDogFace-I5QOTmwT-hWxWugW  2024/12/24    0.6369  POSITIVE       POSITIVE
-3         Destiny regrets tipping culture and paying 120$ for a shitty haircut                                 https://kick.com/destiny/clips/clip_01JFX8DZBE3SGV01HXXW9F8383  2024/12/24   -0.7269  NEGATIVE       NEGATIVE
-4   Hasan says xQc gets all his takes from Destiny and can't think for himself                                 https://kick.com/destiny/clips/clip_01JFX86ZJA81CJ9X81CBXYPAQV  2024/12/24    0.0000  NEGATIVE       NEGATIVE
-5                                                                    Xmas tree                  https://www.twitch.tv/charming_jo/clip/BigEsteemedLegPMSTwin-pjyhpdu-UX2wMBZY  2024/12/24    0.0000  NEGATIVE       POSITIVE
-6                                    Indian psychiatrist examines erobb's room             https://www.twitch.tv/squeex/clip/BlindingHelplessPrariedogM4xHeh-gjWi65NmXZyt9cSp  2024/12/24    0.0000  NEGATIVE       POSITIVE
-7                                     The vibes get destroyed in Tyler's group          https://www.twitch.tv/loltyler1/clip/HandsomeAggressiveJuiceDansGame-u9VsCO190XJQUDd9  2024/12/24   -0.4939  NEGATIVE       NEGATIVE
-8                        When your employee is a little too good at their job…                                                        https://www.twitch.tv/videos/2334561053  2024/12/24    0.3862  POSITIVE       NEGATIVE
-9                                                 Santa plays a Christmas game             https://www.twitch.tv/akaonikou1207/clip/ProtectiveOilyDeerM4xHeh-0jyJxl4TDm_AEBCG  2024/12/24    0.2500  POSITIVE       POSITIVE
-10                                                       Forsen hits the Insec                              https://clips.twitch.tv/LightFancyStingrayPupper-M51u4j6mlDFP6pxy  2024/12/24    0.0000  NEGATIVE       NEGATIVE
-11                               Romantic moment on top of volcano gets ruined                                https://kick.com/kangjoel/clips/clip_01JFTVVW8GVJKTMA87D77NP19Z  2024/12/24    0.1027  NEGATIVE       NEGATIVE
-12                                                                        bats                         https://clips.twitch.tv/TardyAntediluvianKittenAliens-xMQ0UZKAQzAU6yS7  2024/12/24    0.0000  NEGATIVE       POSITIVE
-13                                                                          mf                  https://clips.twitch.tv/LachrymoseIntelligentWrenchBrokeBack-eogPDJ7guQIB8rne  2024/12/24    0.0000  NEGATIVE       NEGATIVE
-14                                            Graycen gets pranked by a viewer                     https://www.twitch.tv/graycen/clip/ThirstyCogentDogM4xHeh-arajiXMlLlY2N-wS  2024/12/24    0.0000  NEGATIVE       NEGATIVE
-15                                         Lily saves the day in Marvel Rivals               https://www.twitch.tv/lilypichu/clip/SpotlessElatedMoonCopyThis-AQpo9qCUiniHYTZ4  2024/12/24    0.4215  POSITIVE       POSITIVE
-16                                      Another dies at the hands of Pikaroach       https://www.twitch.tv/pikabooirl/clip/IcyDependableWoodcockCharlieBitMe-nvue3kQEwMBt0flz  2024/12/24    0.0000  NEGATIVE       NEGATIVE
-17                                                                    I'm fat.            https://www.twitch.tv/bean/clip/BashfulHedonisticChipmunkNononoCat-i3qWYN6fInvFK2Q-  2024/12/24    0.0000  NEGATIVE       NEGATIVE
-18                             Grubby repeatedly misspells 'Soda Gang' captcha             https://www.twitch.tv/grubby/clip/TolerantTriumphantCurlewPrimeMe-ckJ-5iWfjd8adNRk  2024/12/24    0.0000  NEGATIVE       NEGATIVE
-19                       Destiny analyzes the wokeness of the Superman trailer                                 https://kick.com/destiny/clips/clip_01JFSVKGQA4SA25MMZ7J0A5NDD  2024/12/24    0.0000  NEGATIVE       NEGATIVE
-20                                                               viewer values                       https://www.twitch.tv/boxbox/clip/CovertFrigidLatteUWot-Z_Ogz__lw4wObapm  2024/12/24    0.4019  POSITIVE       POSITIVE
-21                                                   Goofy can't say that word                  https://www.twitch.tv/jinkgo_/clip/FitColdSwallowHoneyBadger-0VFuxNizsHMDNibf  2024/12/24    0.0000  NEGATIVE       NEGATIVE
-22                                      MOONMOON - His (Weak) Aura Betrays Him            https://www.twitch.tv/moonmoon/clip/PuzzledDignifiedCrabsBuddhaBar-4YfD_naIsDCdkpOs  2024/12/24   -0.5423  NEGATIVE       NEGATIVE
-23                                      He starts crying after beating Malenia  https://www.twitch.tv/superavigaming/clip/GentleCooperativeSquidCharlieBitMe-SFL9YfC_lEzjjsXu  2024/12/24   -0.7269  NEGATIVE       NEGATIVE
-24                        Worldoftshirts and his Pimp huffing nitros on stream                          https://kick.com/worldoftshirts/clips/clip_01JFV3D08EX6X19WK22T5XDEYJ  2024/12/24    0.0000  NEGATIVE       NEGATIVE
-25                                  Uncle Robert is never going to get past it            https://www.twitch.tv/erobb221/clip/MistyTangentialNarwhalTebowing-dx5wN2eMBBf7L0do  2024/12/24    0.0000  NEGATIVE       NEGATIVE
+                                                                   title                                                                                         url        date  compound   SA_nltk SA_distilibert
+0                                    korean man in suit looking for kids   https://www.twitch.tv/scentless__apprentice/clip/DeliciousAntsyPoxSSSsss-jiOHdWo7HCZGV-94  2024/12/25    0.0000  NEGATIVE       NEGATIVE
+1                                                           handstands??                   https://clips.twitch.tv/InventiveTameRhinocerosCorgiDerp-641JB811IylHntNx  2024/12/25    0.0000  NEGATIVE       NEGATIVE
+2               Kick Streamers Drugged & Robbed by Colombian Prostitutes                                   https://twitter.com/FearedBuck/status/1871958859851682203  2024/12/25    0.0000  NEGATIVE       NEGATIVE
+3                        Forsen's strategy leaked from a chinese website         https://www.twitch.tv/forsen/clip/EnticingDifferentDiamondRuleFive-A4HZfhQZgihEPjbx  2024/12/25   -0.3182  NEGATIVE       NEGATIVE
+4                                   Forsen learns how to emote in League          https://www.twitch.tv/forsen/clip/PlumpRelentlessDelicataDansGame-qIzUZVj9sVrm95Ih  2024/12/25    0.0000  NEGATIVE       POSITIVE
+5                                                          4 girls 1 guy                    https://clips.twitch.tv/HilariousStrangeBananaAllenHuhu-bfQznPiRrNaPPawW  2024/12/25    0.0000  NEGATIVE       POSITIVE
+6                                                    Santa visits India                                https://kick.com/deepak/clips/clip_01JFZC8ZKJMHDDXZDJE4VM4WD1  2024/12/25    0.0000  NEGATIVE       POSITIVE
+7                                    Jinny meets Jack Sparrow in Lapland            https://www.twitch.tv/jinnytty/clip/TriumphantMistyTruffle4Head-QSikc8SDb6GfmROL  2024/12/25    0.0000  NEGATIVE       POSITIVE
+8                                 Tectone looking for a good theme song!    https://www.twitch.tv/tectone/clip/HedonisticPatientChickenStinkyCheese-fghgS5cZA7jntGaC  2024/12/25    0.4926  POSITIVE       NEGATIVE
+9                                            gift wrapping tape problems  https://www.twitch.tv/irissiri129/clip/HotEncouragingPrariedogDoritosChip-hA-lMVSBsd9jNU89  2024/12/25    0.0516  NEGATIVE       NEGATIVE
+10  warwick accidentally goes gluck gluck 5000 and then becomes sentient             https://www.twitch.tv/warwick/clip/SpicyColdbloodedShingleDerp-EKrudqApiahtYMLD  2024/12/25   -0.3400  NEGATIVE       NEGATIVE
+11                                         Dorozea's Camera Freez Timing        https://www.twitch.tv/dorozea/clip/ObservantYummyAirGuitarAllenHuhu-SNW8BKPTVbbCV1Be  2024/12/25    0.0000  NEGATIVE       NEGATIVE
+12                                                     Santa gets robbed                    https://clips.twitch.tv/LitigiousSolidVelociraptorANELE-HAZsHj-p1ApgyYLF  2024/12/25    0.0000  NEGATIVE       NEGATIVE
+13                              Santa pickpockets a troll for some coins    https://www.twitch.tv/pinkwardlol/clip/SteamyHedonisticCarrotSquadGoals-Q3-ZPPlWR6dDu_K4  2024/12/25    0.0000  NEGATIVE       NEGATIVE
+14                                    Jinnytty - Huskys finally released              https://www.twitch.tv/jinnytty/clip/PoorNiceGuanacoRaccAttack-5oaXdoRPvIz9aQ-t  2024/12/25    0.0000  NEGATIVE       POSITIVE
+15                       Polish Kick streamer throwing bottle at an Uber                            https://kick.com/sebily022/clips/clip_01JFYQ3DJENH20YTK9QHZKEZBK  2024/12/25    0.0000  NEGATIVE       NEGATIVE
+16                                                Wake finds out the Age              https://www.twitch.tv/lacari/clip/HumbleHonestBatteryTooSpicy-nFxu2fSf1GAkz8WO  2024/12/25    0.0000  NEGATIVE       POSITIVE
+17                              Jinny is living the dream (Xmas Edition)     https://www.twitch.tv/jinnytty/clip/CautiousHorribleAlligatorEleGiggle-ywzwYFuNwhX5JPmn  2024/12/25    0.2500  POSITIVE       POSITIVE
+18                                            PSA for all Halo 2 players               https://www.twitch.tv/39daph/clip/AmusedRefinedBearFutureMan-__rJBv6xdWZUoJKR  2024/12/25    0.0000  NEGATIVE       NEGATIVE
+19       New player Lacari hits 60 with only one death due to disconnect         https://www.twitch.tv/lacari/clip/ImportantBreakableReubenMikeHogu-1kJtOvuh2DL_MENt  2024/12/25   -0.5994  NEGATIVE       NEGATIVE
+20                                Pikaboo wins his 3rd Mak'Gora in a row     https://www.twitch.tv/pikabooirl/clip/SmallHonestRedpandaDancingBanana-E84yTxMsdPfgx_c7  2024/12/25    0.5719  POSITIVE       POSITIVE
+21                                                       xQc disses FaZe                                  https://kick.com/xqc/clips/clip_01JFXZF10N1AS3KNWDHTTHQXH9  2024/12/25    0.0000  NEGATIVE       NEGATIVE
+22                                   hyunicat - MODS... circumcised him!        https://www.twitch.tv/hyunicat/clip/SteamyCarefulPidgeonSoonerLater-XIxc9BNNf6wTCghv  2024/12/25    0.0000  NEGATIVE       NEGATIVE
+23                                              Aris does a dragon shout      https://www.twitch.tv/avoidingthepuddle/clip/ResilientSoftStarVoteNay-A-Yfufetmw7exsnb  2024/12/25    0.0000  NEGATIVE       POSITIVE
+24                              Drake and Adin Ross team up for Drizzmas                                  https://kick.com/xqc/clips/clip_01JFVXA2BN5AS60VA0VZY4TR63  2024/12/25    0.0000  NEGATIVE       POSITIVE
+25                                             This is Real VRChatting!         https://www.twitch.tv/murdercrumpet/clip/DullAbstemiousFlyHotPokket-vm5S7a_PkPqjfrwy  2024/12/25    0.0000  NEGATIVE       POSITIVE
+26                                     Jake shows off his Christmas tree                      https://clips.twitch.tv/SassyCallousSnailTBCheesePull-X2sd_oGSEmDMqh2S  2024/12/25    0.0000  NEGATIVE       POSITIVE
+27                                              Game mod goes full Hasan              https://www.twitch.tv/ray/clip/OutstandingRudeAntelopeOSsloth-pMSIjA4yGbYMJ7p1  2024/12/25    0.0000  NEGATIVE       NEGATIVE
+28                                          RE Xmas Edition is a classic                https://www.twitch.tv/ray/clip/DoubtfulVivaciousDeerTriHard-Jvo8YyquQMe9BlvM  2024/12/25    0.0000  NEGATIVE       POSITIVE
+29                           grubby almost dies watching his first death                https://www.twitch.tv/grubby/clip/CulturedAnnoyingOryxSMOrc-ANsB8xjAQQ6vokT9  2024/12/25   -0.5994  NEGATIVE       NEGATIVE
+30                                              streamer gets the tomato          https://www.twitch.tv/rexxea/clip/RelentlessAthleticGrassPipeHype-PQUFAjQZIKCJjUDu  2024/12/25    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    20
-POSITIVE     6
+NEGATIVE    28
+POSITIVE     3
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    18
-POSITIVE     8
+NEGATIVE    17
+POSITIVE    14
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
