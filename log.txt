@@ -1,50 +1,57 @@
 <!-- posts starts -->
-                                                                                                                           title                                                                                            url        date  compound   SA_nltk SA_distilibert
-0                                                                                                               Soda is murdered         https://www.twitch.tv/sodapoppin/clip/InventiveSquareNostrilFutureMan-k-tLCGbZKuLbkijJ  2025/03/17   -0.6597  NEGATIVE       NEGATIVE
-1                                                                                                      Poki puts on a new jacket                   https://www.twitch.tv/pokimane/clip/LazySourSpiderTwitchRPG-Xxful5zfaGoJ12D7  2025/03/17    0.0000  NEGATIVE       POSITIVE
-2                                                                                                  The God Gamer meets Thai Ming                     https://www.twitch.tv/forsen/clip/StrongTrappedFloofSMOrc-xl4v33KAqdEg3tSz  2025/03/17    0.2732  POSITIVE       POSITIVE
-3                                                                                                           El juego del calamar                            https://clips.twitch.tv/ConcernedGiantSangKreygasm-pjPZZJaTvMpyh25E  2025/03/17    0.0000  NEGATIVE       POSITIVE
-4   context: one of them says... its easy they dont have much health.... then right after look what happens in the clip xDDDDDDD                            https://clips.twitch.tv/EnticingBloodyPotShadyLulu-4iITLeF4XkAEi1e5  2025/03/17    0.4404  POSITIVE       NEGATIVE
-5                                                                                                                 Sillyanne down                 https://www.twitch.tv/sillyanne/clip/HappyFunnyCheeseBabyRage-l514ohlG_u2u1wE2  2025/03/17    0.0000  NEGATIVE       NEGATIVE
-6                                                                                                          Classic Forsen Timing                     https://www.twitch.tv/forsen/clip/SpineyMoistBibimbapUWot-yXiNe75F_H4dHyR2  2025/03/17    0.0000  NEGATIVE       POSITIVE
-7                                                                                             Got a bit cocky in SOT last night.                https://www.twitch.tv/helloryanholmes/clip/YawningRealBorkMcaT-CyRLq4YMt_W-XCiK  2025/03/17   -0.1280  NEGATIVE       NEGATIVE
-8                                                                                                Kai on stage with Playboi Carti          https://www.twitch.tv/kaicenat/clip/RelatedEnergeticKeyboardFailFish-3cHzFNwBYWpo85ke  2025/03/17    0.0000  NEGATIVE       POSITIVE
-9                                                                                        How many balls can I catch in my mouth?             https://www.twitch.tv/pikacools/clip/PoisedVenomousGarbageTF2John-Fu-jfHNvuCKHXo1u  2025/03/17    0.0000  NEGATIVE       NEGATIVE
-10                                                                                                                 The God Gamer                            https://clips.twitch.tv/CuteAmusedPartridgePRChase-AcPDU_2yAHWGUFPi  2025/03/17    0.2732  POSITIVE       NEGATIVE
-11                                                                                                 Classic Windows Update moment             https://www.twitch.tv/notjoeykaotyk/clip/OpenFaintSardinePoooound-hHUbY_vDKiHgPGlo  2025/03/17    0.0000  NEGATIVE       POSITIVE
-12                                              Andrew Tate leaks that Adin Ross paid him $1M to commentate his Brand Risk event                                https://kick.com/adinross/clips/clip_01JPHMNNWBTH1DWVTPY728QHXP  2025/03/17   -0.2732  NEGATIVE       NEGATIVE
-13                                                                          R.Lewis saying R.Lewis things (snake ladies edition)           https://www.twitch.tv/pgl_dota2/clip/MiniatureSpookyFalconBrainSlug-5Q1Rv0iY94tg4DhN  2025/03/17    0.0000  NEGATIVE       NEGATIVE
-14                                                                                                            unethical sponsors           https://www.twitch.tv/avoidingthepuddle/clip/TenuousBigZebraSaltBae-WlmtyNhlLbG3JBlW  2025/03/17   -0.5106  NEGATIVE       NEGATIVE
-15                                                                                               Fantastic Fors makes his escape             https://www.twitch.tv/forsen/clip/HungryHelpfulChimpanzeeTooSpicy-wtc0O2kyjfdDexin  2025/03/17    0.6486  POSITIVE       POSITIVE
-16                                                                                                                  chinese DOGE                https://www.twitch.tv/waterlynn/clip/NastyCarelessDotterelMau5-eWnJqVi7t_Xw7gHr  2025/03/17    0.0000  NEGATIVE       POSITIVE
-17                                                                                                                widepeepoPussy                           https://clips.twitch.tv/CoweringStrangeCoyotePJSalt-SHU_VVD5UAT6C52Y  2025/03/17    0.0000  NEGATIVE       NEGATIVE
-18                                                                        RDR2 Chaos Mod is pretty funny with twitch integration              https://www.twitch.tv/laeppa/clip/CrackyFlaccidFungusShazBotstix-Gy1f2MfRu7-KBnlu  2025/03/17    0.3400  POSITIVE       POSITIVE
-19                                                                      that same package of yours that DHL lost a few years ago       https://www.twitch.tv/cici_0717/clip/CrypticCulturedOpossumStinkyCheese-OdFtgwD5GLs-xiv9  2025/03/17   -0.3182  NEGATIVE       NEGATIVE
-20                                                                                      A swedish take on American cinnamonrolls                           https://clips.twitch.tv/DirtyCourageousTarsierKappa-CFZ2p7ohUOXUREc-  2025/03/17    0.0000  NEGATIVE       POSITIVE
-21                                                                               Vtuber joins Forsen's PUBG game (warning: loud)            https://www.twitch.tv/varidetta/clip/OriginalPlumpPlumageSeemsGood-e4wIK_XBGCzKImyz  2025/03/17    0.0000  NEGATIVE       NEGATIVE
-22                                                                                           TenZ is totally not scared of Alien                              https://clips.twitch.tv/PerfectRacyShallotYouWHY-DWAWv_Yb84M8sQti  2025/03/17    0.3988  POSITIVE       NEGATIVE
-23                                                                                                 Water passes the meat to Jake                https://www.twitch.tv/jakenbakelive/clip/DarkMoldyRuffPoooound-di_EU44fk2VdOVML  2025/03/17    0.0000  NEGATIVE       POSITIVE
-24                                                                                                              Guzu Oldge Aware                https://www.twitch.tv/guzu/clip/BlightedProtectiveEmuDatSheffy-THUW6KDsLIVu4I5j  2025/03/17    0.0000  NEGATIVE       NEGATIVE
-25                                                                WoW player takes a mid-fight pee break, overheard by raid team              https://www.twitch.tv/midnytetv/clip/YawningGiftedDuckBigBrother-Xducj00KQ8TmJNKL  2025/03/17    0.5859  POSITIVE       NEGATIVE
-26                                                                      Nyanners and LordAethel send this villager over the edge  https://www.twitch.tv/lordaethelstan/clip/DeterminedLitigiousGrouseTwitchRPG-yjmfyUpB8aStnPdt  2025/03/17    0.0000  NEGATIVE       POSITIVE
-27                                                                                                 Swing and a Miss #Stupid haha           https://www.twitch.tv/papigraybeard/clip/ResourcefulShyBearBabyRage-OAiwm0sr_9syudnv  2025/03/17    0.3400  POSITIVE       NEGATIVE
-28                                                                                                            Flawless execution          https://www.twitch.tv/fuslie/clip/BigUnsightlyChipmunkStoneLightning-N00xqvYPMccHsbhg  2025/03/17    0.5106  POSITIVE       POSITIVE
-29                                                                                                    Super Mario 64 vs Laxative                         https://clips.twitch.tv/HelplessBetterFriesWholeWheat-5MCrFKjQmE4BDufd  2025/03/17    0.5994  POSITIVE       NEGATIVE
-30                                              Kai's Rolling Loud stream perfectly encapsulates the experience (VOLUME WARNING)         https://www.twitch.tv/kaicenat/clip/RenownedInspiringLionCoolStoryBro-t_3oV-cM3pNtIb1P  2025/03/17    0.6369  POSITIVE       POSITIVE
-31                                                                                                             Nice internet bro                https://www.twitch.tv/kaicenat/clip/TawdryWealthyRadishDBstyle-oa0lO-vf4IJrTWkE  2025/03/17    0.4215  POSITIVE       POSITIVE
-32                                                                                               Dota 2 tournament ends in style        https://www.twitch.tv/pgl_dota2/clip/CoweringCredulousJellyfishDBstyle-TsF33OmOeVkYt0ih  2025/03/17    0.0000  NEGATIVE       POSITIVE
+                                                                                title                                                                                               url        date  compound   SA_nltk SA_distilibert
+0                                              Dalton Calls The Cops Over Finger Trap                https://www.twitch.tv/daltongodfrey/clip/AgileJollyGooseSmoocherZ-BjJO3Kg2RqJpBp66  2025/03/18   -0.3182  NEGATIVE       NEGATIVE
+1                                                                Majestic jump by VEI                https://www.twitch.tv/sodapoppin/clip/HedonisticSuperSageRalpherZ-6615T-rX2Me-InXQ  2025/03/18    0.0000  NEGATIVE       POSITIVE
+2                                                Streamer tries catching home on fire         https://www.twitch.tv/crunk_muffin/clip/ScrumptiousFreezingStaplePrimeMe-CQ4uKIYPHHl0Sbs7  2025/03/18   -0.3400  NEGATIVE       POSITIVE
+3                             Dolphins welcomed NASA’s SpaceX Crew-9 after Splashdown                         https://www.twitch.tv/nasa/clip/GloriousOnerousYamPJSalt-Bk54NDaRa1YyXY8R  2025/03/18    0.3400  POSITIVE       POSITIVE
+4                                                  Caroline seeks retribution on QT 😁      https://www.twitch.tv/carolinekwan/clip/AdventurousHelpfulShieldSoonerLater-kAFmUfeMR2M8G-ba  2025/03/18    0.5473  POSITIVE       NEGATIVE
+5                                                  xQc gives a hot take about animals                      https://www.twitch.tv/xqc/clip/HilariousSpoopyHippoBudBlast-t4o208ONdITDxzbl  2025/03/18    0.0000  NEGATIVE       POSITIVE
+6                                             Fandy is smurfing in pole dancing class             https://www.twitch.tv/juliakins/clip/EphemeralFunnyAlbatrossRitzMitz-5ol-M-PkVnB1DJTF  2025/03/18    0.0000  NEGATIVE       NEGATIVE
+7           NASA astronauts back on Earth after an unexpectedly long mission in space                       https://clips.twitch.tv/HonorableLachrymoseDonkeyFutureMan-ojoEM1bBG9Lgpr4w  2025/03/18    0.0000  NEGATIVE       POSITIVE
+8                                                              QTCinderella leaks DMs        https://www.twitch.tv/carolinekwan/clip/TrappedDepressedHamburgerImGlitch-ztrV4HxxtzKdP1M2  2025/03/18    0.0000  NEGATIVE       NEGATIVE
+9                                                   How pros move around a pool table                       https://clips.twitch.tv/BenevolentBelovedSproutNotLikeThis-MKZQr9wPFO4-4iXT  2025/03/18    0.0000  NEGATIVE       POSITIVE
+10                                                                      The God Gamer                                    https://clips.twitch.tv/WiseWildAlmondBudStar-32CltmqREc1N6XuG  2025/03/18    0.2732  POSITIVE       NEGATIVE
+11                                                         Forsen vs Uganda Air Force                          https://clips.twitch.tv/CrunchyCloudyChickpeaRaccAttack-ZECBTCASoG2CF53Y  2025/03/18    0.0000  NEGATIVE       NEGATIVE
+12                                  Pastor and Ugandan Airforce with perfect delivery                 https://www.twitch.tv/forsen/clip/BusySuspiciousFloofGingerPower-4zkRO8bYmgdW7x5Z  2025/03/18    0.5719  POSITIVE       POSITIVE
+13                                   New GTA roleplayer gets 10 minutes jail sentence                         https://clips.twitch.tv/RelievedVivaciousShallotGOWSkull-iZlmYhyE2saHQT9V  2025/03/18    0.0772  NEGATIVE       NEGATIVE
+14                                            High five! (game played: In Sound Mind)                                 https://kick.com/mr_strange/clips/clip_01JNVJ3TMGMPXSA98FY7XDA1G3  2025/03/18    0.4003  POSITIVE       POSITIVE
+15                                        Well is he? Arrav needs help picking shoes!               https://www.twitch.tv/vangard/clip/GentlePolishedSwallowCclamChamp-dMt94dvNOc9ayA5l  2025/03/18    0.6239  POSITIVE       NEGATIVE
+16                                            Russian Cat Café has weird-looking cats                         https://clips.twitch.tv/CuteEmpathicVelociraptorRuleFive-MZXfSjnNcui-0f7f  2025/03/18    0.0000  NEGATIVE       NEGATIVE
+17                                                            Forsen does the classic                     https://www.twitch.tv/forsen/clip/BigHilariousHareSquadGoals-D8vdFUnOAyCQ1jk1  2025/03/18    0.0000  NEGATIVE       POSITIVE
+18                                                                   Bus full of bajs                   https://www.twitch.tv/forsen/clip/TsundereAmazingNarwhalVoHiYo-wT3Vr9ybIEmzMUdx  2025/03/18    0.0000  NEGATIVE       NEGATIVE
+19                                                            Vei wants to save water      https://www.twitch.tv/sodapoppin/clip/BlightedCrepuscularPineappleHotPokket-QXVqqg0BxPwGzjLt  2025/03/18    0.4939  POSITIVE       NEGATIVE
+20                                                                         Cliffteezy                  https://www.twitch.tv/arteezy/clip/OnerousThankfulHerringBCouch-Er36dxHBHd1lvSsK  2025/03/18    0.0000  NEGATIVE       NEGATIVE
+21                                                                       oh... my hat                   https://www.twitch.tv/laeppa/clip/InterestingMoldyTomatoDuDudu-uFDfcERT6z-yGg-c  2025/03/18    0.0000  NEGATIVE       POSITIVE
+22                                                                        LGTB lights  https://www.twitch.tv/itsmaplecheeks/clip/SparklyInterestingAsparagusSquadGoals-FLMMsZ5esdwHORVe  2025/03/18    0.0000  NEGATIVE       POSITIVE
+23                Daph finds out she's been building her museum backwards for 5 hours        https://www.twitch.tv/39daph/clip/ResourcefulConcernedKangarooSuperVinlin-xwN9thSu-ieNEg8Q  2025/03/18    0.0000  NEGATIVE       NEGATIVE
+24                                                                 aura farming klats                  https://www.twitch.tv/arrav/clip/RelatedTenuousAsparagusOhMyDog-lqMGQMFfPNAn5Y5b  2025/03/18    0.0000  NEGATIVE       NEGATIVE
+25                                                    Lesbians have the best haircuts                        https://clips.twitch.tv/PiliableEphemeralLocustBloodTrail-7Z_83XL9tfdhRhXx  2025/03/18    0.6369  POSITIVE       POSITIVE
+26                                                               nyan learned a dance                                  https://kick.com/nyannachi/clips/clip_01JPM9ZJNXVQB79DQC2H4G39SJ  2025/03/18    0.0000  NEGATIVE       POSITIVE
+27                                             Just God Gamer Things By the God Gamer                         https://clips.twitch.tv/FantasticBombasticPuddingGivePLZ-0fFfyfxcxe9Qf0Ij  2025/03/18    0.4939  POSITIVE       NEGATIVE
+28  Streamer makes a lot of progress in a new hardcore terraria zenith run(-10 hours)           https://www.twitch.tv/moonmoon/clip/EsteemedAmericanSmoothieTwitchRaid-hLRj2Pd1yt14istb  2025/03/18    0.4215  POSITIVE       POSITIVE
+29                                                                   Famos Last Words                    https://clips.twitch.tv/ExpensiveIncredulousPepperoniTheThing-I9i3jFD2yeVrf1vP  2025/03/18    0.0000  NEGATIVE       POSITIVE
+30                                      Caseoh's 60 Seconds Reatomized run goes well.                 https://www.twitch.tv/caseoh_/clip/KawaiiDeliciousScorpionMVGame-HEq4ukimM6zLuENP  2025/03/18    0.2732  POSITIVE       POSITIVE
+31                                                 Will Neff spots a Pokemon atrocity                  https://www.twitch.tv/willneff/clip/TolerantBoringBaconImGlitch-fu2AjEs5-oU9e-bV  2025/03/18    0.0000  NEGATIVE       POSITIVE
+32                                                                       Arso Down!!!                                   https://clips.twitch.tv/SpotlessSweetDootKeepo-1yL9ef9iS6rJWk8L  2025/03/18    0.0000  NEGATIVE       NEGATIVE
+33                                                                      Guess Nottttt                                https://kick.com/ninjaedgeyt/clips/clip_01JP8PWM78SJVDWG92AAEP5XJB  2025/03/18    0.0000  NEGATIVE       NEGATIVE
+34                                                      lil sis snitches on her momma                    https://clips.twitch.tv/StylishAssiduousPterodactylJonCarnage-1n2QHeuHESLhQN9p  2025/03/18    0.0000  NEGATIVE       NEGATIVE
+35                                                    UberHaxorNova gets gaslit by Ai        https://www.twitch.tv/uberhaxornova/clip/BlatantRefinedCucumberHassanChop-2aa08igXm8jQRw6L  2025/03/18    0.0000  NEGATIVE       NEGATIVE
+36                                        Summit wipes Crew after they ignore Warning                                https://clips.twitch.tv/SmokyClearFungusCorgiDerp-oGs0elVFLDIJ7IId  2025/03/18   -0.5994  NEGATIVE       NEGATIVE
+37                                                             “There were no signs…”                     https://clips.twitch.tv/BombasticRefinedWolverineKevinTurtle-ZQe6sBMb8rc8nnk0  2025/03/18   -0.2960  NEGATIVE       NEGATIVE
+38                                                                      Toenail Juice                         https://www.twitch.tv/xqc/clip/HumbleIronicHerbsTooSpicy-zFvxJunto1YjDTG6  2025/03/18    0.0000  NEGATIVE       POSITIVE
+39                                                                         Excuse me?                  https://www.twitch.tv/summit1g/clip/LightOpenChimpanzeeSpicyBoy-_9sv8Uj_zQlQFFNf  2025/03/18    0.0772  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    21
-POSITIVE    12
+NEGATIVE    29
+POSITIVE    11
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    17
-POSITIVE    16
+NEGATIVE    22
+POSITIVE    18
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
