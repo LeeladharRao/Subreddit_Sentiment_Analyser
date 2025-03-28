@@ -1,38 +1,48 @@
 <!-- posts starts -->
-                                                                                                                                       title                                                                                                            url        date  compound   SA_nltk SA_distilibert
-0                                                                                                        Jinny checks out the view in Hawaii                                              https://clips.twitch.tv/FilthyWittyCrabsCopyThis-0oHooX28_UEHsuLc  2025/03/26    0.0000  NEGATIVE       POSITIVE
-1                                                                                                                Dragonball Bars (AriatHome)                  https://www.twitch.tv/ariathome/clip/SuperCooperativeChipmunkResidentSleeper-SBLb-s-sTnaFNAPX  2025/03/26    0.0000  NEGATIVE       NEGATIVE
-2                                                                 Destiny says he has changed his views about hooking up with "normal girls"                                                 https://kick.com/destiny/clips/clip_01JQ8V1S3HD5MDK94MXKCD3G1K  2025/03/26    0.0000  NEGATIVE       NEGATIVE
-3                                                                                                 top tier content guys must watch xaxaxaxxa  https://www.twitch.tv/mugi/clip/WrongPlacidWolverineArgieB8-_EsZpnmM-Xqm_KdV?filter=clips&range=30d&sort=time  2025/03/26    0.2023  POSITIVE       POSITIVE
-4                                                                                                                           Sponsored stream                          https://www.twitch.tv/vedal987/clip/YawningCourageousBaconKappaClaus-i5I9OzH0RW6frJKX  2025/03/26    0.0000  NEGATIVE       POSITIVE
-5                                                                                                       I asked them nicely to not attack me                            https://www.twitch.tv/thetora_/clip/OutstandingObliviousZebraKippa-he_VibJYdM5l_5Ib  2025/03/26    0.6656  POSITIVE       POSITIVE
-6                                                                                                                     destiny going mask off                              https://youtube.com/clip/UgkxcmUJxLR0NBtPuQG4upATAWZ4Fhd81JRj?si=QYiBVVS5-z3eGD8h  2025/03/26    0.0000  NEGATIVE       NEGATIVE
-7                                                                                                                     Green guy sees the Sun                                             https://clips.twitch.tv/FilthyArtsyChipmunkVoHiYo-_GlUAZCLbimc6C-r  2025/03/26    0.0000  NEGATIVE       POSITIVE
-8                                                                                                         Old games and old ringtone bangers                                         https://clips.twitch.tv/TenuousAnnoyingFriseeMikeHogu-hTMa9OwTZvnY1jjB  2025/03/26    0.0000  NEGATIVE       NEGATIVE
-9                                                                                                                       Like mother like son                            https://www.twitch.tv/peeguutv/clip/YawningImportantCrabSquadGoals-3R7hNeOEYrUqfdqc  2025/03/26    0.6124  POSITIVE       POSITIVE
-10                                                                                                              Rob shows off his hotel room                                       https://clips.twitch.tv/NurturingAlertKumquatBloodTrail-9H4G7A5T3MOQitQ8  2025/03/26   -0.5574  NEGATIVE       POSITIVE
-11                                                                                                       Xaryu leaks his famous streamer dad                                  https://www.twitch.tv/xaryu/clip/PlausibleSolidBoarKappaRoss-TgKBkrUdCxPfE8-d  2025/03/26    0.0000  NEGATIVE       NEGATIVE
-12                                                                                                             Moose brings ToeMashio a gift                                https://www.twitch.tv/toemashio/clip/SquareFrigidEmuStrawBeary-LIgKvDJ7GGvAxy9h  2025/03/26    0.4404  POSITIVE       POSITIVE
-13                                                                                                                               poor turtle                        https://www.twitch.tv/jakenbakelive/clip/VibrantImportantGnatOMGScoots-bMdW0Pihg-lUHU2p  2025/03/26   -0.4767  NEGATIVE       NEGATIVE
-14                                                     Caseoh tries to pick the best name for his special new product to sell on the streets                                        https://clips.twitch.tv/PlayfulGrossApeResidentSleeper-d90bNrvyFwGKHZ9t  2025/03/26    0.7845  POSITIVE       NEGATIVE
-15                                                                                                                                1000 Trees                                        https://clips.twitch.tv/BombasticEsteemedPlumagePJSalt-8lpnkweyCYILAQGg  2025/03/26    0.0000  NEGATIVE       POSITIVE
-16                                                                                                             We don't judge Berts mods! 🙏😁                      https://www.twitch.tv/berticuss/clip/UgliestProtectiveRedpandaWholeWheat-uJ4ClBXnY_94L86U  2025/03/26    0.0000  NEGATIVE       NEGATIVE
-17                                                                                                                          Mizkif Shows Off                         https://www.twitch.tv/mizkif/clip/SpinelessTubularPresidentHumbleLife-5reCZK3I9C1OvcL8  2025/03/26    0.0000  NEGATIVE       POSITIVE
-18  Rob riding past a Korean in mid conversation with person behind. (its not that loud but I can only choose from 3 flairs for some reason)                          https://www.twitch.tv/robcdee/clip/SneakyBlatantCourgetteKeyboardCat-vTfoaowv07xaM-ok  2025/03/26   -0.3182  NEGATIVE       NEGATIVE
-19                                                                                     Kick CEO says Ice is better than many other streamers                                                   https://kick.com/eddie/clips/clip_01JPYZ3NZN3KZYAEZ6N97Q5Z5D  2025/03/26    0.4404  POSITIVE       POSITIVE
-20                                                                                            xQc calls out conservative video game tourists                                       https://www.twitch.tv/xqc/clip/CoweringMuddyBananaKippa-s7XB06kz-gN9cL9L  2025/03/26    0.0000  NEGATIVE       NEGATIVE
+                                                                 title                                                                                          url        date  compound   SA_nltk SA_distilibert
+0                                        justketh - scary snake attack          https://www.twitch.tv/justketh/clip/CoyApatheticSaladOptimizePrime-JBfLhw0-tijkMCtD  2025/03/27   -0.7430  NEGATIVE       NEGATIVE
+1                                       Just some beach mouse for you!      https://www.twitch.tv/jinnytty/clip/ConsiderateVictoriousFerretPRChase-SWIDZHLm7X5-ocAV  2025/03/27    0.0000  NEGATIVE       POSITIVE
+2                                Tyler has some chess advice for Xaryu     https://www.twitch.tv/loltyler1/clip/BlushingSavageMacaroniTBCheesePull-268hEdXkAZgwdDqH  2025/03/27    0.0000  NEGATIVE       POSITIVE
+3        POV: You get laid with a streamer and tune in her next stream                      https://clips.twitch.tv/SparklyProtectiveShieldTF2John-AukRLnP4IacOwNyg  2025/03/27    0.0000  NEGATIVE       POSITIVE
+4                                      Tyler1 impressed by sunglitters             https://www.twitch.tv/loltyler1/clip/KnottyVibrantWalrusWutFace-Hq2OwMpGpaXJq3Rh  2025/03/27    0.4767  POSITIVE       POSITIVE
+5                                   Xaryu reaches Grandmaster in Chess                 https://www.twitch.tv/xaryu/clip/CharmingSpicyFloofCurseLit-bZ68U7woze4tA5m1  2025/03/27    0.0516  NEGATIVE       POSITIVE
+6                                        Ohnepixel enjoying his yogurt            https://www.twitch.tv/ohnepixel/clip/KawaiiBlazingChickenDogFace-NN8WNK-Y3hULF9BJ  2025/03/27    0.5267  POSITIVE       POSITIVE
+7                               This girl flashed Lacy on Love or Host                         https://clips.twitch.tv/SneakyRelievedMangoImGlitch-Btw992dAJZi0hiuG  2025/03/27    0.6369  POSITIVE       POSITIVE
+8                       Tyler makes Erobb look like father of the year    https://www.twitch.tv/loltyler1/clip/CoweringKathishSardineDoubleRainbow-lIGuKvtttE2mEDaa  2025/03/27    0.3612  POSITIVE       POSITIVE
+9                                                What She Doesn't Like    https://www.twitch.tv/bouncing_angel/clip/CogentTameArmadilloSoonerLater-tTFNQ7Vxq58PwnK4  2025/03/27   -0.2755  NEGATIVE       NEGATIVE
+10                                             I am the worst assassin        https://www.twitch.tv/thetora_/clip/LachrymoseRoughFalconHoneyBadger-FsJamlDuuNK-Nhhy  2025/03/27   -0.6249  NEGATIVE       NEGATIVE
+11                                      Velcuz going GIGA fast on skis                 https://www.twitch.tv/velcuz/clip/ObeseSpookyWombatPipeHype-SWa7fiJmT3Nx3qPL  2025/03/27    0.0000  NEGATIVE       POSITIVE
+12       That thing Norwegians do when they see a working hard farmer!               https://www.twitch.tv/vangard/clip/CuteTrappedLobsterSpicyBoy-OBwFtRmpA1vMYRmH  2025/03/27   -0.1759  NEGATIVE       POSITIVE
+13                                             Scottish erotic dancing               https://www.twitch.tv/limmy/clip/RamshackleHumbleSheepVoteNay-QZjR6Jw_HQvcOT08  2025/03/27    0.0000  NEGATIVE       POSITIVE
+14                                    Pika watches a clip with company            https://www.twitch.tv/sashaemiri/clip/SucculentPowerfulCattleWow-Zb94RaC_-1agvC-x  2025/03/27    0.0000  NEGATIVE       POSITIVE
+15                   Elon Musk's daughter might come on Hasan's stream                       https://clips.twitch.tv/OilyOriginalScorpionCorgiDerp-pSsDT09L_hJmC61O  2025/03/27    0.0000  NEGATIVE       POSITIVE
+16  currently falling off twitch streamer being scammed by his sponsor              https://www.twitch.tv/sashaemiri/clip/ColdSweetKittenAMPEnergy-fvI9A2yNmwMLuhSc  2025/03/27   -0.1531  NEGATIVE       NEGATIVE
+17                  Project Zomboid B42 New Feature (Glitch): Cow Door         https://www.twitch.tv/jestbubbles/clip/HonorableMushyPanKappaWealth-h0p7yC8RlwbRzPik  2025/03/27    0.0000  NEGATIVE       NEGATIVE
+18           Squeex @ Home slams PirateSoftware's game as a 'warcrime'                 https://www.twitch.tv/gappyv/clip/ZanyArbitraryFalconDuDudu-mrnismAyDy_kifMj  2025/03/27    0.0000  NEGATIVE       NEGATIVE
+19                       xQc demonstrates why you should never give up                                   https://kick.com/xqc/clips/clip_01JQ5WZHH151ER44S059TW38JK  2025/03/27    0.0000  NEGATIVE       POSITIVE
+20                                                   He does what now?                 https://www.twitch.tv/apexhumann/clip/ClumsyDreamyStorkDerp-1H4x2aLm26zRRtkj  2025/03/27    0.0000  NEGATIVE       NEGATIVE
+21                                     T-Pain gave Brew too much power                 https://www.twitch.tv/tpain/clip/AnimatedYummyAlfalfaWoofer-qiEIId3CWJueHmgy  2025/03/27    0.0000  NEGATIVE       NEGATIVE
+22                                           DnB Running with the Herd        https://www.twitch.tv/ariathome/clip/MildDistinctCakeResidentSleeper-TPaO86yjDK9HUMDY  2025/03/27    0.0000  NEGATIVE       NEGATIVE
+23                               Ari Turns Up at a random Running Club            https://www.twitch.tv/ariathome/clip/InspiringMushyJalapenoLitty-yrgmj-vnwQKQX6rl  2025/03/27    0.0000  NEGATIVE       NEGATIVE
+24                  Kingdom Come 2 - Missed NPC = Changed Entire Story            https://www.twitch.tv/velyna/clip/ConfidentFuriousHawkHumbleLife-lx1gP4hjUg44M9Cv  2025/03/27   -0.2960  NEGATIVE       NEGATIVE
+25                                 Squeex unveils his new Vtuber model          https://www.twitch.tv/squeex/clip/ScrumptiousFrailLouseArsonNoSexy-sC2y2DRKFJhlMNDk  2025/03/27    0.0000  NEGATIVE       NEGATIVE
+26                                             Squeex becomes a VTuber        https://www.twitch.tv/squeex/clip/KitschyDirtyShallotAMPEnergyCherry-P7fOJIVyt5EXxbiw  2025/03/27    0.0000  NEGATIVE       NEGATIVE
+27                Cyr has some serious side effects of his new strain.              https://www.twitch.tv/cyr/clip/OptimisticShinyTurnipKappaClaus-YRzbC-w9Wv49bN7e  2025/03/27   -0.1280  NEGATIVE       NEGATIVE
+28                Squeex @ Home tries PirateSoftware's Game (it sucks)                https://www.twitch.tv/gappyv/clip/TentativeMistyPhoneWutFace-oooeXy-cG4QfXkNg  2025/03/27    0.0000  NEGATIVE       NEGATIVE
+29                                          Streamer vs Cranky old man                             https://kick.com/nickwhite/clips/clip_01JQA6YH345BDPTT1J2E5X4VF8  2025/03/27    0.0000  NEGATIVE       POSITIVE
+30                                     Aris explains bodily reactions.  https://www.twitch.tv/avoidingthepuddle/clip/CredulousNurturingGaurOhMyDog-58lElD_8EHox7l0O  2025/03/27    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    15
-POSITIVE     6
+NEGATIVE    27
+POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    11
-NEGATIVE    10
+POSITIVE    16
+NEGATIVE    15
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
